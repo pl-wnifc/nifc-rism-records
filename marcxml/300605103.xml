@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">300605103</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20201029164027.0</marc:controlfield>
+  <marc:datafield tag="028" ind1="2" ind2="0">
+    <marc:subfield code="a">B. &amp; B. 3359.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegretto</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">pf</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">'4E/'2.E/'2.A/'2.'B/4-'4xFxG/2.E/2.A/2.B/4-'4xFxG/''2E({8EFE};3)/''4.xD</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Chopin, Fryderyk Franciszek</marc:subfield>
+    <marc:subfield code="d">1810-1849</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe51160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Mazurkas</marc:subfield>
+    <marc:subfield code="m">pf</marc:subfield>
+    <marc:subfield code="n">ChomTurC 105</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="0">3903079</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[Portrait of Chopin] MAZOURKA | pour le | PIANO | composée par | FR. CHOPIN. | Pr. 12½ Sgr. | Propriété des Editeurs. Ent. Sta. Hall. [space] Enregistré aux Archives de l’Union | BERLIN [below] CHEZ ED. BOTE &amp; G. BOCK. [below] (G. Bock.) [below] Marchand Editeur de Musique de S. M. le Roi [below] et de S. A. R. le Prince Albert de Prusse. [below] Posen au Marché N=|o 6. | Wien. Gustav Lewi. [below] Dresden. Friedel. [below] Leipzig. Leede. [space] Hamburg. Cranz. [below] Breslau. Sohn [below] Stettin. Simon.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">Berlin [ascertained]</marc:subfield>
+    <marc:subfield code="b">Ed. Bote &amp; G. Bock</marc:subfield>
+    <marc:subfield code="c">1855-1864</marc:subfield>
+    <marc:subfield code="e">Berlin</marc:subfield>
+    <marc:subfield code="f">Ed. Bote &amp; G. Bock</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">part</marc:subfield>
+    <marc:subfield code="c">32,0 x 26,5 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="340" ind1=" " ind2=" ">
+    <marc:subfield code="d">Lithography</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">TP lithographed, p. [2] blank, p. 3-7 lithographed, p. [8] blank.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">TP: publisher’s round blind stamp (cut off); inscription in pencil: "po [VII, 1855]"; portrait of Chopin.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">At the bottom of p. 3: Propriété des Editeurs. [space] B. &amp; B. 3359. [space] Berlin chez Ed. Bote u. G. Bock.; p. 4, 5: plate number: B. &amp; B. 3359.; p. 6: B.&amp; B.3359; p. 7: B.&amp; B.3359. [space] Stich und Druck von Ed. Bote &amp; G. Bock. Berlin."</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf</marc:subfield>
+    <marc:subfield code="b">7 p.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Print</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">pf</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Mazurkas</marc:subfield>
+    <marc:subfield code="0">25480</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">First editions</marc:subfield>
+    <marc:subfield code="0">3902070</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Reprints</marc:subfield>
+    <marc:subfield code="0">3902072</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="690" ind1=" " ind2="7">
+    <marc:subfield code="a">ChomTurC</marc:subfield>
+    <marc:subfield code="n">105</marc:subfield>
+    <marc:subfield code="0">lit30000031</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">GrabowskiC 2010</marc:subfield>
+    <marc:subfield code="n">MEG-1a-B&amp;B</marc:subfield>
+    <marc:subfield code="0">lit30025545</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Gaillard, Emile</marc:subfield>
+    <marc:subfield code="d">1821-1902</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30114435</marc:subfield>
+    <marc:subfield code="4">dte</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">Ed. Bote &amp; G. Bock</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks51000061</marc:subfield>
+    <marc:subfield code="4">pbl</marc:subfield>
+    <marc:subfield code="4">prt</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">Gustav Lewi</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks62762</marc:subfield>
+    <marc:subfield code="4">dst</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">Bernhard Friedel</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks51000052</marc:subfield>
+    <marc:subfield code="4">dst</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">C. F. Leede</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks30076585</marc:subfield>
+    <marc:subfield code="4">dst</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">August Cranz</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks40002683</marc:subfield>
+    <marc:subfield code="4">dst</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">C. F. Sohn</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks51000053</marc:subfield>
+    <marc:subfield code="4">dst</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">E. Simon</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks31181</marc:subfield>
+    <marc:subfield code="4">dst</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Wnifc</marc:subfield>
+    <marc:subfield code="b">Biblioteka Narodowego Instytutu Fryderyka Chopina</marc:subfield>
+    <marc:subfield code="e">Narodowy Instytut Fryderyka Chopina</marc:subfield>
+    <marc:subfield code="x">ks51003139</marc:subfield>
+    <marc:subfield code="c">1117/n</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

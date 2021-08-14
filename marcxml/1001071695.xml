@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ncc a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001071695</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20200224191013.0</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">pf</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">2/4</marc:subfield>
+    <marc:subfield code="p">4'C,G/'C,{8G'C}/,4G{'8C,G}/{'8C,G}'C%G-2G/{G6nAnB}{8''CE}/{866GtnAnB}{8'''CE}/</marc:subfield>
+    <marc:subfield code="r">c</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Chopin, Fryderyk Franciszek</marc:subfield>
+    <marc:subfield code="d">1810-1849</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe51160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Rondos</marc:subfield>
+    <marc:subfield code="m">pf</marc:subfield>
+    <marc:subfield code="n">op. 1</marc:subfield>
+    <marc:subfield code="n">GrabowskiC 2010 1-1-BRZ</marc:subfield>
+    <marc:subfield code="n">KobC p.3-4</marc:subfield>
+    <marc:subfield code="n">ChomTurC 192</marc:subfield>
+    <marc:subfield code="r">c</marc:subfield>
+    <marc:subfield code="0">3901754</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[title page:] RONDEAU | composé pour le | PIANO FORTE | et dedié | à M|m|e de Linde | PAR | FREDERIC CHOPIN | Proprieté de l'editeur | à Varsovie chez A. Brzezina</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">à Varsovie</marc:subfield>
+    <marc:subfield code="b">chez A. Brzezina</marc:subfield>
+    <marc:subfield code="c">[2 VI 1825]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">part, 11 p.</marc:subfield>
+    <marc:subfield code="c">plate mark, title: 24 x 25,5 cm, printed area, music: 20,7 x 27,7 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 part</marc:subfield>
+    <marc:subfield code="c">27,7 x 34,4 cm</marc:subfield>
+    <marc:subfield code="3">51004931</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="c">24,5 x 32,0 cm</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="340" ind1=" " ind2=" ">
+    <marc:subfield code="d">Lithography</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="383" ind1=" " ind2=" ">
+    <marc:subfield code="b">op. 1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Date of publishing determined on the portal of Narodowy Instytut Fryderyka Chopina [The Fryderyk Chopin Institute] : http://pl.chopin.nifc.pl/chopin/first_editions/detail/publisher/1735/id/13</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Auf dem Titelblatt Stempel "Bibliothek d. KgL. Concervatoriums | f. Musik u. Theater z. Dresden"</marc:subfield>
+    <marc:subfield code="3">51004931</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Auf dem Titel unten links "O[pus].1.", unten rechts Preisangabe "-.12."</marc:subfield>
+    <marc:subfield code="3">51004931</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Title page: inscriptions in pencil "1/30", "[2.VI 1825]", stamp "a Leopol [illegible] | rest illegible".</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Reduction in size resulted in loss of pagination on pp. 2, 5, 6, 10, 11.</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Musical text: numeroues pencil annotations relating fingering, key signatures, corrections.</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="506" ind1=" " ind2=" ">
+    <marc:subfield code="a">Treasury of the Fryderyk Chopin Museum in Warsaw</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="561" ind1=" " ind2=" ">
+    <marc:subfield code="a">Purchase: 1998</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="563" ind1=" " ind2=" ">
+    <marc:subfield code="a">moderner Bibliothekspappeinband</marc:subfield>
+    <marc:subfield code="3">51004931</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="588" ind1=" " ind2=" ">
+    <marc:subfield code="a">D-Dl Mus.5565.T.530</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf</marc:subfield>
+    <marc:subfield code="b">11 p.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Print</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Print with non-autograph annotations</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">pf</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Rondos (inst.)</marc:subfield>
+    <marc:subfield code="0">3000036</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="690" ind1=" " ind2="7">
+    <marc:subfield code="a">ChomTurC</marc:subfield>
+    <marc:subfield code="n">192</marc:subfield>
+    <marc:subfield code="0">lit30000031</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="690" ind1=" " ind2="7">
+    <marc:subfield code="a">KobC</marc:subfield>
+    <marc:subfield code="n">p.3-4</marc:subfield>
+    <marc:subfield code="0">lit2487</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="690" ind1=" " ind2="7">
+    <marc:subfield code="a">GrabowskiC 2010</marc:subfield>
+    <marc:subfield code="n">1-1-BRZ</marc:subfield>
+    <marc:subfield code="0">lit30025545</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">ChomTurC</marc:subfield>
+    <marc:subfield code="n">192</marc:subfield>
+    <marc:subfield code="0">lit30000031</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">ACO Chopin</marc:subfield>
+    <marc:subfield code="n">1–1-BRZ</marc:subfield>
+    <marc:subfield code="0">lit41000057</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Linde, Luiza</marc:subfield>
+    <marc:subfield code="d">1800-1836</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30114492</marc:subfield>
+    <marc:subfield code="4">dte</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">Antoni Brzezina</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks51000239</marc:subfield>
+    <marc:subfield code="4">pbl</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">Hochschule für Musik Carl Maria von Weber, Bibliothek</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks30001100</marc:subfield>
+    <marc:subfield code="3">51004931</marc:subfield>
+    <marc:subfield code="4">fmo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">D-Dl</marc:subfield>
+    <marc:subfield code="d">[No.] 5346</marc:subfield>
+    <marc:subfield code="d">HCh87</marc:subfield>
+    <marc:subfield code="e">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)</marc:subfield>
+    <marc:subfield code="x">ks30000042</marc:subfield>
+    <marc:subfield code="3">51004931</marc:subfield>
+    <marc:subfield code="c">Mus.5565.T.530</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Wnifc</marc:subfield>
+    <marc:subfield code="d">712/n</marc:subfield>
+    <marc:subfield code="e">Narodowy Instytut Fryderyka Chopina</marc:subfield>
+    <marc:subfield code="x">ks51003139</marc:subfield>
+    <marc:subfield code="3">51006067</marc:subfield>
+    <marc:subfield code="c">M/2828</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">http://digital.slub-dresden.de/id305393537</marc:subfield>
+    <marc:subfield code="x">Digitalization</marc:subfield>
+    <marc:subfield code="z">Digitalisat</marc:subfield>
+    <marc:subfield code="3">51004931</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="930" ind1="1" ind2=" ">
+    <marc:subfield code="a">Chopin, Fryderyk Franciszek: Rondos op. 1 c; Klavier</marc:subfield>
+    <marc:subfield code="0">320</marc:subfield>
+  </marc:datafield>
+</marc:record>

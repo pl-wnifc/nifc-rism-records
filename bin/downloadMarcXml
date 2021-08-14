@@ -1,0 +1,81 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Fri Aug 13 10:58:14 CEST 2021
+# Last Modified: Sat Aug 14 01:31:49 CEST 2021
+# Filename:      nifc-rism/bin/downloadMarcXml
+# Syntax:        perl 5
+#
+# Description:   Downloads MarcXML records for NIFC projects
+#                from RISM.  Input is (1) a list of RISM IDs, one
+#                on each line (plus extra information after a tab
+#                character)  and (2) a directory into which the
+#                downloaded MarcXML data is stored.  This program
+#                will not download a file if it already exists in
+#                the target directory.  To download the most recent
+#                version of each file, type "make clean" to delete
+#                all MarcXml files in the target directory.
+#
+
+use strict;
+use Getopt::Long;
+
+die "Usage: $0 list-file target-dir" if @ARGV != 2;
+
+my $listfile = $ARGV[0];
+my $targetdir = $ARGV[1];
+
+die "Cannot find $listfile" if !-r $listfile;
+die "Cannot find $targetdir" if !-d $targetdir;
+
+my $xmllint = `which xmllint`;
+chomp $xmllint;
+die "Cannot find xmllint program" if $xmllint =~ /^\s*$/;
+
+my $wget = `which wget`;
+chomp $wget;
+die "Cannot find wget program" if $wget =~ /^\s*$/;
+
+my @list = `cat $listfile`;
+chomp @list;
+
+foreach my $line (@list) {
+	my @data = split(/\t+/, $line);
+	my $item = $data[0];
+	# my $group = $data[1];
+	downloadMarcXml($item, $targetdir);
+}
+
+
+
+##############################
+##
+## downloadMarcXml -- Download the MarcXml file for a given RISM ID.
+##     Do not download if the file already exists (type "make clean" to
+##     erase all files to force download of most recent versions).
+##
+
+sub downloadMarcXml {
+	my ($rismid, $targetdir) = @_;
+	my $file = "$targetdir/$rismid.xml";
+	return if -r "$file";
+	print "Downloading $targetdir/$rismid.xml";
+	my $command = "$wget https://opac.rism.info/id/rismid/$rismid?format=marc -O - | xmllint --format -";
+	my $contents = `$command`;
+	if ($contents =~ /^\s*$/) {
+		print STDERR "\t***** ERROR: RISM ID $rismid has no MarcXML data\n";
+		next;
+	}
+	if ($contents =~ /^<\?xml$/) {
+		print STDERR "\t***** ERROR: RISM ID $rismid problem with XML data\n";
+		next;
+	}
+	print "\tDONE\n";
+	open (FILE, ">$file") or die "Cannot write to $file";
+	print FILE $contents;
+	close FILE;
+}
+
+
+
+

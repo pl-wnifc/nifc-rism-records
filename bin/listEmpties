@@ -1,0 +1,35 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Fri Aug 13 13:13:52 CEST 2021
+# Last Modified: Sat Aug 14 01:29:24 CEST 2021
+# Filename:      nifc-rism/bin/listEmpties
+# Syntax:        perl 5
+#
+# Description:   List any missing MarcXml entries for RISM IDs 
+#                given in the list.txt file.  The missing entries
+#                will typically be unpublished entries.
+#
+
+use strict;
+
+die "Usage: $0 list-file target-dir" if @ARGV != 2;
+
+my $listfile = $ARGV[0];
+my $targetdir = $ARGV[1];
+
+die "Cannot find $listfile" if !-r $listfile;
+die "Cannot find $targetdir" if !-d $targetdir;
+
+my @list = `cat $listfile`;
+chomp @list;
+
+foreach my $line (@list) {
+	my @data = split(/\t+/, $line);
+	my $item = $data[0];
+	my $group = $data[1];
+	next if $item !~ /^\d+$/;
+	print "$item\t$group\n" if !-r "$targetdir/$item.xml";
+}
+
+

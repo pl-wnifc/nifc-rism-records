@@ -1,0 +1,66 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Fri Aug 13 13:15:34 CEST 2021
+# Last Modified: Sat Aug 14 01:23:13 CEST 2021
+# Filename:      nifc-rism/bin/makeRismList
+# Syntax:        perl 5
+#
+# Description:   Collate a list of RISM IDs for Humdrum digital
+#                scores (in a different repository).  The list
+#                will be stored in list.txt.
+#
+
+use strict;
+use Getopt::Long;
+
+my $popc2dir = "../popc2-transkrypcje/krn-diplomatic/out";
+my $popc1dir = "../chopin-bitbucket/kern";
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'popc1=s' => \$popc1dir,
+   'popc2=s' => \$popc2dir
+);
+
+my $output;
+$output .= getRismIds("POPC1", $popc1dir);
+$output .= getRismIds("POPC2", $popc2dir);
+
+print $output;
+
+exit 0;
+
+##########################################################################
+
+##############################
+##
+## getRismIds --
+##
+
+sub getRismIds {
+	my ($label, $srcdir) = @_;
+
+	die "Cannot find directory $srcdir" if !-d $srcdir;
+	my @files = glob("$srcdir/*.krn");
+	die "Problem with files in $srcdir" if @files < 10;
+
+	my @list = `cat $srcdir/*.krn | grep "NIFC-rismID:"`;
+	chomp @list;
+	my %ids;
+	foreach my $item (@list) {
+		next if $item !~ /NIFC-rismID:\s*(.*\d+.*)\s*$/;
+		$ids{$1}++;
+	}
+
+	my $output;
+	my @keys = sort keys %ids;
+	foreach my $key (@keys) {
+		$output .= "$key\t$label\n";
+	}
+
+	return $output;
+}
+
+
+
