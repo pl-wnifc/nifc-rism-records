@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001006341
+@MARC-003:	DE-633
+@MARC-005:	20210121124807.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto ma non troppo
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: '8E/4({'8ABA};3)'8{GAB''C}/4({''8DED};3)''8{CD}4E/''8{A6-6D}''8{CE'AnA}/'8{B''D'FG}'4A/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Mazurkas
+@MARC-240m: pf
+@MARC-240n: op. 7/4
+@MARC-240n: ChomTurC 59
+@MARC-240r: A|b
+@MARC-2400: 3903079
+@MARC-245a: Mazourka. | N.|o 4.
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-383b: op. 7/4
+@MARC-500a: Page 8: 11 bars of notes belonging to the Mazurka No. 4.
+@MARC-5008: 01
+@MARC-506a: Treasury of the Library
+@MARC-5063: 51028062
+@MARC-590a: pf
+@MARC-590b: p. 8-9
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Mazurkas
+@MARC-6500: 25480
+@MARC-690a: ChomTurC
+@MARC-690n: 59
+@MARC-6900: lit30000031
+@MARC-773w: 1001006328
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51028062
+@MARC-852c: 3753/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

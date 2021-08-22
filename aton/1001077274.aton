@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001077274
+@MARC-003:	DE-633
+@MARC-005:	20210627220333.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Zori. All[egr]o moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8{''B^'F^''D6-F}{8F6-D}/{6'B''3DC}{6'BB}{B''CED}/{D3FE}{6DD}{DEGF}/{8.F3GA}{6BAGF}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kamiński, F.
+@MARC-100j: Alleged
+@MARC-1000: pe41022861
+@MARC-240a: Zori
+@MARC-240m: orch, b
+@MARC-240r: B|b
+@MARC-2400: 50241309
+@MARC-245a: [cover title:] ZORI: Ex B | Violino Primo. | Violino Secondo. | Clarinetto. Primo. | Clarinetto. Secondo. | Corno. Primo. | Corno. Secondo. | et | Basso. | Del Segnior [!] F. Kamiński | [musical incipit]
+@MARC-260c: ca. 1800
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 33 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: Two-bar incipit of vl 1 and b at the bottom of the title page.
+@MARC-500a: Inscription "F. Zoliński" at the bottom of the title page.
+@MARC-500a: Second title on f. 2r of the cover: "ZORI Ex B. | Violino. Primo. | Violino. Secondo. | Clarinetto. Primo. | Clarinetto. Secondo. | Cornu. Primo. | Cornu. Secondo. | et | Basso. | Del: Seg: F. Kamiński | mpp | F. Zoliński".
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1 and 2
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), cl (2), cor (2), b
+@MARC-599b: full
+@MARC-650a: Instrumental music
+@MARC-6500: 3901646
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 229, 275
+@MARC-6910: lit1891
+@MARC-700a: Zoliński, F.
+@MARC-700j: Conjectural
+@MARC-7000: pe41022862
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 33/A I 33
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

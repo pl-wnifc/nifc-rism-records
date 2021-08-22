@@ -1,0 +1,99 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035307
+@MARC-003:	DE-633
+@MARC-005:	20210628201604.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 1'E^,G/2''E4.'G8B/4'E^,G{8.'E^,G6'E^,G}4'E^,G4'E^,G/1'E^,G/4'EGB''E/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: {3'B''C'B''C}/8D{3DEDE}8F{3GAGA}/8B--{3BAGxF}/8G--{3GFED}/8E-4-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 4.'E^,G8,B/{8'EFGA}/4G{3FG8.A}/{3GF8.E}4-/4.'E^,G8,B/{8'EFGA}/4G{3FG8.A}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Toeschi, Carl Joseph
+@MARC-100d: 1731-1788
+@MARC-100j: Ascertained
+@MARC-1000: pe30003139
+@MARC-240a: Symphony
+@MARC-240m: orch, b
+@MARC-240n: MünT 23
+@MARC-240r: E|b
+@MARC-2400: 3993700
+@MARC-245a: [cover title:] Sinfonia ex Dis | Violino 1mo | Violino 2do | Flauto Trav[erso] 1mo | Flauto Trav[erso] 2do | Corno 1mo | Corno 2do | Alto viola | Basso | Del Sign Toeschi
+@MARC-260c: 1770-1830
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 34,5 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: Musical incipit of the first movement (vl 1) at the bottom of the title page.
+@MARC-500a: Inscription "P. K." at the bottom of the title page.
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: fl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: vl (2), a-vla, b, fl (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-690a: MünT
+@MARC-690n: 23
+@MARC-6900: lit226
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 274
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 235/A VI 39
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

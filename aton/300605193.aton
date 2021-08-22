@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300605193
+@MARC-003:	DE-633
+@MARC-005:	20201029164030.0
+@MARC-028a: S. 4644.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: '2A/i/'6{xGB}4.A/i/2A/i/2A/2A/'4F8{FF}/'2F/'4F8{FxG}/'4A''8C8-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =8//'8DEFB/'4AF/'8DE8F6{xGF}/'4E8C8-/
+@MARC-031r: D
+@MARC-031t: Błysło ranne ziołko zimne dni się mienią
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Poseł
+@MARC-240m: V, pf
+@MARC-240n: op. 74/7
+@MARC-240n: ChomTurC 135
+@MARC-240r: D
+@MARC-2400: 4019778
+@MARC-245a: POSEŁ, Piosnka Sielska Stef. Witwickiego, Muzyka FRYD|K|A|. CHOPIN | LE MESSAGER | Der Bote. | N.|o 7. | CANTO. | 1831.
+@MARC-300a: p. 21-24
+@MARC-3008: 01
+@MARC-383b: op. 74/7
+@MARC-500a: At the bottom of the p. 21: Warszawa Nakład i Własność G. Gebethnera i Spółki. [space] S. 4644. [space] Berlin, Verlag und Eigenthum der Schlesinger'schen Buch-u. Musikhandlung.
+@MARC-520a: No. 7
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Lieder
+@MARC-6500: 25227
+@MARC-690a: ChomTurC
+@MARC-690n: 135
+@MARC-6900: lit30000031
+@MARC-700a: Witwicki, Stefan
+@MARC-700d: 1801-1847
+@MARC-700j: Ascertained
+@MARC-7000: pe30048733
+@MARC-7004: lyr
+@MARC-730a: Le messager
+@MARC-730g: RISM
+@MARC-7300: 4321900
+@MARC-730a: Der Bote
+@MARC-730g: RISM
+@MARC-7300: 4019777
+@MARC-773w: 300605186
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 963/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

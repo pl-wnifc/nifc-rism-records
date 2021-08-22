@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001039712
+@MARC-003:	DE-633
+@MARC-005:	20210518124305.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Memento
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =3/8-8'FG6GA{8B6AB}8G6''C'B/8AFB6B''C8D6CD8.'B6B/8A6AA8''C'BB6BB8.''C6C/
+@MARC-031r: B|b
+@MARC-031t: Et requiem temporibus meis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Memento D[omi]ne Davit [!]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =3/8-{8''DCF}{F6BF}{8nEG}/{AAGF}{F6GF}{8.G6G}/{8AFFF}{E6FG}{8CA}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Lechleitner, Ferdinand Simon
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30001903
+@MARC-240a: Memento Domine David
+@MARC-240m: V (4), vl (2), org
+@MARC-240r: B|b
+@MARC-2400: 3900945
+@MARC-245a: [without title]
+@MARC-300a: 7 parts
+@MARC-3008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 1r-1v, 1r-1v, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 1r-1v, 1r-1v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), org
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-773w: 1001039709
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 300/A VII 60
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

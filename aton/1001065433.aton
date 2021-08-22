@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001065433
+@MARC-003:	DE-633
+@MARC-005:	20210202092827.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: 3/4
+@MARC-031p: {8.6'C^E^''C'C}{866CC^E''^C'C^E^''C}{8'C^E''^C'C^E^''C}/{8.'E^G^''C^E6'C}{8C6E^''C^E'E^''C^E}/8'G^''C^E^G{5'CDEFGAB}{6''CDEF}{GAB'''C}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Polonaise
+@MARC-240m: keyb
+@MARC-240r: C
+@MARC-2400: 4036065
+@MARC-245a: [cover title:] Polonoise 2|d|e | par le meme | F. N.
+@MARC-260c: 1800-1830
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 23,5 x 37,5 cm
+@MARC-3008: 01
+@MARC-500a: Inscriptions: "Clarinette", "Piccolino", "Flagolet" over the staff of the right hand.
+@MARC-590a: keyb
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 276
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 563/A IX 43
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

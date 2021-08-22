@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001070436
+@MARC-003:	DE-633
+@MARC-005:	20210711164826.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: {8''AA}/{'''D''AFF}/{AGEE}/gG{8F6ED}{8CD}/{D^FC^E}{AA}/{'''D''AFF}/{AGEE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Pleyel, Ignace
+@MARC-100d: 1757-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe24761
+@MARC-240a: Duet
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240n: BenP 578/3
+@MARC-240o: Arr
+@MARC-240r: D
+@MARC-2400: 50236492
+@MARC-245a: [caption title:] Rondo Allegro par M|r Pleyel
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 201005265 (3rd movement of Sonata for pf), 603001004 (Rondo for fl), 450102745 (Rondo for cemb). In BenP: Rondo for pf and vl or fl. RISM ID 450050304: Contredance for orch, missatributed to Józef Kozłowski.
+@MARC-590a: keyb
+@MARC-590b: p. 3-4
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Duets (inst.)
+@MARC-6500: 25181
+@MARC-650a: Rondos (inst.)
+@MARC-6500: 3000036
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-690a: BenP
+@MARC-690n: 578/3
+@MARC-6900: lit6
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 260
+@MARC-6910: lit1891
+@MARC-773w: 1001070420
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 481/A VIII 121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

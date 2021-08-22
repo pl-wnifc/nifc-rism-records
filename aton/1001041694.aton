@@ -1,0 +1,89 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041694
+@MARC-003:	DE-633
+@MARC-005:	20210508072159.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Affettuoso
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4''CC{8.6DE8F}{6ED}/{8.C3EF}8{G'B}BA4-/{6''D'B}4''F8DDC4-/{6'BG}4''G8'BBA-''C/
+@MARC-031r: F
+@MARC-031t: Ad quid cogitabo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4''CC{8.6DE}{8F6ED}/{8.C3EF}{8G'B}{BA}4-/{6''D'B}4''F8D{DC}4-/{6'BG}4''G8'B{6.3AB8B}4''C/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Graun, Carl Heinrich
+@MARC-100d: 1703c-1759
+@MARC-100j: Ascertained
+@MARC-1000: pe30001351
+@MARC-240a: Armida
+@MARC-240k: Excerpts
+@MARC-2400: 3900829
+@MARC-245a: [without title]
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 230007888.
+@MARC-590a: S 1, 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S (2), vl (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Contrafacta
+@MARC-6500: 25455
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 272
+@MARC-6910: lit1891
+@MARC-691a: Walter-MazurI 2016
+@MARC-691n: p. 307-311
+@MARC-6910: lit41001176
+@MARC-730a: Ad quid cogitabo
+@MARC-730g: RISM
+@MARC-730m: S (2), vl (2), b
+@MARC-730r: F
+@MARC-7300: 5035691
+@MARC-730a: Come mai tener tu puoi
+@MARC-730g: RISM
+@MARC-7300: 3904294
+@MARC-773w: 1001041693
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 129/A III 29
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

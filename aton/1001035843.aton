@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001035843
+@MARC-003:	DE-633
+@MARC-005:	20200323214531.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: ''4D/'2G'4B/'8{AB}'4G'4A/'8{B''C}''4D''4G/''2.F+/i/i/+2D
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Nocturnes
+@MARC-240m: pf
+@MARC-240n: op. 15/3
+@MARC-240n: ChomTurC 113
+@MARC-240r: g
+@MARC-2400: 3901484
+@MARC-245a: 3.|m|e | NOCTURNE.
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-383b: op. 15/3
+@MARC-500a: TP: publisher’s oval stamp; inscription in pencil "[po 1840]" [space] "II nakł".
+@MARC-5003: 320201
+@MARC-500a: TP missing.
+@MARC-5003: 320202
+@MARC-500a: Lack of TP makes precise identification impossible.
+@MARC-5003: 320202
+@MARC-500a: P. [3]: inscription in pencil: "II | [po 1840] | Breitkopf &amp; Härtel".
+@MARC-5003: 320202
+@MARC-506a: Treasury of the Library
+@MARC-5063: 320201
+@MARC-506a: Treasury of the Library
+@MARC-5063: 320202
+@MARC-590a: pf
+@MARC-590b: p. 11-13
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Nocturnes (inst.)
+@MARC-6500: 25591
+@MARC-690a: ChomTurC
+@MARC-690n: 113
+@MARC-6900: lit30000031
+@MARC-773w: 1001035840
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 320201
+@MARC-852c: 676/n
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 320202
+@MARC-852c: 2711/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

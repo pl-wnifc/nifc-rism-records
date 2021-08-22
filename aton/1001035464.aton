@@ -1,0 +1,187 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035464
+@MARC-003:	DE-633
+@MARC-005:	20210628195732.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4.''D8D4C8-C/4DxDEC/2D4CC/DFE-/8-'D4''D2D/
+@MARC-031r: D
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''F^'A^'D-{6''E'A''6.C3E}{6.3A'A''AG}/{8.F6F}{6.3FAGF}{GECE}{'A''GFE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4.''D8D4C8-6DE/4.F8FEE4-/8-4E8FFE4-/
+@MARC-031r: D
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8{''D'D}{6DEFG}{8AA}{A6B''C}/8{''D'D}{6DEFG}{8A,A}-{6''FG}/8A4E8F{FE}{E6FG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''FE/D4-E/2FE/4D'A-''E/FFFF/
+@MARC-031r: D
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4''D2A4C/D2'A''4C/D2A4C/D2'A4''E^C/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Ada[gio]
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =2/4--''F/{8FE}2G/{8GF}2A/4AGF/2.E//
+@MARC-031r: D
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Ada[gio]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 2''D4'A/nFED/A,A''F^'A^D/{8''FE}2G/{8GF}2A/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =3/8-''4E8EE4E8E/E4E8EFC'4A/AA8GG4-/
+@MARC-031r: d
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: {8'AAAA}{AAAA}/A4''D8'F{FE}4-/=1/8-{''EEE}{EEEE}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Pych, Leopold
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30018039
+@MARC-240a: Mass
+@MARC-240m: V (2), orch, org
+@MARC-240r: D
+@MARC-2400: 5211939
+@MARC-245a: [cover title:] Missa Brevis in D | Canto et Basso | Violino 1mo | Violino 2do | Clarino 1mo | Clarino 2do | &amp; | Organo | Authore del Seg Leopold Pich
+@MARC-260c: 1774-1777
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 33 x 20 cm
+@MARC-3008: 01
+@MARC-500a: Inscription "Laus Deo" at the end of each part.
+@MARC-500a: Inscription "Prescripsit Casimirus Zaleski" at the end of vl 2.
+@MARC-590a: S, B
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, B, vl (2), clno (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 263
+@MARC-6910: lit1891
+@MARC-691a: PatalasŻ 2016
+@MARC-691n: p. 200
+@MARC-6910: lit41001178
+@MARC-700a: Zaleski, Kazimierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41012065
+@MARC-7004: scr
+@MARC-730a: Missa brevis
+@MARC-730g: RISM
+@MARC-7300: 3900684
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 86/A II 26
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

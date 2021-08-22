@@ -1,0 +1,104 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001039879
+@MARC-003:	DE-633
+@MARC-005:	20210627222018.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Vivement
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: =19/4-8-''ED{6EF}8G'B/4''C8C8-2-/=3/4-8-ED{6EF}8G'B/
+@MARC-031r: C
+@MARC-031t: In omnem terram, exivit sonus eorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Vivement
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 1=/4-8-''G{6AFCF}{AFCF}/{GECE}{GECE}{AGAG}{FEFE}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =22/44''D'G/8''EDCD/4'B-/=7/4''D'G/8''EDCD/4'B8-A/
+@MARC-031r: G
+@MARC-031t: Nimis honorati sunt
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 4''D'G/8{''ED}{CD}/4'B8-A/{GB}{AG}/{FGAB}/4FEt/D-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Lechleitner, Ferdinand Simon
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30001903
+@MARC-240a: In omnem terram
+@MARC-240m: V (4), orch, org
+@MARC-240r: C
+@MARC-2400: 3008174
+@MARC-245a: [without title]
+@MARC-300a: 8 parts
+@MARC-3008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 1r-2r, 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 1r-2r, 1r-2r
+@MARC-5908: 01
+@MARC-590a: clno solo
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 1r-2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno solo
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), clno solo, org
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-773w: 1001039878
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 304/A VII 64
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

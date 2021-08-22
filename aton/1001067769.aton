@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001067769
+@MARC-003:	DE-633
+@MARC-005:	20210709081028.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Aria 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: =18/2''D4'B8{AG}/4''EDGD/8{(EDC)}4E8{(DC'B)}4''C/8{'BA}2G4''D/
+@MARC-031r: G
+@MARC-031t: Scholastica venerabilis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Aria 1. Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: 8{''DDDD}4'B{8AG}/4''ED2G/8{(EDC)}{EE}{(DC'B)}{''CC}/{('BAG)}4.G8{AB''C}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Ruth, Christian Joseph
+@MARC-100j: Alleged
+@MARC-1000: pe41010076
+@MARC-240a: Scholastica venerabilis
+@MARC-240m: S, strings, b
+@MARC-240r: G
+@MARC-2400: 5198503
+@MARC-245a: [without title]
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-590a: S solo
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: f. 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), a-vla, b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 271
+@MARC-6910: lit1891
+@MARC-691a: SSS 15
+@MARC-691n: p. 14-15, 27-31
+@MARC-6910: lit41001182
+@MARC-773w: 1001067768
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 203/A VI 7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

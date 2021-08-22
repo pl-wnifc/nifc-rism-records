@@ -1,0 +1,46 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001070704
+@MARC-003:	DE-633
+@MARC-005:	20210613225912.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: 2/4
+@MARC-031p: {''6AG8G}-D/-{(6EGA)}8-{(6DGB)}/8-{3DGA'''C}6''B{'''D''BG}/8-{(6EGA)}8-{(6DGB)}/
+@MARC-031q: +
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Keyboard pieces
+@MARC-240m: keyb
+@MARC-240r: C
+@MARC-2400: 5198948
+@MARC-245a: [without title]
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-590a: keyb
+@MARC-590b: p. 23
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-773w: 1001070420
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 481/A VIII 121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

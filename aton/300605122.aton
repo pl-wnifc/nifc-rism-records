@@ -1,0 +1,136 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300605122
+@MARC-003:	DE-633
+@MARC-005:	20201029164028.0
+@MARC-028a: T 891.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: GRAVE.
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: ,2..D,,8nE/%G-22-'2xC/'1D/'1C/
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Doppio movimento
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: =4//:8-,8{F'D}4-,8{F'D}8-/i/i/8-,8{F'D}4-,8{F'D},8F/%G-2''8{D'B}8-''8C8{D'B}4-/''8{D'B}8-''8C8{D'B}4-/
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: SCHERZO.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEADGC
+@MARC-031o: 3/4
+@MARC-031p: ,4B/'8{EEEE}4E/'4F''8{FEFG}/'8{GGGG}4G/'4xG''8{GFGnA}/'8{nAAAA}4A/'8{BBBB}4B/
+@MARC-031r: e|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: MARCHE. Lento
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: ,4B8.{B6B}2B/i/,4B8.{B6B}4B%G-2{'8.D6C}/q'8D'8.{C,6B8.B6B}2B/
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: PRESTO.
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEADG
+@MARC-031o: c/
+@MARC-031p: ,8{FnGB'}8{D,nEG}8{FGB}'8{D,EG}/,8{nGnA'C}8{E,xFA}8{GA'C}'8{E,FA}
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Sonatas
+@MARC-240m: pf
+@MARC-240n: op. 35
+@MARC-240n: ChomTurC 202
+@MARC-240r: b|b
+@MARC-2400: 3900185
+@MARC-245a: [heading, p.1:] SONATE. | CHOPIN. Op: 35.
+@MARC-260a: Paris
+@MARC-260b: E. Troupenas et Cie
+@MARC-260c: [1841-1846]
+@MARC-260e: Paris
+@MARC-260f: F. Benoit
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-300c: 36,0 x 27,5 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 35
+@MARC-500a: TP missing, p. 1-19 engraved, p. [20] blank.
+@MARC-500a: P. 1, footline: T 891 [space] F. Benoit, Grav.-Impr.; inscription in pencil: "[V,1840] ? III okł.".
+@MARC-500a: Handwritten piece of paper [format: 19,5 x 14,5 cm] with original title: " SONATE | Pour le Piano | Composée par | FRED. CHOPIN | Op: 35. Prix : 9.|f | A. L. | à PARIS, chez E. TROUPENAS &amp; C.|i|e | Rue Neuve Vivienne, 40. | à Leipsig, chez Breitkopf &amp; Haertel | à Londres, chez Wessel &amp; C.|i|e" added to this shelfmark.
+@MARC-500a: Plate number p. 1-19: T 891.
+@MARC-590a: pf
+@MARC-590b: 19 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Corrected issues
+@MARC-6500: 3902077
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 202
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 35-1a-TR
+@MARC-6910: lit30025545
+@MARC-710a: Eugène Troupenas &amp; Cie.
+@MARC-710g: Ascertained
+@MARC-7100: ks51000057
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: F. Benoit
+@MARC-710g: Ascertained
+@MARC-7100: ks51000031
+@MARC-7104: prt
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 2061/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

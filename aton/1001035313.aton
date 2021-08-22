@@ -1,0 +1,95 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035313
+@MARC-003:	DE-633
+@MARC-005:	20210709081417.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro spirituoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4.D8D/4C-4.G8G/4F-4.''D8D/4C'A''DD/'A-4.D8D/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andantino con moto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: {6''ECAG}{FEDC}/{6.3DCDC}8D-/{6D'B''BA}{GFED}/{6.3C'B''C'B}8''C-/
+@MARC-031q: +
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: 4.''D^'D/''A^'A/{8''FDA}/{FDA}/{FDA}/{GFE}/4D8-/{'AB''C}{DEF}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Sacchini, Antonio
+@MARC-100d: 1730-1786
+@MARC-100j: Ascertained
+@MARC-1000: pe30002777
+@MARC-240a: Symphony
+@MARC-240m: orch, b
+@MARC-240r: D
+@MARC-2400: 3993700
+@MARC-245a: [cover title:] Synphonia [!] toni D | Violino 1mo | Violino 2do | Oboi 1ma | Oboi 2da | Cornu 1mo | Cornu 2do | Alto Viola | con | Fundamento | Authore Del Seg Sacchini
+@MARC-260c: 1770-1830
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 34 (17) x 22 (22) cm
+@MARC-3008: 01
+@MARC-500a: Inscriptions at the top of parts: cor 1: "Del Seg A[n]t[o]ni Sacchini | ex D"; cor 2: "Del Seg Sacchini".
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: 2, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor in D 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), a-vla, ob (2), cor (2), b
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 274
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 240/A VI 44
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

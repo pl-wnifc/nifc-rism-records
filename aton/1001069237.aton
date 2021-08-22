@@ -1,0 +1,122 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001069237
+@MARC-003:	DE-633
+@MARC-005:	20201021180438.0
+@MARC-028a: M. S. 3959.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: ,2.B/'C/,G/'C/,B+/i/i/i/B%G-2/'A/4G8-F4E/2.G/2.xF+/F+/i/F/%F-4,2B%G-2'4E/GB''E/2.G/ '''C/''4BGA/FGE/2.C/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Scherzos
+@MARC-240m: pf
+@MARC-240n: op. 54
+@MARC-240n: ChomTurC 200
+@MARC-240r: E
+@MARC-2400: 3905206
+@MARC-245a: à M|l.|l|e Clotilde de Caraman.| 4.|E | SCHERZO | POUR | Piano, | PAR | F. CHOPIN | A.V. | Op: 54. [space] Prix 9.|f | A PARIS, chez M.|C|E SCHLESINGER, Rue Richelieu, 97. | Londres, Wessel et Stopleton. [space] Prop.|é des Editeurs. [space] Leipzig, Breitkopf et Hartel. | M. S. 3959.
+@MARC-260a: Paris
+@MARC-260b: Maurice Schlesinger
+@MARC-260c: [1844-1845]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 33,0 x 25,5 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 54
+@MARC-500a: TP engraved, p. [ii] blank, p. 1-17 engraved, p. [18] blank.
+@MARC-500a: Heading, p. 1: F. CHOPIN Op. 54 [space] 4.|m|e SCHERZO.
+@MARC-500a: Footline: p. 1, 17: M. Schelsinger. rue Richelieu 97. [space] M.S.3959.; p. 2-16: M.S.3959.
+@MARC-500a: TP: traces of publisher’s signature stamp; inscription in pencil "[1843]".
+@MARC-5003: 51004729
+@MARC-500a: This source is in the collection, comprising four bound volumes containing a representative selection of the first editions of Chopin's works published by various publishers. Hard cover, colorful pattern. The back and corners of the cover are reinforced with beige material. Brown decorative sticker in center of the cover with title: FREDERIC | CHOPIN. | VOL. IV., same inscription is on the back of the cover; embossed, gold letters.
+@MARC-5003: 51004729
+@MARC-500a: Scherzo op. 54 as shelfmark 6625/n in volume IV; together with shelmarks: 6513/n, 6614/n, 6615/n, 6616/n, 6617/n, 6618/n, 6619/n, 6620/n, 6621/n, 6622/n, 6623/n, 6624/n.
+@MARC-5003: 51004729
+@MARC-500a: TP: publisher’s signature stamp.
+@MARC-5003: 51007293
+@MARC-500a: Page 11: correction in pencil regarding acccidental.
+@MARC-5003: 51007293
+@MARC-500a: Recto pages, at the top (right corner): numbers 114-123 added in pencil, pages 9, 11, 13, 17: pencil inscriptions, respectively: "119/[illegible]", "120/117", "121/116", "123/114".
+@MARC-5003: 51007293
+@MARC-506a: Treasury of the Library
+@MARC-5063: 51004729
+@MARC-506a: Treasury of the Fryderyk Chopin Museum in Warsaw
+@MARC-5063: 51007293
+@MARC-561a: Purchase in 2017
+@MARC-5613: 51004729
+@MARC-590a: pf
+@MARC-590b: 17 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-593a: Print with non-autograph annotations
+@MARC-5933: 51007293
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Scherzos (inst.)
+@MARC-6500: 3000133
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 200
+@MARC-6900: lit30000031
+@MARC-691a: ACO Chopin
+@MARC-691n: 54–1-Sm
+@MARC-6910: lit41000057
+@MARC-700a: Caraman, Jeanne de
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41012520
+@MARC-7004: dte
+@MARC-700a: Vialon, A.
+@MARC-700j: Ascertained
+@MARC-7000: pe30043803
+@MARC-7004: egr
+@MARC-710a: Maurice Schlesinger
+@MARC-710g: Ascertained
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Stapleton
+@MARC-7100: ks51000016
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51004729
+@MARC-852c: 6625/n
+@MARC-852a: PL-Wnifc
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51007293
+@MARC-852c: M/176
+@MARC-973u: 1001147239
+@MARC-9733: 51004729
+@MARC-973u: 1001129120
+@MARC-9733: 51007293
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

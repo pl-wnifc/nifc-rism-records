@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001069463
+@MARC-003:	DE-633
+@MARC-005:	20210627214507.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: 3/8
+@MARC-031p: {8.''E6'B''C'A}/6{GG8AG}/{6''FF8'AB}/E^G^''C4'G^''C^E/{6EC8DE}/{6FF8GA}/{6DC}4C://:{6DD8'B''C}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Filipowicz, P.
+@MARC-100j: Alleged
+@MARC-1000: pe41022175
+@MARC-240a: Mazur
+@MARC-240m: keyb
+@MARC-240r: C
+@MARC-2400: 50235695
+@MARC-245a: [caption title:] Mazur przez P. Filipowicza skomponowany
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Nothing is known about this composer. In Warsaw two composition of Eliza Filipowicz (born Minelli), violinist, pupil of Spohr, was published (2 Polonaises 1823, 1832).
+@MARC-590a: keyb
+@MARC-590b: p. 8-9
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 227
+@MARC-6910: lit1891
+@MARC-691a: TomaszewskiB 1992
+@MARC-691n: nr 487, 1595
+@MARC-6910: lit41001996
+@MARC-773w: 1001068966
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 551/A IX 31
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

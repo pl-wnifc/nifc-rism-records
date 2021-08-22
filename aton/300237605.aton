@@ -1,0 +1,267 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300237605
+@MARC-003:	DE-633
+@MARC-005:	20201029163714.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie. Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: '2A''C/EA/4.xG8G2G/'''4D''B4.xG8D/4.C8C2C/{8C'A''EC}{AEDC}/4C8'B
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =2/'4.B8B2B/=1/''4.C8C2C/2-4-8-C/4C'B8-
+@MARC-031r: D
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4.84''FFF/=1/EEE/=1/FFF/=1/4FAB/({8AGF})4F-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4.''F8F4F/=/4.E8E4E/=/4.F8F4F/=/DFG/
+@MARC-031r: D
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''F{8E6FG}{AGFE}/4D{8C6DE}{FEDC}/4'B{8''GEFD}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''FE8-E/4DC-/4'B{8''GEFD}/{C6DE}4D-/8-DDDDD/({CDE})4D-/
+@MARC-031r: D
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus. Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''FF8'D-D-/,A-A-4''FF/6-{'AAF}-{AAF}-{GGE}-{GGE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''DD2-/-4DD/=1/4FF8E6EE8EE/4.844DDC-/
+@MARC-031r: D
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Benedictus. Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8'G/4''D({6GFE})({DC'B})/{8.33AB''C}4'B/{6ExGA''C}{EA'''CE}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =23/4'D({6GFE})({DC,B})/{8.33AB'C}4,B/-8-A/{8.33FGA}8G
+@MARC-031r: G
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Agnus. Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 6-{'CEC}-{CEC}-{GBG}-{GBG}/-{GBG}-{GBG}-{CEC}-{CEC}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 4/4
+@MARC-031p: =4/4''E{6EC}{AE}{ED}8D-D/4D{6DG}{BD}{DC}8C-C/
+@MARC-031r: A
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Dona nobis. Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: {8''DFF}{FFF}/{FAA}{AAA}/{A'''DD}{DDD}/4.C
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Presto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: 4.''DD/DD/DF/4.E4-8-/=2/4.DC/D-/=2/DC/
+@MARC-031r: D
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Bolehovský, Josef
+@MARC-100d: 1743-1811
+@MARC-100j: Ascertained
+@MARC-1000: pe30000404
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, bc
+@MARC-240r: D
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] Missa ex D. S:[anctae] Ro:[saliae] | à | Canto. | Alto. | Tenore | Basso | Violino Primo | Violino Secondo | Oboe Primo Flauto Solo Benedictus | Oboe Secondo | Clarino Primo | Clarino Secondo | Violae IIae Oblig. ad in Carnatus [!] et Agn[us] | con | Organo | Authore Bolakowski. | pro Choro C.M.Cz.
+@MARC-260c: 1740-1760 (18.me)
+@MARC-2608: 01
+@MARC-300a: 12 parts
+@MARC-300c: 35,5 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: fl missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak fl]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W partii S niektóre fragmenty nutowe są przetarte lub wypalone]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: u góry z prawej strony tuszem "37.", wyżej z prawej ołówkiem ręką nieznanego Paulina "N|o 283"; poniżej czerwonym tuszem ręką F. Maletza "N 77. ; u góry z prawej strony ołówkiem ręką W. Świerczka "211" w owalnym kółku]
+@MARC-500a: [pl-text: Poniżej środka z prawej strony okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona czerwoną kredką oraz parafowana]
+@MARC-500a: [pl-text: Na f. 1r clno 1 obliczenia ołówkiem; niebieską kredką słowa pisane cyrylicą: "Kале[illegible] Петрасиюь [?] Патыяай Монсийъ]
+@MARC-500a: [pl-text: Konkordancja RISM ID: 300512704 (PL-Wu, RM 7463)]
+@MARC-563a: [pl-text: gruba tekturowa okładka]
+@MARC-5638: 01
+@MARC-590a: Coro: S, A, T, B, vl 1, 2, vla obl, ob 1, 2, clno 1, 2, org (= bc)
+@MARC-590b: 4, 4, 3, 3, 5, 4, 4, 2, 1, 1, 1, 4f.
+@MARC-5908: 01
+@MARC-592a: A, B, ob 1, clno 2, org: [crowned coat of arms with sword]
+@MARC-5928: 01
+@MARC-592a: vla: TROPPAV | IR / [figure of Poseidon]
+@MARC-5928: 01
+@MARC-592a: [watermarks illegible]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Solo S
+@MARC-594c: 1
+@MARC-594b: Solo A
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Solo S, Solo A, Coro S, Coro A, Coro T, Coro B, vl (2), vla, fl, ob (2), cl (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-657a: Rosaliae
+@MARC-6570: 24815
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 2
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.85
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 37
+@MARC-852d: N|o 283
+@MARC-852d: N 77
+@MARC-852d: 211
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-32
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

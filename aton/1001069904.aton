@@ -1,0 +1,44 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001069904
+@MARC-003:	DE-633
+@MARC-005:	20190502134848.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: 8A^''C/{'A^''CC^F'A^''C}{'F^AA^''C'F^A}/4.C^FE^G/{8.F^A6G^B8A^''C}4'G^B8F^A/{C^E^G6GFED}4C8A^''C/{'A^''CC^F'A^''C}{'F^AA^''C'F^A}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Andante
+@MARC-240m: keyb
+@MARC-240r: F
+@MARC-2400: 3900879
+@MARC-245a: [caption title:] A[n]dante
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-590a: keyb
+@MARC-590b: p. 10
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-773w: 1001069592
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 554/A IX 34
+@@END:		MARC21
+

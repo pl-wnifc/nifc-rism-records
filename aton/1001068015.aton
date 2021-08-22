@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001068015
+@MARC-003:	DE-633
+@MARC-005:	20210707061824.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c
+@MARC-031p: =11/4.''C8'CGGGG/6{(FGA)}8GGG''C6{'BA}8GF/6{(EFG)}8GGG''C'6{BA}8GF/
+@MARC-031r: C
+@MARC-031t: Mihi vivere Christus est
+@MARC-031t: Ah se fosse intorno al trono
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro ma non troppo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 4.'''C8''C{GGGG}/6{(FGA)}8{GGG}{8.'''C3''BA}8{GF}/6{(EFG)}{8GGG}8.'''{C''6BA}8{GF}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-041a: ita
+@MARC-100a: Hasse, Johann Adolf
+@MARC-100d: 1699-1783
+@MARC-100j: Ascertained
+@MARC-1000: pe51928
+@MARC-240a: Tito Vespasiano
+@MARC-240k: Excerpts
+@MARC-2400: 3909788
+@MARC-245a: [without title]
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: Both texts written under the staves. The Italian seems to be written as the first one and Latin (overlapping the staves sometimes) as the later one.
+@MARC-500a: Composer identified on the basis of RISM ID 270000660, 240006997, 200043768 and others.
+@MARC-590a: A solo
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: f. 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: A, vl (2), a-vla, b
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-650a: Contrafacta
+@MARC-6500: 25455
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 268, 273
+@MARC-6910: lit1891
+@MARC-700a: Metastasio, Pietro
+@MARC-700d: 1698-1782
+@MARC-700j: Ascertained
+@MARC-7000: pe97823
+@MARC-7004: lbt
+@MARC-730a: Mihi vivere Christus est
+@MARC-730g: RISM
+@MARC-730m: A, strings, b
+@MARC-730r: C
+@MARC-7300: 5198608
+@MARC-730a: Ah se fosse intorno al trono
+@MARC-730g: RISM
+@MARC-7300: 3934410
+@MARC-773w: 1001068012
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 218/A VI 22
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

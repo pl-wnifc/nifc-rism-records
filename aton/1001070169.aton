@@ -1,0 +1,174 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001070169
+@MARC-003:	DE-633
+@MARC-005:	20210711155134.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 4.''E8E4E8-C/4.D6{CD}4EC/2DC/8'B''4D'8B''4CC/'A8''CC4C'B/
+@MARC-031r: C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 4.'''C8C4C8-''E/4.F8F4GE/xF2G4F/8G4D8D4EE/4.F8G4FF/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 8''C6CC4-8C6EE4-/8C6EC4-8E6GG8G{6FE}/8DDDDE6DD4C/
+@MARC-031r: C
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: {6''C'GAB}{''CDEF}{G'B''CD}{EDEF}/{G'GAB}{''C'B''CD}{EGGG}{GGFE}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 8''C6CC8C'B4''C8CD/EDC{6'B''D}{C'B}4A/8B6''DD8D6DD8D6'BB8AA/
+@MARC-031r: C
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 8{'''CCC''B}{'''C''GGG}/{ED8.C6C}{8DGGxF}/{GGAA}{BGDD}/{
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/2
+@MARC-031p: 1''E2D/2.E4F2G/1.F/2EGF/EF4GE/
+@MARC-031r: C
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 1''G2G/2.E4F2G/1F2F/EGF/EFG/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: =5/4-8'B''D4E8EG/4F{6GF}4E8-4C/4C'B4.B{6'AB}/
+@MARC-031r: C
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: =5/4-{8''DD}4E{8G'''C}/4C''B'''C8-''G/4AAAxG/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Lechleitner, Ferdinand Simon
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30001903
+@MARC-240a: Mass
+@MARC-240m: V (4), orch, b
+@MARC-240r: C
+@MARC-2400: 5211939
+@MARC-245a: [title page:] Missa S. Luciae. a. 9. | Canto Alto Tenore Basso | V. Violi 2bus CClari 2bus | Basso pro Organo | Authore S. Ferdi. Lechleitner. | Ex Scriptis Casimiri Kolasinski mp | A. D. 1738 die 12 10bris
+@MARC-260c: 1738-10-12
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 20,5 x 17,5 cm
+@MARC-3008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: 4, 4, 3, 4 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), clno (2), b
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 256-257, 263
+@MARC-6910: lit1891
+@MARC-691a: KonopkaS 2005
+@MARC-691n: p. 258-260
+@MARC-6910: lit30025836
+@MARC-700a: Kolasiński, Kazimierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41012736
+@MARC-7004: scr
+@MARC-710a: Kolegiata w Sandomierzu
+@MARC-710g: Conjectural
+@MARC-7100: ks51001537
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 290/A VII 50
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

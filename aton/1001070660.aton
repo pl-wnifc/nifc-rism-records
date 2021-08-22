@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001070660
+@MARC-003:	DE-633
+@MARC-005:	20210627220153.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: ''8C/4'A^''C^F8-4C^E^G8-/4.C^F^A4-//:8'A^''C/8.{'A^''C6'G^B8F^A}{8.F^A6E^G8F^A}/4xF^A8G^B4E^G8E/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Hoffmeister, Franz Anton
+@MARC-100d: 1754-1812
+@MARC-100j: Ascertained
+@MARC-1000: pe94981
+@MARC-240a: Der Königssohn aus Ithaka
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240n: WeiH deest
+@MARC-240o: Arr
+@MARC-240r: F
+@MARC-2400: 3906688
+@MARC-245a: [without title]
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 1001003261 (B, orch, "Wer leiht mir ein buntes Gefieder"), 450002614 (in Es-dur for wind instruments).
+@MARC-590a: keyb
+@MARC-590b: p. 9
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-690a: WeiH
+@MARC-690n: deest
+@MARC-6900: lit312
+@MARC-730a: Telemach
+@MARC-730g: RISM
+@MARC-730o: Arr
+@MARC-7300: 3906689
+@MARC-773w: 1001070420
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 481/A VIII 121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

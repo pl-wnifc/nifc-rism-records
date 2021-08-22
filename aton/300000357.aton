@@ -1,0 +1,99 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000357
+@MARC-003:	DE-633
+@MARC-005:	20201029163337.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8'D/{6GG}{GAB''C}{8DD}{3DEFD}/{8G'G}-''D/{6GG}{3GFExD}{8EE}{3EnDC'B}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-4
+@MARC-031m: T solo
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =7/4-8-,D/BGAB/{6BA}{'C,A}8GB/{6A'D}{,BG}8FE/D-
+@MARC-031r: G
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Goetz-Gieczyński, Cyryl
+@MARC-100d: 1793-1866
+@MARC-100j: Ascertained
+@MARC-1000: pe30020327
+@MARC-240a: Salve regina
+@MARC-240m: Coro maschile, orch, org
+@MARC-240r: G
+@MARC-2400: 3021988
+@MARC-245a: Offertorium ex G. | Tenore sive Canto | Basso 1|mo sive Alto | Basso 2|do | Violino Primo | Violino Secundo | Flauto 1|mo | Flauto 2|do | Cornu 1|mo | Cornu 2|do | Alto Viola | et | Basso sive Fagotto. | [at left:] Authore fr: Cyrill Goetz. | [inside letter G:] 1815. | Ord: S. Pauli primi | Eremitae Professus | [bottom right:] pro | C.M.C.
+@MARC-260c: 1815
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 32 x 20 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry na środku ołówkiem ręką W. Świerczka "791" w owalnym kółku"
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-590a: Coro and solo: T, B1, B 2, vl 1, 2, vla, b or fag, fl 1, 2, cor 1, 2
+@MARC-590b: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [crowned eagle]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T solo
+@MARC-594c: 1
+@MARC-594b: B solo
+@MARC-594c: 2
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 2
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fag
+@MARC-594c: b
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: T solo, B solo (2), T coro, B coro (2), vl (2), vla, b, fag, fl (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.465
+@MARC-6910: lit1869
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 791
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-278
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

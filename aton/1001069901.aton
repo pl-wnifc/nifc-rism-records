@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001069901
+@MARC-003:	DE-633
+@MARC-005:	20210708081043.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: 2/4
+@MARC-031p: 866{''EFE}{DED}/4C8{'G''C}/{DDDD}/4G8E-/866{''EFE}{DED}/4C8{'G''C}/{DD}{D6DE}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Pleyel, Ignace
+@MARC-100d: 1757-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe24761
+@MARC-240a: Quartets
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240n: BenP 334/3
+@MARC-240o: Arr
+@MARC-240r: C
+@MARC-2400: 3900008
+@MARC-245a: [caption title:] Allegro
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Concordance to RISM ID 1001109862 (PL-SA 574/A IX 54).
+@MARC-500a: Composer identified on the basis of RISM ID 1001060420, 211000273, 455024697 and many others (movements from Quartet 2vl, vla, vlc or arrangements for vl, pf or pf).
+@MARC-590a: keyb
+@MARC-590b: p. 8-9
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-690a: BenP
+@MARC-690n: 334/3
+@MARC-6900: lit6
+@MARC-773w: 1001069592
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 554/A IX 34
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

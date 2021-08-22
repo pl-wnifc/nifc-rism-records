@@ -1,0 +1,107 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035403
+@MARC-003:	DE-633
+@MARC-005:	20210628200917.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 8-G8.''C6D8EC8.'B6A/8GE{6AG}{FE}8D{6EF}8.D6C/8CGECDG8.G6xF/
+@MARC-031r: C
+@MARC-031t: Beata nobis gaudia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c/
+@MARC-031p: =5/8-{''GGG}{GA}{8.G6F}/{8EG}{G'''C}{''BG}{8.A6G}/{8GE}{G6GA}{8FB}{EA}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Stachowicz, Damian
+@MARC-100d: 1658-1699
+@MARC-100j: Ascertained
+@MARC-1000: pe30003021
+@MARC-240a: Beata nobis gaudia
+@MARC-240m: V (4), orch, org
+@MARC-240r: C
+@MARC-2400: 3900951
+@MARC-245a: [cover title:] Motetto ab 9. | De Sancto Spiritu | Beata nobis gaudia | C: A: T: B: | 2 V:Violini | 2 CClarini | Basso Organo | Authore Dami[an] S.[tachowicz? / cholae?] P.[ater? / iae?] | [illegible] Scrip 17 Septemb[ris] | Wąchocen[...] | 1707 mmpp | C: I. Minenski
+@MARC-260c: 1707
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 20 (16) x 17 (17) cm
+@MARC-3008: 01
+@MARC-500a: clno 1 and 2 parts missing
+@MARC-5008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), clno (2), org
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-657a: De Spiritu Sancto
+@MARC-6570: 24408
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 226
+@MARC-6910: lit1891
+@MARC-691a: SSS 13
+@MARC-691n: p. 34-39
+@MARC-6910: lit50006440
+@MARC-691a: JochymczykP 2009
+@MARC-691n: p. 54
+@MARC-6910: lit41001984
+@MARC-691a: JochymczykL 2011
+@MARC-691n: p. 230
+@MARC-6910: lit50006441
+@MARC-700a: Minenski, C. I.
+@MARC-700d: 17/18
+@MARC-700j: Ascertained
+@MARC-7000: pe41012745
+@MARC-7004: scr
+@MARC-710a: Klasztor Cystersów w Wąchocku
+@MARC-710g: Ascertained
+@MARC-7100: ks51001720
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 247/A VII 7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

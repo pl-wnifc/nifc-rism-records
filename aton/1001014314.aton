@@ -1,0 +1,103 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001014314
+@MARC-003:	DE-633
+@MARC-005:	20201029223440.0
+@MARC-028a: 5545.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Vivo.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: '2B8{BB}/'2B8{BB}/'4B8{BB}4B/'8{BB}4B8{BB}//:'4B''8{DE}4F/'4B8''{EF}4G/'4B8{''FG}4A/''2B''8{BB}/''4B8{'''C''B}4A/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Waltzes
+@MARC-240m: pf
+@MARC-240n: op. 18
+@MARC-240n: ChomTurC 207
+@MARC-240r: E|b
+@MARC-2400: 3900012
+@MARC-245a: GRANDE VALSE | brillante | Pour le Pianoforte | composée et dédiée | A Mademoiselle Laura Harsford | par | FRÉD. CHOPIN. | Propriété des Editeurs. | Oeuvre 18. [space] Pr. 16 Gr. | à Leipsic, | Chez Breitkopf &amp; Härtel. | London, chez Wessel &amp; C.|o [space] Paris, chez M. Schlesinger. | Enrégistré dans les Archives de l’Union.
+@MARC-260a: Leipsic
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-260c: [1838-1842]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 32,0 x 26,5 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 18
+@MARC-500a: TP lithographed, p. [2, 3], p. 4-11 engraved, p. [12] blank.
+@MARC-500a: TP: Error in title "Harsford"; publisher's round stamp; inscription in pencil "[VII, 1834]."; oval stamp "PUDOR | DRESDNER CONSERVATORIUM | FÜR MUSIK.".
+@MARC-500a: Heading, p. 4: F. CHOPIN. op. 18. | GRANDE VALSE BRILLANTE.
+@MARC-500a: P. 11, bottom: Gravé par Adam.
+@MARC-500a: P. 4 bottom: oval stamp "PUDOR | DRESDNER CONSERVATORIUM | FÜR MUSIK.".
+@MARC-500a: Plate number p. 4-11: 5545.
+@MARC-506a: Treasury of the Library
+@MARC-590a: pf
+@MARC-590b: 11 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Waltzes
+@MARC-6500: 25220
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 207
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 18-1-B&amp;H
+@MARC-6910: lit30025545
+@MARC-691a: DeutschM 1961
+@MARC-691n: p. 9
+@MARC-6910: lit1407
+@MARC-700a: Horsford, Laura
+@MARC-700d: 1814-1894
+@MARC-700j: Ascertained
+@MARC-7000: pe30113784
+@MARC-7004: dte
+@MARC-700a: Adam
+@MARC-7000: pe30000014
+@MARC-7004: egr
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-710g: Ascertained
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Conservatorium für Musik
+@MARC-7100: ks30009834
+@MARC-7104: fmo
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 4047/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

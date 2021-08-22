@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001077279
+@MARC-003:	DE-633
+@MARC-005:	20210526213801.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: '4F8-A{FAFA}/4F8-''C{'A''C'A''C}/4'A8-''F{CFCF}/4C8gG{8.F3EF}4GB/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Pichl, Václav
+@MARC-100d: 1741-1805
+@MARC-100j: Ascertained
+@MARC-1000: pe30002511
+@MARC-240a: Symphony
+@MARC-240k: Excerpts
+@MARC-240m: vl (2), b
+@MARC-240n: ZakP 20
+@MARC-240r: F
+@MARC-2400: 3993700
+@MARC-245a: [caption title on vl 1:] Symfonia
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: Only first part of Symphony: Allegro.
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 1v-2r, 1v-2r
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: f. 1v-2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), b
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-690a: ZakP
+@MARC-690n: 20
+@MARC-6900: lit2297
+@MARC-773w: 1001077277
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 91/A II 31
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

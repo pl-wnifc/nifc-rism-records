@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001070625
+@MARC-003:	DE-633
+@MARC-005:	20210710073234.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 8'F/{FBBB}g''D{C6'nB''C}/{DCED}4.C8D/E4E{8DC'B}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Winter, Peter von
+@MARC-100d: 1754-1825
+@MARC-100j: Ascertained
+@MARC-1000: pe141907
+@MARC-240a: Das unterbrochene Opferfest
+@MARC-240k: Excerpts
+@MARC-240m: pf
+@MARC-240o: Arr
+@MARC-240r: B|b
+@MARC-2400: 3905091
+@MARC-245a: [caption title:] Polonoisse [!] z Przerwany Ofiary [!]
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: The premiere of opera "Przerwana ofiara" ("Das Unterbrochene Opferfest") with the libretto of Franz Xavier Huber translated into polish by Wojciech Bogusławski took place in National Theatre in 1802.
+@MARC-500a: Referring to the title of the collection, Świerczek points to Ludwik Wacław Raszek (1765-1848) as to the arranger of this piece.
+@MARC-590a: pf
+@MARC-590b: f. 3v-4r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 231
+@MARC-6910: lit1891
+@MARC-700a: Raszko, Antoni
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30002638
+@MARC-7004: arr
+@MARC-700a: Raszek, Wacław
+@MARC-700d: 1848+
+@MARC-700j: Conjectural
+@MARC-7000: pe30020314
+@MARC-7004: arr
+@MARC-773w: 1001070623
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 562/A IX 42
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

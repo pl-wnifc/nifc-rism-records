@@ -1,0 +1,86 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041387
+@MARC-003:	DE-633
+@MARC-005:	20210706130837.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c
+@MARC-031p: =17/4,G{8CE}qE4D{8C,,B}/{,C,,G}4G2-/8{,EC}{EG}qG4F8{ED}/{C,,B}4,C2-/
+@MARC-031r: C
+@MARC-031t: Ave maris stella
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 4'''C^''E^'G8{''CE}qE4D{8C'B}/{''C'G''CE}{D'G''DF}/{ECEGqG}4F8{ED}/{C'G''CE}{D'G''DF}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: De Majo, Gian Francesco
+@MARC-100d: 1732-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30002047
+@MARC-240a: Ricimero re dei goti
+@MARC-240k: Excerpts
+@MARC-2400: 3904077
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 400006538, 400013616, 212008822 and others.
+@MARC-590a: B solo
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl (fl) 1, 2
+@MARC-590b: f. 1r-1v, 1r-1v
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: vl (fl)
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: B solo, vl (fl) (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-650a: Contrafacta
+@MARC-6500: 25455
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 270
+@MARC-6910: lit1891
+@MARC-730a: Ave maris stella
+@MARC-730g: RISM
+@MARC-730m: B, vl (2), b
+@MARC-730r: C
+@MARC-7300: 3008705
+@MARC-730a: Tutta di sdegno armata
+@MARC-730g: RISM
+@MARC-7300: 4068409
+@MARC-773w: 1001041385
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 105/A III 5
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

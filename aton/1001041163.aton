@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041163
+@MARC-003:	DE-633
+@MARC-005:	20210610234433.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8-/=8/2-4-8-'D/{8.6DE}{8.6FG}4A8-A/A{6GF}4GF8-F/
+@MARC-031r: D
+@MARC-031t: Adoro te devote
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 8'A/{8.6''DEFG}8A4A8B/6{(AGF)}{(FGA)}4GF8-F/{8AF}{6DDEF}4E{8EF}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Adoro te devote
+@MARC-240m: A, vl (2), org
+@MARC-240r: D
+@MARC-2400: 3019610
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-300c: 34 x 21,5
+@MARC-3008: 01
+@MARC-500a: The main part of the text (starting from "Quæ sub") written at the bottom of the A part, not under the staves.
+@MARC-5008: 01
+@MARC-590a: A solo
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 1v, 1v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig) (2x)
+@MARC-590b: f. 2r, 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: A solo, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 268
+@MARC-6910: lit1891
+@MARC-773w: 1001041161
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 75/A II 15
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

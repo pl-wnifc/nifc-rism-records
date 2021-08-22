@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001077273
+@MARC-003:	DE-633
+@MARC-005:	20210627214947.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031o: 3/4
+@MARC-031p: 4.''C8D{6FEDC}/{8C'B}4''F8-F/{6EGFD}4C'B/{8''C'bB}4B8-6A''A/{6GGAF}4ED/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante moderato
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031o: 3/4
+@MARC-031p: 2.''C/'B/{8''FFFF}{8.Ft3EF}/{6FEAG}4G-/C2'bB/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031o: 2/4
+@MARC-031p: 8'G/{''CEGE}/{CE}4'G/{8A''C}{'B''D}/{6CDEF}8G6-'G/{8''CEGE}/{CE}{8.'G6G}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Gołąbek, Jakub
+@MARC-100d: 1739c-1789
+@MARC-100j: Ascertained
+@MARC-1000: pe30008748
+@MARC-240a: Partita
+@MARC-240m: orch, fag
+@MARC-240r: C
+@MARC-2400: 3999596
+@MARC-245a: [title page:] Parthia in C | a | Clarinetto Primo | Clarinetto Secundo | Cornu Primo | Cornu Secundo | Fagotto | Del Sign. Gołąbek
+@MARC-260c: 1770-1830
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 18 x 22 cm
+@MARC-3008: 01
+@MARC-500a: cl 2 part missing
+@MARC-5008: 01
+@MARC-590a: cl 1
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: fag (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594a: cl (2), cor (2), fag
+@MARC-599b: full
+@MARC-650a: Partitas
+@MARC-6500: 25199
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 227-228, 275
+@MARC-6910: lit1891
+@MARC-691a: ŹHMP 4
+@MARC-6910: lit50005888
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 251/A VII 11
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

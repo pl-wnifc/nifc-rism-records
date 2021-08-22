@@ -1,0 +1,80 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300605190
+@MARC-003:	DE-633
+@MARC-005:	20201029164030.0
+@MARC-028a: S. 4641.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/4
+@MARC-031p: %F-4,4GGqq,6{xFE}r,4D/,4GGqq,6{xFE}r,4D/,4GGqq,6{xFE}r,4D/,4GG%G-2'4nF//'4EEE/i/'4EEE/'2.(G)/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: risoluto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 3/4
+@MARC-031p: =4//'8ED4.C8D/'8EF4.G8A/'8GA4G''C/''2.(D)/
+@MARC-031r: C
+@MARC-031t: Szynkareczko szafareczko bóy się Boga stóy
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Hulanka
+@MARC-240m: V, pf
+@MARC-240n: op. 74/4
+@MARC-240n: ChomTurC 132
+@MARC-240r: C
+@MARC-2400: 4000175
+@MARC-245a: HULANKA, Piosnka Sielska Stef. Witwickiego, Muzyka FRYD|K|A|. CHOPIN | L’ORGIE. | Bacchanal. | N.|o 4. | CANTO. | 1830.
+@MARC-300a: p. 13-15
+@MARC-3008: 01
+@MARC-383b: op. 74/4
+@MARC-500a: At the bottom of the p. 13: Warszawa Nakład i Własność G. Gebethnera i Spółki. [space] S. 4641. [space] Berlin, Verlag und Eigenthum der Schlesinger'schen Buch-u. Musikhandlung.
+@MARC-520a: No. 4
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Lieder
+@MARC-6500: 25227
+@MARC-690a: ChomTurC
+@MARC-690n: 132
+@MARC-6900: lit30000031
+@MARC-700a: Witwicki, Stefan
+@MARC-700d: 1801-1847
+@MARC-700j: Ascertained
+@MARC-7000: pe30048733
+@MARC-7004: lyr
+@MARC-730a: L'orgie
+@MARC-730g: RISM
+@MARC-7300: 4323522
+@MARC-730a: Bacchanal
+@MARC-730g: RISM
+@MARC-7300: 4000174
+@MARC-773w: 300605186
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 963/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,104 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001034985
+@MARC-003:	DE-633
+@MARC-005:	20210627223947.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4.'D{6EC}4.D{6EC}/4.D{6GF}4.E{6AC}/4.D{6EC}4.D{6EC}/4.D{6GF}4.D{6AC}/
+@MARC-031q: +
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: {8'DF}4A{6GFED}/{8GB}4''D{6C'BAG}/{8.6AB}{8AFGE}/{8.D3EF}4E-/{8DF}4A{6GFED}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''AAA/A--/{8D'''DDCC''B}/{BAGFED}/4'A''GF/4.C{6DE}8D-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Maldere, Pierre van
+@MARC-100d: 1729-1768
+@MARC-100j: Ascertained
+@MARC-1000: pe30002048
+@MARC-240a: Symphony
+@MARC-240m: orch, b
+@MARC-240n: RomM 58
+@MARC-240r: D
+@MARC-2400: 3993700
+@MARC-245a: [title page:] Sympchonia [!] Ex D | Violino Primo | Violino Secondo | Oboe Primo | Oboe Secondo | Corno Primo | Corno Se[c]ondo | Alto Viola | et | Basso | Del Segn Vanmaldere. [!]
+@MARC-260c: ca. 1800
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 34,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: Inscriptions on the title page: "van Maldere" with pencil by Wendelin Świerczek at the top; "Ex Rebus F. Zolińs[ki]" at the bottom.
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), a-vla, ob (2), cor (2), b
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-690a: RomM
+@MARC-690n: 58
+@MARC-6900: lit841
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 274
+@MARC-6910: lit1891
+@MARC-700a: Zoliński, F.
+@MARC-700j: Ascertained
+@MARC-7000: pe41022862
+@MARC-7004: fmo
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 36/A I 36
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

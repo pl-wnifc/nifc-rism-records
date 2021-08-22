@@ -1,0 +1,142 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001027079
+@MARC-003:	DE-633
+@MARC-005:	20201025191500.0
+@MARC-028a: J. M. 2187.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''6{GFD'B}/2F4B''C/'xA8-F8{B''CDE}/2F4.A8G/2F8-
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Scherzo. Molto vivace
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: ,8{GA}/{nA'C,B'GDF}/{E,GB'EGA/{nA''C'B''GDF}/{E'GB''EGA/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGDA
+@MARC-031o: c
+@MARC-031p: '3D8..{C3D}8..{,B3'D}8..{,A3B}/8..{G3'E}2.E+/4E8.{nD6C}4nF8.{xF6xA}/''2C4'B
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Finale. Presto non tanto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: '4.F''F/'''F'F/F''F/'''F'F/
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Finale. Agitato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: =8/%f-4,8{BDF}{GExA}/{BDF}{GExA}/{BFB}q'8Cr{,BxAB}/'2.D+/8{D,FA}-
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Sonatas
+@MARC-240m: pf
+@MARC-240n: op. 58
+@MARC-240n: ChomTurC 203
+@MARC-240r: b
+@MARC-2400: 3900185
+@MARC-245a: SONATE | POUR LE | PIANO | Dédiée à Madame la Comtesse | E. de Perthuis, | PAR | F. CHOPIN. | A. Vialon. | Op: 58. [space] Prix 15.|f | A PARIS, chez J. MEISSONNIER, Rue Dauphine, 22. | Londres, Wessel et C|I.|E [space] J. M. 2187. [space] Leipzig, Breitkopf et Hartel.
+@MARC-260a: Paris
+@MARC-260b: J. Meissonnier
+@MARC-260c: [1845-1847]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 33,5 x 26,5 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 58
+@MARC-500a: TP engraved, p. [ii, 1] blank, p. 2-30 engraved, p. [31, 32] blank.
+@MARC-500a: TP: publisher’s oval stamp; inscription in pencil "[1845, II nakł.]".
+@MARC-500a: Heading, p. 2: SONATE | par F. CHOPIN op: 58
+@MARC-500a: Plate number p. 2-30: J. M. 2187.
+@MARC-500a: Double p. numbering: printed, No: 2-30, stamp, No: 225-258.
+@MARC-506a: Treasury of the Library
+@MARC-590a: pf
+@MARC-590b: 30 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Corrected reprint
+@MARC-6500: 50000886
+@MARC-690a: ChomTurC
+@MARC-690n: 203
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 58-1a-MEIj
+@MARC-6910: lit30025545
+@MARC-691a: EMF/1988
+@MARC-691n: p. 316, 317
+@MARC-6910: lit50005822
+@MARC-700a: Perthuis, Elise de
+@MARC-700d: 1801-1880
+@MARC-700j: Ascertained
+@MARC-7000: pe232298
+@MARC-7004: dte
+@MARC-700a: Vialon, A.
+@MARC-700j: Ascertained
+@MARC-7000: pe30043803
+@MARC-7004: egr
+@MARC-710a: Meissonnier, J.
+@MARC-710g: Ascertained
+@MARC-7100: ks40007378
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 4058/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

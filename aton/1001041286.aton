@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041286
+@MARC-003:	DE-633
+@MARC-005:	20210613225646.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Vivace
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =13/8'A4''D8EqE4.D6{C'B}/{AB''CD}8E'G6qAGF8F4-/8A''4D8C6qE4.D{6C'B}/
+@MARC-031r: D
+@MARC-031t: Jesu rex admirabilis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8'A4''D8C6qE4.D{6C'B}/{AB''CD}{8E'G}{GF}4-/8A4''D8C6qE4.D{8C'B}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Jesu rex admirabilis
+@MARC-240m: S, vl (2), b
+@MARC-240r: D
+@MARC-2400: 3928281
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-590a: S solo
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 268
+@MARC-6910: lit1891
+@MARC-773w: 1001041285
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 220/A VI 24
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

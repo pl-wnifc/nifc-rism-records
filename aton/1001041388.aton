@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041388
+@MARC-003:	DE-633
+@MARC-005:	20201115123534.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro non molto
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =34/8,FqG{6FE}8FC/4FG/{6AG}8F4-/8,FqG{6FE}8FC/4FG/{6AG}8F4-/
+@MARC-031r: F
+@MARC-031t: Collaudemus Christum regem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro non molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8''F{3FEFG}{8FC}/{8.6FA}{GB}/{6AG8F}4-/8'F{3FEFG}8{FC}/{F6FA}{8G6GB}/{AG8F}4-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Collaudemus Christum regem
+@MARC-240m: B, vl (2), b
+@MARC-240r: F
+@MARC-2400: 50701
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-590a: B solo
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-590a: vl (fl) 1, 2
+@MARC-590b: f. 1v, 1v
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: vl (fl)
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: B solo, vl (fl) (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 266
+@MARC-6910: lit1891
+@MARC-773w: 1001041385
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 105/A III 5
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

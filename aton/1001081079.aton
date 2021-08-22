@@ -1,0 +1,167 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001081079
+@MARC-003:	DE-633
+@MARC-005:	20210122154024.0
+@MARC-028a: B. et Ci.e 4744.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''8.{D6C}/'4BGxF8.{G6E}//:4.Dq8nFr8E4DD/D8.{nE6xF}4G''C/
+@MARC-031q: sostenuto
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4-/=7/,8.{A6B}2(A)8.'{D6C)/,4BGxF8.{G6E}/4.Dq8FrE4DD/
+@MARC-031q: dolce
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Scherzo.
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: ,4A/A8{AB}{BA}/8{A'DxCD}4E/F,8{ABBA}/{AFED}4E/,,A
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: vlc
+@MARC-031n: bBE
+@MARC-031o: 3/2
+@MARC-031p: '2D8{EDCG}4.F8E}/4.D,8B4Bqq6{'C,BAB}r'8.{D6C}4C-/%F-4,,2B4.E,,8C2F/G,,C4F-/
+@MARC-031q: Cantabile
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Finale. Allegro
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 4D8.{A8B}4(8{AxGnG};3)4(8{G''ED};3)/4(8{DxCnC};3)4C8{C'nBbB}8.{B6B}/8{BnEA}{A6-xF}8{G6-D}8.{G6E}/4(8{FGA};3)4AnB''8{xCDnE}/4xF4('''8{EDC};3)''8{ADnF}{EC'A}/4D
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Finale. Allegro
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: =4/1-/,4D8.{A6B}4(8{AxGnG};3)4(8{G'ED};3)/4(8{DxCnC};3)4C4(8{C,nBbB};3)8.{B6B}/4(,8{B,nEA};3)8.{AxF}8.{G6D}8.{G6E}/8{FGA}4A+8{A'DF}4F/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Sonatas
+@MARC-240m: pf, vlc
+@MARC-240n: op. 65
+@MARC-240n: ChomTurC 204
+@MARC-240r: g
+@MARC-2400: 3900185
+@MARC-245a: SONATE | POUR | Piano et Violoncelle, | dédiée à son ami | A. Franchomme, | Professeur au Conservatoire de Paris, | PAR | F. CHOPIN. | A.V. | Op: 65. [space] Prix 15.|f | PARIS, | Maison M.|C|E SCHLESINGER, BRANDUS et C.|I|E Successeurs, Rue Richelieu, N|o 97. | Leipzig, chez Breitkopf et Hartel [!]. [space] B. et C.|I|E 4744. [space] Londres, Jullien et C.|I|E
+@MARC-260a: Paris
+@MARC-260b: Brandus et Cie.
+@MARC-260c: 184712-184801
+@MARC-2608: 01
+@MARC-260a: Leipzig
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-2608: 01
+@MARC-260a: Londres
+@MARC-260b: Jullien &amp; Cie
+@MARC-2608: 01
+@MARC-300a: 1 score
+@MARC-300c: 33,5 x 26,5 cm
+@MARC-3008: 01
+@MARC-383b: op. 65
+@MARC-500a: Page [i]: TP, p. [ii] blank.
+@MARC-5008: 01
+@MARC-500a: Pages 1-31: musical text, p. [32]: blank.
+@MARC-5008: 01
+@MARC-500a: p. 1, heading: | F. CHOPIN. [space] Op. 65. | SONATE.
+@MARC-5008: 01
+@MARC-500a: Footline p. 1: B. et Ci.e 4744. » Brandus et C|i.|e rue Richelieu 97.; p. 2, 8: » B. et Ci.e 4744.; p. 3-16, 18-31: B. et C|i.|e 4744.; p. 17: B. et C|i.|e 4744. «
+@MARC-5008: 01
+@MARC-500a: Score only; vlc part: missing.
+@MARC-5003: 51006104
+@MARC-500a: Title page, top right corner: , annotation in pencil "a son ami Zimmermann | F. Chopin | Paris 17 fevr. 48."
+@MARC-5003: 51006104
+@MARC-500a: Title page: publisher’s signature stamp.
+@MARC-5003: 51006104
+@MARC-506a: Treasury of the Fryderyk Chopin Museum in Warsaw
+@MARC-5063: 51006104
+@MARC-561a: Purchase: Legoux Antique Shop, Paris, 1957.
+@MARC-5613: 51006104
+@MARC-590a: Score (vlc, pf)
+@MARC-590b: 31p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-593a: Print with autograph annotations
+@MARC-5933: 51006104
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: pf , vlc
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-690a: ChomTurC
+@MARC-690n: 204
+@MARC-6900: lit30000031
+@MARC-691a: ACO Chopin
+@MARC-691n: 65–1-BR
+@MARC-6910: lit41000057
+@MARC-700a: Franchomme, Auguste
+@MARC-700d: 1808-1884
+@MARC-7000: pe69970
+@MARC-7004: dte
+@MARC-700a: Zimmermann, Pierre-Joseph-Guillaume
+@MARC-700d: 1785-1853
+@MARC-700j: Ascertained
+@MARC-7000: pe100786
+@MARC-7003: 51006104
+@MARC-7004: dte
+@MARC-710a: Brandus et Cie.
+@MARC-7100: ks30080942
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Jullien &amp; Co
+@MARC-7100: ks51003163
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51006104
+@MARC-852c: M/158
+@@END:		MARC21
+

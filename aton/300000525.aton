@@ -1,0 +1,216 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000525
+@MARC-003:	DE-633
+@MARC-005:	20201029163341.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2'AA/AA/B4AxG/A6{A''CEC}4CC/D6{DFAF}
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: g-2
+@MARC-031m: Coro T 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.,A8A4AA/2AA/4.B8B4AxG/8.A6A4A-'xC/D-
+@MARC-031r: F
+@MARC-031t: Requiem, aeternam dona eis Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro con fuoco
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8.{6'CD}6{EDEF}8{GnB}/4''CCE/4.E8{DC'nB}/4''C
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: Coro T 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =1/4-''CE/4.E8DC'nB/4''CC-/-n'BB/8.6''CD4E-/
+@MARC-031r: c
+@MARC-031t: Dies irae, dies illa solvet saeclum in favilla
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Offertorium
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031o: 3/4
+@MARC-031p: 4.''G8F4E/{8ED}4C'B/''C8-'{G''CE}/2D4G/E8-{'G''CE}/2D4D/C
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: Coro T 1
+@MARC-031o: 3/4
+@MARC-031p: 4.''G8F4E/8ED4C'B/''C--/DDG/E--/DDD/C
+@MARC-031r: C
+@MARC-031t: Domine Jesu Christe, rex gloriae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4'GGGG/2E-/4BBBB/2G-/''EE/'E-/-4AG/2F4AG/F
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Coro T 1
+@MARC-031g: G-2
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 1'G/2E-/1B/2G-/''1E/2'E-/-4A8GG/4FFAG/F
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: {8,B6'DF}4B-B/E8{(GB''E)}4G8-G/{FB8.D6F}{8F'FGA}/4''C8{DC}4'B-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: Coro T 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =4/2'B''C/4D'B-''F/E8DD4C8'B''D/4.D8D4C-/
+@MARC-031r: B|b
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4'AA/''2F4E8{DnC}/4C2'B4A/2AxG/A
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: Coro T 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4'AA/''F8FF4E8DC/4C'B-A/AxG2G/A
+@MARC-031r: F
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 8'G-2.G/2G-/4-2.G/2G-/AG/4FAAA/''D-
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: Coro T 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4-2'G4G/GG2-/4-GGG/GG2-/2AG/4FAAA/''DD
+@MARC-031r: F
+@MARC-031t: Lux aeterna, luceat eis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Jarecki, Józef
+@MARC-100d: 1818-1871
+@MARC-100j: Conjectural
+@MARC-1000: pe41001558
+@MARC-240a: Requiems
+@MARC-240m: Coro maschile, org
+@MARC-240r: F
+@MARC-2400: 3900193
+@MARC-245a: [caption title:] Requiem. par. Jarocki
+@MARC-260c: 1851-1900
+@MARC-2608: 01
+@MARC-300a: score: 4f.
+@MARC-300c: 22 x 18 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: f. 1 naddarte w dolnej części; uszkodzony fragment zapisu nutowego]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawna sygnatura na f. 1r: ołówkiem ręką W. Świerczka "179" w kółku]
+@MARC-500a: [pl-text: Podłużna pieczęć "Własność Bazyliki Jasnogórskiej:" na f. 1r, 4r i 4v]
+@MARC-500a: [pl-text: Rękopis posiada oryginalną paginację: w górnych rogach stron wpisane czarnym atramentem numery 1-7; późniejsza numeracja folio ołówkiem 1-4]
+@MARC-561a: [on stamp:] Własność Bazyliki Jasnogórskiej:
+@MARC-592a: [without watermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro T (2), Coro B, org
+@MARC-599b: full
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 630
+@MARC-6910: lit1869
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 179
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-37
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

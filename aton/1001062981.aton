@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001062981
+@MARC-003:	DE-633
+@MARC-005:	20210707113435.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =10/8'B4B6{''C'A}/8B6{(''EDC)}8'B8-/8''C4C6{'B''E}/8'AG4-/8B4B8B/
+@MARC-031q: +
+@MARC-031r: E
+@MARC-031t: Levavi oculos meos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGD
+@MARC-031o: 2/4
+@MARC-031p: 8'B4B6{(''C'BA)}/8B6{(''EDC)}8{'BG}/8''C4C6{'B''E}/8{'AG}4-/8B4B8''A/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Loos, Karel
+@MARC-100d: 1724c-1772
+@MARC-100j: Ascertained
+@MARC-1000: pe30002000
+@MARC-240a: Levavi oculos meos
+@MARC-240m: V (4), orch, b
+@MARC-240r: E
+@MARC-2400: 3923081
+@MARC-245a: [S caption title:] Offertorium Secundum
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: Inscriptions: "Del Segn. Loos" at the top of S f. 1v; "Del Sgn Loos" at the top of vl 2 f. 1v.
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 1v, 1v, 1r-1v, 1v
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2r, 1v
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: lituo
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), ob (2), lituo (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 258
+@MARC-6910: lit1891
+@MARC-773w: 1001062977
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 222/A VI 26
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

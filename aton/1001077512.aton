@@ -1,0 +1,49 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001077512
+@MARC-003:	DE-633
+@MARC-005:	20210517152439.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: 2/4
+@MARC-031p: 4''E^'''C''E^G/{6EFGE}{8C'G}/{E^''C'E^''C}{'G^B^''D'G^B^''D}/{6C^E'B^''DC^ED^F}4E^G/{8F^AF^A}{6F^AA^'''C''G^BF^A}/{8E^GE^G}4E^G/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Naumann, Johann Gottlieb
+@MARC-100d: 1741-1801
+@MARC-100j: Ascertained
+@MARC-1000: pe90691
+@MARC-240a: Cora och Alonzo
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240o: Arr
+@MARC-240r: C
+@MARC-2400: 3911089
+@MARC-245a: [caption title:] Marsz
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Composer and piece identified on the basis of RISM ID 455039410, 301000522.
+@MARC-590a: keyb
+@MARC-590b: p. 13
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Marches
+@MARC-6500: 25189
+@MARC-773w: 1001077290
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 573/A IX 53
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

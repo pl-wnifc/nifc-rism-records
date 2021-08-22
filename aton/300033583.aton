@@ -1,0 +1,476 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033583
+@MARC-003:	DE-633
+@MARC-005:	20201029163431.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Dixit, (Cum invocarem).
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: ''{8E'''C''DG}{6EF8G}{F6ED}/{EFEF}{8GG}{6GAGA}{8B'''C}/{C''6BA}4B'''C
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: ''4ED8E'6BB''8C6DD/8EE-EDCDC/{C'6BA}4B
+@MARC-031r: C
+@MARC-031t: Dixit Dominus, Domino meo sede a dextris meis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Confitebor
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: =2/6-{''6EEE}{EEAA}{8AxG}-{6GG}/{8ABB'''C}{6'''D''B'''C''E}{8DB}/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Confitebor (In te Domine speravi).
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: '8.A''6C'BA8BE''4D{6C'B}/''C'B8.A
+@MARC-031r: a
+@MARC-031t: Confitebor, tibi Domine in toto corde meo in consilio justorum et congregatione
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Beatus vir
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8-{''6GA}{8BE}4F/E8-{EFG}/4E{6xD'B''CD}{8EE}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Beatus vir.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: '4B''ExD/8E'E''4..C'6B/8.B6A8B6BB8BB/BA
+@MARC-031r: G
+@MARC-031t: Beatus vir, qui timet Dominum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Laudate
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 8-/=1/4-6-'{GAB}{''3CD8.E}{3EF8.G}/'{8B''C}6-{DEF}{GFG}{AGF}{3E6.A3xF6.C}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Laudate pueri.
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031o: c
+@MARC-031p: '8G/''CCC6CC'B''C8C-'G/''DD
+@MARC-031r: C
+@MARC-031t: Laudate pueri, Dominum laudate nomen Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Laudate Dominum
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8-''{6FG}{8AE}{FA}{6AAAA}/{8AF}{6BBBB}{BEFG}{AAAA}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Laudate Dominum.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8-''FFEF6EF8G{6FE}/8FD
+@MARC-031r: D
+@MARC-031t: Laudate Dominum, omnes gentes laudate eum omnes populi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: In exitu
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: {''8DB}{8A6GF}{8BAGF}/{GBBB}{G6AG}{8FG}/{8G6FE}4FG4-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: In exitu.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: '8-BA''6DD'8B6AA8B''C/DDDD
+@MARC-031r: G
+@MARC-031t: In exitu Israel, de Aegypto domus Jacob
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Laetetus
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 8-/2-8-{6'AB}{8''CD}/{C'BAF}{BAGC}/{8F6''AA}{AAAA}{AFC'A}{F''FFF}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Laetatus sum.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ''8C/'8.A6A8B{6AB}''8CC'A''6FF/8E6D
+@MARC-031r: F
+@MARC-031t: Laetatus sum, in his quae dicta sunt mihi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Nisi Dominus
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4''DD{6DxCDE}{FGAB}/{8xCD}6-{''AGA}{BDBD}{CEGB}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031d: Nisi Dominus.
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ,4Aq8G4Fq8E8D6xCD8-'C/,A{6GF}8G6FE8FD
+@MARC-031r: d
+@MARC-031t: Nisi Dominus, aedificaverit domum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Lauda Jerusalem
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/2
+@MARC-031p: 4''DBCA'B''G/{8'AFGA}{B''CDE}4F{8GA}/4BDCBCA/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 2
+@MARC-031d: Lauda Jerusalem.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/2
+@MARC-031p: ''2DC'B/2.A4A2B+/4B''E2.C4C/D
+@MARC-031r: B|b
+@MARC-031t: Lauda Jerusalem, Dominum lauda Deum tuum Sion
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Credidi
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: '''6{D''AFA}{8'''D''FE'''C}/{8'''D6''FE}{8D'''DCC}/{''BD}{G6EG}{8'A''G}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 2
+@MARC-031d: Credidi.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: ''8F6FF8DFEE/4.F8FE6CC/
+@MARC-031r: G
+@MARC-031t: Credidi, propter quod locutus sum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: In convertendo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =2/8-{''6FF}{FFFF}{xAAAA}{BFxAF}/{BAxGB}{AxGFE}{8xD6xGF}{8xEF}/
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 2
+@MARC-031d: In convertendo.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''8-FgE8D{6C'B}8xAB''6C'FF''C/8DC'4.B''8C'4xA/8B
+@MARC-031r: b
+@MARC-031t: In convertendo, Dominus captivitatem Sion
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 1
+@MARC-031d: Domine probasti
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: =1/4-8-''8E{6EEEE}{EEAA}/{GFGE}{FEFD}{EFGE}{8A6GF}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 2
+@MARC-031d: Domine probasti me.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: '6AAAA{AG}{AB}8A''E{6'B''D}{C'B}/''8.C'6B8A
+@MARC-031r: A
+@MARC-031t: Domine probasti me, et cognovisti me
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 13
+@MARC-031c: 1
+@MARC-031d: Memento
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: {8''D'6B''C}{8''DE}{ED}{6GDED}/{8C'6BA}{8B6AG}4BA/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 13
+@MARC-031c: 2
+@MARC-031d: Memento Domine.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''6-D'B''C8D6EE8ED6-DED/8C'{6BA}8B6AG4BA/G
+@MARC-031r: B|b
+@MARC-031t: Memento Domine David, et omnis mansuetudinis ejus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 14
+@MARC-031c: 1
+@MARC-031d: Confitebor
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =1/2-6-''{BBB}{BBBB}/{'''CC''AA}{FFAA}{BBGG}{EEGG}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 14
+@MARC-031c: 2
+@MARC-031d: Confitebor.
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: ,8B'E6DC,BA8.G6FEEGB/'8C,B4G8G
+@MARC-031r: E|b
+@MARC-031t: Confitebor, tibi Domine in toto corde meo in consilio justorum et congregatione
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 15
+@MARC-031c: 1
+@MARC-031d: De profundis
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2GF+/FE/GA+/AG/{8G''GGG}{6GC8C}{8B6AG}/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 15
+@MARC-031c: 2
+@MARC-031d: De profundis.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: '4.G8C{6C,nB}4B'8C/AAA{6GF}ED8C''8.C'6G/4G8-
+@MARC-031r: c
+@MARC-031t: De profundis, clamavi ad te Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 16
+@MARC-031c: 1
+@MARC-031d: Beati omnes
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: {6''EA'''C''A}{FADG}{EGCE}{DBxGD}/{EC'AE}{8,A'E}{''8.D6C}{6DxGGG}/{GF}4E8A{DADxG/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 16
+@MARC-031c: 2
+@MARC-031d: Beati omnes.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: ''8-EF{6ED}8E6DC8D{6C'B}/''8.C'6B8A
+@MARC-031r: C
+@MARC-031t: Beati omnes, qui timent Dominum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 17
+@MARC-031c: 1
+@MARC-031d: Magnificat
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: {6''ECEG}{8'''C''G}{AA}{GG}/{GG}{A6AA}{8B'''6C''A}4B/{8'''C''G}{6GGGG}{GGGG}{8GxF}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 17
+@MARC-031c: 2
+@MARC-031d: Magnificat.
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: ''2C4.D6CD/4E6DC8D'A({B''CD})'8.B''6C/8C
+@MARC-031r: C
+@MARC-031t: Magnificat, anima mea Dominum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Brykner, Jerzy
+@MARC-100d: 1705-1760
+@MARC-100j: Ascertained
+@MARC-1000: pe30025739
+@MARC-240a: Vespers
+@MARC-240m: V (2), Coro, orch, bc
+@MARC-240r: C
+@MARC-2400: 3900116
+@MARC-245a: [cover title:] Vespere pro toto a[nn]o. | Canto Basso | V Violinis 2bus | C Clarinis 2bus | Con | Organo | Authore R[everendo] P[atre] Erico Brýkner | ord[inis] S[ancti] P[auli] Primi Eremitae | Pro Horo Musico Ecclesiae Parochialis Kłob[ucensis]. | Canonicor[um] Reg[ularium] Lat[eranensium] A[nn]o 1794 | Od P. Chwasteckiego | Organisty Kłobuck.
+@MARC-300a: 5 parts
+@MARC-300c: 36,5 x 23 cm
+@MARC-3008: 01
+@MARC-500a: clno 1, 2 missing
+@MARC-5008: 01
+@MARC-500a: In den Stimmen: S, B - "Pro Horo Musico Ecclesiae Parochialis Kłob[ucensi] Canonicorum Reg[ularium] Lat[eranensium] A[nn]o 1794", S - "XAW [vermutlich ks. Antoni Wybranowski]"
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: U góry na środku ołówkiem ręką nieznanego Paulina "N|o 39"; skreślono czerwonym tuszem; poniżej z prawej strony czerwonym tuszem ręką F. Maletza "N 1328/628."; w lewym górnym rogu ołówkiem ręką W. Świerczka "868" w owalnym kółku]
+@MARC-500a: [pl-text: Na dole okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona czerwoną kredką oraz parafowana]
+@MARC-500a: [pl-text: Na karcie f. 1r partii S na dole notatka: "Pro Horo Musico Ecclesiae Parochialis Kłob[ucensis]. | Canonicor[um] Reg[ularium] Lat[eranensium] A[nn]o 1794. | Od P. Chwasteckiego | Organisty Kłobuck."; Na f. 1r B: Pro Horo Musico Ecclesiae Parochialis Kłob[ucensis]. | Canonicorum Reg[ularium] Lat[eranensium] A[nn]o 1794. | Od P. Chwasteckiego | Organisty dawane[?] ]
+@MARC-500a: [pl-text: Na f. 8v partii S tuszem: "[sic!:]Panie Boze mui dopomus mi"
+@MARC-500a: [pl-text: Konkordancja: ID RISM 300001459 (PL-CZ III-808) ]
+@MARC-561a: Klasztor Kanoników Regularnych Laterańskich, Kłobuck
+@MARC-590a: S, B, vl 1, 2, org (= bc)
+@MARC-590b: 8, 8, 6, 5, 6f.
+@MARC-5908: 01
+@MARC-592a: [cover:] W (crowned) / [without countermark]
+@MARC-5928: 01
+@MARC-592a: [silesian eagle] | oels 1760 / W (crowned)
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: clno 1, 2
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, B, Coro S, Coro B, vl 1, vl 2, clno 1, 2, org
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 32
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.95
+@MARC-6910: lit1869
+@MARC-700a: Chwastecki
+@MARC-700j: Conjectural
+@MARC-7000: pe30040678
+@MARC-7004: fmo
+@MARC-700a: Wybranowski, Antoni
+@MARC-700j: Conjectural
+@MARC-7000: pe30040656
+@MARC-7004: fmo
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7008: 01
+@MARC-710a: Klasztor Kanoników Regularnych Laterańskich
+@MARC-7100: ks30019072
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 39
+@MARC-852d: N 1328/628
+@MARC-852d: 868
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-50
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

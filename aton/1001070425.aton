@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001070425
+@MARC-003:	DE-633
+@MARC-005:	20210627213640.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: {6B''C}8/{DDDG}/{DDD'B}/{GG6}{BAGA}8/{BGG}{6B''C}8/{DDDG}/{DDD'B}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Boieldieu, Adrien
+@MARC-100d: 1775-1834
+@MARC-100j: Ascertained
+@MARC-1000: pe23607
+@MARC-240a: Le Calife de Bagdad
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240o: Arr
+@MARC-240r: G
+@MARC-2400: 3906053
+@MARC-245a: [caption title:] La Bagdad
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 551006756, 551005149.
+@MARC-500a: Concordance to RISM ID 1001077560 (PL-SA 575/A IX 55).
+@MARC-590a: keyb
+@MARC-590b: p. 3
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Quadrilles
+@MARC-6500: 25407
+@MARC-650a: Arrangements
+@MARC-6500: 25507
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-730a: La Bagdad
+@MARC-730g: RISM
+@MARC-7300: 3917044
+@MARC-773w: 1001070420
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 481/A VIII 121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

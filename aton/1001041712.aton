@@ -1,0 +1,121 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001041712
+@MARC-003:	DE-633
+@MARC-005:	20210128160042.0
+@MARC-028a: J. M. 3532.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: pf (secondo)
+@MARC-031o: c
+@MARC-031p: =4/'1G/2FE/2.E8.{F6E}/1D/2F-/=3/''1D/2DxD/1xD/2E-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Rondos
+@MARC-240m: pf (2)
+@MARC-240n: op. 73
+@MARC-240n: ChomTurC 196
+@MARC-240r: C
+@MARC-2400: 3901754
+@MARC-245a: [Heading, p. 2:] RONDO | Pour deux Pianos | par | FRÉDÉRIC CHOPIN. | OEuvres posthumes. [space] 8|è|m|e Livraison. | (1828)
+@MARC-260a: Paris
+@MARC-260b: J. Meissonnier et fils
+@MARC-260c: [1855-1856]
+@MARC-260e: Paris
+@MARC-260f: Bauve, L. Martinet
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-3008: 01
+@MARC-300c: 34,0 x 26,0 cm
+@MARC-3003: 328623
+@MARC-300a: Piano (secondo) part: only.
+@MARC-300c: 34,5 x 27,0 cm
+@MARC-3003: 328624
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 73
+@MARC-500a: P. [1] blank, p. 2-15 engraved, p. [16] blank.
+@MARC-500a: Footline, p. 2: Paris, Imp. Bauve, 14 rue S.|t Marc. [space] J. M. 3532.
+@MARC-500a: Plate number p. 3-15: J. M. 3532.
+@MARC-500a: Incomplete source. Piano (primo) missing, except for the last p.: 17.
+@MARC-5003: 328623
+@MARC-500a: Wrapper, side [1]: publisher's oval stamp.
+@MARC-5003: 328623
+@MARC-500a: Page [1]: "P.II" written by hand in pencil.
+@MARC-5003: 328623
+@MARC-500a: Incomplete source. Piano (primo) part: missing.
+@MARC-5003: 328624
+@MARC-500a: P [1]: stamp "EX LIBRIS | ALEXIS ROSTAND"; inscription in pencil "[VII, 1855] | P. II".
+@MARC-5003: 328624
+@MARC-506a: Treasury of the Library
+@MARC-5063: 328623
+@MARC-506a: Treasury of the Library
+@MARC-5063: 328624
+@MARC-520a: In the series: Oeuvres Posthumes pour piano de Fréd. Chopin publiés sur manustrits originaux avec autorisation de sa famille par Jules FONTANA. Book VIII.
+@MARC-590a: pf 2
+@MARC-590b: 15 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf 2
+@MARC-594c: 1
+@MARC-594a: pf 2
+@MARC-599b: full
+@MARC-650a: Rondos (inst.)
+@MARC-6500: 3000036
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 196
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 73-1-MEIf
+@MARC-6910: lit30025545
+@MARC-700a: Fontana, Julian
+@MARC-700d: 1810-1869
+@MARC-700j: Ascertained
+@MARC-7000: pe30108218
+@MARC-7004: edt
+@MARC-710a: J. Meissonnier et fils
+@MARC-710g: Ascertained
+@MARC-7100: ks30080864
+@MARC-7104: pbl
+@MARC-710a: Adolph Martin Schlesinger
+@MARC-7100: ks40009753
+@MARC-7104: pbl
+@MARC-710a: Stationers' Company
+@MARC-7100: ks51000340
+@MARC-7104: oth
+@MARC-710a: Bauve
+@MARC-7100: ks40091363
+@MARC-7104: prt
+@MARC-710a: Imprimerie de L. Martinet
+@MARC-7100: ks51000063
+@MARC-7104: prt
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 328623
+@MARC-852c: 4770/n
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 328624
+@MARC-852c: 1649/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

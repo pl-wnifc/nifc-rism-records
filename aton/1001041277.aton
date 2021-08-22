@@ -1,0 +1,97 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041277
+@MARC-003:	DE-633
+@MARC-005:	20210706182523.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o non tanto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: =18/8{'A''C}E/{EA}E/{EF}'A/qA4G8A/8''Dq'B4B/8qB4''C8E/
+@MARC-031r: A
+@MARC-031t: O mater intercede
+@MARC-031t: La dolcissima saetta nel mio sen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: All[egr]o non tanto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: 8{'A''CE}/{EAE+}/{EF'A}/qA4G8A/6{(B''CD)}8qC4'B/{8''CDE}/6{(FGA)}{8DC}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-041a: ita
+@MARC-100a: Hasse, Johann Adolf
+@MARC-100d: 1699-1783
+@MARC-100j: Ascertained
+@MARC-1000: pe51928
+@MARC-240a: Alfonso
+@MARC-240k: Excerpts
+@MARC-2400: 3905561
+@MARC-245a: [S caption title:] Aria 1ma
+@MARC-260c: 1738-1799
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: Inscription: "Laudetur" on the back of the cover.
+@MARC-500a: Both Latin and original Italian lyrics in S part.
+@MARC-500a: Composer identified on the basis of RISM ID 300511254, 270000668, 200043748.
+@MARC-590a: S solo
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: f. 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), a-vla, b
+@MARC-599b: full
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Contrafacta
+@MARC-6500: 25455
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 269
+@MARC-6910: lit1891
+@MARC-730a: O mater intercede
+@MARC-730g: RISM
+@MARC-730m: S, strings, b
+@MARC-730r: A
+@MARC-7300: 5035380
+@MARC-730a: La dolcissima saetta nel mio sen
+@MARC-730g: RISM
+@MARC-7300: 3905555
+@MARC-773w: 1001041276
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 96/A II 36
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

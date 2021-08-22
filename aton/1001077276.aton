@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001077276
+@MARC-003:	DE-633
+@MARC-005:	20210411201531.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Larghetto
+@MARC-031g: G-2
+@MARC-031m: fl 1
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: 4.''D+/6{DBAGFE}/{DC}4C/{8'B''CD}/{8.E6G}{FA}/{3GFBA}{GFED}{C'BAG}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: fl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8''D/4G{6BAGF}4G8-G/qF4E{8.6DG}8qF4E{8.6DxD}/4E{6GFExD}4E8-E/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: fl 1
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: {6''D3'B''C}{DDDD}/{D3GA}8gB{6B3AG}8gG{6F3ED}/{6C3'AB}{6''CCCC}/{C3FG}8gA{6A3GF}8gF{6E3DC}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Mysliveček, Josef
+@MARC-100d: 1737-1781
+@MARC-100j: Ascertained
+@MARC-1000: pe30002301
+@MARC-240a: Trio
+@MARC-240m: fl (2), vlc
+@MARC-240n: EvaM 3: G 3
+@MARC-240r: G
+@MARC-2400: 50236607
+@MARC-245a: [title page:] Trio. | Flauto Primo | Flauto Secundo. | et | Violonczello. [!] | Del: Sign: Misliweczek. | I: Karczewski.
+@MARC-260c: 1770-1830
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-300c: 19 x 15,5 cm
+@MARC-3008: 01
+@MARC-500a: In the fl 2 part caption "Violino secundo".
+@MARC-5008: 01
+@MARC-590a: fl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vlc
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: fl (2), vlc
+@MARC-599b: full
+@MARC-650a: Trios (inst.)
+@MARC-6500: 25217
+@MARC-690a: EvaM
+@MARC-690n: 3: G 3
+@MARC-6900: lit1366
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 250
+@MARC-6910: lit1891
+@MARC-700a: Karczewski, J.
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe50041507
+@MARC-7004: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 269/A VII 29
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

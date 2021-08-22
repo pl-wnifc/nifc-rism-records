@@ -1,0 +1,86 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033584
+@MARC-003:	DE-633
+@MARC-005:	20201029163431.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: ''1C/2.D4E/2F4ED/2.C4C/'2B''C/'B''E/
+@MARC-031r: C
+@MARC-031t: Vos saeculorum judices, et vera mundi lumina
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Brykner, Jerzy
+@MARC-100d: 1705-1760
+@MARC-100j: Ascertained
+@MARC-1000: pe30025739
+@MARC-240a: Exsultet orbis gaudiis
+@MARC-240m: Coro, bc
+@MARC-240r: C
+@MARC-2400: 3901756
+@MARC-245a: [dust cover title:] Hymnus | pro | Festis Apostolorum | á | Canto, Alto, Tenore, Basso. | C M. C. | Authore P[at]re Erico Brikner. | O.S.P.P.E.
+@MARC-300a: 5 parts
+@MARC-300c: 15 x 20 cm
+@MARC-3008: 01
+@MARC-500a: dust cover title: 21 x 16 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: Karty są pocięte z większych arkuszy papieru, na kartach występują tylko fragmenty znaków wodnych]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: w prawym górnym rogu tuszem "Num. 43"; u góry na środku ołówkiem ręką W. Świerczka "869" w owalnym kółku]
+@MARC-500a: [pl-text: Poniżej środka z prawej strony okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Notatka na f. 1v partii S: "In Octava SS. Apostolorum | Petri et Pauli | in | utriusque Vesperis | V[erset] Costitutes cos Principes Super omnem | terram | R.[esponsum] Memores erunt Nominis tui D[omi]ne"; Notatka na dole f. 1r partii A: " In 1|mis Vesp: V. In omnem terram exivit Song[?] Eorum.| R. Et in fines orbis terra verba Eoru. | In 2|dis Vesp: R. Et faacta Ejus intellexerunt." ]
+@MARC-500a: [pl-text: Partia org na f. 1v ma fragment innej kompozycji, gdyż powstała na papierze z pociętego utworu]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-500a: Mehrstimmig sind nur die gerade Strophen vertont
+@MARC-563a: [pl-text: brzeg okładki wyklejony jest paskiem z papieru]
+@MARC-5638: 01
+@MARC-590a: S, A, T, B, org (= bc)
+@MARC-590b: 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [partial, illegible]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, org (= bc)
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-657a: Commune Apostolorum
+@MARC-6570: 24332
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.96
+@MARC-6910: lit1869
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: Num 34
+@MARC-852d: 869
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-2
+@@END:		MARC21
+

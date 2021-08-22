@@ -1,0 +1,100 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001039860
+@MARC-003:	DE-633
+@MARC-005:	20210627221318.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 8-''ECC4C8'BB/8.''C6C8C-2-/8-ECC4C8'B''D/8.C6C8CED6DD8ED/
+@MARC-031r: C
+@MARC-031t: Te Deum patrem ingenitum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c/
+@MARC-031p: 8-''G{6GG'G''G}{GFFF}{FGFG}/{ECCC}{GCCC}{ADDD}{B'''C''AB}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Krzewdzieński, Paweł
+@MARC-100d: 17/18
+@MARC-100j: Ascertained
+@MARC-1000: pe41012328
+@MARC-240a: Te Deum patrem ingenitum
+@MARC-240m: V (4), orch, b
+@MARC-240r: C
+@MARC-2400: 3922762
+@MARC-245a: [cover title:] Motetto de SSma Trinitate | Te Deum Patrem ingenitum | a 8 | Canto Alto | Tenore Basso | Violinis 2 | Clar. 2 | Authore D. Pauli Krzewdzienski Sandomiria | Anno D[omi]ni 1723. Mensis Apr. 25.
+@MARC-260c: 1723-04-25
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 20,5 x 16,5 cm
+@MARC-3008: 01
+@MARC-500a: Title page written by Bratysiewiczówna.
+@MARC-5008: 01
+@MARC-500a: Inscriptions at the end of parts: S: "Laus Deo Patri. P. K. mpa | Die 25. April. Anno D[omi]ni 1723. Sandomiria."; A: "Laus Deo Patri P. K. mpa"; T: "Laus Deo Patri."; B: "Laus Deo Patri. | P. K. mpa. | Die 25. April. Sandomiria. AD. 1723"; vl 1: "Laus Deo Patri Die 25. April 1723. | Paulus. K. mpa"; vl 2: "Laus Deo Patri P. K. mpa. | Anno D[omi]ni 1723. Die 25 April."; org: "Laus Deo Patri".
+@MARC-590a: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), clno (2), b
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-657a: Trinitatis
+@MARC-6570: 24336
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 230
+@MARC-6910: lit1891
+@MARC-691a: KonopkaS 2005
+@MARC-691n: 256, 267
+@MARC-6910: lit30025836
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-710a: Kolegiata w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51001537
+@MARC-7104: oth
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 260/A VII 20
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

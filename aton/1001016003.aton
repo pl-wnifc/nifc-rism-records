@@ -1,0 +1,100 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001016003
+@MARC-003:	DE-633
+@MARC-005:	20210128160040.0
+@MARC-028a: J. M. 3528.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: '8D3{EFGA}4.B8A+/6.{A3D}3{EFGA}4.B8A+/8A3{DEFGAnBx''C}8D4EE/8{EE}{EE}4E//q'8Dr''8{F6EDt}8{C'BtAxGt/6.{xG3A}8(6{''C'BA};3)8A--''A/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Polonaises
+@MARC-240m: pf
+@MARC-240n: 71/1
+@MARC-240n: ChomTurC 157
+@MARC-240r: d
+@MARC-2400: 3900011
+@MARC-245a: [heading p. 2]: 1|r|e POLONAISE | par | FRÉDÉRIC CHOPIN. | OEuvres posthumes. [space] 6| è|m|e. Livraison N|o. 1. | (1827) | PIANO.
+@MARC-260a: Paris
+@MARC-260c: 185507--
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 33,5 x 26,0 cm
+@MARC-3008: 01
+@MARC-383b: 71/1
+@MARC-500a: As separate edition in the series: „OEUVRES | POSTHUMES | POUR | PIANO | DE | FRÉD. CHOPIN” , Book 6.
+@MARC-5008: 01
+@MARC-500a: Title page as title of the series: OEUVRES | POSTHUMES | POUR | PIANO | DE | FRÉD. CHOPIN | PUBLIÉS SUR MANUSCRITS ORIGINAUX AVEC AUTORISATION | DE SA FAMILLE | PAR | JULES FONTANA. | [list of Chopin works with prices] | LA COLLECTON COMPLÈTE | PRÉCÉDÉE D'UNE PRÉFACE PAR J. Fontana ET ornée d'un Portrait LITHOGRAPHIÉ PAR RAUNHEIM | Brochée : 20 fr. net – Reliée : 30 fr. net. | Paris, J. MEISSONNIER FILES, éditeur-commissionnaire, 18, rue Dauphine, | PROPRIÉTAIRE POUR LA FRANCE ET LA BELGIQUE. | Berlin, A. M. Schlesinger. [space] Londres, Stationner’s Hall. | Paris - Impr. de L. Martinet, rue Mignon. 2.; publisher oval stamp, inscription in pencil "[VII, 1855]".
+@MARC-5008: 01
+@MARC-500a: Page 1: blank.
+@MARC-5008: 01
+@MARC-500a: Plate number on each page: J . M. 3528.
+@MARC-5008: 01
+@MARC-500a: Page 2, at the bottom: Paris Imp: Bauve 14 rue S|t. Marc.
+@MARC-5008: 01
+@MARC-500a: Last page of the series: MUSIQUE DE PIANO DIFFICILE. | Extrait du CATALOGUE de J. MEISSONNIER Fils, Éditeur-Commissionnaire, 18, rue Dauphine, à Paris. | [list of works of different composers in three columns].
+@MARC-5008: 01
+@MARC-506a: Treasury of the Library
+@MARC-5063: 51023917
+@MARC-588a: PL-Wnifc 4767/n
+@MARC-590a: pf
+@MARC-590b: p.9
+@MARC-5908: 01
+@MARC-591a: 4768/n
+@MARC-5913: 51023917
+@MARC-591a: 4769/n
+@MARC-5913: 51023917
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-690a: ChomTurC
+@MARC-690n: 157
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 71/1-1-MEIf
+@MARC-6910: lit30025545
+@MARC-700a: Fontana, Julian
+@MARC-700d: 1810-1869
+@MARC-7000: pe30108218
+@MARC-7004: edt
+@MARC-710a: J. Meissonnier et fils
+@MARC-7100: ks30080864
+@MARC-7104: pbl
+@MARC-710a: Adolph Martin Schlesinger
+@MARC-710g: Ascertained
+@MARC-7100: ks40009753
+@MARC-7104: pbl
+@MARC-710a: Stationers' Company
+@MARC-7100: ks51000340
+@MARC-7104: oth
+@MARC-710a: Imprimerie de L. Martinet
+@MARC-7100: ks51000063
+@MARC-7104: prt
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51023917
+@MARC-852c: 4767/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

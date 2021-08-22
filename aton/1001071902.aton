@@ -1,0 +1,52 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001071902
+@MARC-003:	DE-633
+@MARC-005:	20210708075445.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''D{8DF}/4AA/E{(3qFqEqxD)}{8.E6F}/4.G8E/4D{8DF}/4E{8EG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Pleyel, Ignace
+@MARC-100d: 1757-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe24761
+@MARC-240a: Arietta
+@MARC-240m: keyb
+@MARC-240r: C
+@MARC-2400: 50158214
+@MARC-245a: [caption title:] Aryietto
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Concordance to RISM ID 1001069902 (PL-SA 554/A IX 34), 1001065742 (PL-SA 24/A I 24, theme of Variations).
+@MARC-500a: Composer identified on the basis of RISM ID 190022659, 302002390.
+@MARC-590a: keyb
+@MARC-590b: p. 33
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Ariettes
+@MARC-6500: 3016596
+@MARC-773w: 1001070420
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 481/A VIII 121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

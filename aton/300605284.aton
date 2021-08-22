@@ -1,0 +1,101 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300605284
+@MARC-003:	DE-633
+@MARC-005:	20201029164033.0
+@MARC-028a: M. S. 2447
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introduzione. Lento
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031o: c
+@MARC-031p: =/2-4-%C-4,4G/'8{E'3FExDE'8xFG}'8{C'3nDC,B'C'8xDE}/,4.Aq'8C,6.{bB,3A},4A4-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Alla Polacca.
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031o: 3/4
+@MARC-031p: =/4-4-4%C-48-'8G/'4.G'6{EF}'3{GAGxF}/'8G'6{CD}'4.E'6{FE}/'8D4,G6{AB}'6{CDEF}/6{EDDxC}{EDDC}8D6{EF}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Polonaises
+@MARC-240m: pf, vlc, vl
+@MARC-240n: op. 3
+@MARC-240n: ChomTurC 148
+@MARC-240r: C
+@MARC-2400: 3900011
+@MARC-245a: Caption title p. 1: F. CHOPIN Op: 3. | Polonnaise brillante | Pour PIANO et VIOLONCELLO.
+@MARC-260a: Paris [ascertained]
+@MARC-260b: Brandus et Cie
+@MARC-260c: 1873-1887
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 3
+@MARC-500a: Series: ÉDITION ORIGINALE | OEUVRES COMPLÈTES POUR LE PIANO | DE | FRÉDÉRIC CHOPIN | SEULE ÉDITION AUTHENTIQUE | SANS CHANGEMENTS NI ADDITIONS, PUBLIÉE D'APRÈS LES ÉPREUVES CORRIGÉES PAR L'AUTEUR LUI-MÊME.
+@MARC-500a: [vlc part] p. 1–3 engraved, p. [4] blank.
+@MARC-500a: Pf and vl parts missing.
+@MARC-500a: Plate number p. 1-3: M. S. 2447; p. 1 stamp "Ex Libris | Alexis Rostand".
+@MARC-500a: [pl-text: Błąd w nagłówku s. 1: Polonnaise.]
+@MARC-590a: vlc
+@MARC-590b: 3 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594a: pf, vlc, vl
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 148
+@MARC-6900: lit30000031
+@MARC-691a: ChomTurC
+@MARC-691n: p. 255
+@MARC-6910: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 3-1b-BR
+@MARC-6910: lit30025545
+@MARC-700a: Rostand, Alexis-Joseph
+@MARC-700d: 1769-1854
+@MARC-7000: pe41000360
+@MARC-7004: fmo
+@MARC-710a: Brandus et Cie.
+@MARC-710g: Ascertained
+@MARC-7100: ks30080942
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 1647/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

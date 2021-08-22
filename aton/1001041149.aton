@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041149
+@MARC-003:	DE-633
+@MARC-005:	20210610233758.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =13/2''D'A/4D8{''FG}{AG}{FE}/{DC}4DG'G/q8G4F-''E'G/
+@MARC-031r: D
+@MARC-031t: Ad festum volate
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: All[egr]o assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2'DA/4''D6{DEFG}{8AGFE}/{8.6DC}4DG'G/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Ad festum volate
+@MARC-240m: S, orch, b
+@MARC-240r: D
+@MARC-2400: 5035266
+@MARC-245a: [caption title:] Aria 2da
+@MARC-300a: 7 parts
+@MARC-300c: 32,5 (36,5) x 20,5 (23,5) cm
+@MARC-3008: 01
+@MARC-590a: S solo
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: f. 1v, 1v, 1r
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: f. 1v, 1v
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), vla, cor (2), b
+@MARC-599b: full
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-773w: 1001041145
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 50/A I 50
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

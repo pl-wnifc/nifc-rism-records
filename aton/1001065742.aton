@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001065742
+@MARC-003:	DE-633
+@MARC-005:	20210503094845.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: cemb
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''D8{DF}/4AA/E{6qFqEqxD}8.{E6F}/4.G8E/4D8{DF}/4E8{EG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Variations
+@MARC-240m: cemb
+@MARC-240r: D
+@MARC-2400: 3900139
+@MARC-245a: [title page:] Anda[n]tino | Cum | Variazion pour le | Clavecin | M|r Pleyel
+@MARC-260c: ca. 1800
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 21 x 33,5 cm
+@MARC-3008: 01
+@MARC-500a: Arrangement of Pleyel's Quartet (BenP 312/2) as theme ('Andante'). Concordances to RISM ID: 1001071902 (PL-SA 481/A VIII 121); 1001069902 (PL-SA 554/A IX 34).
+@MARC-590a: cemb
+@MARC-590b: 6 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: cemb
+@MARC-594c: 1
+@MARC-594a: cemb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 276
+@MARC-6910: lit1891
+@MARC-700a: Pleyel, Ignace
+@MARC-700d: 1757-1831
+@MARC-700j: Ascertained
+@MARC-7000: pe24761
+@MARC-7004: oth
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 24/A I 24
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

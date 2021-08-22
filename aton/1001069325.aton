@@ -1,0 +1,99 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001069325
+@MARC-003:	DE-633
+@MARC-005:	20210510155434.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: =11/2-4-8-''G/{(DED)}DG{('B''C'B)}B''C/4D6{ED}{C'B}4'A8D-/
+@MARC-031r: G
+@MARC-031t: Gaudete ridete mortales
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: 8{''FD}{D6EF}8{G'B}{B6''CD}/{8E6ED}{C'BAG}{8AD}{D6AB}/{8''CC}{C6'BA}{8B''C}{D6EF}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Brentner, Johann Joseph Ignaz
+@MARC-100d: 1689-1742
+@MARC-100j: Ascertained
+@MARC-1000: pe30000477
+@MARC-240a: Gaudete ridete mortales
+@MARC-240m: S, orch, org
+@MARC-240n: Brk 53
+@MARC-240r: G
+@MARC-2400: 53372
+@MARC-245a: [cover title:] Concerto Pro Omni Tempore. | Gaudete Ridete mortales. | Solo Canto | Violino Primo Violino 2do | Valtorno Primo Valtorno 2do | Auth: D: Brechner | Ex Rebus Andrae Szmaje | rowski. Adstantis Pilca | A. D. 1728. mpp
+@MARC-260c: 1728
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 20 (10) x 16 (16) cm
+@MARC-3008: 01
+@MARC-500a: Inscriptions at the end of parts: S: "Ad M. D. Gloriam"; "Scripsit Andreas Szmajerowski | Adstans Pilcae A. D. 1728 mpp"; vl 2: "S. Andreas Szmajerowski Adstans Pilcae | A. D. 1728. mpp"; cor 2: "S. Andreas | Szmajerowski Adstans | Pilcae A. D. 1728 mpp".
+@MARC-590a: S solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor in G
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, vl (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-690a: Brk
+@MARC-690n: 53
+@MARC-6900: lit50005911
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 252, 273
+@MARC-6910: lit1891
+@MARC-691a: KapsaB 2012
+@MARC-691n: p. 200-205
+@MARC-6910: lit30028630
+@MARC-700a: Szmajerowski, Andrzej
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41021533
+@MARC-7004: scr
+@MARC-710a: Kolegiata w Pilicy
+@MARC-710g: Ascertained
+@MARC-7100: ks51002071
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 281/A VII 41
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,165 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001070167
+@MARC-003:	DE-633
+@MARC-005:	20210707115018.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4.'B8B4B-/=1/4.A8A4A-/2-8-''C4C/'BB''C'A/BB''C'A/
+@MARC-031r: G
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4.''G^'B^D^,G8''G+{G6('DEF;3)}8{G6GB}/{8G6(DEF;3)}8{G6GB}{8G3DC,BA}4G/4.''F^'A^D''8F{F6,(AB'xC;3)}8{D6DF}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4''D{6'B''C}{'B''C}8qC2D/4D{6'B''C}{'B''C}8qC4.D8G/FEDC{'BA}4G/
+@MARC-031r: G
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4''D{6'B''C'B''C}8qC2D/4D{6'B''C'B''C}8qD4.D8G/{FEDC}{'BAGG}/{FEDC}{,BA}4G/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 4'B8BBB''D/qD4C8'BBB''D/qD4C'B-/''E8EEEE/4D8DDDD/
+@MARC-031r: G
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{''G^'B^D^,G'6GG}{BB''DD}{GGBB}/8qD4C{8'B''6DD}{GGBB}/8qD4C'B-/{6''EE'''CC}{''xGGAA}4A/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4'BB2A/8B{''DE}F{ED}EC/{DC}{D'B}{''C'B}{''C'A}/BBBBAAB''C/
+@MARC-031r: G
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: {8''GGGG}{FFFF}/{GDEnF}{EDEC}/{DCD'B}{''C'B''C'A}/{G''GGG}{F'AB''C}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =2/4'BB''CC/'BB8qB2A/8.6GD{GB}{''D'BGD}/GDGB{''D'B}{GD}/
+@MARC-031r: G
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: {8.6DGGD}{E''CC'E}/{DBBD}{CAAC}/{,B'GG,B}{'E''CC'E}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Luna, Georgius
+@MARC-100j: Conjectural
+@MARC-1000: pe41010079
+@MARC-240a: Mass
+@MARC-240m: V (3), vl (2), b
+@MARC-240r: G
+@MARC-2400: 5211939
+@MARC-245a: [without title]
+@MARC-260c: 1760-1799
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 32 x 21 cm
+@MARC-3008: 01
+@MARC-500a: A printed blank census form attached (as a dust cover?) to the manuscript. Inscription by another hand than in the musical manuscript: "Posytam [posyłam?] ci Matka | Manny i mlika [illegible] | zimniakow i Dziendobry | Andziu mała całuję cię | Wrusz [?] [deleted] ziąmno | Ja [illegible]" [I send you, mother, cereal and milk [and] potatoes and Good morning little Ann, I kiss you [...] it's cold].
+@MARC-500a: Conjectural composer postulated on the basis of the inventory of repertoire of Kolegiata NMP in Sandomierz (1793; PL-SAk AKKKS 239 II).
+@MARC-590a: S, T, B
+@MARC-590b: 3, 4, 3 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 3, 4 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: no indication
+@MARC-594a: no indication
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 263
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 168/A IV 18
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

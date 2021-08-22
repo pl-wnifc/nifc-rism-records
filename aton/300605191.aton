@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300605191
+@MARC-003:	DE-633
+@MARC-005:	20201029164030.0
+@MARC-028a: S. 4642.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: 6/8
+@MARC-031p: ''4D'8xA4B''8C/i/q''8E''2.D+/''4.D4-8-//%F-4{,E%G-2'CA}%F-4,{E%G-2'CA}/%F-4,8{xDxB%G-2'A}%F-4,8{E%G-2'CA}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCG
+@MARC-031o: 6/8
+@MARC-031p: =4//'4A8B''8C'8xDE/'4G8F4E8-/'8{BF}'8AGFE/''4.E+4E8C/
+@MARC-031r: A
+@MARC-031t: Strumyk lubi w dolinie sarna lubi w gęstwinie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Gdzie lubi
+@MARC-240m: V, pf
+@MARC-240n: op. 74/5
+@MARC-240n: ChomTurC 133
+@MARC-240r: A
+@MARC-2400: 4019772
+@MARC-245a: GDZIE LUBI, Piosnka Sielska Stef. Witwickiego, Muzyka FRYD|K|A|. CHOPIN. | CE QU’AIME UNE JEUNE FILLE. | N.|o 5. | CANTO. | 1829.
+@MARC-300a: p. 16-17
+@MARC-3008: 01
+@MARC-383b: op. 74/5
+@MARC-500a: At the bottom of the p. 16: Warszawa Nakład i Własność G. Gebethnera i Spółki. [space] S. 4642. [space] Berlin, Verlag und Eigenthum der Schlesinger'schen Buch-u. Musikhandlung.
+@MARC-520a: No. 5
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Lieder
+@MARC-6500: 25227
+@MARC-690a: ChomTurC
+@MARC-690n: 133
+@MARC-6900: lit30000031
+@MARC-700a: Witwicki, Stefan
+@MARC-700d: 1801-1847
+@MARC-700j: Ascertained
+@MARC-7000: pe30048733
+@MARC-7004: lyr
+@MARC-730a: Ce qu'aime une jeune fille
+@MARC-730g: RISM
+@MARC-7300: 4323524
+@MARC-773w: 300605186
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 963/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

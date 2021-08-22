@@ -1,0 +1,86 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041293
+@MARC-003:	DE-633
+@MARC-005:	20210627213923.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =8/2-4-8''F'B/4AB8-''GFE/{DE}FG'AF4-/
+@MARC-031r: B|b
+@MARC-031t: Plaude exsulta cor meum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 8{''B6'B''C}{DEFG}{8F6'FG}{AB''CD}/{EDEF}{EGFE}8{D'B}6-{B''DF}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Brentner, Johann Joseph Ignaz
+@MARC-100d: 1689-1742
+@MARC-100j: Ascertained
+@MARC-1000: pe30000477
+@MARC-240a: Plaude exsulta cor meum
+@MARC-240m: S, vl (2), org
+@MARC-240n: 1/1
+@MARC-240n: Brk 68
+@MARC-240r: B|b
+@MARC-2400: 5035392
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-383b: 1/1
+@MARC-590a: S solo
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 1r-2r, 1r-1v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-690a: Brk
+@MARC-690n: 68
+@MARC-6900: lit50005911
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 252
+@MARC-6910: lit1891
+@MARC-691a: KapsaB 2015a
+@MARC-691n: p. 3-8, 81, 87, 91
+@MARC-6910: lit41000125
+@MARC-691a: KapsaB 2015
+@MARC-691n: p. 150-153
+@MARC-6910: lit30029147
+@MARC-773w: 1001041292
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 285/A VII 45
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041281
+@MARC-003:	DE-633
+@MARC-005:	20210711160312.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: =10/8''C6CC8CC''AG4-/8'G6GG8GG''FE4-/4''C{6EC}{GE}4E8DG/
+@MARC-031r: C
+@MARC-031t: Canite voce lata Andrea
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: {8''C6EC}{GE'''C''G}{8AG}4-/{8'G6''C'G}{''ECGE}{8FE}4-/4C{6EGxFA}{GBAG}{xFGDG}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Graun, Carl Heinrich
+@MARC-100d: 1703c-1759
+@MARC-100j: Ascertained
+@MARC-1000: pe30001351
+@MARC-240a: Cajo Fabricio
+@MARC-240k: Excerpts
+@MARC-2400: 50161836
+@MARC-245a: [without title]
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 706000206, 450017376.
+@MARC-590a: S
+@MARC-590b: f. 1v-2r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: f. 1v-2r, 1v-2r, 1v-2r
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: f. 1v-2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, vl (2), vla, b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-650a: Contrafacta
+@MARC-6500: 25455
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 270
+@MARC-6910: lit1891
+@MARC-730a: Canite voce lata Andrea
+@MARC-730g: RISM
+@MARC-730m: S, strings, b
+@MARC-730r: C
+@MARC-7300: 5035383
+@MARC-730a: Squarciami pur superbo
+@MARC-730g: RISM
+@MARC-7300: 4068210
+@MARC-773w: 1001041279
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 134/A III 34
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

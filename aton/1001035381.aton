@@ -1,0 +1,103 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035381
+@MARC-003:	DE-633
+@MARC-005:	20210628201455.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =4/2-8-''FFF/=2/2-8-FFF/4-8-EFEFC/
+@MARC-031r: D
+@MARC-031t: Memento rerum conditor
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''A8-{6AG}{8F6ED}{8C6'BA}/-''{6AG}{8F6ED}{8EEEA}/{6BBBB}{BBBB}{'BBBB}{BBBB}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Szczurowski, Jacek
+@MARC-100d: 1716-1773p
+@MARC-100j: Ascertained
+@MARC-1000: pe30017605
+@MARC-240a: Memento rerum conditor
+@MARC-240m: V (4), orch, b
+@MARC-240r: D
+@MARC-2400: 3902463
+@MARC-245a: [cover title:] Motetto de B.[eata] V.[irgo] Maria | Memento Rerum Conditor | a 9 | Canto Alto Ten Basso. | 2 Violin Violin. | 2 Valthor: Valthorn | et Basso Viola | Authore Hacintho Szczurowski
+@MARC-260c: 1741
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 22 x 17,5 cm
+@MARC-3008: 01
+@MARC-500a: Inscription "Ex Chartis Thomae Josephi Żerkowski | 1741" at the bottom of the title page.
+@MARC-590a: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), cor in D (2), b
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p.234, 269
+@MARC-6910: lit1891
+@MARC-691a: KonopkaS 2005
+@MARC-691n: p. 257
+@MARC-6910: lit30025836
+@MARC-691a: PMC 1995
+@MARC-6910: lit41002022
+@MARC-700a: Żerkowski, Tomasz
+@MARC-700d: 1700a-1760p
+@MARC-700j: Ascertained
+@MARC-7000: pe41012133
+@MARC-7004: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 243/A VII 3
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

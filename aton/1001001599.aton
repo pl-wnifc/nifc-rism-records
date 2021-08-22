@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001001599
+@MARC-003:	DE-633
+@MARC-005:	20210409085054.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Mesto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: '4D/'8.{E6D}4BxA/2G8{GxA}/{B''C}4Dq''8Fr4E/8{D6G}6-2D/
+@MARC-031q: Key is G-sharp minor, but only four symbols "x" [FCGD] were written in source.
+@MARC-031r: g|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Mazurkas
+@MARC-240m: pf
+@MARC-240n: op. 33/1
+@MARC-240n: ChomTurC 72
+@MARC-240r: g|x
+@MARC-2400: 3903079
+@MARC-245a: MAZURKA N|o I. | N.|o 1.
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-300c: 30,5 x 25,0 cm
+@MARC-3003: 51030155
+@MARC-383b: op. 33/1
+@MARC-500a: Without cover.
+@MARC-5003: 51030150
+@MARC-500a: TP: decorated with rectangular vignette; publisher's round stamp; inscription in pencil: "[X|, 1838]”.
+@MARC-5003: 51030150
+@MARC-500a: TP: publisher's round stamp; inscription in pencil: "[X|, 1838]”, signature private person: illegible.
+@MARC-5003: 51030155
+@MARC-500a: p. 1 of cover: signature of private person: illegible
+@MARC-5003: 51030155
+@MARC-506a: Treasury of the Library
+@MARC-5063: 51030155
+@MARC-590a: pf
+@MARC-590b: p. 3-4
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Mazurkas
+@MARC-6500: 25480
+@MARC-690a: ChomTurC
+@MARC-690n: 72
+@MARC-6900: lit30000031
+@MARC-773w: 1001001565
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51030150
+@MARC-852c: 2449/n
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51030155
+@MARC-852c: 2671/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

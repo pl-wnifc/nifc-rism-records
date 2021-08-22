@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041297
+@MARC-003:	DE-633
+@MARC-005:	20210525211236.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =8/4-8-,F'CC{6C,B}{AG}/{FE}88F-'CDC{6,BA}{B'C}/8,AF-GAG-G/
+@MARC-031r: F
+@MARC-031t: O esca viatorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4-8-'F{''C'B}{6''C'BAG}/{FE8F}8''C{D6CD}{'BAB''C}/{8'AF}{''F6GA}4.G6{(CDE)}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Riccieri, Giovanni Antonio
+@MARC-100d: 1679-1746
+@MARC-100j: Ascertained
+@MARC-1000: pe30007685
+@MARC-240a: O esca viatorum
+@MARC-240m: B, vl (2), org
+@MARC-240r: F
+@MARC-2400: 3900049
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-590a: B solo
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2r, 2r
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 3r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: B, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001041295
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 308/A VII 68
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001069600
+@MARC-003:	DE-633
+@MARC-005:	20210712084847.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 6D/4B6''{DC'BA}/{''8.D6'B}6G''{E^GD^FC^E}/{'B^''D'A^''C'G^BF^A}{6.3{G^B3F^A6.G^B3A^''C}/4'G^B8F^A6-D/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Variations
+@MARC-240m: keyb
+@MARC-240r: G
+@MARC-2400: 3900139
+@MARC-245a: [caption title:] Sonata | Andante Con | Variazionis [!]
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Theme with four variations.
+@MARC-500a: Theme of variations by Ignace Pleyel, identified on the basis of RISM ID 450119935 (Sonata for vl, cemb/pf BenP 357/2a, the same theme, two different variations ), 551004634 (Andante con variazioni for cl, cor di basetto BenP 357/1, the theme from PL-SA as a first variation in this source, other variations different).
+@MARC-590a: keyb
+@MARC-590b: p. 6-7
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-700a: Pleyel, Ignace
+@MARC-700d: 1757-1831
+@MARC-700j: Ascertained
+@MARC-7000: pe24761
+@MARC-7004: oth
+@MARC-730a: Sonatas
+@MARC-730g: RISM
+@MARC-7300: 3900185
+@MARC-773w: 1001069592
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 554/A IX 34
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

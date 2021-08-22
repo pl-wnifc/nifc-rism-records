@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033230
+@MARC-003:	DE-633
+@MARC-005:	20201029163416.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso quasi Andante Maestoso
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =4//'4.D,8D4D8DD/8.B,,6G4G2-/,4E8EEEABA/2G4F
+@MARC-031r: D
+@MARC-031t: Exaltabo te Domine, quoniam suscepisti me
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: '''4D8.-'6F4FF/B''B'8-{B''CD}/'2E{8EABA}/2C4D-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Schiedermayr, Johann Baptist
+@MARC-100d: 1779-1840
+@MARC-100j: Ascertained
+@MARC-1000: pe123639
+@MARC-240a: Masses
+@MARC-240k: Excerpts
+@MARC-240m: V (2), org
+@MARC-240o: Arr
+@MARC-240r: D
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Offertorium [space] par J B. Szendermajer [!]
+@MARC-300a: 1 vocal score: f. 19v-22v
+@MARC-3008: 01
+@MARC-500a: [pl-text: Utwór zapisany na czterech pięcioliniach w systemie, dwie pierwsze w drugim systemie podpisane: "Soprano" i "Basso"; przy dwóch niższych w pierwszym systemie akolada; niepodpisana, głos (org) dookreślony na podstawie porównania z innymi utworami w kolekcji]
+@MARC-500a: [pl-text: Z lewej strony pierwszego systemu ołówkiem zapisany numer utworu w kolekcji: 7]
+@MARC-500a: [pl-text: Konkordancja: RISM ID No. 550500825, sygnatura CZ-Pu 59 R 3772 (Msza D-dur J.B. Schiedermayra)]
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: S, B, pf
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-650a: Arrangements
+@MARC-6500: 25507
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1254
+@MARC-6910: lit1869
+@MARC-773w: 300033223
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-87
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

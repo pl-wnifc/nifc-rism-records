@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001006241
+@MARC-003:	DE-633
+@MARC-005:	20201020173752.0
+@MARC-028a: 6330
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: ''8C4C8C/4C8C4C8C/4C8C4C8C/8.{E6D8C}4F8D/4C'8A4F8G/4.G4A
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Ballades
+@MARC-240m: pf
+@MARC-240n: op. 38
+@MARC-240n: ChomTurC 3
+@MARC-240r: F
+@MARC-2400: 3905181
+@MARC-245a: BALLADE | pour le Piano | dediée | A Monsieur Robert Schumann | PAR | FRÉD. CHOPIN | Oeuvr. 38. [space] Propriété des Editeurs. [space] Pr. 16. Gr. | Leipzig, chez Breitkopf &amp; Härtel. | Paris, chez Troupenas &amp; C.|o [space] Londres, chez Wessel &amp; C.|o | 6330. | Enrégistré aux Archives de l’Union.
+@MARC-260a: Leipzig
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-260c: [1840-1841]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 30,5 x 24,0 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 38
+@MARC-500a: TP lithographed, p. [2] blank, p. 3-11 engraved, p. [12] blank.
+@MARC-500a: TP: publisher’s round stamp; inscription in pencil: "[X. 1840]".
+@MARC-500a: Heading, p. 3: F. Chopin. Op. 38. | BALLADE.
+@MARC-500a: Plate number p. 3-11: 6330
+@MARC-506a: Treasury of the Library
+@MARC-590a: pf
+@MARC-590b: 11 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Ballades (inst.)
+@MARC-6500: 25593
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 3
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 38-1-B&amp;H
+@MARC-6910: lit30025545
+@MARC-700a: Schumann, Robert
+@MARC-700d: 1810-1856
+@MARC-700j: Ascertained
+@MARC-7000: pe131206
+@MARC-7004: dte
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-710g: Ascertained
+@MARC-7100: ks24285
+@MARC-7104: pbl
+@MARC-710a: Eugène Troupenas &amp; Cie.
+@MARC-7100: ks51000057
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 2668/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

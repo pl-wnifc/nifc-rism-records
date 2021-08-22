@@ -1,0 +1,129 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001065624
+@MARC-003:	DE-633
+@MARC-005:	20201021154708.0
+@MARC-028a: T. 926.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto con fuoco
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: 2.(,4FAExE;4)/%G-2n'D--/%F-42.(,4xEGDnE;4)/%G-2'bD-8-8nC/2.nC/,4B-8-'''F/2.F+/2.F/
+@MARC-031r: c|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Scherzos
+@MARC-240m: pf
+@MARC-240n: op. 39
+@MARC-240n: ChomTurC 199
+@MARC-240r: c|x
+@MARC-2400: 3905206
+@MARC-245a: 3.|m|e Scherzo | POUR | LE PIANO | Dédié à son ami | Adolphe Gutmann | Par | F. CHOPIN | Op : 39 | Prix : 7|f| 50.|c | A. L. | PARIS, chez E. TROUPENAS &amp; C|i|e Rue Neuve Vivienne, 40. | Londres, chez Wessel &amp; C.|i|e [space] Leipzig, chez Breitkopff [!] &amp; Haertel.
+@MARC-260a: Paris
+@MARC-260b: Eugène Troupenas &amp; Cie
+@MARC-260c: [1841-1846]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-300c: 33,0 x 25,5 cm
+@MARC-3003: 51003873
+@MARC-300c: 33,0 x 25,5 cm
+@MARC-3003: 51006970
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 39
+@MARC-500a: TP engraved, p. [ii] blank, p. 1-11 engraved, p. [12] blank.
+@MARC-500a: Heading, p. 1: 3.|m|e | SCHERZO | par F. CHOPIN | Op: 39. «
+@MARC-500a: Plate number p. 1-11: T. 926.
+@MARC-500a: TP: publisher’s signature stamp.
+@MARC-5003: 51003873
+@MARC-500a: This source is in the collection, comprising four bound volumes containing a representative selection of the first editions of Chopin's works published by various publishers.
+@MARC-5003: 51003873
+@MARC-500a: Scherzo op. 39 as shelfmark 6589/n in volume I; together with shelmarks: 6582/n, 6583/n, 6584/n, 6585/n, 6586/n, 6587/n, 6588/n.
+@MARC-5003: 51003873
+@MARC-500a: Hard cover, colorful pattern. The back and corners of the cover are reinforced with beige material. Red decorative sticker in center of the cover with title: FREDERIC | CHOPIN. | VOL. I., same inscription is on the back of the cover; embossed, gold letters.
+@MARC-5003: 51003873
+@MARC-500a: TP: publisher’s signature stamp.
+@MARC-5003: 51006970
+@MARC-500a: Pencil annotation in musical text, p. 5.
+@MARC-5003: 51006970
+@MARC-500a: Page 11, at the bottom: inscription in pencil "11/5".
+@MARC-5003: 51006970
+@MARC-500a: Recto pages, at the top (right corner): numbers 5 -11 added in pencil.
+@MARC-5003: 51006970
+@MARC-506a: Treasury of the Library
+@MARC-5063: 51003873
+@MARC-506a: Treasury of the Fryderyk Chopin Museum in Warsaw
+@MARC-5063: 51006970
+@MARC-561a: Purchse in 2017.
+@MARC-5613: 51003873
+@MARC-590a: pf
+@MARC-590b: 11 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-593a: Print with non-autograph annotations
+@MARC-5933: 51006970
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Scherzos (inst.)
+@MARC-6500: 3000133
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 199
+@MARC-6900: lit30000031
+@MARC-691a: ACO Chopin
+@MARC-691n: 39–1-TR
+@MARC-6910: lit41000057
+@MARC-700a: Gutmann, Adolphe
+@MARC-700d: 1819-1882
+@MARC-700j: Ascertained
+@MARC-7000: pe30092026
+@MARC-7004: dte
+@MARC-700a: Lafont, A.
+@MARC-700j: Ascertained
+@MARC-7000: pe30083219
+@MARC-7004: egr
+@MARC-710a: Eugène Troupenas &amp; Cie.
+@MARC-710g: Ascertained
+@MARC-7100: ks51000057
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51003873
+@MARC-852c: 6589/n
+@MARC-852a: PL-Wnifc
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51006970
+@MARC-852c: M/176
+@MARC-973u: 1001147214
+@MARC-9733: 51003873
+@MARC-973u: 1001129120
+@MARC-9733: 51006970
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

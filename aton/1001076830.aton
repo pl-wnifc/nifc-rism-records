@@ -1,0 +1,110 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001076830
+@MARC-003:	DE-633
+@MARC-005:	20210711175143.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: [Allegro]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/8
+@MARC-031p: 4E^''E{6GF}/8F--/4'B^''F{6AG}/8G--/4.B/{6B'''C''BAGF}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4''B{8'B''D}{8.F(3GFE)}8D-/G'4G{''6EC}'8qB{8.A3''C'BA}4B/'''D8qC{''BqAG}qF{8.xE6F}8G-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Menuet
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2'E({8AFD})/4E,BA/{8GB'EGB''E}/'4BAtG/''4.C{6DE}8'F-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 8'B/{''E'B''GE}/4A{8FD}/{E'BGE}/4B8-,B/{'E,B'GE}/'4A8{FD}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Haydn, Joseph
+@MARC-100d: 1732-1809
+@MARC-100j: Ascertained
+@MARC-1000: pe55803
+@MARC-240a: Quartet (inst.)
+@MARC-240m: vl (2), vla, b
+@MARC-240n: op. 1 no. 2
+@MARC-240n: Hob III:2
+@MARC-240r: E|b
+@MARC-2400: 50254649
+@MARC-245a: [title page:] CASSATIO | a 4|t|r|o | Violino Primo | Violino 2do | Violetta [!] Con | Basso
+@MARC-260c: 1764-1782
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 33,5 x 21 cm
+@MARC-3008: 01
+@MARC-383b: op. 1 no. 2
+@MARC-500a: Manuscript written by two copyists.
+@MARC-5008: 01
+@MARC-500a: Notes, calculations and inscription "Mazurek Pol?" at the top of the title page.
+@MARC-500a: Inscription "J. Kroczkiewicz" at the bottom of the title page.
+@MARC-500a: Composer identified on the basis of RISM ID 853001015, 850024177, 190015917 and many others.
+@MARC-590a: vl 1, 2, vla, b
+@MARC-590b: 2, 2, 2, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, b
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-690a: Hob
+@MARC-690n: III:2
+@MARC-6900: lit40
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 275
+@MARC-6910: lit1891
+@MARC-700a: Kroczkiewicz, J.
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41024677
+@MARC-7004: fmo
+@MARC-730a: Cassatio
+@MARC-730g: RISM
+@MARC-7300: 3917167
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 67/A II 7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

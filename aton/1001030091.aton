@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001030091
+@MARC-003:	DE-633
+@MARC-005:	20210627224847.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Grave
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =11/2-'G+/4GF2B+/4BA2''bD+/4D{8C'B}2nA/4B2''bD8{C'B}/
+@MARC-031q: +
+@MARC-031r: f
+@MARC-031t: Stabat mater
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2-''G+/4GF2B/4BA2'''D+/4D{8C''B}4nA'''C+/C''B{8'G''BGnE}/
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Pergolesi, Giovanni Battista
+@MARC-100d: 1710-1736
+@MARC-100j: Ascertained
+@MARC-1000: pe30002483
+@MARC-240a: Stabat mater
+@MARC-240m: V (2), strings, org
+@MARC-240r: f
+@MARC-2400: 3900847
+@MARC-245a: [cover title:] STABAT MATER | Canto &amp; Alto | Violino 1mo | Violino 2do | Alto viola | &amp; | ORGANO
+@MARC-260c: ca. 1773-1791
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 38 x 25 cm and other sizes
+@MARC-3008: 01
+@MARC-500a: Inscription "Autchore [!] Del Seg Joannes Pergolesso [!]" at the bottom of the title page.
+@MARC-500a: Inscription "Ad. M. D. G. | Scptis Iwański" at the end of S.
+@MARC-590a: S, A
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 2, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, vl (2), a-vla, org
+@MARC-599b: full
+@MARC-650a: Sequences
+@MARC-6500: 25249
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 266
+@MARC-6910: lit1891
+@MARC-700a: Iwański, Senior
+@MARC-700d: 18/19
+@MARC-700j: Conjectural
+@MARC-7000: pe41011503
+@MARC-7004: scr
+@MARC-700a: Iwański, Junior
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe41011504
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 70/A II 10
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

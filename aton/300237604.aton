@@ -1,0 +1,206 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300237604
+@MARC-003:	DE-633
+@MARC-005:	20201109100850.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tarde
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''4.D{6CD}{8E6DC}/4D{8CDEF}/4A'''D''B/BA-/8-{GED'GE}/-{''FD'AFD}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''2D4C/D--/'A''D'B/BA-/2.G/F/
+@MARC-031r: D
+@MARC-031t: Kyrie eleison Christe eleison Kyrie eleison Christe audi nos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: 8-/=14/4-8-8''E/'A{6A''C}8'B{6B''D}/{CD}8E-'E/{6A''C}8'B{6B''D}/
+@MARC-031r: A
+@MARC-031t: Sancta Maria, ora pro nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031n: xFC
+@MARC-031o: 4/4
+@MARC-031p: 8''FFFF8.6EE4E/{8FD}8ECDD4-/8FFFF4EE/{8FD}8ECDD4-
+@MARC-031r: D
+@MARC-031t: Virgo prudentissima, quo progrederis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =8/4.,G{6BG}'D,D8D6-{D'C,A}/{GF}{AF}{ED}{AC},,B,CD8-6{D'C,A}//{GF}{AF}{ED}{AC},,BA8G
+@MARC-031r: G
+@MARC-031t: Rosa mystica
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =2/4''DDxCC/2D4xC4-/=2/''2F866EEE8EE/2F4E-/
+@MARC-031r: d
+@MARC-031t: Salus infirmarum amoris
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''DCD-/=1/DCD-/=1/4FFF8FF/
+@MARC-031r: D
+@MARC-031t: Regina angelorum, regina patriarcharum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8.33{,B'CD}C{DE}8DC-,xA/8.33{,B'CD}8C{6DE}8DC-'F/
+@MARC-031r: D
+@MARC-031t: Agnus Dei qui tollis peccata mundi parce nobis Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4'AAB8BB/4''C8CCDD4-/2'B488BBB/
+@MARC-031r: D
+@MARC-031t: Agnus dei qui tollis peccata mundi miserere no...
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Bolehovský, Josef
+@MARC-100d: 1743-1811
+@MARC-100j: Ascertained
+@MARC-1000: pe30000404
+@MARC-240a: Litanies
+@MARC-240m: Coro, orch, bc
+@MARC-240r: D
+@MARC-2400: 3900164
+@MARC-245a: [cover title:] Litaniae Lauretanae [by other hand: in D] | a | Canto Alto | Tenore Basso | Violino Princip. | Violino Primo | Violino Secundo | Clarinis 2|bus | Con | Organo. | [at left:] Auth. Bolakowski | Pro Choro C: M: C:
+@MARC-260c: 1775-1799 (18.4q)
+@MARC-2608: 01
+@MARC-300a: 10 parts
+@MARC-300c: 36 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Okładka podklejona od środka niezidentyfikowanym spisem treści]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej czarnym tuszem ręką F. Maletza "N=|r|o 11."; skreślona i później po lewej czerwonym ołówkiem "Nro 14"; skreślona i później po lewej ołówkiem ręką W. Świerczka "879" w owalnym kółku; późniejsza na prawo od tytułu ołówkiem, wertykalnie ręką nieznanego Paulina "N|o | 40"]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona czerwoną kredką oraz parafowana]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Konkordancja RISM id: 300514510]
+@MARC-590a: Solo and Coro: S, A, T, B, vl princ, vl 1, 2, org (= bc), clno 1, 2
+@MARC-590b: 2, 2, 2, 2, 1, 2, 2, 2, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: BRESLAV | CAMMERPAPER
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl princ
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594b: bc: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl princ, vl 1, vl 2, org, bc: org
+@MARC-599b: full
+@MARC-650a: Litanies
+@MARC-6500: 25137
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.84
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 35
+@MARC-6910: lit1886
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 14
+@MARC-852d: 11
+@MARC-852d: 879
+@MARC-852d: 40
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-31
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

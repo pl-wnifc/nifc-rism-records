@@ -1,0 +1,107 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300237596
+@MARC-003:	DE-633
+@MARC-005:	20201029163714.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: fl solo
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: ''{8B'''C}/4D''8B{8.G3FG}{3AGFG}/{8.A6FGE}{8D3EF}{3GAB'''C}/8D''4Gt
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: 4-/=13/'4D8,BGFG/8.A6F{6GE}8D{6EF}{GA}
+@MARC-031r: G
+@MARC-031t: Amavit eum Dominus, et ornavit eum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: fl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2''D4FA/2'''D4''AF/{8D6EF}{6GAB'''C}{8D6C''B}{AGFE}/4'''D''AFD/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =10/4,F2A{8BA}/4A4.'D{,8ABA}/4.B8A{BA}{FD}4/E2A8{BA}/4A4.'E
+@MARC-031r: D
+@MARC-031t: Domine Deus noster, quam admirabile
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Boguński, Baltazar
+@MARC-100d: 1762-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe30024257
+@MARC-240a: Amavit eum Dominus
+@MARC-240m: V (2), orch, org
+@MARC-240r: G
+@MARC-2400: 3909214
+@MARC-245a: [without title]
+@MARC-300a: 12 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: T, B, vl 1, 2, vla, vlne, fl, cl 1, 2, cor 1, 2, org
+@MARC-590b: f. 1v-2r, 2r-2v, 1v-2r, 1r-1v, 1v, 1r-1v, 1v-2r, 1v, 1v, 1r-1v, 1r-1v, 2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: T, B, vl 1, vl 2, vla, b, fl, cl (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.76
+@MARC-6910: lit1869
+@MARC-773w: 300237595
+@MARC-852a: PL-CZ
+@MARC-852d: N 764/65
+@MARC-852d: 6
+@MARC-852d: 588
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-36
+@@END:		MARC21
+

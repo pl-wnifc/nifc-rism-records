@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001070467
+@MARC-003:	DE-633
+@MARC-005:	20210408135709.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: 2/4
+@MARC-031p: {8''CC}gD{C6'B''C}/4''E{8CC}/{DDGG}/{8.G3AG}{8EC}/{6C'''C''C'''C}{'B''B'B''B'}/{'A''A'A''A}{'G''G'G''G}/{
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Hoffmeister, Franz Anton
+@MARC-100d: 1754-1812
+@MARC-100j: Ascertained
+@MARC-1000: pe94981
+@MARC-240a: Der Königssohn aus Ithaka
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240n: WeiH deest
+@MARC-240o: Arr
+@MARC-240r: C
+@MARC-2400: 3906688
+@MARC-245a: [caption title:] Ballo de l'Opera Telemak Composee par M|r Hoffmeister
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-590a: keyb
+@MARC-590b: p. 7
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-690a: WeiH
+@MARC-690n: deest
+@MARC-6900: lit312
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 255
+@MARC-6910: lit1891
+@MARC-691a: TomaszewskiB 1992
+@MARC-691n: nr 2
+@MARC-6910: lit41001996
+@MARC-730a: Telemach
+@MARC-730g: RISM
+@MARC-730o: Arr
+@MARC-7300: 3906689
+@MARC-773w: 1001070420
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 481/A VIII 121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

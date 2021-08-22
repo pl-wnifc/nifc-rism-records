@@ -1,0 +1,158 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001101036
+@MARC-003:	DE-633
+@MARC-005:	20200514103502.0
+@MARC-028a: M. S. 1376
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introduction. Largo
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: '4.F''8{F'''F''F}/%F-48-3-,,3{A,CD}{4,3FA'C%G-2DFA''CDFA'''CDF}8A'
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Introduction. Largo
+@MARC-031g: C-4
+@MARC-031m: vlc
+@MARC-031n: xFCDG
+@MARC-031o: 3/4
+@MARC-031p: =18/,4B'2D/1-/'4D2F/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: C-4
+@MARC-031m: vlc
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: '2E8G8-/,2B'8E8-/,2G4G/,4BAG/q,8G,4FEF/,4.xA6{B'C},8B8-/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: 1-/1-/2G4G/BAG/FEF/2xxF4G/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Grand duo concertants
+@MARC-240m: pf, vlc
+@MARC-240n: WN, Dbop. 16A
+@MARC-240n: WN Dbop. 16A
+@MARC-240n: ChomTurC 10
+@MARC-240r: E
+@MARC-2400: 50223268
+@MARC-245a: Grand Duo | Concertant | pour Piano ET Violoncelle | sur des Thémes de | ROBERT LE DIABLE | Dédié à Mad|l|l|e | Adèle Forest | par | FRÉDÉRIC CHOPIN | de Varsovie | ET | AUGUSTE FRANCHOMME | Violoncelle solo de l’Opera Royal Italien, et 1e.r Violoncelle | de la Chambre du Roi. | M. V. | Prix : 9.f | Propriété des Editeurs | A PARIS, Chez MAURICE SCHLESINGER Rue Richelieu, 97. | à BERLIN, Chez A. M. SCHLESINGER
+@MARC-260a: PARIS
+@MARC-260b: MAURICE SCHLESINGER
+@MARC-260c: 1833
+@MARC-2608: 01
+@MARC-260a: BERLIN
+@MARC-260b: A. M. SCHLESINGER
+@MARC-2608: 01
+@MARC-300a: 1 score
+@MARC-3008: 01
+@MARC-300c: 32,5 x 25,0 cm
+@MARC-3003: 51014823
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: WN, Dbop. 16A
+@MARC-500a: : p. [i] engr TP, p. [ii, 1] blank, p. 2-18 engr text.
+@MARC-5008: 01
+@MARC-500a: Heading, p. 2: CHOPIN. et A. FRANCHOMME. | Grand Duo Concertant sur des themes de Robert le Diable. «
+@MARC-5008: 01
+@MARC-500a: Footline / Plate number: M. S. 1376, p. 2-18
+@MARC-5008: 01
+@MARC-500a: vlc separate part: missing.
+@MARC-5003: 51014823
+@MARC-500a: TP: publisher’s signature stamp.
+@MARC-5003: 51014823
+@MARC-500a: Recto pages in the bottom (right corner): page numbers 187-205, added in pencil (sequentially throughout the collection).
+@MARC-5003: 51014823
+@MARC-506a: Treasury of the Fryderyk Chopin Museum in Warsaw
+@MARC-5063: 51014823
+@MARC-590a: pf
+@MARC-590b: 18 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: pf, vlc
+@MARC-599b: full
+@MARC-650a: Duets (inst.)
+@MARC-6500: 25181
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-690a: ChomTurC
+@MARC-690n: 10
+@MARC-6900: lit30000031
+@MARC-690a: WN
+@MARC-690n: Dbop. 16A
+@MARC-6900: lit41002132
+@MARC-691a: ACO Chopin
+@MARC-691n: GDC–1-Sm
+@MARC-6910: lit41000057
+@MARC-700a: Meyerbeer, Giacomo
+@MARC-700d: 1791-1864
+@MARC-700j: Ascertained
+@MARC-7000: pe725
+@MARC-7004: cmp
+@MARC-700a: Franchomme, Auguste
+@MARC-700d: 1808-1884
+@MARC-700j: Ascertained
+@MARC-7000: pe69970
+@MARC-7004: arr
+@MARC-700a: Forest, Adèle
+@MARC-700d: 1817-1909
+@MARC-700j: Ascertained
+@MARC-7000: pe30114391
+@MARC-7004: dte
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Adolph Martin Schlesinger
+@MARC-7100: ks40009753
+@MARC-7104: pbl
+@MARC-730a: Robert le diable
+@MARC-730g: RISM
+@MARC-730m: pf, vlc
+@MARC-730o: Arr
+@MARC-7300: 50103569
+@MARC-852a: PL-Wnifc
+@MARC-852b: Muzeum Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51014823
+@MARC-852c: M/610
+@MARC-973u: 1001099982
+@MARC-9733: 51014823
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

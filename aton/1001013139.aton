@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001013139
+@MARC-003:	DE-633
+@MARC-005:	20201029223436.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Sostenuto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: ''8.{F6D}'2A4B/''2.C4D/8.{E6F}2G4F/4.F8E4Dq8E4r4(8{EFEnDEFG};7)/8.{F6D}'2A
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Preludes
+@MARC-240m: pf
+@MARC-240n: op. 28/15
+@MARC-240n: ChomTurC 180
+@MARC-240r: D|b
+@MARC-2400: 3900747
+@MARC-245a: [heading:] N.|o 15.
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-383b: op. 28/15
+@MARC-590a: pf
+@MARC-590b: p. 20-22
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Preludes
+@MARC-6500: 25204
+@MARC-690a: ChomTurC
+@MARC-690n: 180
+@MARC-6900: lit30000031
+@MARC-773w: 1001013083
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 4372/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

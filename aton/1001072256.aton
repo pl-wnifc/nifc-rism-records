@@ -1,0 +1,189 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001072256
+@MARC-003:	DE-633
+@MARC-005:	20210627214157.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderatto [!]
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8.''F6E8DD4E8FG/GF4-8.E6E8EE/ED4-8.C6C8CC/8CD4-8.F6F8FF/
+@MARC-031r: D
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Lente
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 6{''AFEC}{DDFD}{E'A}{(''GFE)}{FD'''D''B}/{8BA}6-{A'''D''F}{FEEB}{AGFE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =2/2''F4'A''D/EGFE/F--8EE/4F--8GG/
+@MARC-031r: D
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8{''D6FE}{8DD}4EF/GBAC/{8D6FE}{8DD}4EF/GBAC/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 2''F4G/2F4G/FED/ED-/FED/ED-/
+@MARC-031r: D
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: {8''AFED'''D''B}/{AFED'''D''B}/4AGF/ED-/{8'BAAGGF}/4GF-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''FF2-/8EF4-2-/8CD4-8.D6F4F/EG8.F6F4F/EE8FGAF/
+@MARC-031r: D
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''F^'A^D'''D{6''BAAG}{GFFE}/8{E^'A''F^'A^D}4''F^'A^D{6BAAG}{GFFE}/{8'CD}4''F^'A^D{6''D'F}{(FEF)}{''DFFD}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =1/4''G8GGGF4-/8EEEEED4-/4FFE8FG/GF4-8-'GGG/
+@MARC-031r: D
+@MARC-031t: Peccata mundi, miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8{'A6FG}{A''FF'A}{8G6EF}{G''EE'G}/{''EGGE}{ECC'G}{8GF}{6''EC'AG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Brixi, František Xaver
+@MARC-100d: 1732-1771
+@MARC-100j: Alleged
+@MARC-1000: pe30000491
+@MARC-240a: Mass
+@MARC-240m: V (4), orch, b
+@MARC-240r: D
+@MARC-2400: 5211939
+@MARC-245a: [title page:] MISSA in: D: a V 9 | Canto. | Alto. | Tenore. | Basso. | Violino 1mo. | Violino 2do. | Clarino 1mo. | Clarino 2do. | et | Fundamento | Authore Brixi
+@MARC-260c: 1766-1783
+@MARC-2608: 01
+@MARC-300a: 12 parts
+@MARC-300c: 35 x 21 cm
+@MARC-3008: 01
+@MARC-500a: Two different copyists.
+@MARC-5008: 01
+@MARC-500a: Inscription "Zwiednia Dla Jm[...] Panny Morski | od iey Brata" [From Vien for Maiden Morska | from her brother] at the bottom of the title page.
+@MARC-590a: S, A, T, B
+@MARC-590b: 2, 2, 2, 3 f.
+@MARC-5908: 01
+@MARC-590a: vl 1 (2x), 2 (2x)
+@MARC-590b: 4, 4, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: clno in D 1 (2x), 2
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), clno (2), b
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 252
+@MARC-6910: lit1891
+@MARC-700a: Morska, Karolina
+@MARC-700d: 1750c-1783
+@MARC-700j: Ascertained
+@MARC-7000: pe41021433
+@MARC-7004: fmo
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 90/A II 30
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,113 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001009336
+@MARC-003:	DE-633
+@MARC-005:	20201020180757.0
+@MARC-028a: M.S. 2467.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro assai, quasi presto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: '8{EnDE}{''C'BA}{G''FnE}4bE/i/8{EnDE}{'''C''GB}{AnEG}{FCE}/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Impromptus
+@MARC-240m: pf
+@MARC-240n: op. 29
+@MARC-240n: ChomTurC 43
+@MARC-240r: A|b
+@MARC-2400: 3901206
+@MARC-245a: IMPROMPTU | Pour le Piano | Dédié à | Mademoiselle | CAROLINE DE LOBAU | Par | F. CHOPIN | A. L. | Opéra. 29. [space] Prix : 6.|f | Propriété des Editeurs. | PARIS, chez Maurice SCHLESINGER, Editeur, Rue Richelieu, 97 | Londres, Wessel &amp; C.|o [space] Leipzig chez Breitkopf &amp; Haertel.
+@MARC-260a: Paris
+@MARC-260b: Brandus et Cie
+@MARC-260c: [1846-1851]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 32,5 x 25,5 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 29
+@MARC-500a: TP engraved, p. [ii, 1] blank, p. 2-9 engraved, p. [10] blank.
+@MARC-500a: Heading, p. 2: CHOPIN. Op: 29 | IMPROMPTU.
+@MARC-500a: Plate number p. 2-9: M.S. 2467.
+@MARC-500a: TP: traces of publisher's signature stamp "Brandus et Cie"; inscription in pencil "[X, 1837]".
+@MARC-5003: 51015662
+@MARC-561a: Item is part of the Ellen Ballon fonds. Fonds was acquired in 1971 from Colonel Bullock, Ellen Ballon's widower. Ellen Ballon's niece and nephew, the Goldblooms, aided in sorting through the collection before its donation.
+@MARC-5613: 51015663
+@MARC-588a: PL-Wbfc 3745/n
+@MARC-590a: pf
+@MARC-590b: 9 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-599a: Jeremiusz Glensk
+@MARC-5993: 51015662
+@MARC-650a: Impromptus
+@MARC-6500: 25590
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 43
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 29-1a-Sm
+@MARC-6910: lit30025545
+@MARC-700a: Lobau, Caroline Comtesse de
+@MARC-700j: Ascertained
+@MARC-7000: pe30070435
+@MARC-7004: dte
+@MARC-700a: Ballon, Ellen
+@MARC-700d: 1898-1969
+@MARC-7000: pe41012973
+@MARC-7003: 51015663
+@MARC-7004: fmo
+@MARC-710a: Brandus et Cie.
+@MARC-710g: Ascertained
+@MARC-7100: ks30080942
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-852a: CDN-Hu
+@MARC-852e: Dalhousie University, Killam Memorial Library, Music Collection
+@MARC-852x: ks30001854
+@MARC-8523: 51015663
+@MARC-852c: MS-5-2, Box 7, Folder 8
+@MARC-852z: Ellen Ballon fonds
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51015662
+@MARC-852c: 3745/n
+@MARC-856u: https://findingaids.library.dal.ca/impromptu-op-29-f-chopin-1st-ed
+@MARC-856x: Digitalization
+@MARC-856z: Digital copy available via Dalhousie University Archives catalogue.
+@MARC-8563: 51015663
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

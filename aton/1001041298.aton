@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041298
+@MARC-003:	DE-633
+@MARC-005:	20210525211300.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 8-/=15/4,A8BB/{6AGFE}8DD/4G8GG/{GF}4F/
+@MARC-031r: D
+@MARC-031t: Flammae amoris ad Jesum volate
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 8'A/4''DE/{8FDA'A}/{''D6EF}{E'B''CD}/{8C'A}-A/{''D6FE}{8DD}/4D8-'B/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Riccieri, Giovanni Antonio
+@MARC-100d: 1679-1746
+@MARC-100j: Ascertained
+@MARC-1000: pe30007685
+@MARC-240a: Flammae amoris ad Jesum volate
+@MARC-240m: B, vl (2), org
+@MARC-240r: D
+@MARC-2400: 3020092
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-590a: B solo
+@MARC-590b: f. 2v
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2v, 2v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 3v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: B, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001041295
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 308/A VII 68
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

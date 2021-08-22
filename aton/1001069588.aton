@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001069588
+@MARC-003:	DE-633
+@MARC-005:	20210707105437.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: a la Polaca
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =8//8DG4.B8G/FA4.''C'8A/4.G{6''ED}{C'BAG}/{FA}{xCE}4ED/
+@MARC-031r: G
+@MARC-031t: Od tak pięknych oczu przecie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: a la Polaca
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: {8''DG}4.B8G/{FA}4.'''C''8A/G4G{'''6ED}{C''BAG}/{FAxCE}4E8D-/{'B^''GD^B'B^''GD^B'B^''GD^B}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Trzy upiory
+@MARC-240k: Excerpts
+@MARC-240o: Arr
+@MARC-2400: 50245874
+@MARC-245a: [caption title:] Śpiew z Komedyo Opery pod Tytułem Trzy Upiory. Śpiewany przez Panią Karpińską
+@MARC-300a: 1 score: p. 23
+@MARC-3008: 01
+@MARC-500a: Most probably a copy from "Śpiew z komedio opery pod tytułem Trzy upiory spiewany przez JP. Kurpińską" [A song from the comedy-opera "Three ghosts" sung by Ms Kurpińska] published in Warsaw by A. Brzezina in 1823. In Encykopedia Muzyki listed as "Polonez G-dur do komedio-opery "Trzy ubiory" [!] [three costumes]" by Karol Kurpiński.
+@MARC-500a: In the caption title probably wrong spelling of the name Kurpińska. The wife of Karol Kurpiński, Zofia born Brzowska (1800-1879) was an actress in Variety Theater and singer in Warsaw Opera.
+@MARC-500a: Attribution to Wygrzywalski by Świerczek.
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: V, keyb
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-650a: Vaudevilles
+@MARC-6500: 25368
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 235
+@MARC-6910: lit1891
+@MARC-691a: TomaszewskiB 1992
+@MARC-691n: nr 539
+@MARC-6910: lit41001996
+@MARC-691a: EM/b
+@MARC-691n: "klł" p. 238
+@MARC-6910: lit1793
+@MARC-700a: Wygrzywalski, Józef
+@MARC-700d: 1798-1857p
+@MARC-700j: Doubtful
+@MARC-7000: pe30109448
+@MARC-7004: cmp
+@MARC-730a: Od tak pięknych oczu przecie
+@MARC-730g: RISM
+@MARC-730m: V, keyb
+@MARC-730r: G
+@MARC-7300: 5199390
+@MARC-773w: 1001069485
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 552/A IX 32
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

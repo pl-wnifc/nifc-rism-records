@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001004056
+@MARC-003:	DE-633
+@MARC-005:	20210518172344.0
+@MARC-028a: 2505.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introduzione. Allegro molto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/8
+@MARC-031p: ('4.G)/i/i/%F-48-,6{bEbAE},6{DGD}/,6{xF'C,F}6{GBG}6{xG'nF,G}/,6{A'E,A},6{E'C,E},6{xF'D,F}/,6{GBG}6{A'D,A}{6GBG}/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Boleros
+@MARC-240m: pf
+@MARC-240n: op.19
+@MARC-240n: ChomTurC 8
+@MARC-240r: a
+@MARC-2400: 3944934
+@MARC-245a: BOLERO | pour le | Pianoforte | composé et dédié | à Mademoiselle la Comtesse | EMILIE DE FLAHAULT | par | FRÉD. CHOPIN | Oeuv. 19. [space] Propriété de l’Editeur. [space] Pr. 20 Gr. | Leipzig, | au Bureau de Musique de C. F. Peters. | Paris, chez Philipp &amp; C|o. [below] Londres, chez Wessel &amp; C|o. [space] S.t Petersbourg, chez J. C. Paez. [below] Mosco, chez C. L. Lehnhold. | Enregistré aux archives de l’union. | 2505.
+@MARC-260a: Leipzig
+@MARC-260c: 183410--
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-300c: 30,5 x 25,0 cm
+@MARC-3008: 01
+@MARC-383b: op.19
+@MARC-500a: Cover [green-gray]: same as title page; signature: "W Wierzbowski"; inscription in pencil: "[X, 1834]"
+@MARC-500a: Title page: signature "wwierzbowski"
+@MARC-500a: Heading, page 3: Frédéric Chopin. Op. 19.
+@MARC-500a: Plate number: 2505, pages 3-14
+@MARC-506a: Treasury of the Library
+@MARC-590a: pf
+@MARC-590b: 14p.
+@MARC-5908: 01
+@MARC-592a: [without watermark]
+@MARC-5928: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Boleros
+@MARC-6500: 25426
+@MARC-690a: ChomTurC
+@MARC-690n: 8
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 19-1-PE
+@MARC-6910: lit30025545
+@MARC-700a: Flahault, Emilie de
+@MARC-700d: 1819-1895
+@MARC-7000: pe30114444
+@MARC-7004: dte
+@MARC-700a: Wierzbowski, W.
+@MARC-7000: pe41000469
+@MARC-7004: fmo
+@MARC-710a: C. F. Peters (Bureau de Musique)
+@MARC-7100: ks11915
+@MARC-7104: pbl
+@MARC-710a: Prilipp &amp; Co.
+@MARC-7100: ks30060722
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: J. C. Paez
+@MARC-7100: ks51000059
+@MARC-7104: pbl
+@MARC-710a: Charles Louis Lehnhold
+@MARC-710g: Ascertained
+@MARC-7100: ks40006628
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 2660/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300605195
+@MARC-003:	DE-633
+@MARC-005:	20201029164030.0
+@MARC-028a: S. 4646.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: ,8{B'DGF}'8{AG''C'B}/'2A2-/,8{A'CnFE}'8{GFbBA}/'2.G4xF/'4F4-2-/1-/'1G/'2F2-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =4/''2C'4BxA/'2.B4F/'4GAB''xC/''2.xDt''8{xCD}/''2E4.nD8C/'4B''C'GA/'4BxAnAxG/'2xG+4GF/'4E4-
+@MARC-031r: G
+@MARC-031t: Z gór gdzie dzwigali strasznych krzyżów brzmienie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Melodia
+@MARC-240m: V, pf
+@MARC-240n: op. 74/9
+@MARC-240n: ChomTurC 137
+@MARC-240r: G
+@MARC-2400: 3976888
+@MARC-245a: MELODYA, Słowa Anonyma, Muzyka FRYD|K|A|. CHOPIN. | UNE MÉLODIE. | N.|o 9. | CANTO. 1847.
+@MARC-300a: p. 28-30
+@MARC-3008: 01
+@MARC-383b: op. 74/9
+@MARC-500a: At the bottom of the p. 28: Warszawa Nakład i Własność G. Gebethnera i Spółki. [space] S. 4646. [space] Berlin, Verlag und Eigenthum der Schlesinger'schen Buch-und Musikhandlung.
+@MARC-520a: No. 9
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Lieder
+@MARC-6500: 25227
+@MARC-690a: ChomTurC
+@MARC-690n: 137
+@MARC-6900: lit30000031
+@MARC-700a: Krasiński, Zygmunt
+@MARC-700d: 1812-1859
+@MARC-700j: Ascertained
+@MARC-7000: pe30114277
+@MARC-7004: lyr
+@MARC-730a: Une mélodie
+@MARC-730g: RISM
+@MARC-7300: 4318390
+@MARC-773w: 300605186
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 963/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

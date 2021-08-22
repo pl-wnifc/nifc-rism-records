@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001042099
+@MARC-003:	DE-633
+@MARC-005:	20200226150508.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: ''4C+/CFED/8.{C6n'B''8.C6D}2C+/4CFED/8{C6n'B''8.C6q8Er6D}2C/
+@MARC-031q: Error in the last bar [5]: the first note should be dotted eight-note.
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Nocturnes
+@MARC-240m: pf
+@MARC-240n: op. 55/1
+@MARC-240n: ChomTurC 122
+@MARC-240r: f
+@MARC-2400: 4337252
+@MARC-245a: N|o 1.
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-383b: op. 55/1
+@MARC-500a: TP: publisher's oval atamp; "[1844]" written by hand in pencil.
+@MARC-5003: 328635
+@MARC-506a: Treasury of the Library
+@MARC-5063: 328635
+@MARC-590a: pf
+@MARC-590b: p. 3-7
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Nocturnes (inst.)
+@MARC-6500: 25591
+@MARC-690a: ChomTurC
+@MARC-690n: 122
+@MARC-6900: lit30000031
+@MARC-773w: 1001042098
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 328635
+@MARC-852c: 431/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

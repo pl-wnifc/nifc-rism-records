@@ -1,0 +1,113 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035393
+@MARC-003:	DE-633
+@MARC-005:	20210711175735.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =11/2-4-8AA/AA4--8''DE/D'B8.A6A4A-/-8AB''C'B4-/
+@MARC-031r: D
+@MARC-031t: Veni sancte spiritus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4DE{6FAFD}{8''D6ED}/{8.C6'B}{8A6GF}4E8{D''F}/4xGA{6BAB'''C}{''8.B6A}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Boczkowski, Kazimierz
+@MARC-100d: 17/18
+@MARC-100j: Ascertained
+@MARC-1000: pe30040643
+@MARC-240a: Veni sancte spiritus
+@MARC-240m: V (4), orch, org
+@MARC-240r: D
+@MARC-2400: 3017531
+@MARC-245a: [cover title:] Prosa De Spiritu Sancto a 9. | Veni Sancte Spiritus et emitte caelitus | 1 - Canto | 1 - Alto | 1 - Tenore | 1 - Basso | 2 - Clarini | 2 - Violini | 1- Viollone | Authore Casimiri M[ichaeli] B[oczkowski]. | O. C. S. M. S. | et Scripsit | mpropa [!]| Ano [!] 1700
+@MARC-260c: 1700
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 20 x 16 cm and two different sizes
+@MARC-3008: 01
+@MARC-500a: Additional basso continuo part transposed to C written by Zofia Bratysiewiczówna.
+@MARC-5008: 01
+@MARC-500a: Decorative initial letter V in S part with a cross and many flames above.
+@MARC-500a: A part with caption "Allitto"; vl parts with captions: "Violno"; clno parts with captions "Clarino Gallico".
+@MARC-500a: Inscription at the end of A part: "Kto ten głos śpiewać bęndzie | Niech ze go P. Bóg błogosławi wszędzie"[Who will sing this part may be blessed by God everywhere].
+@MARC-500a: Inscription "Volta vestra Seniora" at the bottom of B f. 1r.
+@MARC-500a: Inscription "nie ruszać tego niech tak będzie" [do not touch let it be so] in clno 1.
+@MARC-500a: Wendelin Świerczek proposed the reading of codename from the title page: "O.C.S.M.S." as "Organarius Collegiate Sanctae Mariae Sandomieriae" but the activity of Boczkowski in collegiate church is not ascertained.
+@MARC-590a: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vlne
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig/2x)
+@MARC-590b: 2, 1 f.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: clno in D
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), vlne, clno in D (2), org
+@MARC-599b: full
+@MARC-650a: Sequences
+@MARC-6500: 25249
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-657a: De Spiritu Sancto
+@MARC-6570: 24408
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 225-226, 267
+@MARC-6910: lit1891
+@MARC-691a: DąbekK 2012
+@MARC-6910: lit41001983
+@MARC-700a: Bratysiewiczówna, Zofia
+@MARC-700d: 1673c-1730
+@MARC-700j: Ascertained
+@MARC-7000: pe41010089
+@MARC-7004: scr
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 245/A VII 5
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,96 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001068027
+@MARC-003:	DE-633
+@MARC-005:	20210627215401.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =3/=1/=6/=15/=2/2-4''C8qE8FF/qG4FtE8.G6'B8BB/
+@MARC-031r: F
+@MARC-031t: Ista quam laeti
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 8.{Ft3EF}4''F{8F6EF}{GEC'B}/8{AF}''4F8{F6EF}{GEC'B}/8{AF}4''F8{F6ED}{C'BAG}/1F/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Habermann, Jan Piotr
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30017777
+@MARC-240a: Ista quam laeti
+@MARC-240m: S, vl (3), org
+@MARC-240r: F
+@MARC-2400: 3021138
+@MARC-245a: [title page:] IHS | ARIA | a | Violino Imo. | Violino IIdo. | Violino IIItio. | Canto Solo | et | Organo | Quam Venerabili Sanctimoniali | Xaveriae Miedzwiecka | Discipulae meae plurimumum [!] Venerandae | Humiliter Dono, et offero, | Pia affectione, et Charitate | EIVs Castae, TotIVsqVe VIrgIneI ChorI non DIgnVs SerVVs | Ioannes Petrus HaberMann. | Chori Soc. Jesu Leopoliensis Capellae Mag[ister]: et Compositor
+@MARC-260c: 1742-1762 (?-06-13)
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 23 x 17,5 cm
+@MARC-3008: 01
+@MARC-500a: Decorated and colored title page with drowing of heart.
+@MARC-5008: 01
+@MARC-500a: Second title page (presumably earlier): ARIA | De S. Matre Annas | a | Violino Primo. | Violino Secundo. | Violino Tertio. | Canto Solo. | et | Organo. | Quam Venerabili Sanctimoniali Xaveriae Miedzwie | Kianae, Discipulae meae plurimum Venerandae, | Charitate et pia affectione humiliter | compositam, Scriptamque offero | et dono. | Ego EIVs TotIVsqVe VIrgIneI ChoRI non DIgnVs SerVVs, Ioannes | PetrVs HaberMann. | Leopoli die 13. Junij.
+@MARC-500a: Inscription "Violino 3tio. Viola Transposita" at the top of vl 3.
+@MARC-500a: Inscription "Authore Joanne P. Habermann" at the top of org.
+@MARC-590a: S solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, 3
+@MARC-590b: 1, 1, 1, f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 3
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, vl (3), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 228, 270
+@MARC-6910: lit1891
+@MARC-691a: ZdMP 10
+@MARC-691n: p. 1-12
+@MARC-6910: lit41001466
+@MARC-700a: Niedźwiecka, Marianna
+@MARC-700d: 1724c-1793
+@MARC-700j: Ascertained
+@MARC-7000: pe41012324
+@MARC-7004: dte
+@MARC-710a: Klasztor Benedyktynek Łacińskich we Lwowie
+@MARC-710g: Ascertained
+@MARC-7100: ks51001655
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 258/A VII 18
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

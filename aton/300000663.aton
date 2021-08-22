@@ -1,0 +1,127 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000663
+@MARC-003:	DE-633
+@MARC-005:	20201029163351.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8'G4GGG8G/A4AAA8A/A4A8A{BB''CC}/'B4BB''G8'B/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =11/2'G4GG/2.A4A/2A4B''C/'B-2-/2B4BB/2.''C4C/2.C4C.4/'B
+@MARC-031r: G
+@MARC-031t: Veni creator spiritus, mentes tuorum visita
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kuci, Mateusz
+@MARC-100d: 18.sc
+@MARC-100j: Doubtful
+@MARC-1000: pe30017582
+@MARC-240a: Veni creator spiritus
+@MARC-240m: Coro, orch
+@MARC-240r: G
+@MARC-2400: 3025141
+@MARC-245a: [cover title:] Veni Creator Spiritus in G | [later by other hand:] Author Kuci
+@MARC-260c: 1751-1800 (18.2d)
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 33 x 25 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: vl 2 zapisany wewnątrz okładki; okładka rozdarta f. 2 udarte z lewej strony - treść muzyczna niekompletna]
+@MARC-5008: 01
+@MARC-500a: cor 1, 2: 17 x 25 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na przedniej okładce: u góry na środku czarnym tuszem "60."; skreślona ołówkiem; poniżej z prawej strony czarnym tuszem ręką M. Zabłockiego "N 102"; skreślone czarnym tuszem; u góry po prawej ołówkiem ręką nieznanego Paulina "N|o 79"; skreślone ołówkiem; po prawej ręką nieznanego Paulina "N|o 71"; poniżej z prawej strony czerwonym atramentem ręką F. Maletza "N 914/215."; poniżej ołówkiem ręką W. Świerczka "540" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku u góry okładki okrągła pieczęć: "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona niebieską kredką oraz parafowana]
+@MARC-500a: [pl-text: U P. Podejki stwierdzone jako Kuci, w katalogu Maletza "ignotus" ]
+@MARC-500a: Soloabschnitte in S, A und T.
+@MARC-500a: Doppeltextierung.
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-563a: [pl-text: karty vl 2 były sklejone paskiem z papieru]
+@MARC-5638: 01
+@MARC-590a: S, A, T, B, vl 1, 2, b, ob 1, 2, cor 1, 2
+@MARC-590b: 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [without watermarks]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), b, ob (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 29
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 22
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.773
+@MARC-6910: lit1869
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-730a: Salve regina
+@MARC-730g: RISM
+@MARC-7300: 3021988
+@MARC-852a: PL-CZ
+@MARC-852d: 60
+@MARC-852d: N 102
+@MARC-852d: N|o 79
+@MARC-852d: N|o 71
+@MARC-852d: N 914/215
+@MARC-852d: 540
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-308
+@@END:		MARC21
+

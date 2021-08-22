@@ -1,0 +1,64 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001112133
+@MARC-003:	DE-633
+@MARC-005:	20210706151122.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tema andante
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8.{'B^6D''8C^'E}{''D^'F''D^'F}/{8.''C^'E6A^C}8B^D-/{8.''D^'B''6E^C}{8F^DF^D}/8.{E^C6C^'A}8''D^'B-/8q'B{8.''B6G}{nECDE}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 6-{'AB''C}/{FD8'B}{6''GE8'B}/{6''FD8'B}{6''BAGF}/{nEFbED}{EDC'B}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Pleyel, Ignace
+@MARC-100d: 1757-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe24761
+@MARC-240a: Sonatas
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240o: Arr
+@MARC-240r: B|b
+@MARC-2400: 3900185
+@MARC-245a: [caption title:] Sonata
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 220011917, 301002509, 406002326.
+@MARC-590a: keyb
+@MARC-590b: p. 1-7
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-650a: Keyboard pieces
+@MARC-6500: 3000134
+@MARC-773w: 1001112130
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 553/A IX 33
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

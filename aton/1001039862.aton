@@ -1,0 +1,113 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001039862
+@MARC-003:	DE-633
+@MARC-005:	20210710074427.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Symphonia
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c/
+@MARC-031p: =2/{6''D'B''CD}{EFED}{8CC}{6DEDC}/{'BAGA}{B''DC'B}4AG/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031o: c/
+@MARC-031p: {6''C'B''CD}8C'G{6''EDEF}8EC/{6GFGA}8GEE6EE{EDE'B}/6''CC8C'BB''G6GG{GFGD}/
+@MARC-031r: C
+@MARC-031t: Veni creator spiritus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c/
+@MARC-031p: =13/8-{''DDD}6-{ECD}{EDEC}/-{D'B''C}{DCD'B}{''C'BAB}{''C'B''C'A}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Zajączkowski, Roman
+@MARC-100d: 17/18
+@MARC-100j: Ascertained
+@MARC-1000: pe41012326
+@MARC-240a: Veni creator spiritus
+@MARC-240m: V (5), orch, b
+@MARC-240r: C
+@MARC-2400: 3025141
+@MARC-245a: [cover title:] A. M. D. G. | Veni Creator Spiritus a 10. | 2 Canto, 2 Violini. Alto, Tenore, 2 Clarini, Viola, et Basso | Pro Choro Reliq: Sanctimonialium Conventu Sandomiriensis | Sacri Ordinis Benedictini | In gratiam Religiosae Virginis Catharinae Muszynska Capellae [!] Magistrae | Composit: et Scrip[si]t: Sieciechowiae 1706 3. Maij | Pr Romanus Zajączkowski Benedictinus mmmppp.
+@MARC-260c: 1706-05-03
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 20 (17) x 16 (15,5) cm
+@MARC-3008: 01
+@MARC-500a: Inscription "A. M. D. G." at the top of each part.
+@MARC-500a: Inscription at the bottom of vla da gamba part: "Niechze nas Duch Nayswiętszy Swą łaską napoi, Ktorego Panowaniem Swiat ten cały Stoi" [May the Holy Spirit, whose reign maintains this world, drink us with His grace].
+@MARC-590a: S 1, 2, A, T, B
+@MARC-590b: 1, 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla da gamba
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla da gamba
+@MARC-594c: 1
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S (2), A, T, B, vl (2), vla da gamba, clno (2), b
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 235-236, 267
+@MARC-6910: lit1891
+@MARC-691a: MądryB 2013
+@MARC-691n: p. 590-592
+@MARC-6910: lit41001232
+@MARC-691a: SSS 18
+@MARC-691n: p. 18-46
+@MARC-6910: lit41001468
+@MARC-700a: Muszyńska, Katarzyna
+@MARC-700d: 1655c-1717
+@MARC-700j: Ascertained
+@MARC-7000: pe41012327
+@MARC-7004: dte
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 259/A VII 19
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

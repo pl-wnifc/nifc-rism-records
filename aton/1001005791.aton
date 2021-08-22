@@ -1,0 +1,142 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001005791
+@MARC-003:	DE-633
+@MARC-005:	20210409063903.0
+@MARC-028a: 5654
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: pf [tutti]
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: ''6{F'8.A6B}/''1C/'2B4AG/q8Gr8.{F6nE8.F6G}4AF/2F8nE6-
+@MARC-031q: orchestra reduction for piano
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: c/
+@MARC-031p: =71/''''4D+6{D'''GF''B}'''4D+6{D''GF'B}/''6{D'GF,B}%F-4'6{D,GF,,B}4Btqq6{AB}r,6{C,,BAG}/4F%G-24-2-/2-4-6-''6{F'8.A6B}/''1C/
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Larghetto
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: =5/({,,,8A,,A,E};3)%G-2({'8C,A'C};3){(8..E)3nDE}{FEn DEFGAB}/qq{''6CEA}r'''2Eqq{'''6nDE}r4Etqq'''6{DE}r3{AFEC}/''4B4..A
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro vivace
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: ''4C/4C8{nDnEFG}/4A8{BA}4G/q8Cr'''4C''8{BAGF}/4A8{BA}4G/4F
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Concertos
+@MARC-240m: pf
+@MARC-240n: op. 21
+@MARC-240n: ChomTurC 48
+@MARC-240r: f
+@MARC-2400: 3900213
+@MARC-245a: SECOND CONCERTO | pour le Piano | Avec Accompagnem„|t de l’Orchestre | ou avec Quintuor | dédié | A Madame la Comtesse | Delphine Potocka née de Komar | par | FRÉDERIC CHOPIN. | Oeuv. 21. [space] Propriété des Editeurs. [space] Pr. av. Orchestre Rthlr. 4._ _ [below] av. Quintuor... „ 3._ _ [below] av. Piano seul „ 1. 16._ | Leipsic, chez Breitkopf &amp; Härtel. | Londres, chez Wessel &amp; C„|o | Paris, chez M. Schlesinger | S.|t Petersbourg, chez Bernard &amp; Holtz. [space] Varsovie, chez G. Sennewald. | Enregistré dans les Archives de l’Union.
+@MARC-260a: Leipzig
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-260c: [1837-1840]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 30,5 x 25,5 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 21
+@MARC-500a: TP lithographed, p. [2] blank, p. 3-37 engraved, p. [38] blank.
+@MARC-500a: Headline, p. 3-37: "PIANOFORTE.".
+@MARC-500a: Heading p. 3: FR. CHOPIN. | CONCERTO.
+@MARC-500a: Plate number p. 3-37: 5654
+@MARC-500a: TP: signature ink: "Antoinette Bierkowska"; inscription in pencil: "[IV. 1836]".
+@MARC-5003: 51030136
+@MARC-506a: Treasury of the Library
+@MARC-5063: 51030136
+@MARC-588a: PL-Wnifc 3056/n
+@MARC-590a: pf
+@MARC-590b: 37 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: iSol: pf
+@MARC-594c: 1
+@MARC-594a: iSol: pf
+@MARC-599b: full
+@MARC-650a: Concertos
+@MARC-6500: 25176
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 48
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 21-1a-B&amp;H
+@MARC-6910: lit30025545
+@MARC-700a: Potocka, Delfina
+@MARC-700d: 1807-1877
+@MARC-700j: Ascertained
+@MARC-7000: pe30093163
+@MARC-7004: dte
+@MARC-700a: Bierkowska, Antoinette
+@MARC-7000: pe41000677
+@MARC-7003: 51030136
+@MARC-7004: oth
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-710g: Ascertained
+@MARC-7100: ks24285
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Bernard &amp; Holtz
+@MARC-710g: Ascertained
+@MARC-7100: ks51000017
+@MARC-7104: dst
+@MARC-710a: G. Sennewald
+@MARC-710g: Ascertained
+@MARC-7100: ks51000015
+@MARC-7104: dst
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51030136
+@MARC-852c: 3056/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

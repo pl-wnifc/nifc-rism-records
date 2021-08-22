@@ -1,0 +1,194 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001077278
+@MARC-003:	DE-633
+@MARC-005:	20210711173050.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: 4''CD/E8GC/4C8'BB/4''CC/E8DC/4C'B/
+@MARC-031r: C
+@MARC-031t: Dixit Dominus, Domino meo sede a dextris meis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: 2/4
+@MARC-031p: 8{''EGGG}/{G'GGG}/{(AGA)}{(BAB)}/{''C'G}{G''G}/{(EFE)}{(DED)}/{(CDC)}{('B''C'B)}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: 8-''EDC/C6CC8FE/4E-/8-CCC/FEDD/4C-/
+@MARC-031r: C
+@MARC-031t: Laudate pueri, Dominum laudate nomen Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: 2/4
+@MARC-031p: 8-{6''EF}{GGGG}/{CCCC}{FFEE}/{D'FFF}{8G6''EF}/{GGGG}{CCCC}/{FGEF}{DGGG}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: 4-8-'G/{6''C'B''CD}{CEDC}/{DCDE}{DEFE}/{EDCD}{EFEF}/{8G6FE}8.D6D/8CEDC/
+@MARC-031r: C
+@MARC-031t: Laetatus sum, in his quae dicta sunt mihi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: 2/4
+@MARC-031p: =7/8-'G{''C'A}/{B6''CD}{8'GB}/4''C-/=1/8-{EDC}/{'B''E}{'A''D}/'B-4-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: =15/4'G''D/8'BAGA/4B''C/D8'BB/2A/G/4BA/8BBBB/
+@MARC-031r: C
+@MARC-031t: Nisi Dominus, aedificaverit domum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: 2/4
+@MARC-031p: =15/4'G''D/{8'BAGA}/4B''C/D'B/2A/G/4B''D/G{8'BB}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: 8''ED-C/C6DE8F6{ED}/8E{6C'bB}8AG/-{6''C'B}8AG/-{6''GF}8ED/-{6GF}8ED/
+@MARC-031r: C
+@MARC-031t: Lauda Jerusalem, Dominum lauda Deum tuum Sion
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: 2/4
+@MARC-031p: {8''GGGG}/{6AFGE}{FDGF}/{8E6C'B}{8AG}/-{6''C'bB}{8AG}/-{6''GF}{8ED}/-{6GF}{8ED}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: =2/4-'G/''C'B/''C-/=1/4-'G/''C'B/''C'B/''C8DD/
+@MARC-031r: C
+@MARC-031t: Magnificat, anima mea Dominum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: 2/4
+@MARC-031p: =2/8-{'GGG}/{EFDE}/4C-/=1/8-{GGG}/{EFDE}/{CGGG}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rathgeber, Johann Valentin
+@MARC-100d: 1682-1750
+@MARC-100j: Conjectural
+@MARC-1000: pe30002639
+@MARC-240a: Vespers
+@MARC-240m: V (4), vl, org
+@MARC-240r: C
+@MARC-2400: 3900116
+@MARC-245a: [title page:] IMI. | VESPERÆ | A 7. | [on the left:] Canto. | Alto | Tenore. | Basso. | [on the right:] Violino Vnisono | Violino. Unisono | Et Basso. Pro. | ORGANO | Authore Dno Dno. | Jacobi.
+@MARC-260c: 1731-07-23
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 22,5 (20,5) x 18,5 (17) cm
+@MARC-3008: 01
+@MARC-500a: Inscription at the bottom of the title page: "Ex Scriptis Casimiri Kolasinski | Anno Domini 1731. | [d]ie 23. Julij".
+@MARC-500a: Inscription "Laus Deo" at the end of vl unisono doublet.
+@MARC-500a: Inscription "J.B." at the margin of the last page of Alto folding.
+@MARC-500a: Composer identified on the basis of RISM ID 1001053394, 400012898, 570002291. Świerczek postulated Czech Franz Jacobi as the composer of these Vespers.
+@MARC-590a: S, A, T, B
+@MARC-590b: 4, 4, 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: vl unisono (2x)
+@MARC-590b: 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl unisono
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl unisono, org
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 255, 264
+@MARC-6910: lit1891
+@MARC-691a: KonopkaS 2005
+@MARC-691n: p. 261
+@MARC-6910: lit30025836
+@MARC-700a: Jacobi
+@MARC-700j: Doubtful
+@MARC-7000: pe30016651
+@MARC-7004: cmp
+@MARC-700a: Kolasiński, Kazimierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41012736
+@MARC-7004: scr
+@MARC-710a: Kolegiata w Sandomierzu
+@MARC-710g: Conjectural
+@MARC-7100: ks51001537
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 279/A VII 39
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

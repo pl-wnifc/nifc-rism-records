@@ -1,0 +1,106 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300605103
+@MARC-003:	DE-633
+@MARC-005:	20201029164027.0
+@MARC-028a: B. &amp; B. 3359.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/4
+@MARC-031p: '4E/'2.E/'2.A/'2.'B/4-'4xFxG/2.E/2.A/2.B/4-'4xFxG/''2E({8EFE};3)/''4.xD
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Mazurkas
+@MARC-240m: pf
+@MARC-240n: ChomTurC 105
+@MARC-240r: a
+@MARC-2400: 3903079
+@MARC-245a: [Portrait of Chopin] MAZOURKA | pour le | PIANO | composée par | FR. CHOPIN. | Pr. 12½ Sgr. | Propriété des Editeurs. Ent. Sta. Hall. [space] Enregistré aux Archives de l’Union | BERLIN [below] CHEZ ED. BOTE &amp; G. BOCK. [below] (G. Bock.) [below] Marchand Editeur de Musique de S. M. le Roi [below] et de S. A. R. le Prince Albert de Prusse. [below] Posen au Marché N=|o 6. | Wien. Gustav Lewi. [below] Dresden. Friedel. [below] Leipzig. Leede. [space] Hamburg. Cranz. [below] Breslau. Sohn [below] Stettin. Simon.
+@MARC-260a: Berlin [ascertained]
+@MARC-260b: Ed. Bote &amp; G. Bock
+@MARC-260c: 1855-1864
+@MARC-260e: Berlin
+@MARC-260f: Ed. Bote &amp; G. Bock
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-300c: 32,0 x 26,5 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-500a: TP lithographed, p. [2] blank, p. 3-7 lithographed, p. [8] blank.
+@MARC-500a: TP: publisher’s round blind stamp (cut off); inscription in pencil: "po [VII, 1855]"; portrait of Chopin.
+@MARC-500a: At the bottom of p. 3: Propriété des Editeurs. [space] B. &amp; B. 3359. [space] Berlin chez Ed. Bote u. G. Bock.; p. 4, 5: plate number: B. &amp; B. 3359.; p. 6: B.&amp; B.3359; p. 7: B.&amp; B.3359. [space] Stich und Druck von Ed. Bote &amp; G. Bock. Berlin."
+@MARC-590a: pf
+@MARC-590b: 7 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Mazurkas
+@MARC-6500: 25480
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 105
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: MEG-1a-B&amp;B
+@MARC-6910: lit30025545
+@MARC-700a: Gaillard, Emile
+@MARC-700d: 1821-1902
+@MARC-700j: Ascertained
+@MARC-7000: pe30114435
+@MARC-7004: dte
+@MARC-710a: Ed. Bote &amp; G. Bock
+@MARC-710g: Ascertained
+@MARC-7100: ks51000061
+@MARC-7104: pbl
+@MARC-7104: prt
+@MARC-710a: Gustav Lewi
+@MARC-710g: Ascertained
+@MARC-7100: ks62762
+@MARC-7104: dst
+@MARC-710a: Bernhard Friedel
+@MARC-710g: Ascertained
+@MARC-7100: ks51000052
+@MARC-7104: dst
+@MARC-710a: C. F. Leede
+@MARC-710g: Ascertained
+@MARC-7100: ks30076585
+@MARC-7104: dst
+@MARC-710a: August Cranz
+@MARC-710g: Ascertained
+@MARC-7100: ks40002683
+@MARC-7104: dst
+@MARC-710a: C. F. Sohn
+@MARC-710g: Ascertained
+@MARC-7100: ks51000053
+@MARC-7104: dst
+@MARC-710a: E. Simon
+@MARC-710g: Ascertained
+@MARC-7100: ks31181
+@MARC-7104: dst
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 1117/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

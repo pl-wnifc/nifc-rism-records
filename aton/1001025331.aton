@@ -1,0 +1,54 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001025331
+@MARC-003:	DE-633
+@MARC-005:	20180226104156.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Con brio
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4(8{EGB};3)4(8{''B'G''G};3)4(8{'BGB};3)4(8{AFB};3)/4(8{EGB};3)4(8{''B'G''G};3)4(8{'BGB};3)4(8{AFB};3)/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Szymanowska, Maria
+@MARC-100d: 1789-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe140138
+@MARC-240a: Preludes
+@MARC-240m: pf
+@MARC-240r: E|b
+@MARC-2400: 3900747
+@MARC-245a: No: 8.
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-590a: pf
+@MARC-590b: p. 16-17
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Preludes
+@MARC-6500: 25204
+@MARC-650a: Exercises (inst.)
+@MARC-6500: 25184
+@MARC-700a: Chodkiewicz, Zofia
+@MARC-700d: 1803-1871
+@MARC-700j: Ascertained
+@MARC-7000: pe30113022
+@MARC-7004: dte
+@MARC-773w: 1001025323
+@MARC-852a: PL-KOZmzk
+@MARC-852d: 304
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-852c: mzk/m/31
+@@END:		MARC21
+

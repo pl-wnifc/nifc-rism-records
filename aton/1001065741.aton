@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001065741
+@MARC-003:	DE-633
+@MARC-005:	20210711155516.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: cemb
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 8C/4{'F^',A6.'F^,3A'F^,A}{8'F^,A'G^,B}{'A^CG^,B'F^,A}'C/{A^F6.A^F3A^F}{8A^FB^G}{''C^'A'B^GA^F
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Janisch
+@MARC-100j: Alleged
+@MARC-1000: pe30035788
+@MARC-240a: Air (inst.)
+@MARC-240m: cemb
+@MARC-240r: F
+@MARC-2400: 5197381
+@MARC-245a: [title page:] Ariya | pour | le | Clavecin | Composé par Janisch
+@MARC-260c: ca. 1800
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 24 x 37,5 cm
+@MARC-3008: 01
+@MARC-500a: The top and the bottom of f. 1 torn off. Fragment of the first staff not visible.
+@MARC-5008: 01
+@MARC-500a: Piece consisting of ten small movements. Possibly variations based on the first Andante.
+@MARC-590a: cemb
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: cemb
+@MARC-594c: 1
+@MARC-594a: cemb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Airs (inst.)
+@MARC-6500: 25223
+@MARC-650a: Variations
+@MARC-6500: 25218
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 276
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 13/A I 13
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

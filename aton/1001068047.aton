@@ -1,0 +1,117 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001068047
+@MARC-003:	DE-633
+@MARC-005:	20201021174532.0
+@MARC-028a: M.S. 3477.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Polonaise
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 8({,8DCF};3),4xE4-/8({,8DCA};3),4G4-/,6{DCCF}4xE8-6-6D/,6{DCCA}4G8-6-'6D}/
+@MARC-031r: f|x
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: =8/'4F+8{F6ED}8{C6xDxE}/qq'6{xEFr}'4Ft+8{F6xEF}8{Gt6FG}/'4A+8{A6GF}{8xE6FG}/
+@MARC-031r: f|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Polonaises
+@MARC-240m: pf
+@MARC-240n: op. 44
+@MARC-240n: ChomTurC 154
+@MARC-240r: f|x
+@MARC-2400: 3900011
+@MARC-245a: Polonaise | POUR | PIANO | dédiée à Madame | la Princesse Charles de Beauvau née de Komar | PAR | F. CHOPIN. | A.V. | Op: 44. [space] Prix 7.|f 50 | A PARIS, chez MAURICE SCHLESINGER, Rue Richelieu, 97. | Vienne, chez P. Mechetti. [space] 3477. M. S. [space] Propriété des Editeurs. | Londres, Wessel et Stapelton.
+@MARC-260a: Paris
+@MARC-260b: Maurice Schlesinger
+@MARC-260c: [1842-1845]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 33,0 x 25,5 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 44
+@MARC-500a: TP engraved, p. [ii] blank, p. 1-11 engraved, p. [12] blank.
+@MARC-500a: Heading, p. 1: F. CHOPIN Op: 44. [space] » POLONAISE.
+@MARC-500a: Footline / Plate number, p. 1: F. Chopin Op: 44. Polonaise. M.S. 3477. Maurice Schlesinger 97 rue Richelieu.; p. 2-11: M. S. 3477.
+@MARC-500a: TP: inscription in pencil "[1841]".
+@MARC-5003: 51004426
+@MARC-500a: This source is in the collection, comprising four bound volumes containing a representative selection of the first editions of Chopin's works published by various publishers.
+@MARC-5003: 51004426
+@MARC-500a: Polonaise op. 44 as shelfmark 6614/n in volume IV; together with shelmarks: 6513/n, 6615/n, 6616/n, 6617/n, 6618/n, 6619/n, 6620/n, 6621/n, 6622/n, 6623/n, 6624/n, 6625/n.
+@MARC-5003: 51004426
+@MARC-500a: Hard cover, colorful pattern. The back and corners of the cover are reinforced with beige material. Brown decorative sticker in center of the cover with title: FREDERIC | CHOPIN. | VOL. IV., same inscription is on the back of the cover; embossed, gold letters.
+@MARC-5003: 51004426
+@MARC-506a: Purchase in 2017
+@MARC-5063: 51004426
+@MARC-590a: pf
+@MARC-590b: 11 p.
+@MARC-5908: 01
+@MARC-591a: Treasury of the Library
+@MARC-5913: 51004426
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Corrected reprint
+@MARC-6500: 50000886
+@MARC-690a: ChomTurC
+@MARC-690n: 154
+@MARC-6900: lit30000031
+@MARC-691a: ACO Chopin
+@MARC-691n: 44–1a-Sm
+@MARC-6910: lit41000057
+@MARC-700a: Beauvau, Ludmiła de
+@MARC-700d: 1819c-1881
+@MARC-700j: Ascertained
+@MARC-7000: pe30114748
+@MARC-7004: dte
+@MARC-700a: Vialon, A.
+@MARC-700j: Ascertained
+@MARC-7000: pe30043803
+@MARC-7004: egr
+@MARC-710a: Maurice Schlesinger
+@MARC-710g: Ascertained
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Pietro Mechetti quondam Carlo
+@MARC-7100: ks40007345
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Stapleton
+@MARC-7100: ks51000016
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51004426
+@MARC-852c: 6614/n
+@MARC-973u: 1001147239
+@MARC-9733: 51004426
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

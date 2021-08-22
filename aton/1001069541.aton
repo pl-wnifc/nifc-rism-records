@@ -1,0 +1,101 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001069541
+@MARC-003:	DE-633
+@MARC-005:	20210628201240.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: =5/8-{6''DE}8FCD'B4-/=3/8-{6''DE}8FCD'B-''E/
+@MARC-031r: B|b
+@MARC-031t: Dziecino Boże
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: ob 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 8-{6''DE}8{FC}{D6'B''C}8{D'A}/4B-8-{6''DE}{DEDE}/{8F6CD}{CDCD}{8E6'B''C}{'B''C'B''C}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Szczurowski, Jacek
+@MARC-100d: 1716-1773p
+@MARC-100j: Ascertained
+@MARC-1000: pe30017605
+@MARC-240a: Dziecino Boże
+@MARC-240m: S, ob (2), org
+@MARC-240r: B|b
+@MARC-2400: 5199380
+@MARC-245a: [cover title:] Concerto | Dziecino Boże [the Divine Child] | Canto Solo | Hautbois 1mo | Hautbois 2do | Et Basso pro Organo | Authore D: Hyacyntho Szczurowski
+@MARC-260c: 1746-1750
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 20,5 x 16,5 cm
+@MARC-3008: 01
+@MARC-500a: Inscription on the title page: "Ex Dono R. P Stanis: Kozłowski Regentis Sem: | Clericorum. | Pro horo [!] Collegii Sando: | S. I.".
+@MARC-500a: Inscription at the top of title page with another hand: "[illegible] co sypiam długo" [I sleep a long time].
+@MARC-590a: S 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, ob (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Christmas carols
+@MARC-6500: 3016747
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-657a: Nativitas Domini
+@MARC-6570: 24268
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 234, 238
+@MARC-6910: lit1891
+@MARC-691a: ŹHMP 12
+@MARC-691n: p. 46-52
+@MARC-6910: lit2199
+@MARC-691a: KonopkaS 2005
+@MARC-691n: p. 257
+@MARC-6910: lit30025836
+@MARC-691a: MądryB 2013
+@MARC-691n: p. 556-557
+@MARC-6910: lit41001232
+@MARC-700a: Kozłowski, Stanisław
+@MARC-700d: 1699-1768
+@MARC-700j: Ascertained
+@MARC-7000: pe50041428
+@MARC-7004: fmo
+@MARC-710a: Kapela Jezuicka w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51001617
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 242/A VII 2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

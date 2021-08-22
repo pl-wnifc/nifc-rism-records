@@ -1,0 +1,134 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001034987
+@MARC-003:	DE-633
+@MARC-005:	20210627213559.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: {8DDDD}4D8-''F/{FEGF}{AG'''C''A}/4A8-F{GEDC}/{D'DDD}4D8-G/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 2''D{6EFGF}{AGFE}/{DBGD}{8.6DC}4C'B/8{,BBBB}{'CCCC}/{,BBB'G}4GF/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Menuet
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4'D8-{DDD}/4F8-{FFF}/4A8-{AAA}/{''DAGFED}/4CEE/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Polonese [!]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 8-4'AA8A/-4''D{6C'B}{8BA}/-4AA8A/8-4B{6AG}{8GF}/8-4''FF{6BA}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Presto moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: {8'DFA}/{DFA}/{''D'DF}/4A8-/{6''F'AAAAA}/{''G'AAAAA}/{''E'AAAAA}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Bohdanowicz, Bazyli
+@MARC-100d: 1740c-1817
+@MARC-100j: Ascertained
+@MARC-1000: pe30009893
+@MARC-240a: Symphony
+@MARC-240m: orch, b
+@MARC-240r: D
+@MARC-2400: 3993700
+@MARC-245a: [cover title:] Sinfonia ex D | Violino Primo | Violino Secundo | 2 Oboe | 2 Corni | Viola | Basso | Del Sig|r|e F: B: Bohdanowicz
+@MARC-260c: 1773-1799
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 34,5 (17) x 22,5 (22,5) cm
+@MARC-3008: 01
+@MARC-500a: vla part missing
+@MARC-5008: 01
+@MARC-500a: Inscription "x. Partibus A. Sosnowska" at the bottom of the title page.
+@MARC-590a: vl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, ob (2), cor (2), b
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 226, 274
+@MARC-6910: lit1891
+@MARC-691a: SP 6
+@MARC-691n: p. 1-33
+@MARC-6910: lit50006495
+@MARC-700a: Copyist H from Sandomierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe50046408
+@MARC-7004: scr
+@MARC-700a: Sosnowska, Agnieszka
+@MARC-700d: 1755c-1827
+@MARC-700j: Ascertained
+@MARC-7000: pe41010080
+@MARC-7004: fmo
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 80/A II 20
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

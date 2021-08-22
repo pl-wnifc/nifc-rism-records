@@ -1,0 +1,105 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001060239
+@MARC-003:	DE-633
+@MARC-005:	20200116171912.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: ,,8{AE}4.A6{xGA}{B,CDE}/%G-24-''8{CD}4E-/1-/4-,8{BG}+4G-/4-''8{F'F}''2F+/8{F6FE}{DC'BA}8{xGE}''4E/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Scherzo. Allegro
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/4
+@MARC-031p: '''4E/8{xDEnDC''B'''C}/{''BAxGAnGF}/2.E+/4E8{C'A}4E+/4E{8A''C}4E+/8{EDC'B''C'A}/2.E/F/,4G'GG/AAA/G--/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio fantastico
+@MARC-031g: F-4
+@MARC-031m: vlc, vl, pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ,'4CF,FGtqq6{FG}r/2.A4-/%G-2''4CF'FGtqq6{FG}r/ 4.xC6-5{EFGA}2Bt6{AGFED}/ 8xC''4G6.{F3bE}{6.D3C'6.B3A}8{GxG}/4A+8A6-,5{AB'CD}2bEt3{DC,BAG}/'''4C
+@MARC-031q: vlc: 2 first bars, vl: 3rd bar, pf: next bars
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Rodno. Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 2/4
+@MARC-031p: '''E8''{B6'''C''B}/8{A6GF}4E+/ 8{E6FE}'8{B''6CD}/qq6{CD}r8{C'6AF}4E/'''4E''8{B'''6C''B/,,4A''8{A6GF}/''8{E6xDE}8{xFG}/8{E'6BG}{F,B'C,A
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Dobrzyński, Ignacy Feliks
+@MARC-100d: 1807-1867
+@MARC-100j: Ascertained
+@MARC-1000: pe30020642
+@MARC-240a: Trios (inst.)
+@MARC-240m: vl, vlc, pf
+@MARC-240n: op. 17
+@MARC-240r: a
+@MARC-2400: 4337234
+@MARC-245a: Partition | Grand Trio | pour le | Piano, Violon et Violoncelle | par | Ig. F. Dobrzyński
+@MARC-260c: 1830
+@MARC-2608: 01
+@MARC-300a: score
+@MARC-300c: 26,0 x 38,5 cm
+@MARC-3008: 01
+@MARC-383b: op. 17
+@MARC-500a: Hard, blak-white cover with sticker of shelfmark and shelfmark olim; second side of cover, at the bottom "I wyk. w Resursie Kupieckej 24 XI 1835 r. | ze współudz. Joanny z Orłowskiej Naimskiej (fort.) | [wg monogr. o Dobrzyńskim s. 50-51."; one page separeting musical text with shelfark olim.
+@MARC-500a: Musical text: original initial title page, below the title: "Autograf Dobrzyńskiego" added; stamp with shelfmark olim "7554"; rectangular red stamp "Wartość muzealna"; second side of TP: blank; p.1: stamp with shelfark olim
+@MARC-500a: one-sided numbering: consecutive number on its recto page : 1 - 20.
+@MARC-518a: Second side of cover, at the bottom: "w Resursie Kupieckej 24 XI 1835 r." [Warszawa]
+@MARC-590a: 1 score
+@MARC-590b: 42 p.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl, vlc, pf
+@MARC-599b: full
+@MARC-650a: Trios (inst.)
+@MARC-6500: 25217
+@MARC-651a: Warszawa
+@MARC-6510: 3900368
+@MARC-691a: KmBN
+@MARC-691n: 419
+@MARC-6910: lit41001694
+@MARC-691a: DobrzyńskiI
+@MARC-691n: 39, p: 164, 41
+@MARC-6910: lit41001788
+@MARC-700a: Naimska-Orłowska, Joanna
+@MARC-700d: 19.sc
+@MARC-7000: pe41020811
+@MARC-7004: prf
+@MARC-730a: Grand trio
+@MARC-730g: RISM
+@MARC-7300: 3953849
+@MARC-852a: PL-Wtm
+@MARC-852d: 7554
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1139
+@@END:		MARC21
+

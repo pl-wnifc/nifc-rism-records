@@ -1,0 +1,130 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001077259
+@MARC-003:	DE-633
+@MARC-005:	20210711175057.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: {8.''F6B8FE}/{D'BBB}/{8.''C3EG}{8'BA}/4B-/{8.''F6B8FE}/{D'''DDD}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Menuet
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 2.'B/''E/{8DF8.B6A}{8.6GF}/8qF2E4D/'Fqq6{GFE}r4FxF/G--/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 8'B/{''EGB'''E}/4''B{8GE}/{DFA'A}/4A{8G,B}/{'EGB''E}/4C{8'AF}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Menuetto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4''FFG/2E4C/DDE/2C4'F/BB''D/2'G4''C/'FGq6B{8.A3GA}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/8
+@MARC-031p: 6{'DFB''DC3DE}/{6D'BAGFE}/{DFB''DCE}/8D--/4F8At/{8BFF}/4F8A/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Haydn, Joseph
+@MARC-100d: 1732-1809
+@MARC-100j: Ascertained
+@MARC-1000: pe55803
+@MARC-240a: Quartet (inst.)
+@MARC-240m: strings, b
+@MARC-240n: op. 2 no. 6
+@MARC-240n: Hob III:12
+@MARC-240r: B|b
+@MARC-2400: 50254649
+@MARC-245a: [title page:] CASSATIO a 4tro. | Violino 1mo | Violino 2do | Viola obligata | Con Basso | A[utho]re. Siegn. Giuseppo Hayden
+@MARC-260c: 1765-1782
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 37 x 22,5 cm
+@MARC-3008: 01
+@MARC-383b: op. 2 no. 6
+@MARC-500a: Inscriptions at the bottom of the title page: "D Dacapo alsegno | D | D [illegible]"; "J. Kroczkiewicz | Mancipii Mariae".
+@MARC-590a: vl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vla
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, b
+@MARC-599b: full
+@MARC-650a: Instrumental pieces
+@MARC-6500: 25243
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-650a: Chamber music
+@MARC-6500: 3901050
+@MARC-690a: Hob
+@MARC-690n: III:12
+@MARC-6900: lit40
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 255, 275
+@MARC-6910: lit1891
+@MARC-691a: KonopkaS 2005
+@MARC-691n: p. 261
+@MARC-6910: lit30025836
+@MARC-700a: Kroczkiewicz, J.
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41024677
+@MARC-7004: fmo
+@MARC-730a: Cassatio
+@MARC-730g: RISM
+@MARC-7300: 3917167
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 132/A III 32
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

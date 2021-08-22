@@ -1,0 +1,111 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	300605114
+@MARC-003:	DE-633
+@MARC-005:	20210409070335.0
+@MARC-028a: 2375
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: '4C,4G/'4C,8{G'C}/,4G,'8{C,G}/'8{C,G}'C%G-2'G/'8{G6nAnB}''8{CE}/''8{Gt6nAnB}'''8{CE}/
+@MARC-031q: Trill in the sixth bar: illegible
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Rondos
+@MARC-240m: pf
+@MARC-240n: op. 1
+@MARC-240n: ChomTurC 192
+@MARC-240r: c
+@MARC-2400: 3901754
+@MARC-245a: Premier | RONDEAU | POUR LE | Piano - Forte | Composé et Dédié | à Mm|m|e|. de Linde | PAR | FRÉDERIC CHOPIN. | Œuv. 1. [space] Propriété des Editeurs. [space] Prix 15 Ngr. | à Varsovie, [below] chez Gust Sennewald. [above] [space] à Leipzig, [below] chez Fred. Hofmeister. | Ce Rondeau est arrangé aussi p. Pfte. à 4 mains. | 2375.
+@MARC-260a: Leipzig [ascertained]
+@MARC-260b: Friedrich Hofmeister
+@MARC-260c: 1856-1873
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-300c: 31,5 x 26,0 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 1
+@MARC-500a: [pl-text: Na TP zmiana ceny w "Ngr.”]
+@MARC-500a: TP engraved, p. 2-11 engraved, p. [12] blank.
+@MARC-500a: Plate number p. 2-12: 2375.
+@MARC-500a: [pl-text: TP, round blind stamp: "C. F. HIENTZSCH | BRESLAU". Od 1856 dystrybutor, od 1860 także wydawca. Firma działała do 1885 roku.]
+@MARC-5003: 51030142
+@MARC-500a: Signature in ink "Wanda Matkiewicz"; inscription in pencil: [po 1840].
+@MARC-5003: 51030142
+@MARC-500a: [pl-text: Na stronie [2] pieczątka: "BIBLIOTEKA | Warszawskiego | Tow. Muzycz. | Nr _" oraz dopisek ołówkiem: "III-40.498 | A.24.258".]
+@MARC-5003: 51030709
+@MARC-541e: A.24.258
+@MARC-5413: 51030709
+@MARC-588a: PL-Wnifc 934/n
+@MARC-590a: pf
+@MARC-590b: 11 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Rondos (inst.)
+@MARC-6500: 3000036
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 192
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 1-1a-HO
+@MARC-6910: lit30025545
+@MARC-700a: Linde, Luiza
+@MARC-700d: 1800-1836
+@MARC-700j: Ascertained
+@MARC-7000: pe30114492
+@MARC-7004: dte
+@MARC-700a: Matkiewicz, Wanda
+@MARC-700d: 19.sc
+@MARC-7000: pe41000383
+@MARC-7003: 51030142
+@MARC-7004: oth
+@MARC-710a: G. Sennewald
+@MARC-710g: Ascertained
+@MARC-7100: ks51000015
+@MARC-7104: dst
+@MARC-710a: Friedrich Hofmeister
+@MARC-710g: Ascertained
+@MARC-7100: ks40005090
+@MARC-7104: pbl
+@MARC-710a: C. F. Hientzsch
+@MARC-7100: ks30076541
+@MARC-7103: 51030142
+@MARC-7104: bsl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51030142
+@MARC-852c: 934/n
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-8523: 51030709
+@MARC-852c: III.40.498
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

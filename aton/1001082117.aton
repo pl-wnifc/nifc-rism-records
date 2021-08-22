@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001082117
+@MARC-003:	DE-633
+@MARC-005:	20210601132449.0
+@MARC-028a: 3066
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento ed espressivo
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: C
+@MARC-031p: 6''E/4..E6C4..C'6A/(1A)/2E4.C,8B/2..A8A/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Lento ed espressivo
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: C
+@MARC-031p: 8AGFqE+4D8-/''8C'nBbBgxG+4A8-/''8FEbEqxC+4D8-/
+@MARC-031r: a
+@MARC-031t: Au pied d'un saule assi se tous les jours
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Szymanowska, Maria
+@MARC-100d: 1789-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe140138
+@MARC-240a: Au pied d'un saule assi se tous les jours
+@MARC-240m: V, pf
+@MARC-2400: 5212632
+@MARC-245a: Six | ROMANCES | avec accompagnament de | Piano Forte | composées et dédiées | à Madame Henri Kamieńska | par | M(me). Szymanowska | née Wołowska. | Deuxième Livraison.
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: p. 4-5
+@MARC-300c: 33.2 x 25.2 cm
+@MARC-3008: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Kamieńska, Madame Henri
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe41023413
+@MARC-7004: dte
+@MARC-700a: Shakespeare, William
+@MARC-700d: 1564-1616
+@MARC-700j: Ascertained
+@MARC-7000: pe381951
+@MARC-7004: lyr
+@MARC-773w: 1001082115
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-8523: 51020879
+@MARC-852c: mzk/m/33
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-8523: 51006338
+@MARC-852c: mzk/m/58
+@MARC-973u: 1001095267
+@MARC-9733: 51020879
+@@END:		MARC21
+

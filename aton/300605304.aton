@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300605304
+@MARC-003:	DE-633
+@MARC-005:	20201029164034.0
+@MARC-028a: M. S. 3489.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo di marcia
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: ,4F8{C6-6F}4E,,8{B6-,6E}/4D,,8{A6-,6D}2C/%G-2''4C8.{C6C}8.{D6C8.F6A}/4GCGF+/F
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Fantasies
+@MARC-240m: pf
+@MARC-240n: op. 49
+@MARC-240n: ChomTurC 42
+@MARC-240r: f
+@MARC-2400: 3901074
+@MARC-245a: [heading, p. 2:] FANTAISIE | PAR | F. CHOPIN, OP. 49.
+@MARC-260a: Paris [ascertained]
+@MARC-260b: M. Schlesinger (or Brandus et Cie - G. Brandus, Dufour et Cie)
+@MARC-260c: 1842-1859
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-300c: 34,5 x 27,0 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 49
+@MARC-500a: TP missing, p. [1] blank, p. 2-16 engraved.
+@MARC-500a: P. [1]: inscriptions in pencil: "II ed."; "Paris, Schlesinger | [28.XI. 1841]".
+@MARC-500a: At the bottom of the p. 2, 16: F. CHOPIN, op 49. [space] M. S. 3489. [space] Maurice Schlesinger, rue de Richelieu, 97.
+@MARC-500a: Plate number p. 2-16: M. S. 3489.
+@MARC-590a: pf
+@MARC-590b: 16 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Fantasies
+@MARC-6500: 25185
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Corrected issues
+@MARC-6500: 3902077
+@MARC-690a: ChomTurC
+@MARC-690n: 42
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 49-1a-Sm or 49-1b-Sm
+@MARC-6910: lit30025545
+@MARC-710a: Maurice Schlesinger
+@MARC-710g: Ascertained
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 1676/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300605202
+@MARC-003:	DE-633
+@MARC-005:	20201029164031.0
+@MARC-028a: S. 4653
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: '8{AnBbBA}'6{GAGD}'4C/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =6//'8{AC}8{AC}8{GC}8{AC}/'8{BC}({''C'CB};3)'8{AC}'8{AC}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =6//'4A8.A6A4G8AA/'4B''8C'B4A''8C8-/
+@MARC-031r: F
+@MARC-031t: Bardzo raniuchno wschodzi słoneczko
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Piosnka litewska
+@MARC-240m: V, pf
+@MARC-240n: op. 74/16
+@MARC-240n: ChomTurC 144
+@MARC-240r: F
+@MARC-2400: 4093714
+@MARC-245a: PIOSNKA LITEWSKA, Piosnka Sielska Stef. Witwickiego, Muzyka FRYD|K|A|. CHOPIN. | CHANSON LITHUANIENNE. | N.|o| 16. | CANTO. 1831
+@MARC-300a: score: p. 50-53
+@MARC-3008: 01
+@MARC-383b: op. 74/16
+@MARC-500a: At the bottom of the page 50: Warszawa Nakład i Własność G. Gebethnera i Spółki. [space] S. 4653. [space] Berlin, Verlag und Eigenthum der Schlesinger'schen Buch-u. Musikhandlung.
+@MARC-520a: No. 16
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Lieder
+@MARC-6500: 25227
+@MARC-690a: ChomTurC
+@MARC-690n: 144
+@MARC-6900: lit30000031
+@MARC-700a: Osiński, Ludwik
+@MARC-700d: 1775-1838
+@MARC-700j: Ascertained
+@MARC-7000: pe30052193
+@MARC-7004: lyr
+@MARC-730a: Chanson lithuanienne
+@MARC-730g: RISM
+@MARC-7300: 4321877
+@MARC-773w: 300605186
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 963/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

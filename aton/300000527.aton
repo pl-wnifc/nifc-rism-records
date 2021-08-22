@@ -1,0 +1,128 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000527
+@MARC-003:	DE-633
+@MARC-005:	20210318124857.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: {8''FnEFE}4FB/{8FnEFE}4FD/'B{8B''D}4C{8CE}/{DFED}4DC/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Menuetto.
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4''FED/E2-/4EDC/D2-/{8'A''C''FE}{D'B}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2F{8GFED}/4.C{6DE}{8DFB''D}/{C'AB''D}{C'AB''D}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Rondo.
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: {8''FGFE}4DD/DE2F/{8EFED}4CC/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Jeric
+@MARC-100d: 19.sc
+@MARC-100j: Verified
+@MARC-1000: pe30098283
+@MARC-240a: Partitas
+@MARC-240m: cl (2), fag, cor (2)
+@MARC-240r: B|b
+@MARC-2400: 3900424
+@MARC-245a: [cover title, fag:] Nr 12 | Parthia in B. | a | Clarinetto Primo | Clarinetto Secundo. | Cornu Primo | Cornu Secundo. | Compp: Jeric. | Pro Choro Czen- | stochoviensi donavit | Giertzuchin[?] | 1801.
+@MARC-260c: 1801
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 30 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f. 1r okładki: w prawym górnym rogu czarnym tuszem "N|ro 12"; poniżej po lewej ołówkiem ręką nieznanego Paulina "N|o 4", skreślono czerwonym tuszem; poniżej po prawej czerwonym tuszem ręką F. Maletza "N 7."; powyżej po prawej ołówkiem ręką W. Świerczka "335" w owalnym kółku]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-8)]
+@MARC-561a: [pl-text: Na f. 1r okładki, w prawym dolnym rogu:] "Pro Choro Czen-"
+@MARC-561a: [pl-text: Na f. 1r okładki oraz na pierwszej stronie każdego głosu okrągła pieczęć: "* ARCHIVUM * C. M. C."]
+@MARC-590a: cl in B|b 1, 2, fag
+@MARC-590b: 2, 2, 2f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in B|b
+@MARC-590b: 1, 1f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: cl (2), fag, cor (2)
+@MARC-599b: full
+@MARC-650a: Partitas
+@MARC-6500: 25199
+@MARC-650a: Wind music
+@MARC-6500: 25283
+@MARC-650a: Quintets (inst.)
+@MARC-6500: 3000033
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 34, no. 1390/7
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.632
+@MARC-6910: lit1869
+@MARC-700a: Giertzuchin
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30098284
+@MARC-7004: scr
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N|ro 12
+@MARC-852d: N|o 4
+@MARC-852d: N 7
+@MARC-852d: 335
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-116
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

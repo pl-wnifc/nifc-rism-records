@@ -1,0 +1,155 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001024762
+@MARC-003:	DE-633
+@MARC-005:	20201021092725.0
+@MARC-028a: 7260
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''6{GFD'B}/2F4B''C/'xA8-F8{B''CDE}/2F4.A8G/2F8-
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Scherzo. Molto vivace
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: ,8{GA}/{nA'C,B'GDF}/{E,GB'EGA/{nA''C'B''GDF}/{E'GB''EGA/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGDA
+@MARC-031o: c
+@MARC-031p: '3D8..{C3D}8..{,B3'D}8..{,A3B}/8..{G3'E}2.E+/4E8.{nD6C}4nF8.{xF6xA}/''2C4'B
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Finale. Presto non tanto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: '4.F''F/'''F'F/F''F/'''F'F/
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Finale. agitato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: =8/%f-4,8{BDF}{GExA}/{BDF}{GExA}/{BFB}q'8Cr{,BxAB}/'2.D+/8{D,FA}-
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Sonatas
+@MARC-240m: pf
+@MARC-240n: op. 58
+@MARC-240n: ChomTurC 203
+@MARC-240r: b
+@MARC-2400: 3900185
+@MARC-245a: SONATE | pour le Piano | dédiée | à Madame la Comtesse E. de Perthuis | par | FRÉD. CHOPIN. | Op. 58. | Propriété des Editeurs. | Leipzig, chez Breitkopf &amp; Härtel. | Paris, chez J. Meissonnier. [space] Londres, chez Wessel &amp; Stapleton. | Pr. 1 Thlr.15 Ngr | 7260. | Enrégistré aux Archives de l’Union.
+@MARC-260a: Leipzig
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-260c: [1852-1863]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 33,0 x 26,0 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 58
+@MARC-500a: TP lithographed, p. 2-31 engraved, p. [32] blank.
+@MARC-500a: Heading, p. 2: SONATE. | Fr. Chopin, Op. 58.
+@MARC-500a: Plate number p. 2-31: 7260
+@MARC-500a: TP: publisher’s oval stamp; inscription in pencil "[VII. 1845]".
+@MARC-5003: 51015664
+@MARC-561a: Item is part of the Ellen Ballon fonds. Fonds was acquired in 1971 from Colonel Bullock, Ellen Ballon's widower. Ellen Ballon's niece and nephew, the Goldblooms, aided in sorting through the collection before its donation.
+@MARC-5613: 51015665
+@MARC-588a: PL-Wbfc 685/n
+@MARC-590a: pf
+@MARC-590b: 31 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 203
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 58-1-B&amp;H
+@MARC-6910: lit30025545
+@MARC-700a: Perthuis, Elise de
+@MARC-700d: 1801-1880
+@MARC-700j: Ascertained
+@MARC-7000: pe232298
+@MARC-7004: dte
+@MARC-700a: Ballon, Ellen
+@MARC-700d: 1898-1969
+@MARC-7000: pe41012973
+@MARC-7003: 51015665
+@MARC-7004: fmo
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-710g: Ascertained
+@MARC-7100: ks24285
+@MARC-7104: pbl
+@MARC-710a: Meissonnier, J.
+@MARC-7100: ks40007378
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Stapleton
+@MARC-7100: ks51000016
+@MARC-7104: pbl
+@MARC-852a: CDN-Hu
+@MARC-852e: Dalhousie University, Killam Memorial Library, Music Collection
+@MARC-852x: ks30001854
+@MARC-8523: 51015665
+@MARC-852c: MS-5-2, Box 7, Folder 10
+@MARC-852z: Ellen Ballon fonds
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51015664
+@MARC-852c: 685/n
+@MARC-856u: https://findingaids.library.dal.ca/sonate-pour-le-piano-op-58-fred-chopin-1st-ed
+@MARC-856x: Digitalization
+@MARC-856z: Digital copy available via Dalhousie University Archives catalogue.
+@MARC-8563: 51015665
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,315 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300237609
+@MARC-003:	DE-633
+@MARC-005:	20201029163714.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: ''4.D{6EC}/{8DGFE}/4.D{6EC}/{8DBAG}/4F{6EDC'B}/4AG/F-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: ''4.D{6EC}/8D{GFE}/4.D{6EC}/{8DBAG}/4F{6EDC'B}/4AG/F-/
+@MARC-031r: D
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Christe
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: 8{'AAA}/q''C{'6B3AB}8A-/8{''CCC}/qE6{D3CD}8C-/
+@MARC-031q: [pl-text: na końcu części uwaga: "Kyrie Da Capo."]
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: =13/8'AAA/q''C{'6B3AB}8A-/8''CCC/qE6{D3CD}8C-/
+@MARC-031r: A
+@MARC-031t: Christe eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''F-F-/F{8D6EF}{GAB'''C}/8D-C-''B-A-/B-A-G-F-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2''DD/D-/=2/4CCCC/DD2-/=2/4CCCC/D
+@MARC-031r: D
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4'D--/8{D6FE}{8DEFG}/4A--/{8A6''C'B}{8AB''C'A}/4''D'DA/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''D8DDDD/4DD-/4C8CCCC/4CC-/
+@MARC-031r: D
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4'G8{AG}{''C'B}4-/4B8{''C'B}{''DC}4-/{8C6AG}{FEDC}{8'B6''BA}{GFED}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8'GG4-2-/8BB4-2-/''4CC8.'B6B4B/''CC4.'B8B/A-4-2-/
+@MARC-031r: G
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: {6'A3B''C}{8'BA}/{6''C3DE}{8DC}/{3EC'BA}{8.''A6nG}/8{FE}-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: =14/{6'A3B''C}8'BA/{6''C3DE}8DC/{3EC'BA}8.''A6nG/
+@MARC-031r: A
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{''DDDDDD}/{DC}4C-/{8CCCCCC}/{C'B}4B8-B/6{AxGBA}{''C'B''DC}{EDC'B}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2''D4D/6{DC}4C-}/2C4C/8{C'B}4B8-B/4AAA/AA
+@MARC-031r: G
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Dona
+@MARC-031d: [Andante]
+@MARC-031o: 2/4
+@MARC-031q: [pl-text: Zamiast zapisu nutowego w głosach adnotacja: "Dona ut Kyrie"]
+@MARC-031r: D
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Bolehovský, Josef
+@MARC-100d: 1743-1811
+@MARC-100j: Ascertained
+@MARC-1000: pe30000404
+@MARC-240a: Masses
+@MARC-240m: V (X), Coro, orch, bc
+@MARC-240r: D
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] Missa Pasto: in D | a | 4. Vocibus. | 2. Violini. | 2. Corni | Prinzipale &amp; Timpano | con | Organo | Sig: Bolechowsky. | Kautny [manu propria]
+@MARC-260c: 1821
+@MARC-2608: 01
+@MARC-300a: 12 parts
+@MARC-300c: Different sizes
+@MARC-3008: 01
+@MARC-500a: [pl-text: wymiary okładki 38,5 x 25 cm; znaki wodne: f. 1 "J HELLER"; f. 2 "[Nałęcz coat of arms] B &amp; B"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosów chóralnych i org: 38,5 x 25 cm; znak wodny "[coat of arms (Hungarian, crowned)] / J HELLER"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosu vl 1, cl 1, 2, clno princ, cor 1 and 2: 38 x 24 cm; znak wodny na vl 1 "[coat of arms (Hungarian, crowned)] / [without countermark]"; na cl 2, cor 1 and 2 "[coat of arms (Hungarian, crowned)]"; na cl 1, clno princ brak znaku wodnego]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosu vl 2: 38,5 x 24 cm; znak wodny "[coat of arms (Hungarian, crowned)] / G V"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosu timp: 37 x 23 cm; znak wodny: "[partial:] [eagle]"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze po lewej czarnym atramentem "212"; niżej po prawej ołówkiem ręką nieznanego Paulina "N-|o 8"; późniejsza niżej czerwonym atramentem ręka F. Maletza "N 1/500"]
+@MARC-500a: [pl-text: Okrągły stempel "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki, na f. 1r głosu Coro A oraz na ostatniej stronie głosów: Coro S, T, B, vl 1, 2, clno princ, cor, timp, org]
+@MARC-500a: [pl-text: tytuł na f. 1r okładki przekreślony czerwonym ołówkiem i opatrzony parafą]
+@MARC-500a: [pl-text: Na vl 2 f. 2v pod zapisem nutowym z prawej czarnym atramentem ręką kopisty: "Johann Ludwig | den 1|t|e|n Jänner [manu propria] 1821"]
+@MARC-500a: [pl-text: Na głosie clno princ f. 1r na dole po prawej czarnym atramentem ręką kopisty data: "[1]821"]
+@MARC-500a: [pl-text: Na głosie timp f. 1r pod tekstem nutowym z prawej czarnym tuszem ręką kopisty: "D[escripsit] J[ohann]"]
+@MARC-500a: [pl-text: Odcinki solowe w głosach chóralnych oraz vl 1, cl 1, org]
+@MARC-500a: [pl-text: Proweniencja na podstawie PodejkoK 1992]
+@MARC-500a: [pl-text: W MaletzC 1898 utwór wpisany pod numerem 501]
+@MARC-563a: [pl-text: głosy przechowywane w papierowej okładce w kolorze białym; karta tytułowa na f. 1r; wzdłuż brzegów f. 1r i grzbietu pasek ozdobnego papieru w kolorze fioletowym w czarny roślinny wzór, naderwany przy górnej krawędzi w miejscu dawnej sygnatury; wnętrze wzmocnione fragmentem rękopisu muzycznego z zapisem głosu instrumentalnego w kluczu wiolinowym i częściami mszy]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 2, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 3, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: cl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1 and 2 in D, clno princ in D
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: timp in D
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-592a: J HELLER
+@MARC-5928: 01
+@MARC-592a: [coat of arms (Nałęcz)] B &amp; B
+@MARC-5928: 01
+@MARC-592a: [coat of arms (Hungarian, crowned)] / [without countermark]
+@MARC-5928: 01
+@MARC-592a: [coat of arms (Hungarian, crowned)]
+@MARC-5928: 01
+@MARC-592a: [coat of arms (Hungarian, crowned)] / G V
+@MARC-5928: 01
+@MARC-592a: [partial:] [eagle]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594b: clno princ in D
+@MARC-594c: 1
+@MARC-594b: timp in D
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl (2), cl (2), cor in D (2), clno princ in D, timp in D, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 86
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 13, no. 501
+@MARC-6910: lit1887
+@MARC-700a: Kautny, František
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30040499
+@MARC-7004: fmo
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Ludwig, Johann
+@MARC-700d: 19.sc
+@MARC-7000: pe30040856
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Chorus Neorosinoviensis
+@MARC-710g: Conjectural
+@MARC-7100: ks30019079
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 212
+@MARC-852d: N-|o 8
+@MARC-852d: N 1/500
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-33
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

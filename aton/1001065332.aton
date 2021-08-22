@@ -1,0 +1,50 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001065332
+@MARC-003:	DE-633
+@MARC-005:	20210705104925.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4.''E8E{6DEDC}/{8.'B6G}4.E8G/{8.F6nE}{8F^DA^F}{8.''C^'A6B^G}/4.B^G6{(AGA)}4G^E/8.{''G^'B''^E6F}4''D^'B''F8-'B/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Barcicki, Jan
+@MARC-100d: 1750c-1812c
+@MARC-100j: Ascertained
+@MARC-1000: pe41021407
+@MARC-240a: Polonaise
+@MARC-240m: pf
+@MARC-240r: E|b
+@MARC-2400: 4036065
+@MARC-245a: [caption title:] N|o 4|t|o: Tyrolczyk. [Tyrolean]
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-590a: pf
+@MARC-590b: f. 4v-5r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-773w: 1001065005
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 18/A I 18
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,63 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001069626
+@MARC-003:	DE-633
+@MARC-005:	20210517095500.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: {8''GG}/{GBGG}/4.G8xG/{AB'''CD}/{C''BGG}/{GBGG}/4.G8G^B/{F^AE^GD^FxC^E}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Pleyel, Ignace
+@MARC-100d: 1757-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe24761
+@MARC-240a: Sonata
+@MARC-240m: keyb
+@MARC-240n: BenP 340/3
+@MARC-240r: G
+@MARC-2400: 3910757
+@MARC-245a: [caption title:] Allegro
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 455024703 (Sonata for vl, pf), 551005510 (Sonata for guit, vl), 220033547 (Rondo pf, vl), 551004557 (Sonatina guit, vl).
+@MARC-500a: Only the 2nd movement of the Sonata.
+@MARC-590a: keyb
+@MARC-590b: p. 8
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-690a: BenP
+@MARC-690n: 340/3
+@MARC-6900: lit6
+@MARC-730a: Quartet
+@MARC-730g: RISM
+@MARC-730k: Excerpts
+@MARC-730o: Arr
+@MARC-7300: 5199391
+@MARC-773w: 1001069592
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 554/A IX 34
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

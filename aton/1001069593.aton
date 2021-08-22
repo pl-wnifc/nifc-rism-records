@@ -1,0 +1,56 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001069593
+@MARC-003:	DE-633
+@MARC-005:	20210628201832.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: c
+@MARC-031p: 1''(C)/6-{'CDE}{FGAB}{''C'EFG}{AB''CD}/{E'GAB}{''CDEF}{GCDE}{FGAB}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Vanhal, Johann Baptist
+@MARC-100d: 1739-1813
+@MARC-100j: Ascertained
+@MARC-1000: pe114557
+@MARC-240a: Sonatas
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240n: WeiV 13.51 - C
+@MARC-240r: C
+@MARC-2400: 3900185
+@MARC-245a: [caption title:] Cadencya
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 250013514, 225000284, 550281121.
+@MARC-500a: Cadenza is the first movement of this Sonata (followed by the Andante and Allegro) and only written in this manuscript.
+@MARC-590a: keyb
+@MARC-590b: p. 1
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-650a: Cadences (inst.)
+@MARC-6500: 3901023
+@MARC-690a: WeiV
+@MARC-690n: 13.51 - C
+@MARC-6900: lit338
+@MARC-773w: 1001069592
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 554/A IX 34
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

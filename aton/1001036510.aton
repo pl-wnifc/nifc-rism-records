@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001036510
+@MARC-003:	DE-633
+@MARC-005:	20210506074621.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo di menuetto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: =32/8'A''D{6EF}/8C{6'BA}8''D/{6ED}{C'B}A''G/8F{6EF}8D/=1/{6EDC'B}8A/
+@MARC-031r: D
+@MARC-031t: Dormi mi Jesule
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Tempo di menuetto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: {8'A''D6EF}/q8D{C6'BA''D}/{6EDC'BA''G}/{8F6EF8D}/=1/{6EDC'B8A}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Figulenti
+@MARC-100d: 18/19
+@MARC-100j: Ascertained
+@MARC-1000: pe30093197
+@MARC-240a: Ride Jesule gaude mi parvule
+@MARC-240m: S, orch, org
+@MARC-240r: D
+@MARC-2400: 3017544
+@MARC-245a: [without title]
+@MARC-260c: 1750-1799
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 33 (18) x 19,5 (21) cm
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 300000317, 300000320.
+@MARC-590a: S solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: campanella 1, 2, 3
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: campanella
+@MARC-594c: 3
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), campanella (3), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-657a: Nativitas Domini
+@MARC-6570: 24268
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 266
+@MARC-6910: lit1891
+@MARC-730a: Dormi mi Jesule
+@MARC-730g: RISM
+@MARC-730m: S, orch, b
+@MARC-730r: D
+@MARC-7300: 5031491
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 107/A III 7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,109 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000644
+@MARC-003:	DE-633
+@MARC-005:	20210104143442.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 2''ED/C4-'G/2AB/E-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Menuetto
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: {8''ED}/4EFG/AFG/AF{8GE}/4CCC/'B
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 4B''EEG/A2D4E/{(8EGF)}{(EDC)}4'B
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 8-/=3/4-8-B/4''A{8GE}/4D{8EG}/4''A{8GE}/4D8E
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kreith
+@MARC-100d: 19.sc
+@MARC-100j: Verified
+@MARC-1000: pe30099691
+@MARC-240a: Partitas
+@MARC-240m: cl (2), fag, cor (2)
+@MARC-240r: E|b
+@MARC-2400: 3900424
+@MARC-245a: [cover title, fag:] Parthia in Dis. | Clarinetto I|mo | Clarinetto II|do. | Corno I|mo | Corno II|do | Fagotto | Del. Sige. Kreith.
+@MARC-260c: 1801-1850 (19.1d)
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 35 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: cor 1 missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsza sygnatura na f. 1r okładki: w górnej części w centrum czarnym tuszem "N|o 14"]
+@MARC-500a: [pl-text: Na wszystkich partiach okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Na karcie tytułowej w górnej części czarnym tuszem "Józef Kuligowski"]
+@MARC-590a: cl in B|b 1, 2, fag,
+@MARC-590b: 1, 1, 2f.
+@MARC-5908: 01
+@MARC-590a: cor 2
+@MARC-590b: 1f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: cl (2), fag, cor (2)
+@MARC-599b: full
+@MARC-650a: Partitas
+@MARC-6500: 25199
+@MARC-650a: Quintets (inst.)
+@MARC-6500: 3000033
+@MARC-650a: Wind music
+@MARC-6500: 25283
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.749
+@MARC-6910: lit1869
+@MARC-700a: Kuligowski, Józef
+@MARC-700d: 1807-1871
+@MARC-700j: Verified
+@MARC-7000: pe30085820
+@MARC-7004: oth
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 14
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-366
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

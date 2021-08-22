@@ -1,0 +1,107 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300605289
+@MARC-003:	DE-633
+@MARC-005:	20201029164033.0
+@MARC-028a: 5706.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ,2C+8{CEbAB}/%G-2'8{C,bA'EB}''8{C'bA''EB}/'''8{C''GBbA}4G8xF8-/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Ballades
+@MARC-240m: pf
+@MARC-240n: op. 23
+@MARC-240n: ChomTurC 2
+@MARC-240r: g
+@MARC-2400: 3905181
+@MARC-245a: BALLADE | Pour le Piano | composée et dédiée | à M|r|„ Le Baron de Stockhausen | par | F. CHOPIN. | Propriété des Editeurs. | Oeuv. 23. [space] Pr: 20 Gr. | à Leipsic | chez Breitkopf et Härtel. | Paris, chez M. Schlesinger. [space] Londres, chez Wessel &amp; C„|o | S„|t Petersbourg, chez Bernard &amp; Holtz. [space] Varsovie, chez G. Sennewald. | Enregistré dans les Archives de L’Union | Lith. de Fr. Krätzschmer à Leipsic.
+@MARC-260a: Leipzig [ascertained]
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-260c: 1838-1840
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-300c: 32,5 x 26,0 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 23
+@MARC-500a: TP lithographed, p. [2, 3] blank, p. 4-17 engraved, p. [18] blank.
+@MARC-500a: TP: publisher's round stamp; signature in ink "T. Tellefsen"; inscription in pencil: "[VI, 1836]".
+@MARC-500a: Heading, p. 4: F. Chopin. OP. 23. | BALLADE.
+@MARC-500a: Plate number p. 4-17: 5706.
+@MARC-590a: pf
+@MARC-590b: 17 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Ballades (inst.)
+@MARC-6500: 25593
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 2
+@MARC-6900: lit30000031
+@MARC-700a: Stockhausen, Nathaniel de
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30070437
+@MARC-7004: dte
+@MARC-700a: Tellefsen, Thomas
+@MARC-700d: 1823-1874
+@MARC-700j: Ascertained
+@MARC-7000: pe30099798
+@MARC-7004: oth
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-710g: Ascertained
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-710g: Ascertained
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-710g: Ascertained
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: Bernard &amp; Holtz
+@MARC-710g: Ascertained
+@MARC-7100: ks51000017
+@MARC-7104: dst
+@MARC-710a: G. Sennewald
+@MARC-710g: Ascertained
+@MARC-7100: ks51000015
+@MARC-7104: dst
+@MARC-710a: Lithographische Anstalt Friedrich Krätzschmer
+@MARC-710g: Ascertained
+@MARC-7100: ks51000085
+@MARC-7104: prt
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 1666/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

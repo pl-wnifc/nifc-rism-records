@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041283
+@MARC-003:	DE-633
+@MARC-005:	20210706180046.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCGD
+@MARC-031o: 3/8
+@MARC-031p: =19/4-8'B/B''ED/DFE/'B''GF/4.E/8EDC/'BqB4A/
+@MARC-031r: E
+@MARC-031t: Antoni splendor
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGD
+@MARC-031o: 3/8
+@MARC-031p: 8'B/{B''ED+}/{DFE+}/{EGF}/4.E+/{8EDC}/'BqB4A/{6G''E}4nD/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Graun, Carl Heinrich
+@MARC-100d: 1703c-1759
+@MARC-100j: Ascertained
+@MARC-1000: pe30001351
+@MARC-240a: Demofoonte
+@MARC-240k: Excerpts
+@MARC-2400: 3901424
+@MARC-245a: [without title]
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 230007886, 300512430.
+@MARC-590a: S
+@MARC-590b: f. 3r-3v
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: f. 3r-3v, 3r-3v, 2v-3r
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: f. 2v-3v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, vl (2), vla, b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-650a: Contrafacta
+@MARC-6500: 25455
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: deest
+@MARC-6910: lit1891
+@MARC-730a: Antoni splendor
+@MARC-730g: RISM
+@MARC-730m: S, strings, b
+@MARC-730r: E
+@MARC-7300: 5035385
+@MARC-730a: Se tutti i mali miei
+@MARC-730g: RISM
+@MARC-7300: 3926104
+@MARC-773w: 1001041279
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 134/A III 34
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

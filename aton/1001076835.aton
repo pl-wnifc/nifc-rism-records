@@ -1,0 +1,104 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001076835
+@MARC-003:	DE-633
+@MARC-005:	20210628201137.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: 4''C'C/i/8-{CDE}/{FGAB}/{''C'EDC}/4G,G/i/8-{'CDE}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: //:{''6CA}8qA4G{8FED}/({6Cn'B''C})8q'A4G{8FED}/({6EDC})4C{8GAC}/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Minuetto 1|m|o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: ''4C'CC/C{8CDEF}/4G,GG/G8-{'GAB}/4''C'C''{8.C6E}/4D,G{8.'B6''D}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Polacchina
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: {6''Ct'B''CE}{DtCDF}{EtDEG}/4'ABt''C/{8'A6FG}{8AA}{B''C}/4'GFE/{8A6FG}{8AA}{B''C}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Stolle
+@MARC-100j: Alleged
+@MARC-1000: pe41022824
+@MARC-240a: Symphonies
+@MARC-240m: orch, b
+@MARC-240r: C
+@MARC-2400: 3900027
+@MARC-245a: [title page:] Sinfonia di Camera | a 7 | Violini 2. | Oboe 2 | Corni da Caccia 2 | e Basso | Di Stolle
+@MARC-260c: 1750-1799
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 32 x 22,5 cm
+@MARC-3008: 01
+@MARC-500a: b doublet incomplete
+@MARC-5008: 01
+@MARC-500a: Four-bar incipit of vl 1 at the bottom of the title page.
+@MARC-5008: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (2x)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor da caccia
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), ob (2), cor da caccia (2), b
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 274
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852d: Lit: A.
+@MARC-852d: N: 50.
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 19/A I 19
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300605192
+@MARC-003:	DE-633
+@MARC-005:	20201029164030.0
+@MARC-028a: S. 4643.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Larghetto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: ''4C4.D8C/'8{BA}4G4-/'8{BA}2G/'2A4G/'2F4F/'4FF4-/,'8{F',F}'8{F',G}'8{F',A}/'8{F,A}'8{nE,G}'8{DC}/
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: =4/'2F8.C6C/'4DC8-8F/'2Fqq'6{GF}r'8nEF/'4AG4-/
+@MARC-031r: f
+@MARC-031t: Precz z moich oczu posłucham od razu
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Precz z moich oczu
+@MARC-240m: V, pf
+@MARC-240n: op. 74/6
+@MARC-240n: ChomTurC 134
+@MARC-240r: f
+@MARC-2400: 4019775
+@MARC-245a: „PRECZ Z MOICH OCZU” Słowa A. Mićkiewicza, Muzyka FRYD|K|A|. CHOPIN. | FUIS MES REGARDS. | N.|o 6. | CANTO. | 1830.
+@MARC-300a: p. 18-20
+@MARC-3008: 01
+@MARC-383b: op. 74/6
+@MARC-500a: At the bottom of the p. 18: Warszawa Nakład i Własność G. Gebethnera i Spółki. [space] S. 4643. [space] Berlin, Verlag und Eigenthum der Schlesinger'schen Buch-u. Musikhandlung.
+@MARC-520a: No. 6
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Lieder
+@MARC-6500: 25227
+@MARC-690a: ChomTurC
+@MARC-690n: 134
+@MARC-6900: lit30000031
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-730a: Fuis mes regards
+@MARC-730g: RISM
+@MARC-7300: 4321898
+@MARC-773w: 300605186
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 963/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

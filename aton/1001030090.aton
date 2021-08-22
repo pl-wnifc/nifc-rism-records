@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001030090
+@MARC-003:	DE-633
+@MARC-005:	20210707111348.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Salve. Vivace
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: =24/8-8''CCEGE4-/=4/8-CCEG6EE8D6DG/8E6CE8D6'G''G8E6ED8E6ExF/
+@MARC-031r: C
+@MARC-031t: Ad te clamamus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: {6''GFED}{CCDE}{FFEF}{DAGF}/{EGGG}{3GF6G'G''G}{'G''FFF}{3FE6F'F''F/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Lechleitner, Ferdinand Simon
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30001903
+@MARC-240a: Salve regina
+@MARC-240m: V (4), orch, org
+@MARC-240r: C
+@MARC-2400: 3021988
+@MARC-245a: [cover title:] Salve Regina | a Vocibus | Canto. Alto. | Tenore. Basso. | 2. Violinis | 2. Clarinis | &amp; | Organo.
+@MARC-260c: 1700-1749
+@MARC-2608: 01
+@MARC-300a: 10 parts
+@MARC-300c: 31,5 x 20 cm
+@MARC-3008: 01
+@MARC-500a: org doublet transposed to B flat Major, with caption: "Organo pro Hobois"
+@MARC-5008: 01
+@MARC-500a: Inscription "Authore Ferdo Lechleitner | mpp" at the bottom of the title page.
+@MARC-500a: Inscription on the S part f. 1v "Ja IMCi Pannę Nobiszowskę | Bardzo Kocham" [I love very much Maiden Nobiszowska].
+@MARC-590a: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig) (2x)
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Possible autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), clno (2), org
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 256-257, 270
+@MARC-6910: lit1891
+@MARC-691a: KonopkaS 2005
+@MARC-691n: p. 258-261
+@MARC-6910: lit30025836
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 65/A II 5
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,84 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001029981
+@MARC-003:	DE-633
+@MARC-005:	20210706124948.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o stocato [!]
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =15/4''DDD8'D''D/4D8'D''F4FD/DE{8F6EF}8GF/E'A4--8''EE/
+@MARC-031r: D
+@MARC-031t: Turba rustica mente jucunda
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8{D''D'E''E}{'F''F'G''G}/{'A''A'B''B}{6C'B8A}4-/{6D''DCD}{'E''EDE}{'F''FEF}{'G''GFG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Conti
+@MARC-100j: Alleged
+@MARC-1000: pe30000719
+@MARC-240a: Turba rustica
+@MARC-240m: S, vl (2), cemb
+@MARC-240r: D
+@MARC-2400: 5018922
+@MARC-245a: [cover title:] Aria Neonati Verbi | a | Canto Solo. | Violinis 2|b|u|s | e | Cembalo. | Del Sign Conti
+@MARC-260c: 1766
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 21 x 33 cm
+@MARC-3008: 01
+@MARC-500a: Inscriptions at the bottom of the title page: "Pro Choro Jaroslawiensi Societtis JESU ad Bsrnam [possibly indicating Jesuit's College "Collegium Jaroslaviense Societatis Jesu ad Beatam Virginem Dolorosam"] | 1766" on the left; "Pose: [?] Aug: Fra: | Tihelka [?] | KolleSJ [?]" on the right.
+@MARC-590a: S solo
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cemb (= bc.fig)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cemb
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), cemb
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 266
+@MARC-6910: lit1891
+@MARC-710a: Kolegium Jezuitów przy kościele NMP w Jarosławiu
+@MARC-710g: Ascertained
+@MARC-7100: ks51002036
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852d: Nr 21
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 38/A I 38
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

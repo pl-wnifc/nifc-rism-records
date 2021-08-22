@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001113067
+@MARC-003:	DE-633
+@MARC-005:	20210711233404.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: bBEAD
+@MARC-031o: 2/4
+@MARC-031p: 6{'A''C}/{8E^C8.E^C}{6EFD}/{DC8.C}{6CD'B}/{AB''CD}{EFGA}/{8DC}8-{6'A''C}/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Haydn, Joseph
+@MARC-100d: 1732-1809
+@MARC-100j: Conjectural
+@MARC-1000: pe55803
+@MARC-240a: Requiem
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240n: Hob XXIIa: E|b5
+@MARC-240o: Arr
+@MARC-240r: A|b
+@MARC-2400: 3022363
+@MARC-245a: [without title]
+@MARC-300a: 1 part
+@MARC-300c: 26,5 (22,5) x 23 (30) cm
+@MARC-3008: 01
+@MARC-500a: Right hand part only.
+@MARC-5008: 01
+@MARC-500a: Benedictus vl 1 part transposed from B major.
+@MARC-500a: Composer identifiied on the basis of concordance to RISM ID 550502218.
+@MARC-500a: Concordance to PL-SA 22/A I 22 (RISM ID 1001036473, the whole Requiem in original key).
+@MARC-590a: keyb
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard pieces
+@MARC-6500: 3000134
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-690a: Hob
+@MARC-690n: XXIIa: E|b5
+@MARC-6900: lit40
+@MARC-700a: Haydn, Michael
+@MARC-700d: 1737-1806
+@MARC-700j: Conjectural
+@MARC-7000: pe55810
+@MARC-7004: cmp
+@MARC-730a: Benedictus
+@MARC-730g: RISM
+@MARC-730o: Arr
+@MARC-7300: 2000007
+@MARC-773w: 1001113062
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 591/A IX 71
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

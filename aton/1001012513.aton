@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001012513
+@MARC-003:	DE-633
+@MARC-005:	20200116170054.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: cl 1 in B|b
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4'B/{8''EG}2B{8AG}/{GF}2F4A/4.G{6AF}4ED/E--,B/{8'EG}2B{8AG}/2F
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Menuetto
+@MARC-031o: 3/4
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031o: 3/4
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Finale
+@MARC-031o: 2/4
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Partitas
+@MARC-240m: winds
+@MARC-240r: E|b
+@MARC-2400: 3900424
+@MARC-245a: [Partita 5]
+@MARC-260c: 1800-1849
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: Other parts missing.
+@MARC-5008: 01
+@MARC-590a: cl in B|b 1, 2, fag
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: winds
+@MARC-594a: winds
+@MARC-599b: full
+@MARC-650a: Partitas
+@MARC-6500: 25199
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.2046
+@MARC-6910: lit1869
+@MARC-773w: 1001012506
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-155
+@@END:		MARC21
+

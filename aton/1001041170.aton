@@ -1,0 +1,80 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041170
+@MARC-003:	DE-633
+@MARC-005:	20210705110735.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =21/4-8-'A/4''D8-C/DE{FG}/4E8-E/FE{8.6DE}/4.C8'B/
+@MARC-031r: D
+@MARC-031t: Huc mariani huc amatores
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4-8-'A/4''D8-C/{DEFG}/4.E8E/{8FEDE}/4.C8E/{6FEFG}{FGFG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Brentner, Johann Joseph Ignaz
+@MARC-100d: 1689-1742
+@MARC-100j: Ascertained
+@MARC-1000: pe30000477
+@MARC-240a: Huc mariani huc amatores
+@MARC-240m: S, strings, org
+@MARC-240n: Brk 79
+@MARC-240r: D
+@MARC-2400: 5035273
+@MARC-245a: [without title]
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 570002605 ("Veni Jesu Panis vitae"). Concordance to RISM ID 1001041304 (PL-SA A VIII 86; "Huc piae animae").
+@MARC-590a: S solo
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: f. 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), a-vla, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-690a: Brk
+@MARC-690n: 79
+@MARC-6900: lit50005911
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 269
+@MARC-6910: lit1891
+@MARC-773w: 1001041168
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 81/A II 21
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

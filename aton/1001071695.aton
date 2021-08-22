@@ -1,0 +1,127 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001071695
+@MARC-003:	DE-633
+@MARC-005:	20200224191013.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 4'C,G/'C,{8G'C}/,4G{'8C,G}/{'8C,G}'C%G-2G/{G6nAnB}{8''CE}/{866GtnAnB}{8'''CE}/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Rondos
+@MARC-240m: pf
+@MARC-240n: op. 1
+@MARC-240n: GrabowskiC 2010 1-1-BRZ
+@MARC-240n: KobC p.3-4
+@MARC-240n: ChomTurC 192
+@MARC-240r: c
+@MARC-2400: 3901754
+@MARC-245a: [title page:] RONDEAU | composé pour le | PIANO FORTE | et dedié | à M|m|e de Linde | PAR | FREDERIC CHOPIN | Proprieté de l'editeur | à Varsovie chez A. Brzezina
+@MARC-260a: à Varsovie
+@MARC-260b: chez A. Brzezina
+@MARC-260c: [2 VI 1825]
+@MARC-2608: 01
+@MARC-300a: part, 11 p.
+@MARC-300c: plate mark, title: 24 x 25,5 cm, printed area, music: 20,7 x 27,7 cm
+@MARC-3008: 01
+@MARC-300a: 1 part
+@MARC-300c: 27,7 x 34,4 cm
+@MARC-3003: 51004931
+@MARC-300c: 24,5 x 32,0 cm
+@MARC-3003: 51006067
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-383b: op. 1
+@MARC-500a: Date of publishing determined on the portal of Narodowy Instytut Fryderyka Chopina [The Fryderyk Chopin Institute] : http://pl.chopin.nifc.pl/chopin/first_editions/detail/publisher/1735/id/13
+@MARC-500a: Auf dem Titelblatt Stempel "Bibliothek d. KgL. Concervatoriums | f. Musik u. Theater z. Dresden"
+@MARC-5003: 51004931
+@MARC-500a: Auf dem Titel unten links "O[pus].1.", unten rechts Preisangabe "-.12."
+@MARC-5003: 51004931
+@MARC-500a: Title page: inscriptions in pencil "1/30", "[2.VI 1825]", stamp "a Leopol [illegible] | rest illegible".
+@MARC-5003: 51006067
+@MARC-500a: Reduction in size resulted in loss of pagination on pp. 2, 5, 6, 10, 11.
+@MARC-5003: 51006067
+@MARC-500a: Musical text: numeroues pencil annotations relating fingering, key signatures, corrections.
+@MARC-5003: 51006067
+@MARC-506a: Treasury of the Fryderyk Chopin Museum in Warsaw
+@MARC-5063: 51006067
+@MARC-561a: Purchase: 1998
+@MARC-5613: 51006067
+@MARC-563a: moderner Bibliothekspappeinband
+@MARC-5633: 51004931
+@MARC-588a: D-Dl Mus.5565.T.530
+@MARC-590a: pf
+@MARC-590b: 11 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-593a: Print with non-autograph annotations
+@MARC-5933: 51006067
+@MARC-594b: pf
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Rondos (inst.)
+@MARC-6500: 3000036
+@MARC-690a: ChomTurC
+@MARC-690n: 192
+@MARC-6900: lit30000031
+@MARC-690a: KobC
+@MARC-690n: p.3-4
+@MARC-6900: lit2487
+@MARC-690a: GrabowskiC 2010
+@MARC-690n: 1-1-BRZ
+@MARC-6900: lit30025545
+@MARC-691a: ChomTurC
+@MARC-691n: 192
+@MARC-6910: lit30000031
+@MARC-6913: 51006067
+@MARC-691a: ACO Chopin
+@MARC-691n: 1–1-BRZ
+@MARC-6910: lit41000057
+@MARC-6913: 51006067
+@MARC-700a: Linde, Luiza
+@MARC-700d: 1800-1836
+@MARC-700j: Ascertained
+@MARC-7000: pe30114492
+@MARC-7004: dte
+@MARC-710a: Antoni Brzezina
+@MARC-710g: Ascertained
+@MARC-7100: ks51000239
+@MARC-7104: pbl
+@MARC-710a: Hochschule für Musik Carl Maria von Weber, Bibliothek
+@MARC-710g: Ascertained
+@MARC-7100: ks30001100
+@MARC-7103: 51004931
+@MARC-7104: fmo
+@MARC-852a: D-Dl
+@MARC-852d: [No.] 5346
+@MARC-852d: HCh87
+@MARC-852e: Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)
+@MARC-852x: ks30000042
+@MARC-8523: 51004931
+@MARC-852c: Mus.5565.T.530
+@MARC-852a: PL-Wnifc
+@MARC-852d: 712/n
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51006067
+@MARC-852c: M/2828
+@MARC-856u: http://digital.slub-dresden.de/id305393537
+@MARC-856x: Digitalization
+@MARC-856z: Digitalisat
+@MARC-8563: 51004931
+@MARC-930a: Chopin, Fryderyk Franciszek: Rondos op. 1 c; Klavier
+@MARC-9300: 320
+@@END:		MARC21
+

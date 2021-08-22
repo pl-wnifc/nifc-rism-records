@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001039864
+@MARC-003:	DE-633
+@MARC-005:	20210627215424.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031o: c
+@MARC-031p: =4/2-4''CD/E'B2-/4''E{8DC}4'BB/BABB/''DDDD/
+@MARC-031r: C
+@MARC-031t: Lauda Sion, salvatorem lauda ducem et pastorem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: c
+@MARC-031p: 4''G{6FEDC}4A{8GC}/{6DC'BA}{8GF}qF4E6-{GAB}/8.6{''CG}{8C'G}{A6''AG}{FEDC}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Habermann, Jan Piotr
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30017777
+@MARC-240a: Lauda Sion
+@MARC-240m: V (2), vl, org
+@MARC-240r: C
+@MARC-2400: 3900057
+@MARC-245a: [cover title:] Lauda Sion | a | Violino Solo. | Canto, Basso, | et | Organo. | Ten Koncert może być produkowany w każde Niedziele | y gdy Fest iest O BOGU, osobliwie, kiedy iest Wystawienie Nayswiętszego Sakramentu. Kto: | ren Koncert ia daruię na kolęde Przewielebnym W Chry: | stusie Pannom Xaweryi y Cecylij, moim nayosobliw: | szym Dyscypułkom y Dobrodzieykom. | Jan Piotr Habermann. Author. | We Lwowie 1748 [This Concert can be performed every Sunday and when is God's festivity, especially, when Exposition of the Blessed Sacrament is [taking place]. Which one Concert I give as a Christmas gift to Most Reverend in Christ Maidens Xaveria and Cecylia, my outstanding Students and Benefactresses. Jan Piotr Habermann. Author. In Lviv 1748].
+@MARC-260c: 1748
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 19,5 x 15,5 cm
+@MARC-3008: 01
+@MARC-590a: S, B
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl solo
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, B, vl solo, org
+@MARC-599b: full
+@MARC-650a: Sequences
+@MARC-6500: 25249
+@MARC-691a: ZdMP 10
+@MARC-691n: p. 34-39
+@MARC-6910: lit41001466
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 228, 269
+@MARC-6910: lit1891
+@MARC-700a: Niedźwiecka, Marianna
+@MARC-700d: 1724c-1793
+@MARC-700j: Ascertained
+@MARC-7000: pe41012324
+@MARC-7004: dte
+@MARC-7004: fmo
+@MARC-700a: Kozłowska, Katarzyna
+@MARC-700d: 1729a-1789
+@MARC-700j: Ascertained
+@MARC-7000: pe41012325
+@MARC-7004: dte
+@MARC-7004: fmo
+@MARC-710a: Klasztor Benedyktynek Łacińskich we Lwowie
+@MARC-710g: Ascertained
+@MARC-7100: ks51001655
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 257/A VII 17
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

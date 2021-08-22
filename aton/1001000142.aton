@@ -1,0 +1,56 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001000142
+@MARC-003:	DE-633
+@MARC-005:	20201029223332.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: $bBEADG
+@MARC-031o: 3/4
+@MARC-031p: $bBEADGł'F/''2F4F/2nE4E/2bE4E/2nD4D/2bD4D+/2.D/
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Mazurkas
+@MARC-240m: pf
+@MARC-240n: op. 24/4
+@MARC-240n: ChomTurC 67
+@MARC-240r: b|b
+@MARC-2400: 3903079
+@MARC-245a: [heading:] N. IV. | MASURKA.
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-383b: op. 24/4
+@MARC-500a: Error in heading: "MASURKA".
+@MARC-590a: pf
+@MARC-590b: p. 12-17
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Mazurkas
+@MARC-6500: 25480
+@MARC-690a: ChomTurC
+@MARC-690n: 67
+@MARC-6900: lit30000031
+@MARC-773w: 1001000082
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 2442/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,64 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001109067
+@MARC-003:	DE-633
+@MARC-005:	20210601132649.0
+@MARC-028a: F. W. 1.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031o: 2/4
+@MARC-031p: 8{A6B''C}{8'BA}/2xG/{8AB''CD}/2E/=1/4'A8{bB''(D)}/{8C6'nBA}{8FE}/2A+/4.A8nG/2(xF)//@2/4 $xF 8{''D'BGA}/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Walczyński, Franciszek
+@MARC-100d: 1852-1937
+@MARC-100j: Ascertained
+@MARC-1000: pe30021989
+@MARC-240a: Cantantibus organis
+@MARC-240m: org
+@MARC-240n: op. 10
+@MARC-240r: G
+@MARC-2400: 3901508
+@MARC-245a: [caption title:] 6.
+@MARC-260a: Tarnów
+@MARC-260b: Impensis Auctoris. [author's expense.]
+@MARC-260c: 1898
+@MARC-2608: 01
+@MARC-260a: Vienna
+@MARC-260b: Typis Josephi Eberle &amp; Co.
+@MARC-260c: 1898
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 23.5 x 31.5 cm
+@MARC-3008: 01
+@MARC-383b: op. 10
+@MARC-590a: org
+@MARC-590b: 1 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: org
+@MARC-599b: full
+@MARC-650a: Preludes
+@MARC-6500: 25204
+@MARC-650a: Postludes
+@MARC-6500: 25202
+@MARC-773w: 1001099615
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-8523: 51014665
+@MARC-852c: mzk/m/346
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

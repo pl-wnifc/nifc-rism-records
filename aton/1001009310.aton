@@ -1,0 +1,132 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001009310
+@MARC-003:	DE-633
+@MARC-005:	20210204110252.0
+@MARC-028a: T.H. 8147.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro maestoso
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: '8{C,nB'CD}8{E,GAG}/8{xFGA6-6A}4.A8G/8{nEFG6-6G}4.G8F/'4CDE8-4-/%G-2'2DF/4F2F4F/1F/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Menuetto. Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4-/4-4-,4B/'4E8{DC},4B/'4GFF/4'E8{DC},4B/4'G8{FG}4A/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Larghetto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 5/4
+@MARC-031p: '4CCn,B'CC/4CC,n,B'CC/4CEA''C'B/4BA4-
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Finale. Presto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 1-/8-'8{DFA}2({8nB''DFAnB};5)/'''4C''C4-'8{CE}/{xFnA''CE}2( {8xFnA'''CExF};5)/4G''G
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Sonatas
+@MARC-240m: pf
+@MARC-240n: op. 4
+@MARC-240n: ChomTurC 201
+@MARC-240r: c
+@MARC-2400: 3900185
+@MARC-245a: GRANDE SONATE | pour le | Pianoforte | composée | par | FRÉDÉRIC CHOPIN. | Oeuvre 4. | Propriété des Editeurs. | N„|o 8147. [space] Enrégistré dans [Habsburg coat of arms] l’Archive de l’Union. [space] Prix f 2_C.M. | Vienne, | chez Charles Haslinger quondam Tobie, | Marchand de Musique etc. de la Cour Imp. et Royale. | Leipsic, chez B. Hermann. | Londres, chez R. Cocks &amp; C.|o [space] Milan, chez Jean Ricordi. [space] Paris, chez Simon Richault.
+@MARC-260a: Wien
+@MARC-260b: Carl Haslinger Quondam Tobias
+@MARC-260c: 1851-1859
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 30,5 x 25,0 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 4
+@MARC-500a: TP engraved, p. [ii, 1] blank, p. 2–29 engraved, p. [30] blank.
+@MARC-500a: TP: oval blind stamp "KSIĘGARNIA I SKŁAD NUT MUZYCZNYCH | R. FRIEDLEIN | [illegible] | [illegible]"; inscription in pencil "[1851]'.
+@MARC-500a: Heading, p. 2: SONATE | par | FR. CHOPIN. | Oeuvre 4.
+@MARC-500a: Plate number: p. 2: (8147.) | Eigenthum und Verlag der k.k. Hof–Kunst–und Musikalienhandlung des Tobias Haslinger in Wien.; p. 3-29: T.H. 8147.
+@MARC-506a: Treasury of the Library
+@MARC-590a: pf
+@MARC-590b: 29 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 201
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 4-1-HAc
+@MARC-6910: lit30025545
+@MARC-710a: Carl Haslinger Quondam Tobias
+@MARC-710g: Ascertained
+@MARC-7100: ks74790
+@MARC-7104: pbl
+@MARC-710a: R. Cocks &amp; Co
+@MARC-710g: Ascertained
+@MARC-7100: ks51000044
+@MARC-7104: pbl
+@MARC-710a: Giovanni Ricordi
+@MARC-710g: Ascertained
+@MARC-7100: ks30080641
+@MARC-7104: pbl
+@MARC-710a: Richault
+@MARC-710g: Ascertained
+@MARC-7100: ks51000045
+@MARC-7104: pbl
+@MARC-710a: B. Hermann
+@MARC-710g: Ascertained
+@MARC-7100: ks51000043
+@MARC-7104: dst
+@MARC-710a: R. Friedlein
+@MARC-710g: Ascertained
+@MARC-7100: ks51000092
+@MARC-7104: bsl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 3859/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

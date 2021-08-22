@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001074073
+@MARC-003:	DE-633
+@MARC-005:	20191202152025.0
+@MARC-028a: 449
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: '4E8E/''4E8E'4E8E/i/4nD8D4bD8D/8{CDnD}{EGF}/4E8E4A8A/,4G8G'4nG8G/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Tarantellas
+@MARC-240m: pf
+@MARC-240n: op. 43
+@MARC-240n: ChomTurC 205
+@MARC-240r: A|b
+@MARC-2400: 3906199
+@MARC-245a: TARANTELLE | pour Le Pianoforte | PAR | FR. CHOPIN. | Op. 43. | à 2 mains: [below] 14 gGr: [space] à 4 mains: [below] 2/3 Thlr. | Propriété des Editeurs. | Schuberth &amp; Comp. _ [space] Hambourg et Leipsic. | Paris, chez Troupenas et Comp. [space] Londres, chez Wessel &amp; Comp. | 449. 455.
+@MARC-260a: Hambourg, Leipsic
+@MARC-260b: Schuberth &amp; Comp.
+@MARC-260c: after 1842
+@MARC-260e: Hamburg
+@MARC-260f: 184201--
+@MARC-2608: 01
+@MARC-260a: Paris
+@MARC-260b: Eugène Troupenas &amp; Cie.
+@MARC-2608: 01
+@MARC-260a: Londres
+@MARC-260b: Wessel
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 31,5 x 25,5
+@MARC-3008: 01
+@MARC-383b: op. 43
+@MARC-500a: Page [1]:TP
+@MARC-5008: 01
+@MARC-500a: Pages [2, 14]: blank
+@MARC-5008: 01
+@MARC-500a: Musical text: p. 3-13
+@MARC-5008: 01
+@MARC-500a: Plate number on each page
+@MARC-5008: 01
+@MARC-500a: TP, at the bottom: stamp of two Gothic letters: illegible, crossed out with a black pencil.
+@MARC-5003: 51005409
+@MARC-506a: Treasury of the Fryderyk Chopin Museum in Warszaw
+@MARC-5063: 51005409
+@MARC-590a: pf
+@MARC-590b: 13p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Tarantellas
+@MARC-6500: 25297
+@MARC-690a: ChomTurC
+@MARC-690n: 205
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 43–1-SCHU
+@MARC-6910: lit30025545
+@MARC-710a: J. Schuberth &amp; Co.
+@MARC-7100: ks13029
+@MARC-7104: pbl
+@MARC-710a: Eugène Troupenas &amp; Cie.
+@MARC-7100: ks51000057
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Muzeum Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51005409
+@MARC-852c: MC/469
+@@END:		MARC21
+

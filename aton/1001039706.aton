@@ -1,0 +1,109 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001039706
+@MARC-003:	DE-633
+@MARC-005:	20210627221734.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8-/=8/8-6'B''C8D'G-6B''C8D'G/''E-D-4C8-'B/
+@MARC-031r: G
+@MARC-031t: Benedicta sit sancta creatrix
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: 8''D/{G6'GA}{B''D'GB}{8A6DE}{FADF}/{8E6xCD}{EG,A'G}{8GF}6-{DFA}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Lechleitner, Ferdinand Simon
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30001903
+@MARC-240a: Benedicta sit sancta creatrix
+@MARC-240m: V (4), orch, org
+@MARC-240r: G
+@MARC-2400: 5034122
+@MARC-245a: [title page:] Offertorium | de | SS. Trinitate | a voc: | Canto Alto | Tenore Basso | Violinis 2bus | Lituis 2bus | Con Organo | Authore S. F. Lechleitner
+@MARC-260c: 1721-1751
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 20 (10) x 15,5 (16) cm
+@MARC-3008: 01
+@MARC-500a: Inscriptions at the top of parts: vl 1: "IMI", "A|r|e S F Lechleitner"; vl 2: "IMI".
+@MARC-500a: Inscription "KR" at the end of vl 2.
+@MARC-590a: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: lituo 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: lituo
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), lituo (2), org
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 257, 267
+@MARC-6910: lit1891
+@MARC-691a: KonopkaS 2005
+@MARC-691n: p. 258-260
+@MARC-6910: lit30025836
+@MARC-691a: GrabiecO 2006
+@MARC-691n: p.17-59
+@MARC-6910: lit41001533
+@MARC-700a: Kolasiński, Kazimierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41012736
+@MARC-7004: scr
+@MARC-700a: K. R.
+@MARC-700j: Ascertained
+@MARC-7000: pe30058642
+@MARC-7004: scr
+@MARC-710a: Kolegiata w Sandomierzu
+@MARC-710g: Conjectural
+@MARC-7100: ks51001537
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 301/A VII 61
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

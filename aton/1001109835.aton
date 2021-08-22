@@ -1,0 +1,48 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001109835
+@MARC-003:	DE-633
+@MARC-005:	20210517194100.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: {8.''D^'B^G6''D^'B}{6''E^CD^'B''C^'AB^G}/{8.''G^E6F^D}{8F^D6E^CD^'B}/{8.''D^'B^G6''D^'B}{6''E^CD^'B''C^'AB^G}/{6''E^CD^'B''C^'AB^G}{8B^GA^F}://:{A^F^D6A''C}{8'B^G^D6B''D}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Arietta
+@MARC-240m: keyb
+@MARC-240r: G
+@MARC-2400: 50158214
+@MARC-245a: [caption title:] Arietto
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-590a: keyb
+@MARC-590b: p. 3
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Ariettes
+@MARC-6500: 3016596
+@MARC-773w: 1001077524
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 575/A IX 55
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

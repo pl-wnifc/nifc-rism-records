@@ -1,0 +1,62 @@
+#!/usr/bin/perl
+
+use strict;
+
+my @contents = <>;
+chomp @contents;
+
+convertData();
+
+exit(0);
+
+
+###########################################################################
+
+##############################
+##
+## convertData --
+##
+
+sub convertData {
+	my $tag;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /<marc:subfield.*code="(.*?)".*?>(.*?)<\/marc:subfield>/) {
+			if ($tag !~ /^\s*$/) {
+				print "\@MARC-$tag$1: $2\n";
+			} else {
+				my $linenumber = $i + 1;
+				print "\@ ERROR ON LINE $linenumber: $line\n";
+			}
+			next;
+		}
+		if ($line =~ /<marc:datafield.*tag="(\d+)".*?>\s*$/) {
+			$tag = $1;
+			next;
+		}
+		if ($line =~ /<\/marc:datafield>/) {
+			$tag = "";
+			next;
+		}
+		if ($line =~ /^<marc:record\s/) {
+			print "\@\@BEGIN:\tMARC21\n";
+			next;
+		}
+		if ($line =~ /<marc:leader.*?>(.*)<\/marc:leader>/) {
+			print "\@LEADER:\t$1\n";
+			next;
+		}
+		if ($line =~ /^<\/marc:record>/) {
+			print "\@\@END:\t\tMARC21\n\n";
+			next;
+		}
+		if ($line =~ /<marc:controlfield.*tag="(\d+)".*?>(.*)<\/marc:controlfield>/) {
+			print "\@MARC-$1:\t$2\n";
+			next;
+		}
+
+	}
+}
+
+
+

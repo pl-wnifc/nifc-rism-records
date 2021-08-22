@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001039116
+@MARC-003:	DE-633
+@MARC-005:	20210613224600.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031o: c/
+@MARC-031p: 4-'G''C8DD/4E8EGFE8.D6D/4C-2-/4-8-EDD-F/
+@MARC-031r: C
+@MARC-031t: Haec dies quam fecit Dominus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 4-4''GG8{DG}/4E{8EE}{AG}{8.6DG}/4E'G''C{8DD}/4E{8EG}{6AGFE}{8.6DD}/4C-2-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Haec dies quam fecit Dominus
+@MARC-240m: V (5), strings, org
+@MARC-240r: C
+@MARC-2400: 3907300
+@MARC-245a: [title page:] Mottetto a 8 Vocum 5 Cantare | Et 3 Sonare De Resurrectione vel De quolibet | Festo Hac dies quam Fecit Dominus
+@MARC-260c: 1722-1743
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 7,5 x 16, 5 cm and three other sizes
+@MARC-3008: 01
+@MARC-500a: Only S 1 part written by Borkowski, remaining parts by another copyist.
+@MARC-5008: 01
+@MARC-500a: Inscription at the end of S 1 part: "S. I. B".
+@MARC-500a: Inscription: " Ih. P Btomski [?]" in a caption of vl 1 part.
+@MARC-590a: S 1, 2, A, T, B
+@MARC-590b: 1, 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S (2), A, T, B, vl (2), vla, b
+@MARC-599b: full
+@MARC-650a: Graduals
+@MARC-6500: 25239
+@MARC-657a: Resurrectio Domini
+@MARC-6570: 24343
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 267
+@MARC-6910: lit1891
+@MARC-700a: Borkowski, Stanisław I.
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41011346
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 424/A VIII 64
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

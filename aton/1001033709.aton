@@ -1,0 +1,109 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001033709
+@MARC-003:	DE-633
+@MARC-005:	20201021183814.0
+@MARC-028a: B et C.|i|e 4743. (2)
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo giusto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: '4G/''2.E/''2.D/8-'8{Gq'8BA6-6G}''4D/8-'8{Gq'8BA6-6G}''4C/''2.C/
+@MARC-031r: c|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Waltzes
+@MARC-240m: pf
+@MARC-240n: op. 64/2
+@MARC-240n: ChomTurC 213
+@MARC-240r: c|x
+@MARC-2400: 3900012
+@MARC-245a: à Madame la Baronne | Nathaniel de Rothschild. | TROIS | VALSES | POUR | PIANO | PAR | F. CHOPIN. | AV | Op: 64. [space] Prix 5.|f | N.|o 2. | PARIS, | Maison M.|C|E SCHLESINGER, BRANDUS et C.|I|E Successeurs, Rue Richelieu, 97 | Leipzig, chez Breitkopf et Hartel. [space] B. et C.|I|E 4743. [space] Londres, Jullien et C.|I|E
+@MARC-260a: Paris
+@MARC-260b: Brandus et Cie
+@MARC-260c: [1851-1854]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 33,5 x 26,0 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 64/2
+@MARC-500a: TP engraved, p. [ii, 1] blank, p. 2-7 engraved, p. [8] blank.
+@MARC-5008: 01
+@MARC-500a: Heading, p. 2: F.CHOPIN [space] Op: 64. 3 VALSES. | VALSE. | N.|o 2.
+@MARC-5008: 01
+@MARC-500a: Plate number p. 2-7: B et C.|i|e 4743. (2)
+@MARC-5008: 01
+@MARC-500a: TP: publisher's signature stamp; inscription in pencil "[17.X.1847]".
+@MARC-5003: 319765
+@MARC-506a: Treasury of the Library
+@MARC-5063: 319765
+@MARC-561a: Purchase from P. Schneider, Paris, 1956.
+@MARC-5613: 319765
+@MARC-590a: pf
+@MARC-590b: 7 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Waltzes
+@MARC-6500: 25220
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 213
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 64/2-1-BR
+@MARC-6910: lit30025545
+@MARC-691a: EMF/1988
+@MARC-691n: p. 78
+@MARC-6910: lit50005822
+@MARC-700a: Rothschild, Charlotte de
+@MARC-700d: 1825-1899
+@MARC-700j: Ascertained
+@MARC-7000: pe30070439
+@MARC-7004: dte
+@MARC-700a: Vialon, A.
+@MARC-700j: Ascertained
+@MARC-7000: pe30043803
+@MARC-7004: egr
+@MARC-700a: Schneider, P.
+@MARC-7000: pe30060828
+@MARC-7003: 319765
+@MARC-7004: oth
+@MARC-710a: Brandus et Cie.
+@MARC-710g: Ascertained
+@MARC-7100: ks30080942
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 319765
+@MARC-852c: 1639/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

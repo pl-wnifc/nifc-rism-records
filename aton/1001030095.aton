@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001030095
+@MARC-003:	DE-633
+@MARC-005:	20210627200728.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =13/8''C6CCCCCD8E'nB''C'G/''E6EEEEEF8GDEC/
+@MARC-031r: c
+@MARC-031t: Quam toto caelo erras
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Lentissimo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: {'8CFG,G}{'C6GbA}{GFED}/{8EbAB,B}{'E6EF}{EDC,nB}/8'C-C-,nB-B-/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Quam toto caelo erras
+@MARC-240m: V (3), orch, b
+@MARC-240r: c
+@MARC-2400: 5018987
+@MARC-245a: [cover title:] Aria | a Vocibus 7. | Canto 1mo | 2do | Basso | Violino 1mo. | Violino 2do | Flauto traverso obligato | aut Violino 3tio | Et Fundamento.
+@MARC-260c: 1773
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 33 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: Inscription "1773" at the bottom of the title page.
+@MARC-500a: Long cryptogram at the bottom of the title page, partly could be read: "P[anna]. w B[ogu]. Imć P[anna]. M. M. Z[akonu]. R[eguły]. S[więtego].O[jca]. B[enedykta]. K[lasztoru]. S[andomierskiego] C. [...] D. K. D. M. B. S. I. O. D. [...]" [Maiden in God Honorable Maiden M.M. from Order of Saint Father Benedict Rule Convent in Sandomierz]. Initials M.M. may belong to Marianna Mokronowska or Marianna Moszyńska.
+@MARC-500a: Inscription "Proszę Naypokorniey Co więcey przydac do tego [...] | a żelim godna tego" [I ask most humbly add something more to that [...] if I am worthy] at the end of B.
+@MARC-590a: S 1, 2, B
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: ob (fl, vl 3)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob (fl, vl 3)
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S (2), B, vl (2), fl, ob (fl, vl 3), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 272
+@MARC-6910: lit1891
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Conjectural
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 115/A III 15
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

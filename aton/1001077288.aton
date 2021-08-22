@@ -1,0 +1,161 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001077288
+@MARC-003:	DE-633
+@MARC-005:	20210627222458.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Laudate D[omi]num
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: =20/4-8''C6CD8EE{6ED}{C'B}/8''C4C8''F{6xExDEF}{8E6DD}/
+@MARC-031r: A
+@MARC-031t: Quoniam confirmata est super nos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: {8''AAAA}{G6BF}{8.E6D}/{8CFFF}{EDC'B}/{A''EEE}{D6CE}{8.'B6A}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Laetatus
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 8-/=6/4-8''CC{DC}{D6ED}/8CC'BB{6BE}8''E{ExD}/
+@MARC-031q: +
+@MARC-031r: A
+@MARC-031t: Stantes erant pedes nostri in atriis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: {6''CD}/{8E'A}-''A{F6nGF}{8.E6D}/{8C6'B''C}{DC'BA}{GEAB}{8.B6A}/4A-2-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4-8'BB8.G6F8EB/''ExDE6FG8DD-E/C6'B''C8'A''D'BG-6''D'B/
+@MARC-031r: e
+@MARC-031t: Nisi Dominus, aedificaverit domum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =13/8-{''EEE}{ED8.C6C}/{8xDDEE}{6AGAB}{8AA}/{EF8.F6E}{8E6BA}{8G6FE}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 12/8
+@MARC-031p: 8''D'B''E8.D6C{'B''C}8.'A6G8AAFB/8.A6G8F8.A6F8B8.A6A8A{6BA}{8.A6G}/
+@MARC-031r: e
+@MARC-031t: Lauda Jerusalem, Dominum lauda Deum tuum Sion
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 12/8
+@MARC-031p: =2/8{''D'B''E}{8.D6C8'B}{''D'B''E}{8.D6C8'B}/{AFB}4.A{8''FDG}{8.F6E8D}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Lechleitner, Ferdinand Simon
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30001903
+@MARC-240a: Vespers
+@MARC-240m: V (4), vl (2), bc
+@MARC-240r: C
+@MARC-2400: 3900116
+@MARC-245a: [title page:] Psalmodia | Laudate D[omi]num Laetatus sum | Nisi D[omi]nus | Lauda Jerusalem | a 7 Vocibus | Canto Alto Tenore Basso | 2bus VV. Basso Conti. | Authore Fer. Symo[n] Lechleitner
+@MARC-260c: 1731-03-16
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 22,5 (20,5) x 18,5 (17) cm
+@MARC-3008: 01
+@MARC-500a: Inscription at the bottom of the title page: "Ex Scriptis Casimiri Kolasinski | mpp | A. D. 1731 d[ie] 16 Marti".
+@MARC-500a: Concordance to RISM ID 1001091852 (PL-SA 298/A VII 58).
+@MARC-590a: S, A, T, B
+@MARC-590b: 2, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), bc
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 256-257, 264
+@MARC-6910: lit1891
+@MARC-691a: KonopkaS 2005
+@MARC-691n: p. 258-259
+@MARC-6910: lit30025836
+@MARC-700a: Kolasiński, Kazimierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41012736
+@MARC-7004: scr
+@MARC-710a: Kolegiata w Sandomierzu
+@MARC-710g: Conjectural
+@MARC-7100: ks51001537
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 291/A VII 51
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

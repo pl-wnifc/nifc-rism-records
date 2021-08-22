@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001008648
+@MARC-003:	DE-633
+@MARC-005:	20201020175938.0
+@MARC-028a: S. 4400.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo di marcia
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: '2C4E8.{E6E}/4C8E8-2-/4G8.{G6G}4GG/8{BAGF}4GE/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Funeral march
+@MARC-240m: pf
+@MARC-240n: op. 72/2
+@MARC-240n: ChomTurC 50
+@MARC-240r: c
+@MARC-2400: 3996526
+@MARC-245a: MARCHE FUNÈBRE | par | FREDERIC CHOPIN. (1829). [In the series: ŒUVRES DE PIANO DE FRÉD. CHOPIN publiés sur manuscrits originaux avec autorisation de sa famille, par JULES FONTANA.]
+@MARC-260a: Berlin
+@MARC-260b: Schlesinger'sche Buch- und Musikhandlung (Rob. Lienau)
+@MARC-260c: [c. 1869]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 32,5 x 25,5 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-383b: op. 72/2
+@MARC-500a: TP [6] lithographed, p. 7-9 lithographed, p. [10] blank.
+@MARC-500a: TP: publisher's round stamp; oval stamp "[illegible] | ANTON GOLL | WIEN, I. | WOLLZEILE Nr. 5".
+@MARC-500a: TP as title p. of the series: ŒUVRES DE PIANO DE | FRÉD. CHOPIN | publiés sur manuscrits originaux avec autorisation de sa famile, | par | JULES FONTANA. | [list of works of F. Chopin in two columns] | LA COLLECTION COMPLÈTE (Op. 66-73) | PRÉCÉDÉE D'UNE PRÉFACE PAR J. FONTANA ET ORNÈE D'UN PORTRAIT LITHOGR. PAR WALDOW, D'APRÈS ARY SCHEFFER. | PR. NET. 5 THLR. | PROPRIÉTÉ DES ÉDITEURS. ENREGIDTRÉE AUX ARCHIVES DE L'UNION. | BERLIN, CHEZ SCHLESINGER (LIENAU), 34 LINDEN.
+@MARC-500a: Double pagination: 7-9, 75-[77] as volume pagination in the series.
+@MARC-500a: Sub-caption, p. 7: (1829.) | PIANO.
+@MARC-500a: Plate number p. 7-9: S. 4400.
+@MARC-506a: Treasury of the Library
+@MARC-590a: pf
+@MARC-590b: p. 7-9
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Marches
+@MARC-6500: 25189
+@MARC-650a: Titelauflagen
+@MARC-6500: 3902073
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 50
+@MARC-6900: lit30000031
+@MARC-691a: ChomTurC
+@MARC-691n: p. 319-320
+@MARC-6910: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 72(sep)-1e-Sam
+@MARC-6910: lit30025545
+@MARC-700a: Fontana, Julian
+@MARC-700d: 1810-1869
+@MARC-700j: Ascertained
+@MARC-7000: pe30108218
+@MARC-7004: edt
+@MARC-710a: Schlesinger'sche Buch- und Musikhandlung (Rob. Lienau)
+@MARC-710g: Ascertained
+@MARC-7100: ks71028
+@MARC-7104: pbl
+@MARC-710a: Anton Goll
+@MARC-7100: ks30078054
+@MARC-7104: dst
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 3427/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

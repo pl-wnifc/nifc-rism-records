@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001065336
+@MARC-003:	DE-633
+@MARC-005:	20201116165619.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Aria con Variatione
+@MARC-031g: G-2
+@MARC-031m: pf (cemb)
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: 8D/4G8B4A8B/4G8A4G8F/qF4E8D4E8F/4G8G4G://:8D/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Cramer, Johann Baptist
+@MARC-100d: 1771-1858
+@MARC-100j: Ascertained
+@MARC-1000: pe71536
+@MARC-240a: Variations
+@MARC-240m: keyb
+@MARC-240r: G
+@MARC-2400: 3900139
+@MARC-245a: [title page:] VARIATIONS | Pour le Clavecin ou Piano Forte | /:sur l'Air:/ On dit qua quinze ans | on plait, on aime, on se marie &amp; c: | Composées &amp; Dédicés | a M|u|r Muzio Clementi | par | J[ohann]. B[aptist]. Cramer.
+@MARC-260c: ca. 1800
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 20,5 x 24,5 cm
+@MARC-3008: 01
+@MARC-500a: Theme with seven variations.
+@MARC-5008: 01
+@MARC-590a: pf (cemb)
+@MARC-590b: 5 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: pf (cemb)
+@MARC-594c: 1
+@MARC-594a: pf (cemb)
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Variations
+@MARC-6500: 25218
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 276
+@MARC-6910: lit1891
+@MARC-700a: Clementi, Muzio
+@MARC-700d: 1752-1832
+@MARC-700j: Ascertained
+@MARC-7000: pe54839
+@MARC-7004: dte
+@MARC-700a: Copyist B from Sandomierz
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41021600
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 4/A I 4
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

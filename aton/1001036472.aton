@@ -1,0 +1,176 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001036472
+@MARC-003:	DE-633
+@MARC-005:	20210712131722.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: =16/2''E4C/{8CD}4.D8C/{FE}4.E8C/{C'B}4.B''8D/{DC}4C-/4.C8C{C'bB}/
+@MARC-031r: C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: 2'G4E/{8EF}4.F8E/{AG}4.G8E/{GF}4.F8D/{FE}4E-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: 8''E6EE8EEEE/FF4F4E/2.D/8C-4--/=3/8-CCC4C/
+@MARC-031r: C
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: 6{''G'''C''B'''C}{DC''B'''C}{8''G'''C}/2''A4G/{6FFFF}{DDDD}{'BBBB}/{''CC'BA}{GAGF}{EFED}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8''FF-6-C/8DC4-/6FF8F-6-C/8'BA''CC/4D8{FD}/CCC6CC/
+@MARC-031r: F
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: {''8F6AG}{FEDC}/8{DC}4-/{6''FGAG}{FEDC}/{8'BA}''C6-C/{D'B''FD}{BFD'B}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 4''C8C-'B''C4-/E8F-4E8.D6D/8CCCC2'B//
+@MARC-031r: C
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: {'8.G3xFG}{6EEEE}{8B^,G^'D''C^,G^'E}{6DEEF}/{6.3EG''CE}{F'''F''DF}{EGCE}{DF'B''D}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Tarde
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: =6/8-''E{DC'B''C}/-E{DC'B''C}/-F{ED}{xCD}/-F{ED}{xCD}/
+@MARC-031r: C
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Tarde
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: 8-{''EDC'B''C}/i/-{FEDxCD}/i/-G{8.6FE}{8DC}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Binder, Christlieb Siegmund
+@MARC-100d: 1723-1789
+@MARC-100j: Conjectural
+@MARC-1000: pe356579
+@MARC-240a: Mass
+@MARC-240m: V (3), vl (2), b
+@MARC-240r: C
+@MARC-2400: 5211939
+@MARC-245a: [cover title:] I. M. I. | Aplikowana Swiętemu Placydowi do | PP. Benedyktynek Sandomirskich [dedicated to Saint Placidus | given to the Benedictine nuns of Sandomierz] | Missa ex C. | a V|o 6. | Canto. Alto. Tenore | Violino Primo | Violino Secundo | Con | Fundamento
+@MARC-260c: 1814-10-01
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 33,5 x 22 cm
+@MARC-3008: 01
+@MARC-500a: Inscriptions at the bottom of the title page: "Scripsit die 1|m|a 8bris 1814"; "Del. Sig. Binder.".
+@MARC-500a: Inscriptions at the end of parts: vl 1: "A. M. D. Gloriam"; vl 2: "Ad M. D. G."; org: "Ad M. D. Gloriam".
+@MARC-590a: S, A, T
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 3, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, vl (2), b
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 263
+@MARC-6910: lit1891
+@MARC-700a: Copyist A from Sandomierz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe41011643
+@MARC-7004: scr
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 3/A I 3
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

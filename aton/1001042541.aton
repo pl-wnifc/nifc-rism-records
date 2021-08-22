@@ -1,0 +1,105 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001042541
+@MARC-003:	DE-633
+@MARC-005:	20201021090313.0
+@MARC-028a: 5599.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto con fuoco
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: '''2.B+/B+/B+B/'2.F+/F+/F+/F//:%F-44-8-,8{xEFB/%G-2'{D,xA'C,B'DF/B--%F-4,8{xEFB}/
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Scherzos
+@MARC-240m: pf
+@MARC-240n: op. 20
+@MARC-240n: ChomTurC 197
+@MARC-240r: b
+@MARC-2400: 3905206
+@MARC-245a: SCHERZO | Pour Pianoforte | composé et dédié | À MONSIEUR T. ALBRECHT | Sécretaire de Legation de Sa M. le Roi de Saxe | par | F. CHOPIN. | Propriété des Editeurs. | Oeuv.20. [space] Pr. 1 Rthlr. | à Leipsic, | Chez Breitkopf &amp; Härtel. | Londres, chez Wessel &amp; C„|o _ Paris, chez M. Schlesinger. | S.|t Petersbourg, chez M. Bernard._Varsovie chez G. Sennewald. | Enrégistré dans les Archives de l’Union.
+@MARC-260a: Leipzig
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-260c: [1835-1863]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-300c: 34,0 x 26,5 cm
+@MARC-3003: 328672
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 20
+@MARC-500a: TP lithographed, p. [2, 3] blank, p. 4-19 engraved, p. [20] blank.
+@MARC-500a: Heading p. 4: » F. Chopin, Op. 20.
+@MARC-500a: Plate number p. 4-19: 5599.
+@MARC-500a: TP: publisher’s round stamp; "[III. 1835]" written by hand in pencil.
+@MARC-5003: 328672
+@MARC-500a: Edition from 1835-1837.
+@MARC-5003: 328672
+@MARC-506a: Treasury of the Library
+@MARC-5063: 328672
+@MARC-590a: pf
+@MARC-590b: 19 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Scherzos (inst.)
+@MARC-6500: 3000133
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 197
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 20–1-B&amp;H
+@MARC-6910: lit30025545
+@MARC-700a: Albrecht, Thomas
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41009664
+@MARC-7004: dte
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-710g: Ascertained
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: M. Bernard
+@MARC-7100: ks40444
+@MARC-7104: dst
+@MARC-710a: G. Sennewald
+@MARC-710g: Ascertained
+@MARC-7100: ks51000015
+@MARC-7104: dst
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 328672
+@MARC-852c: 4049/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

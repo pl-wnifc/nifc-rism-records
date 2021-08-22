@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001070736
+@MARC-003:	DE-633
+@MARC-005:	20210711180513.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: 2/4
+@MARC-031p: 8.{'G^''E6'F^''D}8{'E^''C'E^''C}/4.'E^''C8'G^B/8.{F^A6E^G}8{D^FD^F}/4.D^F8,B^'D/6{ECDE}{FGAB}/{''CDEF}{GEDC}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Vanhal, Johann Baptist
+@MARC-100d: 1739-1813
+@MARC-100j: Ascertained
+@MARC-1000: pe114557
+@MARC-240a: Sonatina
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240n: WeiV 13.52
+@MARC-240r: C
+@MARC-2400: 3906011
+@MARC-245a: [caption title:] Allegro
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 550281122 (in PL-SA only third movement from Sonatine).
+@MARC-590a: keyb
+@MARC-590b: p. 34-35
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-690a: WeiV
+@MARC-690n: 13.52
+@MARC-6900: lit338
+@MARC-730a: Allegro
+@MARC-730g: RISM
+@MARC-7300: 3901850
+@MARC-773w: 1001070420
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 481/A VIII 121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

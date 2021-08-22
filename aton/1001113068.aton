@@ -1,0 +1,46 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001113068
+@MARC-003:	DE-633
+@MARC-005:	20200425095621.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xF
+@MARC-031p: {6'GAB''CD}{C'BAG}{B^GA^F8B^G/{8B^G''C^'A}4''D^'B''C^'AB^G''D^'B8{''C^'AB^G/{6A^FA^F}{B^GB^G}{8''C^'A^FB^G^EA^FB^G}4A^F^D{6AFD}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Sacred song
+@MARC-240r: G
+@MARC-2400: 50230311
+@MARC-245a: [caption title:] Godzinki Najśw[iętszej]: Panny
+@MARC-300a: 1 part
+@MARC-300c: 26,5 (22,5) x 23 (30) cm
+@MARC-3008: 01
+@MARC-500a: Other parts presumably missing.
+@MARC-5008: 01
+@MARC-590a: keyb
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: no indication
+@MARC-594a: no indication
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001113062
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 591/A IX 71
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

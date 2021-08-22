@@ -1,0 +1,110 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001034989
+@MARC-003:	DE-633
+@MARC-005:	20210708094051.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4'''D^''D^'D8-{6'''CD}4''A8-{6xGA}/4F8-Dt{EE'A''C}/4D8-{6'''CD}4''A8-{6xGA}/4F8-Dt{EE'A''C}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andantino gratioso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 6/8
+@MARC-031p: 8'E/4''C8C{CD'B}/4.B8A-A/4B8B{B''CD}/4.D8C-E/C-E-'B-''E/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Menuetto. Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''D/8.6{CD}4DF/8.6{EF}4FA/'A''CE/G-'''E/{68.xDE}4EC/
+@MARC-031q: +
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Rondo. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 8A/{''DCDE}/4D{8C'A}/{''DCDE}/4D{8C'A}/{''FDGE}/{AF'''D''B}/{AGGF}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Pleyel, Ignace
+@MARC-100d: 1757-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe24761
+@MARC-240a: Symphony
+@MARC-240m: orch, b
+@MARC-240n: BenP 133
+@MARC-240r: D
+@MARC-2400: 3993700
+@MARC-245a: [cover title:] Grande | Sinphonie | a deux Violons Alto et Basso | Cors et Hautbois &amp; ad libitum | composee par | M: IGNACE PLEYEL | Maitre de Chapelle de la Cathedrale | de Strasbourg | Oeuvre 12 Livre | A Offenbach sur le Mein, chez J. Andre | et aux adresses ordinaires | Prix 2 fr
+@MARC-260c: after 1787
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 36,5 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: ob parts missing; additional fl solo part instead
+@MARC-5008: 01
+@MARC-500a: vl 2 and b parts with additional title pages similar to the main one
+@MARC-5008: 01
+@MARC-590a: vl 1, 2, a-vla, b
+@MARC-590b: 4, 4, 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: fl solo
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: cor in D 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594a: vl (2), vla, b, ob (2), cor in D (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-690a: BenP
+@MARC-690n: 133
+@MARC-6900: lit6
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 274
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 93/A II 33
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

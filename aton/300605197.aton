@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300605197
+@MARC-003:	DE-633
+@MARC-005:	20210414085919.0
+@MARC-028a: S. 4648.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: '4A8{AG}/'4AB/'8{AGFE}/'4.D8G/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: '4A8AG/4A8BB/8AGFE/4.F8G/
+@MARC-031r: d
+@MARC-031t: Rok się kochali a wiek się nie widzieli
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Dwojaki koniec
+@MARC-240m: V, pf
+@MARC-240n: op. 74/11
+@MARC-240n: ChomTurC 139
+@MARC-240r: d
+@MARC-2400: 4019786
+@MARC-245a: DWOJAKI KONIEC, Dumka Bogdana Zaleskiego, Muzyka FRYD|K|A|. CHOPIN. | LA DOUBLE FIN. | N.|o 11. | CANTO. 1845.
+@MARC-300a: p. 34-36
+@MARC-3008: 01
+@MARC-383b: op. 74/11
+@MARC-500a: At the bottom of the p. 34: Warszawa Nakład i Własność G. Gebethnera i Spółki. [space] S. 4648. [space] Berlin, Verlag und Eigenthum der Schlesinger'schen Buch-und Musikhandlung.
+@MARC-520a: No. 11
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Lieder
+@MARC-6500: 25227
+@MARC-690a: ChomTurC
+@MARC-690n: 139
+@MARC-6900: lit30000031
+@MARC-700a: Zaleski, Bohdan
+@MARC-700d: 1802-1886
+@MARC-700j: Ascertained
+@MARC-7000: pe30036661
+@MARC-7004: lyr
+@MARC-730a: La double fin
+@MARC-730g: RISM
+@MARC-7300: 4323520
+@MARC-773w: 300605186
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 963/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,110 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001029984
+@MARC-003:	DE-633
+@MARC-005:	20210627215050.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Vivace
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: =21/4'Bq''8DC{6'BA}/{8.B6A}{B''CDE}/8F{6ED}q8D4E/D-/'Bq''8D{8C6'BA}/
+@MARC-031r: B|b
+@MARC-031t: Ave maris stella
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 4'Bq''8D{8C6'BA}/{8.B6A}{B''CDE}/{8F6ED}q8F4E/D-/4'Bq''8D{8C6'BA}/{8.B6A}{B''CDE}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Graun, Carl Heinrich
+@MARC-100d: 1703c-1759
+@MARC-100j: Ascertained
+@MARC-1000: pe30001351
+@MARC-240a: Artaserse
+@MARC-240k: Excerpts
+@MARC-240n: GraunWV B:I:8/48
+@MARC-240o: Arr
+@MARC-2400: 3900419
+@MARC-245a: [title page:] ARIA de B. V. Maria. Ave Maris Stella. | A V. 5 | Canto Solo | Violino Primo | Violino Secundo | Alto Viola | &amp; | Fundamenti | Ex Rebus T. Kam | mpp
+@MARC-260c: 1743-1799
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 17 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 300510917.
+@MARC-500a: In RISM ID 300234235 composition atributed by D. Idaszak to J. A. Hasse (as "Laetamini in Domino").
+@MARC-590a: S solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, vl (2), a-vla, b
+@MARC-599b: full
+@MARC-650a: Contrafacta
+@MARC-6500: 25455
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-690a: GraunWV
+@MARC-690n: B:I:8/48
+@MARC-6900: lit200055
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: deest
+@MARC-6910: lit1891
+@MARC-691a: IdaszakGR 1993
+@MARC-691n: no. 186
+@MARC-6910: lit2126
+@MARC-700a: Kam., T.
+@MARC-700d: 18.sc
+@MARC-700j: Alleged
+@MARC-7000: pe50042376
+@MARC-7004: scr
+@MARC-7004: fmo
+@MARC-730a: Ave maris stella
+@MARC-730g: RISM
+@MARC-730m: S, strings, org
+@MARC-730r: B|b
+@MARC-7300: 3008705
+@MARC-730a: Parto qual pastorello
+@MARC-730g: RISM
+@MARC-7300: 3938369
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 472/A VIII 112
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

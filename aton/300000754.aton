@@ -1,0 +1,113 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000754
+@MARC-003:	DE-633
+@MARC-005:	20201029163353.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 4''D/{8G6.G3D}{8'BG}/4''D8-D/{G6.G3D}{8'BG}/4A
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8-/=16/4-8-,D/8G{6.G3D}8,,BG/,DD-D/8.'D6,A8xFD/G,,G4-/
+@MARC-031r: g
+@MARC-031t: En quam tanto labore
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Maader, Ludwik
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30020328
+@MARC-240a: En quam tanto labore
+@MARC-240m: Coro, orch, bc
+@MARC-240r: g
+@MARC-2400: 3022079
+@MARC-245a: [dust cover title:] Nr Imo. | #Aria in G minor. | pro | Festo St: Pauli I: Eremitae. | a | Canto I=Canto II=et Basso. | Violino Primo. | Violino Secondo. |[pl-text: początek klamry z prawej strony:] Flauto Primo. Flauto Secondo. [pl-text: koniec klamry; za klamrą:] obl: | con | Fundamento. | Auth Lud: Maader 1797. | Pro Choro C: M: C:
+@MARC-260c: 1797
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 24 x 18,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Karty są pocięte z większych arkuszy papieru, na kartach występują tylko fragmenty znaków wodnych]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce: u góry po prawej stronie czarnym tuszem ręką M. Zabłockiego "98", później skreślone czerwonym tuszem; później poniżej "N 933/234" czerwonym tuszem ręką F. Maletza; później u góry z lewej strony ołówkiem ręką nieznanego Paulina "N|o 197"; u góry z prawej strony ołówkiem ręką W. Świerczka "529" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć: "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: Coro S: 1, 2, B, vl 1, 2, fl 1, 2, bc
+@MARC-590b: 2, 2, 1, 2, 2, 1, 1, 2f.
+@MARC-5908: 01
+@MARC-592a: dust cover title, vl 2: (partial) CAMMERPAPIER | [crowned eagle with sceptre and apple] | CZENSTOCHOW
+@MARC-5928: 01
+@MARC-592a: [illegible]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: S (2), B, vl (2), fl (2), bc
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Pauli primi Eremitae et Confessoris
+@MARC-6570: 24752
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 29
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 22
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.856
+@MARC-6910: lit1869
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 98
+@MARC-852d: N 933/234
+@MARC-852d: N|o 197
+@MARC-852d: 529
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-52
+@@END:		MARC21
+

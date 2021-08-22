@@ -1,0 +1,171 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300237592
+@MARC-003:	DE-633
+@MARC-005:	20201219154026.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 4/4
+@MARC-031p: ''6C/4C8.-6D4D8.-6E/4.E8E2E/'4A8.-6A8A-4-/-8.-''6C4C-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFCG
+@MARC-031o: 4/4
+@MARC-031p: 6-/=2/,8-EBA4-8.A6B/'8.D6C4C-8-6CE/4E,8nG6AB8AEq6G8F-/
+@MARC-031r: A
+@MARC-031t: Nolite confidere in principibus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: fl
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: ''{8.E'''6C}/4C{8''B'''6DC}{8E6D''B}/4B+{6BA'''C''B}8A
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Aria. Andante
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFCG
+@MARC-031o: 4/4
+@MARC-031p: -/=4/,4.E'8C2C/,{8B'6DC}8E{6DC},4.B({6A'C,B})/4.A'8C4.C,8B/4BBB{6BAGF/
+@MARC-031r: A
+@MARC-031t: Regnabit Dominus in saecula, Deus tuus Sion
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Rondo
+@MARC-031g: G-2
+@MARC-031m: fl
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: 8.-{6''E8.A6B}/4'''CE/{8.6ED}{''8.6B'''C}/{8.6''A'''C}4''E/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: =8/8.-6,E8.A6B/4'CE/{8.E6D}{,8.6B'C}/8,A'C4,E/
+@MARC-031r: A
+@MARC-031t: Laudabo Deum meum in vita mea
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Bogoimski, Tadeusz
+@MARC-100d: 19.sc
+@MARC-1000: pe30024244
+@MARC-240a: Nolite confidere in principibus
+@MARC-240m: B, orch, org
+@MARC-240r: A
+@MARC-2400: 33990
+@MARC-245a: [cover title:] Aria [by Podejko's hand with pencil:] "Nolite confidere"| Bass Solo. | Violino I|m|o et II|d|o | Alto Viola. | Clarinetto I|m|o et II|d|o | Flauto. | Corno I|m|o et II|d|o | Basso con Organo. | Auth: Thadeuz [!] Bogoimsky. | [bottom right by other hand:] Comparavi ad Chorum C.M.C. | Anno Dni 1839. Pr. | Lucas Grządzielski Cust.[os] | Opere Dni Caroli Klose | Sub Direct. Musicae Dno | Leopoldo Mężnicki
+@MARC-260c: 1839 (1839)
+@MARC-2608: 01
+@MARC-300a: 10 parts
+@MARC-300c: 40 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o | 67", skreślona czerwonym tuszem; późniejsza poniżej na prawo od tytułu czerwonym atramentem ręką F. Maletza "N 791/92"; późniejsza poniżej ołówkiem ręką W. Świerczka "589" w owalnym kółku]
+@MARC-500a: [pl-text: K. Klose zidentyfikowany jako kopista przez P. Podejkę]
+@MARC-561a: [pl-text: Na f. 1r okładki, w prawym dolnym rogu: "Comparavi ad Chorum C.M.C. | Anno Dni 1839. Pr. | Lucas Grządzielski Cust.[os] | Opere Dni Caroli Klose | Sub Direct. Musicae Dno | Leopoldo Mężnicki"
+@MARC-561a: [pl-text: Na f. 1r okładki, u dołu okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-590a: B, vl 1, 2, vla, b, org (= bc), fl, cl 1, 2, cor 1 and 2
+@MARC-590b: 2, 1, 1, 1, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: W (crowned)
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: B, vl 1, vl 2, vla, b, fl, cl (2), cor, org (= bc)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 19
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.73
+@MARC-6910: lit1869
+@MARC-700a: Mężnicki, Leopold
+@MARC-700d: 1799-1854p
+@MARC-700j: Ascertained
+@MARC-7000: pe30040497
+@MARC-7004: oth
+@MARC-700a: Grządzielski, Łukasz
+@MARC-700d: 1795-1866
+@MARC-700j: Ascertained
+@MARC-7000: pe30040496
+@MARC-7004: oth
+@MARC-700a: Klose, Karol
+@MARC-700d: 19.sc
+@MARC-7000: pe30040495
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 791/92
+@MARC-852d: 67
+@MARC-852d: 589
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-37
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

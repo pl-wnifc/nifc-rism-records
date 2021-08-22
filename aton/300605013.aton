@@ -1,0 +1,126 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300605013
+@MARC-003:	DE-633
+@MARC-005:	20201029164025.0
+@MARC-028a: 5495
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introduzione. Maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ,4B'''4B'''6{GFED}'''6{C''BGF}/''6{EDC'B}'{6GFED}%F-4{'6C,BGF},6{EDC}%G-26-/'4.G'8A'4.F''8D/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Theme. Moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: '8F/'4G'8A'4F'8B/4''C''8D'4B'8F/'4G'8A'4F'8B/''4C''8D'4B8-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Variations
+@MARC-240m: pf
+@MARC-240n: op. 12
+@MARC-240n: ChomTurC 226
+@MARC-240r: B|b
+@MARC-2400: 3900139
+@MARC-245a: VARIATIONS | brillantes | Pour le Pianoforte | sur le Rondeau favori: "Je vends des Scapulaires" | de Ludovic | de | HEROLD et HALEVY | dédiées | à Mademoiselle Emma Horsford | par | Fréd. Chopin. | Propriété des Editeurs. | Oeuv. 12. [space] Pr. 20 Ngr. | Leipsic, | Chez Breitkopf &amp; Härtel. | London, chez Cramer, Addison &amp; Beale. Paris, chez M. Schlesinger. | Enrégistré dans les Archives de l’Union.
+@MARC-260a: Leipzig
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-260c: c. 1851
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-300c: 34,5 x 26,5 cm
+@MARC-3008: 01
+@MARC-383b: op. 12
+@MARC-500a: TP lithographed, p. [2-3] blank, p. 4-13 engraved, p. [14] blank.
+@MARC-500a: TP: publisher's oval stamp. Inscription in pencil: "[po 1833]"; signature "Borkowska".
+@MARC-500a: Heading, p. 4: Chopin Op. 12.; p. 6: Ronde de Ludovic.
+@MARC-500a: Plate number p. 4-13: 5495.
+@MARC-590a: pf
+@MARC-590b: 13 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Variations
+@MARC-6500: 25218
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Rondos (voc.)
+@MARC-6500: 3000162
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 226
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 12-1c-B&amp;H
+@MARC-6910: lit30025545
+@MARC-700a: Hérold, Ferdinand
+@MARC-700d: 1791-1833
+@MARC-700j: Ascertained
+@MARC-7000: pe75095
+@MARC-7004: cmp
+@MARC-700a: Halévy, Fromental
+@MARC-700d: 1799-1862
+@MARC-700j: Ascertained
+@MARC-7000: pe40914
+@MARC-7004: cmp
+@MARC-700a: Horsford, Emma Hilbert
+@MARC-700d: 1810-1891
+@MARC-700j: Ascertained
+@MARC-7000: pe30113781
+@MARC-7004: dte
+@MARC-700a: Borkowska
+@MARC-7000: pe41000521
+@MARC-7004: fmo
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-710g: Ascertained
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Cramer, Addison &amp; Beale
+@MARC-710g: Ascertained
+@MARC-7100: ks40012211
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-710g: Ascertained
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-730a: Ludovic
+@MARC-730g: RISM
+@MARC-730k: Excerpts
+@MARC-730o: Var
+@MARC-7300: 3919574
+@MARC-730a: Je vends des scapulaires
+@MARC-730g: RISM
+@MARC-730o: Var
+@MARC-7300: 4235474
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 426/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

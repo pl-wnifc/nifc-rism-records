@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000800
+@MARC-003:	DE-633
+@MARC-005:	20210116210544.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: g-2
+@MARC-031m: cor 2 in B
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4-/8-{,EGB}4'E-/{8F6FF}{8FF}4F-/2,G{8BB'EF}/4.G8F4E-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: g-2
+@MARC-031m: cor 2 in B
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 8-/=7/4-8-6{,GB/8'E4E8G/{6GF}4F8E/,B4B8'F/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: g-2
+@MARC-031m: cor 2 in B
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: ,E8{,,B,G/4E8{,,B,G/{EB'EF/{GF}4E/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Maintzer, Franz
+@MARC-100d: 18/19
+@MARC-100j: Verified
+@MARC-1000: pe30102207
+@MARC-240a: Partitas
+@MARC-240m: ob (2), cl (2), cor (2), fag (2)
+@MARC-240r: E|b
+@MARC-2400: 3900424
+@MARC-245a: [cor 2:] Parthia in Es# N=|o 6 | a | Clarinetto Primo in B. | Clarinetto Secundo in B | Oboae - Primo | Oboae - Secundo. | Cornu - Primo - in Dis | Cornu - Secundo - in Dis | Fagotto Primo | Fagotto Secundo | del Sigr: Franz Maintzer Sverin [illegible] | Ex Partibus. J: S: [illegible]
+@MARC-260c: 1790-1800 (18.ex)
+@MARC-2608: 01
+@MARC-300a: part
+@MARC-300c: 18 x 22,5 cm
+@MARC-3008: 01
+@MARC-500a: other parts missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na f. 2v głosu cor 2 okrągła pieczęć: "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Na f. 2v głosu cor 2 notatka: "To Sąm | braki-"[?]
+@MARC-590a: cor 2
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: ob (2), cl (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Partitas
+@MARC-6500: 25199
+@MARC-650a: Wind music
+@MARC-6500: 25283
+@MARC-650a: Octets (inst.)
+@MARC-6500: 3000025
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.894
+@MARC-6910: lit1869
+@MARC-700a: J. S.
+@MARC-700j: Verified
+@MARC-7000: pe30021763
+@MARC-7004: fmo
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-17
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

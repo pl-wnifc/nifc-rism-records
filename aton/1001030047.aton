@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001030047
+@MARC-003:	DE-633
+@MARC-005:	20210613223858.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 8-/=6/2-8''D'6AG8F{6AG}/{FE}4D8-''D6'AG8F{6AG}/6{FE}4D8-2-/
+@MARC-031r: d
+@MARC-031t: Domine non sum dignus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 3{'DE5FGAB''C}/{8D'A''DE}{FDFG}/4.A{6(GFE;3)}4.G{(6GFE;3)}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Domine non sum dignus
+@MARC-240m: S, vl (2), org
+@MARC-240r: d
+@MARC-2400: 31417
+@MARC-245a: [title page:] CONCERTO | [illegible] | Canto Solo. | Violino 1mo, | Violino 2do, | &amp; | Basso Continuo pro Organo. | Fundamento | Domine n.[on] sum Dignus.
+@MARC-260c: 1735-1773
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 16 x 10 cm
+@MARC-3008: 01
+@MARC-500a: Insciption at the top of the title page: "Laudetur. I. Xtus. Amen.".
+@MARC-500a: Insciption at the bottom of the title page: "Od Oyca Iuskiewicza - S. I.".
+@MARC-500a: Inscriptions at the end of parts: vl 1: "Siplacek [Si placeat?] Laus Deo"; org: "Laus Deo | Ad Majorem Dej [!] Gloriam | BMV Honorem | Et OG[ni] SS[ancti] Laudem".
+@MARC-590a: S solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 269
+@MARC-6910: lit1891
+@MARC-700a: Juskiewicz, Mikołaj
+@MARC-700d: 1715a-1773p
+@MARC-700j: Ascertained
+@MARC-7000: pe41011393
+@MARC-7004: fmo
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Conjectural
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 440/A VIII 80
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

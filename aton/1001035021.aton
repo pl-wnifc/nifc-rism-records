@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035021
+@MARC-003:	DE-633
+@MARC-005:	20210628202634.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: ''{8.C3EF}{8.G3AB}/{8'''C''C}8-C/{6'BBAA}{GGFF}/{EEDD}4C/'{8.C3EF}{8.G3AB}/{8''C'C}8-C/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/8
+@MARC-031p: ''{8EC'A}/-{xGB}/-{A''C}/{EA'A}/-{''FD}/-{'B''D}/-{'A''C}/{EA'A}/-{''FE}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 6/8
+@MARC-031p: 8''{CEF}{GAB}/{'''C''A'''C}{''BGB}/{AFA}{GEG}/4.FE/{8'CEF}{GAB}/4.''C'B/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Ziegler
+@MARC-100j: Alleged
+@MARC-1000: pe30003658
+@MARC-240a: Symphony
+@MARC-240m: strings, b
+@MARC-240r: C
+@MARC-2400: 3993700
+@MARC-245a: [title page:] Symphonia | Ex C a vocibus 4tuor | Violino Primo | Violino Secundo | Alto Viola | Con Basso | Del Seg Zigler | [crossed out] C.C. [illegible]dowski | mp | A V S S P
+@MARC-260c: 1770-1830
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 32,5 x 21 cm
+@MARC-3008: 01
+@MARC-500a: Calculations on vl 1 f. 2v.
+@MARC-500a: Joseph Ziegler indicated as a composer in ŚwierczekK 1965.
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 2, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), a-vla, b
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 262, 274
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 403/A VIII 43
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

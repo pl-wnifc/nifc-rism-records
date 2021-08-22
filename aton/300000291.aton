@@ -1,0 +1,180 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000291
+@MARC-003:	DE-633
+@MARC-005:	20201029163335.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: {8''EEEEEE}/{'BBBBBB}/{''CCCCCC}/4C'B''E+/E
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =24/2.'G+/4GGG/2A4A/AG-/--G/4.G8F4E/
+@MARC-031r: E|b
+@MARC-031t: Requiem, aeternam dona eis Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: Scoro
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: -EE/2.A/4GGE/2.''C
+@MARC-031r: E|b
+@MARC-031t: Dies irae, dies illa solvet saeclum in favilla
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-3
+@MARC-031m: A solo
+@MARC-031n: bBEA
+@MARC-031o: 4/4
+@MARC-031p: =8/8.E6E8EE'BBBA/4.G8G4F8-F/8GGGG8.G6F4F/
+@MARC-031r: E|b
+@MARC-031t: Domine Jesu Christe, rex gloriae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Cantabile
+@MARC-031d: Sanctus et Benedictus
+@MARC-031g: C-3
+@MARC-031m: A coro
+@MARC-031n: bBEA
+@MARC-031o: 3/8
+@MARC-031p: =30/6.G3A8BA/4G8-/-4B/8{B6''C'BAG/
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Cantabile
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: -B''8C'B''CD/4E'B8-nAB''C/{DE}{F'B}4.bA8B/4G-2-/
+@MARC-031r: E|b
+@MARC-031t: Osanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2.''C/+2C4C/Cn'B-/-BB/
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei qui tollis peccata mundi dona eis requiem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Engel, Jan
+@MARC-100d: 1788+
+@MARC-100j: Ascertained
+@MARC-1000: pe30009138
+@MARC-240a: Requiems
+@MARC-240m: V (4), Coro, orch, bc
+@MARC-240r: E|b
+@MARC-2400: 3900193
+@MARC-245a: Requiem in Dis | a | Canto. Alto. | Tenore. Basso. | Violino. I|mo et II|do. | Alt [!] Viola. I|ma et II|da. | Clarinetto I|mo et II|do | Cornu I|mo et II|do | Flauto I|mo [in bracket, which suggest that "con" should be lower]con et II|do | Fundamento. | Authe: Engel | [bottom right] pro Choro C: M: C:
+@MARC-260c: 1790-1800
+@MARC-2608: 01
+@MARC-300a: 15 parts
+@MARC-300c: 24,5 x 19 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: partie T, B, vl 1 i 2 na innym papierze]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o | 26"; późniejsza na prawo od tytułu czerwonym atramentem ręką F. Maletza "608|N 8"; późniejsza u góry z lewej ołówkiem ręką W. Świerczka "913" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona niebieską kredką oraz parafowana]
+@MARC-563a: [pl-text: okładka zrobiona z innych rękopisów, utworów nie zidentyfikowano]
+@MARC-5638: 01
+@MARC-590a: Coro and Solo S, A, T, B, vl 1, 2, vla 1, 2, bc, fl 1, 2, cl 1, 2, cor 1, 2
+@MARC-590b: 2, 4, 3, 3, 5, 5, 4, 4, 4, 4, 4, 3, 3, 3, 3f.
+@MARC-5908: 01
+@MARC-592a: on A-part: CAMMERPAPIER | [crowned eagle with sceptre and apple] | CZENSTOCHOW partial
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Solo S
+@MARC-594b: Solo A
+@MARC-594c: 1
+@MARC-594b: Solo T
+@MARC-594c: 1
+@MARC-594b: Solo B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 2
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: Solo S, Solo A, Solo T, Solo B, Coro S, Coro A, Coro T, Coro B, vl 1, vl 2, vla (2), fl (2), cl (2), cor (2), bc
+@MARC-599b: full
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.401
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 15.
+@MARC-6910: lit1887
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: 26
+@MARC-852d: 608/8
+@MARC-852d: 913
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-10
+@@END:		MARC21
+

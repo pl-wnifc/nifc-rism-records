@@ -1,0 +1,181 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001085079
+@MARC-003:	DE-633
+@MARC-005:	20200514103501.0
+@MARC-028a: M.S. 1940.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: pf [orch]
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: ''6{F'8.A6B}/''1C/'2B4AG/q8Gr8.{F6nE8.F6G}4A8F/2F8nE6-
+@MARC-031q: Bar 4th, error: last note '8F ought to be '4F.
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =71/''''4D+6{D'''GF''B}'''4D+6{D''GF'B}/''6{D'GF,B}'6{D%F-4,GF,,B}4Btqq6{AB}r,6{C,,BAG}/4F%G-24-2-/2-4-6-''6{F'8.A6B}/''1C/
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Larghetto
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: c
+@MARC-031p: =5/({,,,8A,,A,E};3)%G-2({'8C,A'C};3)(4.E){3nDE}{FEnDEFGAB}/qq{''6CEA}r'''2Eqq{'''6nDE}r4Etqq'''6{nDE}r3{AFEC}/''4B4..A
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro. Vivace
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: ''4C/4C8{nDnEFG}/4A8{BA}4G/q8Cr'''4C''8{BAGF}/4A8{BA}4G/4F
+@MARC-031q: simplice ma grazioso
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Concertos
+@MARC-240m: pf, orch
+@MARC-240n: op.21
+@MARC-240n: ChomTurC 48
+@MARC-240r: f
+@MARC-2400: 3900213
+@MARC-245a: Second | CONCERTO | Pour le Piano | Avec Acc.|t d’Orchestre | DÉDIÉ À MADAME | la Comtesse Delphine Potocka | née de Komar | PAR | FRÉD. CHOPIN | Op. 21. [space] avec Orchestre 24.|f [below] –– Quatuor 18. [below] –– Piano seul 12. | Propriété des Editeurs - | PARIS, chez MAURICE SCHLESINGER, Rue Richelieu, N|o 97. | Leipzig, Breitkopf et Hartel [!] [space] Londres, chez Wessel &amp; C|i.|e
+@MARC-260a: Paris
+@MARC-260b: Maurice Schlesinger
+@MARC-260c: 1836
+@MARC-2608: 01
+@MARC-260a: Leipzig
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-2608: 01
+@MARC-260a: Londres
+@MARC-260b: Wessel &amp; Ci.e
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-383b: op.21
+@MARC-500a: Page [i]: title page; p. [ii,]: blank.
+@MARC-5008: 01
+@MARC-500a: Musical text: p. 1-35.
+@MARC-5008: 01
+@MARC-500a: Heading, p 1: F. CHOPIN Op: 21. «
+@MARC-5008: 01
+@MARC-500a: Footline / Plate number: M.S. 1940. p. 1–35.
+@MARC-5008: 01
+@MARC-500a: Last page [36]: blank.
+@MARC-5008: 01
+@MARC-500a: TP, at the top, right corner: inscription in pencil "Z egzemplarza Siostry | Chopina" [probably added by Ludwik Bronarski].
+@MARC-5003: 51006781
+@MARC-500a: TP, at the bottom: publisher’s signature stamp.
+@MARC-5003: 51006781
+@MARC-500a: Pencil annotations in musical text: corrections and additions concerning musical notation, p. 21 i 23.
+@MARC-5003: 51006781
+@MARC-500a: Recto pages, at the top (right corner): numbers 61-79 added in pencil.
+@MARC-5003: 51006781
+@MARC-506a: Treasury of the Fryderyk Chopin Museum in Warsaw
+@MARC-5063: 51006781
+@MARC-520a: Orchestra parts missing, indications for orchestra tutti and individual instruments [as piano transcription].
+@MARC-520a: Tutti orchestra and incipits of instrumental parts included in piano part.
+@MARC-590a: pf
+@MARC-590b: 35p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-593a: Print with non-autograph annotations
+@MARC-5933: 51006781
+@MARC-594b: iSol: pf
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 1
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: iSol: pf, vl 1, vl 2, vla, vlc, b, fl (2), ob (2), cl (2), fag (2), cor (2), tr (2), trb, timp
+@MARC-599b: full
+@MARC-650a: Concertos
+@MARC-6500: 25176
+@MARC-690a: ChomTurC
+@MARC-690n: 48
+@MARC-6900: lit30000031
+@MARC-691a: ACO Chopin
+@MARC-691n: 21–1a-Sm
+@MARC-6910: lit41000057
+@MARC-691a: EMF
+@MARC-691n: p. 390
+@MARC-6910: lit1710
+@MARC-691a: CwOSU
+@MARC-691n: p. 265
+@MARC-6910: lit41002168
+@MARC-6913: 51006781
+@MARC-700a: Potocka, Delfina
+@MARC-700d: 1807-1877
+@MARC-700j: Ascertained
+@MARC-7000: pe30093163
+@MARC-7004: dte
+@MARC-700a: Bronarski, Ludwik
+@MARC-700d: 1890-1975
+@MARC-700j: Ascertained
+@MARC-7000: pe30029944
+@MARC-7003: 51006781
+@MARC-7004: oth
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51006781
+@MARC-852c: M/175
+@MARC-973u: 1001128964
+@MARC-9733: 51006781
+@@END:		MARC21
+

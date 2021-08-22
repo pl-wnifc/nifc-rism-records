@@ -1,0 +1,124 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001070170
+@MARC-003:	DE-633
+@MARC-005:	20210712131558.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie. Moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1'F+/2FA/G''C/'AG/4AB''C{8DE}/1F+/2FE/
+@MARC-031r: F
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria. Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4.''F8C4C-/4.C8'A4A-/BA''DE/2F4F-/4.E8C4C-/
+@MARC-031r: F
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo. All[egr]o moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1''D/2'D4-''D/2.E8{DE}/1F/2'F4-''F/2.G{8FG}/1A/
+@MARC-031r: F
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus. Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 4'FAG/2F4-/GBA/2G4-/A''C'B/{8AB''CDEF}/4.E8E4E/
+@MARC-031r: F
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Agnus. Andantino
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: 8-'FG4.A+/8ABA{A''FE}/{ED}D4D{6C'B}/{8A''D}xC8-4-6'AA/4B8A{AG}F/
+@MARC-031r: F
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Elsner, Józef
+@MARC-100d: 1769-1854
+@MARC-100j: Ascertained
+@MARC-1000: pe30000957
+@MARC-240a: Mass
+@MARC-240m: V (4)
+@MARC-240n: op. 20
+@MARC-240r: F
+@MARC-2400: 5211939
+@MARC-245a: [without title]
+@MARC-260c: 1828
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 18 x 24.5 cm
+@MARC-3008: 01
+@MARC-383b: op. 20
+@MARC-500a: Parts written in separate notebooks.
+@MARC-5008: 01
+@MARC-500a: Many stains on cards.
+@MARC-5008: 01
+@MARC-500a: Inscriptions on parts' covers: S: "X. Jan. Pniewski kan. kath. Płockiey | Dziekan Kollegiaty Pułtuskiey Semi | narii Regens | 182 [illegible]"; A: " X. Jan Tomasz Pniewski kan. kath Płockiey | Dziekan Kollegiaty Pułtuskiey Semina | rii Regens | 1828 | Roku"; T: "X. Jan. Pniewski kan. kat. Płockiey | Dziekan Kollegiaty Pułtuskiey Semi | narii Regens. | 1828. | Roku"; B: "X. Jan. Pniewski Kan. kath Płockiey | Dziekan Kollegiaty Pułtuskiey Semi | narij Regens | 1828. | Roku." [Jan Pniewski canon of Płock cathedral, dean of Pułtusk collegiate church, regens of seminary.].
+@MARC-500a: Numerous calculations on B folios (on margins and notes).
+@MARC-500a: Composer identified on the basis of RISM ID 1001034717.
+@MARC-590a: S, A, T, B
+@MARC-590b: 8, 8, 8, 8 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 263
+@MARC-6910: lit1891
+@MARC-700a: Pniewski, Jan Tomasz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe50041545
+@MARC-7004: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 351/A VII 111
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

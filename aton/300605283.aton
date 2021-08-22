@@ -1,0 +1,115 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300605283
+@MARC-003:	DE-633
+@MARC-005:	20201029164033.0
+@MARC-028a: M.S. 2447
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introduzione. Lento
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: ,8C,3{EFExF},3{GAGB}%G-2'{CDCxD}'3{EFExF}'3'{GAGB}''3{CDCxD}''3{EFExF}/''3{GAGB}'''3{CDCxD}'''3{EFExF}'''3{GAGB}''''8C8-4-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Alla Polacca.
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: '8{C,6GAB}'8{C,6GAB}'8{CD}/%G-2'8E'6{G,G'G}'8E'6{G,G'G}'8E{G,G'G}/'8{E6EE}8{EEExC}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031o: c
+@MARC-031p: ,8C,3{EFExF},3{GAGB}%G-2'{CDCxD}'3{EFExF}'3'{GAGB}''3{CDCxD}''3{EFExF}/''3{GAGB}'''3{CDCxD}'''3{EFExF}'''3{GAGB}''''8C8-4-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Polonaises
+@MARC-240m: pf, vlc
+@MARC-240n: op. 3
+@MARC-240n: ChomTurC 148
+@MARC-240r: C
+@MARC-2400: 3900011
+@MARC-245a: POLONAISE BRILLANTE | PRÉCÉDÉE | D’UNE INTRODUCTION | pour | Piano et Violoncelle | DÉDIÉES | à Monsieur Joseph Merk | PAR | F. CHOPIN | Op. 3. [space] Prix. 7.|f 50.|c | Paris, chez Maurice Schlesinger, Ed.|r Rue de Richelieu, 97.
+@MARC-260a: Paris [ascertained]
+@MARC-260b: G. Brandus, Dufour et Cie.
+@MARC-260c: c. 1854
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-300c: 34,5 x 27,0 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 3
+@MARC-500a: [pf part] Title page engraved, p. [ii] blank, p. 1-13 engraved, p. [14] blank.
+@MARC-500a: [vlc part] p. 1-3 engraved, p. [4] blank.
+@MARC-500a: [heading for pf part:] F. CHOPIN Op: 3. | Polonnaise brillante | Pour PIANO et VIOLONCELLE.; [heading for vlc part:] F. CHOPIN Op: 3. | Polonnaise brillante | Pour PIANO et VIOLONCELLO.; error for both of parts: "Polonnaise".
+@MARC-500a: Cover faded, text on cover illegible, in places; Title page: publisher's signature stamp "Brandus et Cie"; inscription in pencil "[VII 1854 – II. 1858]”.
+@MARC-500a: Last cover page: list of publications by Brandus, Dufour et C|i|e, at the bottom of this page: PARIS. ̶ IMPRIMERIE CENTRALE DE NAPOLÉON CHAIX ET C|e, 20, RUE BERGERE. ̶ 7374.
+@MARC-500a: Plate number for pf and vlc parts: p. 1-13; p. 1-3.
+@MARC-590a: pf, vlc
+@MARC-590b: 13, 3 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: pf, vlc
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 148
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 3-1-SM
+@MARC-6910: lit30025545
+@MARC-700a: Merk, Josef
+@MARC-700d: 1795-1852
+@MARC-700j: Ascertained
+@MARC-7000: pe89929
+@MARC-7004: dte
+@MARC-710a: G. Brandus, Dufour et Cie.
+@MARC-710g: Ascertained
+@MARC-7100: ks51000064
+@MARC-7104: pbl
+@MARC-710a: Brandus et Cie.
+@MARC-710g: Ascertained
+@MARC-7100: ks30080942
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Imprimerie Centrale des Chemins de Fer
+@MARC-7100: ks51000032
+@MARC-7104: prt
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 1681/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

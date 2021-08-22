@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001012549
+@MARC-003:	DE-633
+@MARC-005:	20210222101500.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: cl 2 in B|b
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: 4'B8''C4D8'B/{BA''D}4C8'B/4.BB/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: cl 2 in B|b
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2.''D{8C'B}/2.''G8{FE}/4DEDE/4.D8C4'B
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: cl 2 in B|b
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 2''D{8'BF}/{D,B'D,B'D,B}/{,B'EGB''EG}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Polo[nez]
+@MARC-031g: G-2
+@MARC-031m: cl 2 in B|b
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: {8.,B3(FGA)}{8BB}B-/{8.'C6,FGAB}{8'CC}C-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Partitas
+@MARC-240m: winds
+@MARC-240r: B|b
+@MARC-2400: 3900424
+@MARC-245a: [caption title, cl 2:] Parthia 6.
+@MARC-260c: 1800-1849
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 35,5 x 22 cm
+@MARC-3008: 01
+@MARC-500a: Other parts missing.
+@MARC-5008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-4)]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-561a: [pl-text: Na każdym głosie okrągła pieczęć: "* ARCHIVUM * C. M. C."]
+@MARC-590a: cl 2 in B|b, fag (incpl)
+@MARC-590b: 1, 1f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in B|b
+@MARC-590b: 1, 1f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: winds
+@MARC-594a: winds
+@MARC-599b: full
+@MARC-650a: Partitas
+@MARC-6500: 25199
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.2059
+@MARC-6910: lit1869
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-245
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

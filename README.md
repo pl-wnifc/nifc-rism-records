@@ -1,4 +1,4 @@
-# NIFC RISM entries #
+# NIFC RISM records #
 
 This repository contains RISM entries in the MarcXml format for
 NIFC related projects associated with Humdrum digital scores.  RISM

@@ -1,0 +1,124 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001013603
+@MARC-003:	DE-633
+@MARC-005:	20210121122633.0
+@MARC-028a: P. M. N-|o. 2178. 2723.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introduzione. Lento
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: ,8C,3{EFExF},3{GAGB}%G-2'{CDCxD}'3{EnFExF}'3'{GAGB}''3{CDCxD}''3{EnFExF}/''3{GAGB}'''3{CDCxD}'''3{EFExF}'''3{GAGB}''''8C8-4-/''4C'B''C'xG/2.A4-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Lento
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031o: c
+@MARC-031p: =1/2-4-%C-4,4G/'8{E3FExDE8xFG}{C3nDC,B'C8xDE}/,4.Aq'8Cr,6.{bB3A}4A4-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Alla Polacca. Allegro con spirito
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: 3/4
+@MARC-031p: {'8C8(,8(6GAB)}{'8C8(,6GAB)}{'8CD}/%G-2'8E{8(6'G,G'G)}'8E{8(6'G,G'G)}'8E{8(6'G,G'G )}/%F-4'8{E6EE}8{EEExD}/8{E6EE}8{EEEE}/%G-28{F6FF}8{FFEE/8{,B6'GG}8{GGGF}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Alla Polacca. Allegro con
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031o: 3/4
+@MARC-031p: =1/4--%C-48-G/4.G6{EF}{GAGxF}/8G6{CD}4.E6{FE}/8D,4G6{AB}'6{CDEF}/6{EDDxC}{EDDC}8E6{EF}/4.G
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Polonaises
+@MARC-240m: pf, vlc
+@MARC-240n: op. 3
+@MARC-240n: ChomTurC 148
+@MARC-240r: C
+@MARC-2400: 3900011
+@MARC-245a: INTRODUCTION | et | POLONAISE BRILLANTE | pour le | Pianoforte et Violoncelle | ou Violon | Dédiée à | MONSIEUR JOSEPH MERK | par | FRÉDÉRIC CHOPIN. | Propriété de l’Editeur. | Enregistré dans l’Archive de l’Union. | Oeuvre 3. [space] VIENNE, [below] chez Pietro Mechetti q–|m Carlo, [below] Place St–Michel N„|o 1153. [space] Prix fl 1.15 ,, A. de C.
+@MARC-260a: Vienne
+@MARC-260b: Pietro Mechetti quondam Carlo
+@MARC-260c: 1850-1855
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-300c: 33,0 x 25,5 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 3
+@MARC-500a: [pl-text: Strona 5 wysztychowana na nowo. Egzemplarz wydrukowany w ostatnim okresie działalności wydawnictwa prowadzonego przez wdowę po Pietro Mechettim, Teresę Mechetti do jej śmierci - 28 czerwca 1855 roku.]
+@MARC-500a: [pf part] TP engraved, p. [2] blank, p. 3-15 engraved, p. [16] blank.
+@MARC-500a: [vlc part] p. 1-3 engraved, p. [4] blank.
+@MARC-500a: Vl part missing.
+@MARC-500a: [pl-text: Na stronie tytułowej adnotacje ołówkiem: "ca 1836”; poniżej: "Orig. Ausg.!”; poniżej: "1’”; poniżej: "Albez Hbr (?) 19/2 86”.]
+@MARC-500a: [pf part heading]: Fr. Chopin Oeuvre 3; plate number: p. 3: Pietro Mechetti N-|o 2178. 2723., p. 4-15: P. M. N-|o 2178. 2723.
+@MARC-500a: [vlc part heading]: VIOLONCELLO. [space] Fr. Chopin. Oeuvre 3; plate number: p. 1: Pietro Mechetti N-|o 2178., p. 2-3: P. M. N-|o 2178.
+@MARC-500a: [pl-text: Strona poprzedzająca TP: pusta.]
+@MARC-506a: Treasury of the Library
+@MARC-5063: 51028056
+@MARC-590a: pf
+@MARC-590b: 15 p.
+@MARC-5908: 01
+@MARC-590a: vlc
+@MARC-590b: 3 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: pf, vlc
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Corrected issues
+@MARC-6500: 3902077
+@MARC-690a: ChomTurC
+@MARC-690n: 148
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 3-1a-ME
+@MARC-6910: lit30025545
+@MARC-700a: Merk, Josef
+@MARC-700d: 1795-1852
+@MARC-700j: Ascertained
+@MARC-7000: pe89929
+@MARC-7004: dte
+@MARC-710a: Pietro Mechetti quondam Carlo
+@MARC-710g: Ascertained
+@MARC-7100: ks40007345
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51028056
+@MARC-852c: 4101/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

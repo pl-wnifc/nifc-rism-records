@@ -1,0 +1,112 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001015050
+@MARC-003:	DE-633
+@MARC-005:	20210204110252.0
+@MARC-028a: S. 4392.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro agitato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: c/
+@MARC-031p: 1-/-/-/-/6-'6{GAG}{xxFG''CE}{DCDC}{'xB''CEG}/i/
+@MARC-031r: c|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Fantaisie-Impromptu
+@MARC-240m: pf
+@MARC-240n: op. 66
+@MARC-240n: ChomTurC 46
+@MARC-240r: c|x
+@MARC-2400: 4326009
+@MARC-245a: [Heading, p. 3:] FANTAISIE_IMPROMPTU | par | FRÉDÉRIC CHOPIN. | Œuvres posthumes. Livr. I. [space] Op. 66. | (vers 1834.) | PIANO.
+@MARC-260a: Berlin
+@MARC-260b: Adolph Martin Schlesinger
+@MARC-260c: [1855-1856]
+@MARC-260e: Berlin
+@MARC-260f: F. Nietack
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 31,5 x 25,5 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 66
+@MARC-500a: TP lithographed, p. [2] blank, p. 3-11 engraved, p. [12] blank, p. [13, 14] lithographed.
+@MARC-500a: Title page as title page of the series: ŒUVRES POSTHUMES | POUR LE | PIANO | DE | FRÉD. CHOPIN | PUBLIÉS SUR MANUSCRITS ORIGINAUX AVEC AUTORISATION | DE SA FAMILLE, | PAR JULES FONTANA. | 1|r|e LIVRAISON. [space] FANTAISIE-IMPROMPTU . . . . . . . . . . . . . . . ⅔ THLR. | [continued list of Chopin works] | LA COLLECTION COMPLÈTE | PRÉCÉDÉE D'UNE PRÉFACE PAR J. FONTANA ET ORNÉE D'UN PORTRAIT LITHOGR. PAR WALDOW D'APRÈS ARY SCHAFFER | PR. NET. 5 THLR. | PROPRIÉTÉE DES ÉDITEURS. [space] ENRÉGISTRÉ AUX ARCHIVES DE L’UNION. | BERLIN, CHEZ AD. MT. SCHLESINGER, 34 LINDEN. | PARIS | &amp; BRUXELLES, J. MEISSONNIER FILS. [space] | LONDRES, COPY-RIGHT, ENTERED AT STATIONERS HALL. | FIRENZE, G. G. GUIDI. [space] PETERSBOURG, DUFOUR &amp; Co. | S. 4392-4401. | DRUCK VON F. NIETACK IN BERLIN.
+@MARC-500a: TP: round stamp with initials "S P"; oval blind stamp "KSIĘGARNIA I SKŁAD NUT | R. FRIEDLEIN. | w WARSZAWIE | ULICA [residue cut off]"; inscription in pencil "[V 1855]".
+@MARC-500a: P. 3, bottom: Op.66. indique l’ordre chronologique de la publication.L’Editeur. [space] Berlin, Propriété de Ad. Mt. Schlesinger. | S. 4392..
+@MARC-500a: Plate number p. 3-11: S. 4392.
+@MARC-500a: Last two p. [13-14], without numbering: comentary of Julian Fontana.
+@MARC-506a: Treasury of the Library
+@MARC-590a: pf
+@MARC-590b: 11 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Impromptus
+@MARC-6500: 25590
+@MARC-650a: Fantasies
+@MARC-6500: 25185
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 46
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 66–1-Sam
+@MARC-6910: lit30025545
+@MARC-700a: Fontana, Julian
+@MARC-700d: 1810-1869
+@MARC-700j: Ascertained
+@MARC-7000: pe30108218
+@MARC-7004: edt
+@MARC-710a: Adolph Martin Schlesinger
+@MARC-710g: Ascertained
+@MARC-7100: ks40009753
+@MARC-7104: pbl
+@MARC-710a: J. Meissonnier et fils
+@MARC-7100: ks30080864
+@MARC-7104: pbl
+@MARC-710a: Stationers' Company
+@MARC-7100: ks51000340
+@MARC-7104: oth
+@MARC-710a: Guidi
+@MARC-7100: ks51000047
+@MARC-7104: dst
+@MARC-710a: Dufour &amp; Co.
+@MARC-7100: ks51000339
+@MARC-7104: dst
+@MARC-710a: F. Nietack
+@MARC-710g: Ascertained
+@MARC-7100: ks51000347
+@MARC-7104: prt
+@MARC-710a: R. Friedlein
+@MARC-7100: ks51000092
+@MARC-7104: bsl
+@MARC-7104: dst
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 4376/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001003233
+@MARC-003:	DE-633
+@MARC-005:	20201029223407.0
+@MARC-028a: B. et C=|i|e. 4609.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGDAE
+@MARC-031o: 6/8
+@MARC-031p: 4-8-''2.G8E{GFG}/{FEF}{D'B}''E{DCD}{'B''DC}/['{BAB}{GBA2-/1-/1-/4-8-''4.C+8{C'xB''C}q8Er8{DC'A}/''8{F'A''D}{C'FB}2A/''8F
+@MARC-031q: in one before last bar: half-note 'A ought to be dotted. Dot missing
+@MARC-031r: F|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Barcarolles
+@MARC-240m: pf
+@MARC-240n: op. 60
+@MARC-240n: ChomTurC 6
+@MARC-240r: F|x
+@MARC-2400: 3910189
+@MARC-245a: Barcarolle | POUR | PIANO | dédiée à M.|m|e | la Baronne de Stockhausen | PAR | F. CHOPIN | OP. 60. [space] PR: 7.|f 50 | A. Vialon. | PARIS, | Maison M.|C|E SCHLESINGER, BRANDUS et C.|I|E Successeurs, Rue Richelieu, 97. | Leipzig, Breitkopf et Hartel. [space] B. et C.|I|E 4609. [space] Londres, Wessel et C.|I|E
+@MARC-260a: Paris
+@MARC-260b: Brandus et Cie
+@MARC-260c: [1847-1851]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 33,0 x 27,0 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 60
+@MARC-500a: TP engraved, p. [ii] blank, p. 1-11 engraved, p. [12] blank.
+@MARC-500a: TP: publisher's signature stamp "Brandus et Cie".
+@MARC-500a: Heading, p. 1: BARCAROLLE | de | F. CHOPIN. | Op : 60.
+@MARC-500a: Plate number p. 1, 11: B. et. C=|i|e. 4609. [space] Brandus. et. C=|i|e. 97. rue Richelieu.; p. 2-10: B. et. C=|i|e. 4609.
+@MARC-561a: Treasury of the Library
+@MARC-590a: pf
+@MARC-590b: 11 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Barcarolles (inst.)
+@MARC-6500: 25596
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 6
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 60-1-BR
+@MARC-6910: lit30025545
+@MARC-700a: Stockhausen, Clotilde von
+@MARC-700d: 1818-1891
+@MARC-700j: Ascertained
+@MARC-7000: pe30114209
+@MARC-7004: dte
+@MARC-710a: Brandus et Cie.
+@MARC-710g: Ascertained
+@MARC-7100: ks30080942
+@MARC-7104: pbl
+@MARC-710a: Maurice Schlesinger
+@MARC-7100: ks30080936
+@MARC-7104: pbl
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 2065/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

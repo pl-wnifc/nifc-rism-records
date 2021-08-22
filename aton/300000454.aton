@@ -1,0 +1,125 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000454
+@MARC-003:	DE-633
+@MARC-005:	20210327105756.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: cl 1 in B|b
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4'B/{8''EGFD}{EGFD}/{EG}2'B4A/{8GB}2G4F/{8EG}2C4,A/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Menuetto.
+@MARC-031g: G-2
+@MARC-031m: cl 1 in B|b
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: {8.8.''E3DE}4GE/DE4-{8.'Bn3AB}4''C'E/DE
+@MARC-031q: [pl-text: Oryginalnie brakuje kreski taktowej]
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: cl 1 in B|b
+@MARC-031n: bBEA
+@MARC-031o: 3/8
+@MARC-031p: {8B''C'B}/{AG}-/4.E/{8E''C'B}/{G''AG}/4F8E/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: cl 1 in B|b
+@MARC-031n: bBEA
+@MARC-031o: 6/8
+@MARC-031p: 4''4E8E{EEE}/4G8E4G8E/4F8F{FFF}/4A8F4A8F/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Haydn, Joseph
+@MARC-100d: 1732-1809
+@MARC-100j: Alleged
+@MARC-1000: pe55803
+@MARC-240a: Partitas
+@MARC-240m: cl (2), fag, cor (2)
+@MARC-240n: Hob deest
+@MARC-240r: E|b
+@MARC-2400: 3900424
+@MARC-245a: [cover title:] Partsia in Dis | Clarinetto Primo | Clarinetto Secundo | Cornuis Primo | Cornuis Secundo | con | Fagotto | Syg. Hayden | Joseph Hornich. | Serafin Nahominka
+@MARC-260c: 1790-1800 (18.ex)
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 22 x 18 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f. 1r okładki: w prawym górnym rogu czarnym tuszem "N: 14."; poniżej w centrum ołówkiem ręką nieznanego Paulina "N|o 37"; po prawej ołówkiem ręką W. Świerczka "410" w owalnym kółku]
+@MARC-500a: [pl-text: Na f. 1v okładki zapisany fragment nutowy prawdopodobnie w partii skrzypiec]
+@MARC-500a: [pl-text: Na f. 1r partii fag obliczenia matematyczne zapisane czarnym tuszem, notatki ołówkiem "+ sztywnienie[?]" oraz ciąg liczb]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-8)]
+@MARC-500a: [pl-text: Konkordancja RISM ID 450027263 (D-Rtt Sammelband 8), gdzie autorem jest Johann Karl Christian Fischer]
+@MARC-561a: [pl-text: Na f. 1r okładki oraz na każdym głosie okrągła pieczęć: "* ARCHIVUM * C. M. C."]
+@MARC-590a: cl 1, 2 in B|b , fag
+@MARC-590b: 2, 2, 2f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in E|b
+@MARC-590b: 1, 1f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: cl (2), fag, cor (2)
+@MARC-599b: full
+@MARC-650a: Partitas
+@MARC-6500: 25199
+@MARC-650a: Quintets (inst.)
+@MARC-6500: 3000033
+@MARC-690a: Hob
+@MARC-690n: deest
+@MARC-6900: lit40
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.563
+@MARC-6910: lit1869
+@MARC-700a: Nahominke, Serafin
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30097147
+@MARC-7004: scr
+@MARC-700a: Hornich, Joseph Johann
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30040597
+@MARC-7004: fmo
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-852a: PL-CZ
+@MARC-852d: N 14
+@MARC-852d: N|o 37
+@MARC-852d: 410
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-33
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

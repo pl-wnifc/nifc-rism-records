@@ -1,0 +1,117 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035312
+@MARC-003:	DE-633
+@MARC-005:	20210627224539.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4'DFA8-F/{8GAB''C}4D-/q8G{3FE8.F}{8FF}4E-/q8A{3GF8.G}{8GG}4F-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 4.'A{3''D6.C}{6C'BxAB}8B-/4.B{3''E6.D}{6DC'xB''C}8C-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: 4''D^'D8''F/4''F^'A^'D8''A/{8''A^'A'''D''B}/4''A^'A8''F/{F6GFGE}/4A8F/{F6GFGE}/4A8'A/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Naumann, Johann Gottlieb
+@MARC-100d: 1741-1801
+@MARC-100j: Ascertained
+@MARC-1000: pe90691
+@MARC-240a: Solimano
+@MARC-240k: Excerpts
+@MARC-240n: OttN D7
+@MARC-2400: 3905287
+@MARC-245a: [cover title:] Synphonia toni D | Violino 1mo | Violino 2do | Oboi 1ma | Oboi 2da | Tuba 1ma | Tuba 2da | Cornu 1mo | Cornu 2do | Alto Viola 1ma Andante 2da | &amp; | Fundamento | Authoro Del Sig Naumann
+@MARC-260c: 1773-1830
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 34 (17) x 22 (22) cm
+@MARC-3008: 01
+@MARC-500a: In the second movement vla 2 part written in a second staff on vla 1 part f. 2r.
+@MARC-5008: 01
+@MARC-500a: "Tuba 1ma" and "tuba 2da" on the title page refer to the tuba marina, also called tromba marina, a stringed instrument used as a substitute for trumpets.
+@MARC-500a: Composer identified on the basis of RISM ID: 540002785, 600172684, 212008866 and others.
+@MARC-590a: vl 1, 2, vla 1, 2
+@MARC-590b: 2, 2, 2, 1 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor in D 1, 2, tuba in D 1, 2
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tuba marina
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), a-vla (2), ob (2), cor (2), tuba marina (2), b
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Overtures
+@MARC-6500: 25196
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-690a: OttN
+@MARC-690n: D7
+@MARC-6900: lit467
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 274
+@MARC-6910: lit1891
+@MARC-691a: Walter-MazurZ 2017
+@MARC-691n: p. 51-52
+@MARC-6910: lit41001853
+@MARC-730a: Symphony
+@MARC-730g: RISM
+@MARC-730m: orch, b
+@MARC-730r: D
+@MARC-7300: 3993700
+@MARC-730a: Ouverture
+@MARC-730g: RISM
+@MARC-7300: 3922160
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 239/A VI 43
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

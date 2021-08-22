@@ -1,0 +1,47 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001076870
+@MARC-003:	DE-633
+@MARC-005:	20200722101151.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: keyb
+@MARC-031o: c/
+@MARC-031p: 6{''DEDC}{'B''CD'B}{''CDC'B}{AB''C'A}/{'B''C'BA}{GABG}{ABAG}{FGAF}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Prelude
+@MARC-240m: keyb
+@MARC-2400: 3966232
+@MARC-245a: [caption title:] Praeludium
+@MARC-300a: 1 part
+@MARC-300c: 19 x 15,5 cm
+@MARC-3008: 01
+@MARC-590a: keyb
+@MARC-590b: f. 19v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard pieces
+@MARC-6500: 3000134
+@MARC-650a: Preludes
+@MARC-6500: 25204
+@MARC-773w: 1001076163
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: L 1636
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300605196
+@MARC-003:	DE-633
+@MARC-005:	20201029164031.0
+@MARC-028a: S. 4647.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: '8.{B6B8B}''8.{C'6B8A}/q'8B''2.E/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Meno moso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: =16/'8{AE''C}'8{AF''D}/'8{BF''D}'8{BG''E}/''8{C'G''E}''8{C'A''F}/''4.bF4-8-/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Meno moso
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: =16/'4A8A4G8F/'4B8B4A8G/''4C''8C'4B'8A/''4(D)4-8-/
+@MARC-031r: A|b
+@MARC-031t: Rży móy gniady ziemię grzebie puśćcie czas już czas
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Wojak
+@MARC-240m: V, pf
+@MARC-240n: op. 74/10
+@MARC-240n: ChomTurC 138
+@MARC-240r: A|b
+@MARC-2400: 3928765
+@MARC-245a: WOJAK, Piosnka Sielska Stef. Witwickiego, Muzyka FRYD|K|A|. CHOPIN. | LE GUERRIER. | N.|o. 10. | CANTO. 1830.
+@MARC-300a: p. 31-33
+@MARC-3008: 01
+@MARC-383b: op. 74/10
+@MARC-500a: At the bottom of the p. 31: Warszawa Nakład i Własność G. Gebethnera i Spółki. [space] S. 4647. [space] Berlin, Verlag und Eigenthum der Schlesinger'schen Buch-und Musikhandlung.
+@MARC-520a: No. 10
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Lieder
+@MARC-6500: 25227
+@MARC-690a: ChomTurC
+@MARC-690n: 138
+@MARC-6900: lit30000031
+@MARC-700a: Witwicki, Stefan
+@MARC-700d: 1801-1847
+@MARC-700j: Ascertained
+@MARC-7000: pe30048733
+@MARC-7004: lyr
+@MARC-730a: Le guerrier
+@MARC-730g: RISM
+@MARC-7300: 4321902
+@MARC-773w: 300605186
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 963/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

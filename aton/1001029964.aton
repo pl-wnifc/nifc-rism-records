@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001029964
+@MARC-003:	DE-633
+@MARC-005:	20210627213908.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o poco
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: =4/4-8,G6AB'CCDE8D{6EF}/8EC4-2-/4-8,G6AB'CCDE8D{6EF}/
+@MARC-031r: C
+@MARC-031t: Oderit me totus mundus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: All[egr]o poco
+@MARC-031g: G-2
+@MARC-031m: vl unisono
+@MARC-031o: c/
+@MARC-031p: 4-{8G6AB}{8''C6DE}{8D6EF}/{8EC}{6GEDC}8'{B''C}{AC}/4'B{8''G6FE}{8.A6A}{8G6AG}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Brentner, Johann Joseph Ignaz
+@MARC-100d: 1689-1742
+@MARC-100j: Ascertained
+@MARC-1000: pe30000477
+@MARC-240a: Oderit me totus mundus
+@MARC-240m: S, vl, org
+@MARC-240n: 3/11
+@MARC-240n: Brk 66
+@MARC-240r: C
+@MARC-2400: 53371
+@MARC-245a: [title page:] Aria | De Tempore. | a | Canto Solo | Violino Unisono. | Auth: Sig:re Josepho Brendner [!]
+@MARC-260c: 1718-1749
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-300c: 20,5 x 16,5 cm
+@MARC-3008: 01
+@MARC-383b: 3/11
+@MARC-500a: Cover made of folded folio with T part written on the inner side.
+@MARC-5008: 01
+@MARC-590a: T solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl unisono
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl unisono
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, vl unisono, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-657a: De Tempore
+@MARC-6570: 24549
+@MARC-690a: Brk
+@MARC-690n: 66
+@MARC-6900: lit50005911
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 251-252, 273
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 262/A VII 22
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

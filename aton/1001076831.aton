@@ -1,0 +1,125 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001076831
+@MARC-003:	DE-633
+@MARC-005:	20210711175129.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: 8G^,B--/'F^,A--/''C^'F--/B^G--/{''G^'B^D''DD}/4D{6C'A}/{8''G^'B^D''DD}/4D{6C'A}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Menuetto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2''G({8AGF})/4GDxD/2E({8GFE})/4D--/({8CDC})4A-/({8'B''C'B})4''G-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c/
+@MARC-031p: {6'''C''G}/{8GG}{8GqB6A3GF}4E{8E6F3ED}/6.3{CEG'''C}q8''G4FE-/8-{CCC}{6'B''3CD8C}4-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Menuet
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 4.'G8A4B/q8B4''C'AA/q8A4BB{8.x''C3'B''C}/2D4-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 4''G^'D^B^,G{6'GFGA}/{8GGGG}/{''Ct'B''EtD}/{Ct'B}4-/4''G^'D^B^,G{6'GFGA}/{8GGGG}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Haydn, Joseph
+@MARC-100d: 1732-1809
+@MARC-100j: Ascertained
+@MARC-1000: pe55803
+@MARC-240a: Quartet (inst.)
+@MARC-240m: vl (2), vla, b
+@MARC-240n: op. 1 no. 4
+@MARC-240n: Hob III:4
+@MARC-240r: G
+@MARC-2400: 50254649
+@MARC-245a: [title page:] Cassatio in G | a 4 Vocibus | Violino Primo | Violino 2do | Alto Viola | et Basso | Del Seg: Hayden
+@MARC-260c: 1773-1799
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 39,5 x 24 cm
+@MARC-3008: 01
+@MARC-383b: op. 1 no. 4
+@MARC-500a: Inscription "Ex Rebus J. Nobiszowska | Mancipij MARIAE | mpp" at the bottom of the title page.
+@MARC-590a: vl 1, 2, vla, b
+@MARC-590b: 2, 2, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, b
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-690a: Hob
+@MARC-690n: III:4
+@MARC-6900: lit40
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 275
+@MARC-6910: lit1891
+@MARC-700a: Nobiszowska, Teresa
+@MARC-700d: 1733c-1801
+@MARC-700j: Conjectural
+@MARC-7000: pe41010075
+@MARC-7004: fmo
+@MARC-700a: Copyist H from Sandomierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe50046408
+@MARC-7004: scr
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Conjectural
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-730a: Cassatio
+@MARC-730g: RISM
+@MARC-7300: 3917167
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 9/A I 9
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

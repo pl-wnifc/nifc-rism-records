@@ -1,0 +1,132 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300605120
+@MARC-003:	DE-633
+@MARC-005:	20201029164028.0
+@MARC-028a: T. H. 5489.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: INTRODUZIONE. Largo
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =1/'4D8.{D6nE}4FD/'4B8.{B''6C}''4DC/''2C(4C)8-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =8/8-4-'4Btqq'6{AB}rq8B''8{B6AG}/''2Ftqqqqqq{''6nEFAGFbE}r''8D8-6{EDC'A}/''4C'8B6-'6nBqq'6{B''C}r''4Ct''8.{D6E}/''2D4C4-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: THEMA. Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: '8F/'8{B6.B3''C}8{D'B}/'8G''4.C/'8{A6.A3A}8{B''C}/'8F''8{EDC}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Variations
+@MARC-240m: pf, orch
+@MARC-240n: op. 2
+@MARC-240n: ChomTurC 225
+@MARC-240r: B|b
+@MARC-2400: 3900139
+@MARC-245a: ”La ci darem la mano” | VARIÉ | pour le | PIANO-FORTE | avec accompagnement d’Orchestre | dedié | à M|r Titus Woyciechowski | par | Frédéric Chopin. | Oeuvre 2. | N„|o 5489. [space] Propriété de l’Editeur. [space] Prix f 4._C.M. [below] &amp; 2.16 gr. | * | Vienne, chez Tobie Haslinger, | Editeur de Musique, | dans la maison de la caisse d’épargne, | sur le Graben N=|o 572. [in series: ”Lieferung 27 de l'Odeon, Ausgewählte grosse Concert-Stücke für verschiedene Instrumente”]
+@MARC-260a: Wien
+@MARC-260b: Tobias Haslinger
+@MARC-260c: [1830]
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-300c: 30,5 x 24,5 cm
+@MARC-3008: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 2
+@MARC-500a: [pf part] TP engraved, p. [ii] blank, p. 1-25 engraved, p. [26] blank; [timpani part] p. 1 engraved, p. 2 blank.
+@MARC-500a: Decorative front page: with name of the series "Odeon" incorporated into the ornament [below ornament] | te Lieferung: | Wien, by Tobias Haslinger, | Musikverlager, | am Graben, Sparkasse N.|o 572.
+@MARC-500a: Inscription in ink: "27", proceding "te | Lieferung".
+@MARC-500a: Timpani part bound with piano part, as last page without number.
+@MARC-500a: Comment on scoring: Incipits of instrumental parts and orchestra tutti included in piano part (by smaller notes).
+@MARC-500a: Plate number pf: p. 1: (5489.) | Eigenthum u. Verlag von Tobias Haslinger in Wien.; p. 2-8: T.H. 5489; plate number for timpani part: T.H. 5489.
+@MARC-500a: Other parts missing.
+@MARC-590a: pf, timp
+@MARC-590b: 25, 1 p.
+@MARC-5908: 01
+@MARC-592a: TP: "J. G. S."
+@MARC-5928: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: iSol: pf
+@MARC-594c: 1
+@MARC-594b: timp
+@MARC-594c: 2
+@MARC-594a: iSol: pf, timp (2)
+@MARC-599b: full
+@MARC-650a: Variations
+@MARC-6500: 25218
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: First issues
+@MARC-6500: 3902075
+@MARC-650a: Duets (voc.)
+@MARC-6500: 25167
+@MARC-690a: ChomTurC
+@MARC-690n: 225
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 2-1-HAt
+@MARC-6910: lit30025545
+@MARC-691a: HofmeisterMLM
+@MARC-691n: 1830, p. 69
+@MARC-6910: lit30022732
+@MARC-700a: Mozart, Wolfgang Amadeus
+@MARC-700d: 1756-1791
+@MARC-700j: Ascertained
+@MARC-7000: pe115324
+@MARC-7004: cmp
+@MARC-700a: Woyciechowski, Tytus Sylwester
+@MARC-700d: 1808-1879
+@MARC-700j: Ascertained
+@MARC-7000: pe30108214
+@MARC-7004: dte
+@MARC-710a: Tobias Haslinger
+@MARC-710g: Ascertained
+@MARC-7100: ks40535
+@MARC-7104: pbl
+@MARC-730a: Don Giovanni
+@MARC-730g: RISM
+@MARC-730k: Excerpts
+@MARC-730o: Var
+@MARC-7300: 3901918
+@MARC-730a: Là ci darem la mano
+@MARC-730g: RISM
+@MARC-730o: Var
+@MARC-7300: 3923763
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 1107/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

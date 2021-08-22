@@ -1,0 +1,105 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001056491
+@MARC-003:	DE-633
+@MARC-005:	20191104105106.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: '''4.D+8{D''FG}/{ADE}{F'A''D}/'4.D4-8-/1-/1-/1-/''4.A+8{ACD}/{E'AnB}{''C'EA}/,4A8--''{DE}/2.C/xF/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante con variazioni
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: ''6.{A3G6.F3E}8{FG}/8..{C3DE}6.{F3C6.F3A}/'''8.{C''3B6.A3G}8{FG}/4AB}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Minuetto alla masovienne. Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: '8.{D6E}4FG}/2A8.{B''6C}/8.{D6E}4FG/2A+8.{A6G}/8.{F6E}4D8.{C'6B}/2xAtqq6{xGA}r8.{B6nA/8.{xG6A}4B''C/'A--/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Finale. Vivace
+@MARC-031g: C-3
+@MARC-031m: vla
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: '2'F4ED/2E-/2D4C,A/'2C-/ ,2B4AG}/AGFE/1D/(E)/8{Dqq6{DC}r,,8B,DF}{,Ax'CDF}/{AxFAE}{nCEC,A}/
+@MARC-031q: solo
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Dobrzyński, Ignacy Feliks
+@MARC-100d: 1807-1867
+@MARC-100j: Ascertained
+@MARC-1000: pe30020642
+@MARC-240a: Quartets (inst.)
+@MARC-240m: vl (2), vla, vlc
+@MARC-240n: op. 8
+@MARC-240r: d
+@MARC-2400: 4337233
+@MARC-245a: Quartetto | pour | Deux Violons, Alto et Violoncelle | par | I. Dobrzyński | Oeuv. 8 | Varsovie 1829. [at the top of the page: composer's notes:] Motto [illegible], No.48 Erhalten den 6ien Mai 1839. K. Ferd. Heckel.
+@MARC-260c: 1829
+@MARC-2608: 01
+@MARC-300a: score, 1 part
+@MARC-300c: 34,5 x 24,0 cm
+@MARC-3008: 01
+@MARC-383b: op. 8
+@MARC-500a: Source after maintenance. Dark blue-violet cardboard cover and title page separating the musical text: added. Cover, side 2, bottom: sticker "Obiekt poddany konserwacji w 2009 r. ze środków | Ministra Kultury i Dziedzictwa Narodowego; p [1]: title added "Ignacy Feliks Dobrzyński | Kwartet nr 2 d-moll Op.8 | Partytura. | Autograf, [ok. 1838, Data skomponowania 1829]"; p. [2]: blank.
+@MARC-500a: Musical text: original title page: unnumbered; next pages one-side numbered; TP: stamp with shelfmark olim "7549"; p. [1], heading: Quartetto; p. 2: round stamp: "MUSIKVEREIN | [logo] | MANHEIM 1829".
+@MARC-590a: score
+@MARC-590b: 16p.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-691a: KmBN
+@MARC-691n: 395
+@MARC-6910: lit41001694
+@MARC-691a: DobrzyńskiI
+@MARC-691n: 160
+@MARC-6910: lit41001788
+@MARC-700a: Heckel, Karl Ferdinand
+@MARC-700d: 1800-1870
+@MARC-7000: pe30083416
+@MARC-7004: oth
+@MARC-710a: Musikverein Mannheim
+@MARC-710g: Ascertained
+@MARC-7100: ks30079827
+@MARC-7104: oth
+@MARC-852a: PL-Wtm
+@MARC-852d: 7548
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1141 (1)
+@@END:		MARC21
+

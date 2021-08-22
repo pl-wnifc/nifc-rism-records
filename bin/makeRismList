@@ -14,14 +14,18 @@
 use strict;
 use Getopt::Long;
 
-my $popc2dir = "../popc2-transkrypcje/krn-diplomatic/out";
-my $popc1dir = "../chopin-bitbucket/kern";
+my $popc2dir;
+my $popc1dir;
 
 Getopt::Long::Configure("bundling");
 GetOptions (
    'popc1=s' => \$popc1dir,
    'popc2=s' => \$popc2dir
 );
+
+$popc2dir = "../production-polish-songs/krn-diplomatic/out" if $popc2dir =~ /^\s*$/;
+$popc1dir = "../production-chopin-first-editions/kern"      if $popc2dir =~ /^\s*$/;
+
 
 my $output;
 $output .= getRismIds("POPC1", $popc1dir);

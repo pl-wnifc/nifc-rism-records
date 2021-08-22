@@ -1,0 +1,99 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001056519
+@MARC-003:	DE-633
+@MARC-005:	20191104105045.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro espressivo e moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: '2.E/''E/4E8{xDEFG}/4.A8{FBA}/{GFEDC'B/2.A/''4.D8{C'AF}/4ExDB/''4.A8{AGF2}/E
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Scherzo. Allegro vivace ma non troppo presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: '8{EGB''E}{GB}/'''4E--/'8{GB''EGB'''E}/4G--/ 8{GE''BG'''E''B}/{GE'BG}{FE}/4ExDD/xD--/,8{B'xDFB}{''xDF}/4B--/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio molto espressivo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: 1-/-/'4G8{EC}/''8.{E'6B}''6{DC'EA}/4G8F-/4F,A/G''F+/8(6{FxCD};3)6{F'xAB}''{D'xFG}3{ADGnF}/4xD8E-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Finale. Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: '8{ExDE}{GFE}/4B-/ '8{ExDE}{GFE}/,4B-/ '8{ExDE}{GFE}/{FB''D}{FFF}/{FFF}{FxCD}/ '(4B)''8B(-)/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Dobrzyński, Ignacy Feliks
+@MARC-100d: 1807-1867
+@MARC-100j: Ascertained
+@MARC-1000: pe30020642
+@MARC-240a: Quartets (inst.)
+@MARC-240m: vl (2), vla, vlc
+@MARC-240n: op. 7
+@MARC-240r: e
+@MARC-2400: 4337233
+@MARC-245a: Quartetto | pour | Deux Violons, Alto et Violoncelle | dédié | à Son ami Auguste Zimmermann | Membre de la Chapelle de S. M. Roi de Prusse | composé | par | I. Dobrzyński | Oeuv.7
+@MARC-260c: ca. 1836
+@MARC-2608: 01
+@MARC-300a: score, 1 part
+@MARC-300c: 27,0 x 34,5 cm
+@MARC-3008: 01
+@MARC-383b: op. 7
+@MARC-500a: Source after maintenance. Beige cardboard cover and pages separating the musical text: added. Cover, side 2, bottom: sticker "Obiekt poddany konserwacji w 2009 r. ze środków | Ministra Kultury i Dziedzictwa Narodowego; p [1, 2,4]: blank; p. [3]: TP, title added "Ignacy Feliks Dobrzyński | Kwartet nr 1 e-moll Op.7 | Partytura. | Autograf, [ok.1836]
+@MARC-500a: Musical text: original title page [1]: stamp with shelfmark olim "7549"; rectangular red stamp "Wartość muzealna"; p. [2], heading: Quartetto [space] I. Dobrzyński; pages one-side numbered (recto).
+@MARC-590a: score
+@MARC-590b: 24p.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-691a: KmBN
+@MARC-691n: 394
+@MARC-6910: lit41001694
+@MARC-691a: DobrzyńskiI
+@MARC-691n: 159
+@MARC-6910: lit41001788
+@MARC-700a: Zimmermann, August
+@MARC-700d: 1810-1891
+@MARC-7000: pe41014720
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852d: 7549
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1140 (1)
+@@END:		MARC21
+

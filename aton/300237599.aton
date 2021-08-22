@@ -1,0 +1,131 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300237599
+@MARC-003:	DE-633
+@MARC-005:	20201029163714.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 6/8
+@MARC-031p: '4G/{''8C'G''C}{8.E6D8C}/{8D'A''D}{'BAB}/{''CCC}4C8-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 6/8
+@MARC-031p: 8-/=2/4-8-4-'8G/{''CDE}'4G''8C/4C{'6BA}4A8-/''{8DEF}'4B
+@MARC-031r: C
+@MARC-031t: Paratum cor meum Deus, paratum cor meum cantabo et psallam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Boguński, Baltazar
+@MARC-100d: 1762-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe30024257
+@MARC-240a: Paratum cor meum Deus
+@MARC-240m: V (2), orch
+@MARC-240r: C
+@MARC-2400: 3021255
+@MARC-245a: [cover title:] Duetto | [later added in pencil:] "Paratum cor" | Canto, Tenore. | Violino I=|m|o et II=|d|o | Clarinetto I=|m|o et II=|d|o | Cornu I=|m|o et II=|d|o | Flauto | Clarino obligatt. | Viola. | Tympani | Basso. | Auth. B. Bogimski. | [bottom right:] Comparatum A.D. 1838. | tempore Sacristianatus | Pris Lucae Grządzielski
+@MARC-260c: before 1838
+@MARC-2608: 01
+@MARC-300a: 13 parts
+@MARC-300c: 40 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Głosy przechowywane w białej papierowej okładce (obwolucie) na takim samym papierze, jak cały rękopis; karta tytułowa na f. 1r]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: Na górze po prawej ołówkiem ręką nieznanego Paulina N=|o 34 skreślona; póżniejsza poniżej czerwonym atramentem ręką F. Maletza "N 851/151."; późniejsza wyżej z prawek ołówkiem ręką W. Świerczka "251 w kółku]
+@MARC-500a: [pl-text: Okrągła pieczeć "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki oraz f. 1r wszystkich głosów z wyjątkiem T i vl 2]
+@MARC-500a: [pl-text: Tytuł na f. 1r okładki przekreślony niebieskim ołówkiem i opatrzony parafą]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-13]
+@MARC-500a: [pl-text: Utwór w MaletzC 1898 zapisany pod numerem 850/151 według incipitu tenorowego "Et psalmam in gloria"]
+@MARC-590a: Solo: S, T
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla, b
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: fl, cl 1, 2 in C
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in C, tr obl in C
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: timp in E and G
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-592a: [partial:] W (crowned)
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl in C
+@MARC-594c: 2
+@MARC-594b: cor in C
+@MARC-594c: 2
+@MARC-594b: tr obl in C
+@MARC-594c: 1
+@MARC-594b: timp in E and G
+@MARC-594c: 1
+@MARC-594a: S, T, vl 1, vl 2, vla, b, fl, cl in C (2), cor in C (2), tr obl in C, timp in E and G
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 79
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 21, no. 850/151
+@MARC-6910: lit1887
+@MARC-700a: Grządzielski, Łukasz
+@MARC-700d: 1795-1866
+@MARC-7000: pe30040496
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Klose, Karol
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30040495
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N=|o 34
+@MARC-852d: N 851/151
+@MARC-852d: 251
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-40
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

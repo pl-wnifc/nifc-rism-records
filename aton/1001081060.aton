@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001081060
+@MARC-003:	DE-633
+@MARC-005:	20200514103500.0
+@MARC-028a: 114
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Polonoise
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: '4G8xF-4-/A8G-4-/8{B6BB}8{BB}{''C'B}/{ABAB}4A/%F-4,,,{3G,,G}8({,3GB'D};3)%G-28({3GB''D};3){GB}'''4D+6{D''BAG}/{BAxGA}2A/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Polonaises
+@MARC-240m: pf
+@MARC-240n: ChomTurC 161
+@MARC-240r: g
+@MARC-2400: 3900011
+@MARC-245a: Polonoise | pour | le Piano=Forte | Dediée | à Son Excellence Mademoiselle la Comtesse | Victoire Skarbek | faite | par Frédéric Chopin | Musicien agé de huit Ans. | a VARSOVIE Chez Labbé J. J. Cybulski a la’ Nouvelle Ville dans la Maison de’ Cure de Notre Dâme. N|r= 1882.
+@MARC-260a: Varsovie
+@MARC-260b: Cybulski, Izydor Józef
+@MARC-260c: 191711--
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 24,0 x 39,0 cm.
+@MARC-3008: 01
+@MARC-500a: Page [1]:TP
+@MARC-5008: 01
+@MARC-500a: Musical text: p. 2-3, p. [4]: blank
+@MARC-5008: 01
+@MARC-500a: Heading p. 2: Polonoise
+@MARC-5008: 01
+@MARC-500a: Footline p. 2, 3: » 114
+@MARC-5008: 01
+@MARC-506a: Treasury of the Fryderyk Chopin Museum in Warsaw
+@MARC-5063: 51006100
+@MARC-561a: Purchase: 1959
+@MARC-5613: 51006100
+@MARC-590a: pf
+@MARC-590b: 4p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-690a: ChomTurC
+@MARC-690n: 161
+@MARC-6900: lit30000031
+@MARC-691a: ACO Chopin
+@MARC-691n: PolGm–1-CY
+@MARC-6910: lit41000057
+@MARC-700a: Skarbek, Wiktoria
+@MARC-700d: 1791-1828
+@MARC-7000: pe41012192
+@MARC-7004: dte
+@MARC-710a: Izydor Józef Cybulski
+@MARC-7100: ks51001625
+@MARC-7104: pbl
+@MARC-852a: PL-Wnifc
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51006100
+@MARC-852c: M/375
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

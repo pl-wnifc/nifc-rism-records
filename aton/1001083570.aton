@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001083570
+@MARC-003:	DE-633
+@MARC-005:	20210601132519.0
+@MARC-028a: 3079
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto. moderatissimo.
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: =8/{''8C6FA}gA{6.3GxFGnE}/{8nF(6FnED)}{8DC}/{''8C6FA}gA{6.3GxFGnE}
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto. moderatissimo.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: {6.3DFB''C}{8D6C'B}/{6.3A''CEF}{6qEqF}{866GFE}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Szymanowska, Maria
+@MARC-100d: 1789-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe140138
+@MARC-240a: Divertissement pour le pianoforte
+@MARC-240m: vl, pf
+@MARC-240r: B|b
+@MARC-2400: 5213924
+@MARC-245a: DIVERTISSEMENT | Pour le Pianoforte | avec Accompagnement de Violon | composé et dédié | à Mademoiselle Marie de Lang | par | M.|m|e Marie Szymanowska | née Wołowska. | Troisième Livraison.
+@MARC-260a: [s.l.]
+@MARC-260b: [s.n.]
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 26 x 34 cm
+@MARC-3008: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl, pf
+@MARC-599b: full
+@MARC-650a: Divertimentos
+@MARC-6500: 25162
+@MARC-700a: Lang, Marie de
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30113048
+@MARC-7004: dte
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-8523: 51006505
+@MARC-852c: mzk/m/126
+@@END:		MARC21
+

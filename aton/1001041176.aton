@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041176
+@MARC-003:	DE-633
+@MARC-005:	20210705110854.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c/
+@MARC-031p: =5/2-4.''E6{(FED)}/4'AA{''8DF}{ED}/{DC}4C'4.B8''C/4'G{8A''D}4C{8.6'BA}/
+@MARC-031r: A
+@MARC-031t: Ave verum corpus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 6{'EAGA}{''C'AGA}{'EAGA}{''C'AGA}/{EBAB}{''D'BAB}{EBAB}{''D'BAB}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Ave verum corpus
+@MARC-240m: S, vl (2), org
+@MARC-240r: A
+@MARC-2400: 3900682
+@MARC-245a: [S caption title:] Concerto 4to De Corpore Christi
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: vl 2 part missing
+@MARC-5008: 01
+@MARC-590a: S solo
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-590a: vl 1
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), org
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 268
+@MARC-6910: lit1891
+@MARC-773w: 1001041168
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 81/A II 21
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

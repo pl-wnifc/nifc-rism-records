@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041153
+@MARC-003:	DE-633
+@MARC-005:	20210706184911.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: =10/8''C4G8FqF4.E8D/{8.C3'B''C6D}8'B''C4'G-/8''C4G8FqF4.E8D/
+@MARC-031r: C
+@MARC-031t: Veni dilecta veni electa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 8''C4G8FqF4.E8D/{8.C3'B''C}8{D'B}''C4'G8F/E''4G8F8qF4.E8D/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Hasse, Johann Adolf
+@MARC-100d: 1699-1783
+@MARC-100j: Ascertained
+@MARC-1000: pe51928
+@MARC-240a: Senocrita
+@MARC-240k: Excerpts
+@MARC-2400: 3944882
+@MARC-245a: [without title]
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 270000656, 250000817, 200043822.
+@MARC-590a: S solo
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: f. 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), vla, b
+@MARC-599b: full
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-650a: Contrafacta
+@MARC-6500: 25455
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 272
+@MARC-6910: lit1891
+@MARC-730a: Veni dilecta veni electa
+@MARC-730g: RISM
+@MARC-730m: S, strings, b
+@MARC-730r: C
+@MARC-7300: 5035267
+@MARC-730a: Non salii suo trono aurato
+@MARC-730g: RISM
+@MARC-7300: 50241318
+@MARC-773w: 1001041152
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 61/A II 1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,56 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001007195
+@MARC-003:	DE-633
+@MARC-005:	20200727152715.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''4D+/''4D8{C'B}qq'8{AB''C}r'8{BA}4-/8-'8B4({8BAG};3)2xF/'4G8{AB}''4C8{DE}/'2A
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Nocturnes
+@MARC-240m: pf
+@MARC-240n: op. 37/1
+@MARC-240n: ChomTurC 118
+@MARC-240r: g
+@MARC-2400: 3901484
+@MARC-245a: I.|e|r NOCTURNE.
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-383b: op. 37/1
+@MARC-590a: pf
+@MARC-590b: p. 2-4
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Nocturnes (inst.)
+@MARC-6500: 25591
+@MARC-690a: ChomTurC
+@MARC-690n: 118
+@MARC-6900: lit30000031
+@MARC-773w: 1001007191
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-852c: 3942/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

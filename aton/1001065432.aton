@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001065432
+@MARC-003:	DE-633
+@MARC-005:	20210611000445.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: '4.A{6B''C}{8DD}/{6EDCD}'4A8-A/4.A{6B''C}{8DxD}/{6xDEFE}'4A8-A/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Rossini, Gioachino
+@MARC-100d: 1792-1868
+@MARC-100j: Ascertained
+@MARC-1000: pe63766
+@MARC-240a: Tancredi
+@MARC-240k: Excerpts
+@MARC-240m: pf
+@MARC-240o: Arr
+@MARC-240r: D
+@MARC-2400: 3900041
+@MARC-245a: [title page:] Pollonaises | l'Opera Tancrede | pour | Piano Forto [!] | A. L:
+@MARC-260c: after 1823
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 21 x 27,5 cm
+@MARC-3008: 01
+@MARC-500a: The first fourteen bars of this piece are substantially identical as bars 2-16 of "Polonaise de l'opera Tancred de Rossini arrangee pour le piano-forte par Ferd[inand]. Ries. Oeuv. 104 No. 1" that was published in Warszawa in 1823 by Franciszek Klukowski, under the name of the arranger. The rest of a piece is much simpler than a virtuoso arrangement by Ries.
+@MARC-500a: Composer identified on the basis of RISM ID 452515954, 456015058, 456003938.
+@MARC-590a: pf
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 261, 276
+@MARC-6910: lit1891
+@MARC-691a: TomaszewskiB 1992
+@MARC-691n: p. 62
+@MARC-6910: lit41001996
+@MARC-700a: Copyist B from Sandomierz
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41021600
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 561/A IX 41
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,101 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001062979
+@MARC-003:	DE-633
+@MARC-005:	20210707113415.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro assai
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =19/4''FFFF/F8{FC}{'BG}{FE}/4F''FFF/F8{FC}{'BG}{FE}/
+@MARC-031r: F
+@MARC-031t: Eia chori exsultate
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4'F8{CA}4A{8F''C}/4C8{FC}{'BGFE}/4F^A8{CA}4A{8F''C}/4C8{FC}{'BGFE}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Victorini
+@MARC-100j: Alleged
+@MARC-1000: pe30003631
+@MARC-240a: Eia chori exsultate
+@MARC-240m: V (4), orch, b
+@MARC-240r: F
+@MARC-2400: 38591
+@MARC-245a: [S caption title:] Offertorium Primum
+@MARC-300a: 11 parts
+@MARC-3008: 01
+@MARC-500a: ob 2 part missing
+@MARC-5008: 01
+@MARC-500a: Inscription "Dell Segn Victorini" at the top of S f. 1r.
+@MARC-500a: Concordance to RISM ID 1001035346 (PL-SA 215/A VI 19).
+@MARC-500a: In RISM ID 550018438 this composition attributed to Brixi without the first name. In this context "Victorini" could point to Victorin Brixi.
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 1r, 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: f. 1v, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: ob 1
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: lituo
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), a-vla, ob (2), lituo (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 262
+@MARC-6910: lit1891
+@MARC-773w: 1001062977
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 222/A VI 26
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

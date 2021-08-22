@@ -1,0 +1,82 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001036508
+@MARC-003:	DE-633
+@MARC-005:	20210627220704.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Affectuozo [!]
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: {6'BA}{B''C}8'B6FF''DEFE8DC/=1/{6'BA}{B''C}8'B6FF''DEFE8DC/
+@MARC-031r: B|b
+@MARC-031t: In hac annua
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Affectuoso [!]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: {8''D6C'B}{''C'A8''F}{G6FE}4D/{8F6ED}{8CD}{'AB}4''C/'B^D-{6B''CDC}{8'BF}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kellerer, Christophorus
+@MARC-100d: 1742-1790
+@MARC-100j: Ascertained
+@MARC-1000: pe30001684
+@MARC-240a: In hac annua
+@MARC-240m: S, vl (2), b
+@MARC-240r: B|b
+@MARC-2400: 49912
+@MARC-245a: [without title]
+@MARC-260c: 1760-1799
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 34,5 x 20 cm
+@MARC-3008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 300512424, 500195479.
+@MARC-590a: S solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-657a: Nativitas Domini
+@MARC-6570: 24268
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 266
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 106/A III 6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

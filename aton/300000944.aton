@@ -1,0 +1,242 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000944
+@MARC-003:	DE-633
+@MARC-005:	20201029163358.0
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Ma non troppo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: {8'GAB}{''C'BA}/{GAF}4G8-/{B''CD}{EDC/{'B''C'A}4G8-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Ma non troppo
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: {8'GA}B{8''C'BA}/{8GAF}4G8-/8{B''CD}{EDC/{'B''C'A}4B8-/
+@MARC-031r: G
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8.G6G4G-/8.B6B4B-/''8.D6D4D-/8.'B6B4B-/
+@MARC-031r: G
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =38/--D/G6{GAB''C}{DC'BA/8.G6F4G8-B/{A''C'AGFA/
+@MARC-031r: G
+@MARC-031t: Laudamus te benedicimus te
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: [Credo]. Moderato
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: ''G8GGGG/2G4F/GGA/G--/
+@MARC-031r: G
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{GA}4'B''C/8.{D6E}8.{D6E}4D/8.{D6E}4nF8FE/2D4D/
+@MARC-031r: G
+@MARC-031t: Et incarnatus est de Spiritu Sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: ''GGG/GG-/FFF/FF8-F/
+@MARC-031r: G
+@MARC-031t: Et resurrexit tertia die
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S 1 solo
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8G6GG8B6BB''8D6DD/4GE-/8C'B{A''ED}C/('{BAG})4G-/
+@MARC-031r: G
+@MARC-031t: Domine Deus Rex caelestis Deus pater omnipotens
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: ''EEEE/2.E4E/2E()xD/4FFFF/1F/()E/
+@MARC-031r: G
+@MARC-031t: Qui toliis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2.''D/2D4D/4.D8D4D/2.F/
+@MARC-031r: G
+@MARC-031t: Cum Sancto Spirito in gloria Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: ''GG6-{'B''C'B}-{''DC'B/4A''F6-{'ABA}-{''C'BA/8BB''DD4DD/2.D4D/
+@MARC-031r: G
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =33/2G8{AG/{''C'B}4B8-A/{AtrG}4G-/
+@MARC-031r: g
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2B4A/BBA/BBB/2B4A/
+@MARC-031r: g
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Orłowski, Michał
+@MARC-100d: 18.sc
+@MARC-100j: Verified
+@MARC-1000: pe30020336
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: G
+@MARC-2400: 3900051
+@MARC-245a: MISSA a Pastorella ex G. | a | Vocibus | Canto Primo et Secondo et Basso. | Violino Primo Violino Secondo. | Corno Primo Corno Secondo. | Con | Organo. | Michael Orłowski C.M.C.
+@MARC-260c: 1776-1800 (18.4q)
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 30,5 x 24,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Inny wymiar głosów: 23,5 x 29 cm]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Nieczytelny znak wodny przecięty w połowie]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: po prawej stronie tytułu ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o 33", póżniej na tej sygnaturze czerwonym atramentem ręką F. Maletza "N 14/514"; późniejsza u góry z prawej ołówkiem ręką W. Świerczka "175" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: Komponistenvermerk auf den Stimmen: "dell Sige Michael Orłowski".
+@MARC-500a: [pl-text: W Catalogus Notarum nr 514.]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-563a: [pl-text: Okładka przyklejona na do twardej tektury, wzmocniona dookoła pomarańczowym papierem]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro S 1, Coro: S 2, B, vl 1, 2, cor 1, 2, org (= bc)
+@MARC-590b: 6, 3, 3, 6, 6, 2, 2, 5f.
+@MARC-5908: 01
+@MARC-592a: [lilly] / [illegible]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Solo S
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Solo S, Coro S (2), Coro B, vl (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1040
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: s. 13
+@MARC-6910: lit1887
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 14/514
+@MARC-852d: 175
+@MARC-852d: 33 P
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-188
+@@END:		MARC21
+

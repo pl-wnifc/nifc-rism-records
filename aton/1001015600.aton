@@ -1,0 +1,113 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001015600
+@MARC-003:	DE-633
+@MARC-005:	20201021053459.0
+@MARC-028a: 6332
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto con fuoco
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: 2.(,4FAExE;4)/n'D--/2.(,4xEGDnE;4)/'bD%G-2-8-8nC/2.nC/,4B-8-'''F/2.F+/2.F/
+@MARC-031r: c|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Scherzos
+@MARC-240m: pf
+@MARC-240n: op. 39
+@MARC-240n: ChomTurC 199
+@MARC-240r: c|x
+@MARC-2400: 3905206
+@MARC-245a: 3|è|m|e | SCHERZO | pour le Piano | dédié | A Monsieur Adolphe Gutmann | par | FRÉD. CHOPIN. | Oeuvr.39. [space] Propriété des Editeurs. [space] Pr.20 Gr. | Leipzig, chez Breitkopf &amp; Härtel. | Paris, chez Troupenas &amp; C-|o [space] Londres, chez Wessel &amp; C-|o | 6332. | Enrégistré aux Archives de l’Union.
+@MARC-260a: Leipzig
+@MARC-260b: Breitkopf &amp; Härtel
+@MARC-260c: [1841-1842]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 32,0 x 25,5 cm
+@MARC-3008: 01
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-340d: Engraving
+@MARC-3408: 01
+@MARC-383b: op. 39
+@MARC-500a: TP lithographed, p. [2] blank, p. 3-15 engraved, p. [16] blank.
+@MARC-500a: Heading, p. 3: F. CHOPIN. Op. 39. | SCHERZO.
+@MARC-500a: Plate number p. 3-15: 6332
+@MARC-500a: TP: publisher's round stamp; inscription in pencil "[XI, 1840]".
+@MARC-5003: 51015660
+@MARC-561a: Item is part of the Ellen Ballon fonds. Fonds was acquired in 1971 from Colonel Bullock, Ellen Ballon's widower. Ellen Ballon's niece and nephew, the Goldblooms, aided in sorting through the collection before its donation.
+@MARC-5613: 51015661
+@MARC-588a: PL-Wbfc 4691/n
+@MARC-590a: pf
+@MARC-590b: 15 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-599a: Jeremiusz Glensk
+@MARC-5993: 51015660
+@MARC-650a: Scherzos (inst.)
+@MARC-6500: 3000133
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 199
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: 39-1-B&amp;H
+@MARC-6910: lit30025545
+@MARC-700a: Gutmann, Adolphe
+@MARC-700d: 1819-1882
+@MARC-700j: Ascertained
+@MARC-7000: pe30092026
+@MARC-7004: dte
+@MARC-700a: Ballon, Ellen
+@MARC-700d: 1898-1969
+@MARC-7000: pe41012973
+@MARC-7003: 51015661
+@MARC-7004: fmo
+@MARC-710a: Breitkopf &amp; Härtel
+@MARC-710g: Ascertained
+@MARC-7100: ks40001558
+@MARC-7104: pbl
+@MARC-710a: Eugène Troupenas &amp; Cie.
+@MARC-7100: ks51000057
+@MARC-7104: pbl
+@MARC-710a: Wessel &amp; Co.
+@MARC-7100: ks30076725
+@MARC-7104: pbl
+@MARC-852a: CDN-Hu
+@MARC-852e: Dalhousie University, Killam Memorial Library, Music Collection
+@MARC-852x: ks30001854
+@MARC-8523: 51015661
+@MARC-852c: MS-5-2, Box 5, Folder 7
+@MARC-852z: Ellen Ballon fonds
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51015660
+@MARC-852c: 4691/n
+@MARC-856u: https://findingaids.library.dal.ca/third-scherzo-pour-le-piano-op-39-par-fred-chopin-1st-ed
+@MARC-856x: Digitalization
+@MARC-856z: Digital copy available via Dalhousie University Archives catalogue.
+@MARC-8563: 51015661
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

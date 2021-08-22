@@ -1,0 +1,126 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001035524
+@MARC-003:	DE-633
+@MARC-005:	20210128160041.0
+@MARC-028a: 19551
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: ,,4B/,8{xDEG'E,BG/{FGB%G-2'GE,B}/{XAB'EBGE}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: grazioso
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031p: =9/'4B8{BB}4B/8{xAB''EG}4B/qq'''6{CD}r8{C''BxAB'''FB}4G--/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Waltzes
+@MARC-240m: pf
+@MARC-240n: [op. posth.]
+@MARC-240n: ChomTurC 222
+@MARC-240r: e
+@MARC-2400: 3900012
+@MARC-245a: VALSE | (Mi - min.) | POUR LE | PIANO | PAR | F. CHOPIN | Oeuvre posthume. | Propriété pour tous pays. | MAYENCE CHEZ LES FILS DE B. SCHOTT. | Bruxelles Schott frères. [below] 82 Montagne de la Cour. [space] Londres, Schott &amp; C-|i|e. [below] 159 Regent Street. [space] Paris, Maison Schott. [below] 1 Rue Auber. (M-|o|n du G.|d Hôtel.). | Dépôt général de notre fonds de Musique: | LEIPZIG, C. F. LEEDE. | Enregistré aux Archives de l’Union, | au Ministère de l’Intérieur de France et à Stationers Hall. | 19551. 20526.
+@MARC-260a: Mayence
+@MARC-260b: Les Fils de B. Schott
+@MARC-260c: [1873-1876]
+@MARC-260e: Mayence
+@MARC-260f: Les Fils de B. Schott
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-300a: 1 part
+@MARC-300c: 34,5 x 27,5 cm
+@MARC-3003: 320155
+@MARC-300a: 1 part
+@MARC-300c: 31,5 x 25,5 cm
+@MARC-3003: 320156
+@MARC-340d: Lithography
+@MARC-3408: 01
+@MARC-383b: [op. posth.]
+@MARC-500a: TP lithographed, p. 2-7 lithographed, p. [8] blank.
+@MARC-500a: Heading, p. 2: VALSE. | OEUVRE POSTHUME. [space] F. CHOPIN.
+@MARC-500a: Reprint of first edition (1868) with added publisher's number: 20526 on TP.
+@MARC-500a: Footline, p. 2: Stich und Druck von B. SCHOTT’S SÖHNEN in Mainz | 19551.; p. 3-7: 19551.
+@MARC-500a: TP: loose, inscriptions in pencil: "e-moll" (top]), "[po 1871]" (below).
+@MARC-5003: 320155
+@MARC-500a: Last page: loose.
+@MARC-5003: 320155
+@MARC-500a: TP and last reinforced with white adhesive tape.
+@MARC-5003: 320156
+@MARC-500a: TP: oval stamp: "ALBERT ROOTHAAN | PIANO- en | MUZIEKHANDEL | AMSTERDAM"; inscription in pencil "[po 1871]".
+@MARC-5003: 320156
+@MARC-506a: Treasury of the Library
+@MARC-5063: 320155
+@MARC-506a: Treasury of the Library
+@MARC-5063: 320156
+@MARC-590a: pf
+@MARC-590b: 7 p.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Waltzes
+@MARC-6500: 25220
+@MARC-650a: First editions
+@MARC-6500: 3902070
+@MARC-650a: Reprints
+@MARC-6500: 3902072
+@MARC-690a: ChomTurC
+@MARC-690n: 222
+@MARC-6900: lit30000031
+@MARC-691a: GrabowskiC 2010
+@MARC-691n: WaltzEm–1b-SCH
+@MARC-6910: lit30025545
+@MARC-710a: B. Schott's Söhne
+@MARC-710g: Ascertained
+@MARC-7100: ks13373
+@MARC-7104: pbl
+@MARC-710a: C. F. Leede
+@MARC-710g: Ascertained
+@MARC-7100: ks30076585
+@MARC-7104: dpt
+@MARC-710a: Ministre de L'intérieur
+@MARC-7100: ks15797
+@MARC-7104: oth
+@MARC-710a: Stationers' Company
+@MARC-7100: ks51000340
+@MARC-7104: oth
+@MARC-710a: Albert Roothaan
+@MARC-7100: ks51000714
+@MARC-7103: 320156
+@MARC-7104: bsl
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 320155
+@MARC-852c: 2067/n
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 320156
+@MARC-852c: 2651/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+
