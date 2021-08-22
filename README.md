@@ -41,8 +41,15 @@ To check if there are any missing MarcXml files by running the command:
 make empty
 ```
 
+To view a list of the composers represented in the records and a count
+of the records for each composer, type:
 
-## MARC 21 Documentation ##
+```bash
+make composers
+```
+
+
+## MARC21 Documentation ##
 
 
 | Field range | Information                                          |
