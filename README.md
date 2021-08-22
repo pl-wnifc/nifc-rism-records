@@ -1,9 +1,9 @@
 # NIFC RISM records #
 
-This repository contains RISM entries in the MarcXml format for
-NIFC related projects associated with Humdrum digital scores.  RISM
-IDs are extracted from Humdrum digital scores into a file called
-list.txt by the command:
+This repository contains RISM entries downloaded in the MarcXml
+format for NIFC related projects associated with Humdrum digital
+scores.  RISM IDs are first extracted from Humdrum digital scores
+into a file called list.txt by the command:
 
 ```bash
 make list
@@ -31,7 +31,7 @@ by typing the following command:
 make download
 ```
 
-If an existing MarcXML record already exists, then a new file
+If an existing MarcXml record already exists, then a new file
 will *not* be downloaded (delete all downloaded files to update
 the records).
 
@@ -45,12 +45,14 @@ make empty
 ## MARC 21 Documentation ##
 
 
-| field range | information                                          |
+| Field range | Information                                          |
 | ----------- | ---------------------------------------------------- |
 | 00X         | https://www.loc.gov/marc/bibliographic/bd00x.html    |
 | 01X-09X     | https://www.loc.gov/marc/bibliographic/bd01x09x.html |
 | X00-X30     | https://www.loc.gov/marc/bibliographic/bdheading.html|
 | 1XX         | https://www.loc.gov/marc/bibliographic/bd1xx.html    |
+| 100         | [Main Entry-Personal Name (NR)](https://www.loc.gov/marc/bibliographic/bd100.html) |
+| 100a        | Composer's name                                      |
 | 20X-24X     | https://www.loc.gov/marc/bibliographic/bd20x24x.html |
 | 25X-28X     | https://www.loc.gov/marc/bibliographic/bd70x75x.html |
 | 3XX         | https://www.loc.gov/marc/bibliographic/bd3xx.html    |

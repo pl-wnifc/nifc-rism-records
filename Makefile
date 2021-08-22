@@ -22,6 +22,7 @@
 all:
 	@echo
 	@echo "Makefile targets:"
+	@echo "  make update    -- Run list/download/aton targets"
 	@echo "  make list      -- Create list of RISM IDs to process."
 	@echo "  make download  -- Download MarcXml files."
 	@echo "  make empty     -- List missing MarcXml files."
@@ -29,6 +30,15 @@ all:
 	@echo "  make aton      -- Convert MarcXml files to ATON files."
 	@echo "  make composers -- List composers and RISM IDs counts for each."
 	@echo
+
+
+##############################
+##
+## udpate -- Update list.txt, download any new MarcXml files
+##    and convert to ATON.
+##
+
+update: list download aton
 
 
 
@@ -49,6 +59,10 @@ list:
 ##     have not already been downloaded (delete
 ##     all MarcXml files to redownload with
 ##     any updates).
+##
+## Downloading is done with this command:
+##     wget https://opac.rism.info/id/rismid/1001100269?format=marc -O - | xmllint --format -
+## where 1001100269 is the RISM ID (wget and xmllint need to be installed).
 ##
 
 download:
