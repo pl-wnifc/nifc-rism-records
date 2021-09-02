@@ -22,7 +22,7 @@ pe90050	Himmel, Friedrich Heinrich
 pe90691	Naumann, Johann Gottlieb
 pe94981	Hoffmeister, Franz Anton
 pe101056	Méhul, Etienne-Nicolas
-pe106324	Buhler, Franz
+pe106324	Bühler, Franz
 pe106604	Noskowski, Zygmunt
 pe107007	Hummel, Johann Nepomuk
 pe114557	Vanhal, Johann Baptist
@@ -38,7 +38,7 @@ pe175316	Nowakowski, Józef
 pe327026	Mel, Rinaldo del
 pe327522	Wiltberger, August
 pe333493	Righini, Vincenzo
-pe353782	Gruberski, Eugeniusz
+pe353782	Gruberski, Eugenjusz
 pe356579	Binder, Christlieb Siegmund
 pe367346	Königsperger, Marianus
 pe387526	Goudimel, Claude
@@ -49,20 +49,20 @@ pe20000434	Costanzi, Giovanni Battista
 pe20000528	Guami, Gioseffo
 pe30000042	Agrell, Johan Joachim
 pe30000104	Anerio, Giovanni Francesco
-pe30000157	Astorga, Emmanuele d’
+pe30000157	Astorga, Emanuele d'
 pe30000244	Bauer, Joseph Anton
 pe30000281	Bellinzani, Paolo Benedetto
 pe30000404	Bolehovský, Josef
-pe30000441	Bortnjanskij, Dmitrij Stepanovic
+pe30000441	Bortnjanskij, Dmitrij Stepanovič
 pe30000477	Brentner, Johann Joseph Ignaz
 pe30000488	Brioschi, Antonio
-pe30000491	Brixi, Frantisek Xaver
-pe30000493	Brixi, Viktorin
+pe30000491	Brixi, František Xaver
+pe30000493	Brixi, Viktorín
 pe30000524	Budinský, František Xaver
 pe30000607	Casali, Giovanni Battista
 pe30000719	Conti
 pe30000764	Croce, Giovanni
-pe30000792	Danik, Ján Ignác
+pe30000792	Danik, Ján Ignác
 pe30000793	Dankowski, Adalbert
 pe30000957	Elsner, Józef
 pe30001067	Fils, Anton
@@ -72,12 +72,16 @@ pe30001185	Gabrieli, Andrea
 pe30001209	Gallus, Iacobus
 pe30001351	Graun, Carl Heinrich
 pe30001398	Guglielmi, Pietro Alessandro
-pe30001538	Hoffmann, Leopold
+pe30001538	Hofmann, Leopold
 pe30001549	Holzbauer, Ignaz
+pe30001597	Isouard, Nicolas
+pe30001600	Ivanschiz, Amandus
+pe30001658	Kalous, Vaclav
 pe30001684	Kellerer, Christophorus
+pe30001779	Kraus, Lambert
 pe30001797	Krogulski, Józef Władysław
 pe30001863	Lampugnani, Giovanni Battista
-pe30001878	Laube, Antonin
+pe30001878	Laube, Antonín
 pe30001903	Lechleitner, Ferdinand Simon
 pe30002000	Loos, Karel
 pe30002047	De Majo, Gian Francesco
@@ -108,6 +112,7 @@ pe30003401	Zeidler, Józef
 pe30003631	Victorini
 pe30003658	Ziegler
 pe30003783	Bencini
+pe30003850	Kozłowski, Józef
 pe30003883	Grim, Józef
 pe30003955	Marenzio, Luca
 pe30004300	Geiger, Konstanze
@@ -115,15 +120,16 @@ pe30004332	Lessel, Franciszek
 pe30004622	Fischietti, Giovanni
 pe30004646	Ratti, Lorenzo
 pe30004985	Anonim
+pe30005043	Ingegneri, Marc Antonio
 pe30005207	Massaino, Tiburzio
 pe30005218	Monte, Philippe de
 pe30005329	Bauer
-pe30006011	Cadeac, Pierre
+pe30006011	Cadéac, Pierre
 pe30006023	Certon, Pierre
 pe30007685	Riccieri, Giovanni Antonio
 pe30007781	Flori, Georg
 pe30008165	Abersbach, Jan Jiří
-pe30008275	Salepico, Josquino
+pe30008275	Salèpico, Josquino
 pe30008351	Moniuszko, Stanisław
 pe30008748	Gołąbek, Jakub
 pe30008765	Damse, Józef
@@ -152,6 +158,7 @@ pe30017835	Hanel
 pe30018039	Pych, Leopold
 pe30018952	Kurpiński, Karol Kazimierz
 pe30019269	Preis, Josef
+pe30020040	Kątski, Apolinary
 pe30020312	Nowicki, Ludwik
 pe30020313	Mrozowski, Tadeusz
 pe30020314	Raszek, Wacław
@@ -169,6 +176,7 @@ pe30020658	Clement, Johann Georg
 pe30021002	Hepner
 pe30021418	Fierszewicz, Daniel
 pe30021989	Walczyński, Franciszek
+pe30022248	Krzykowski, F.
 pe30023354	Komorowski, Ignacy Marceli
 pe30023932	Malik, Jan
 pe30024097	Stefani, Józef
@@ -179,8 +187,10 @@ pe30024266	Wronowicz, Maciej H.
 pe30025416	Leszczyński, Władysław
 pe30025739	Brykner, Jerzy
 pe30035788	Janisch
+pe30040495	Klose, Karol
 pe30040593	Studziński, Karol
 pe30040596	Morawski, Józef Bernard
+pe30040598	Kottritsch, Franciszek
 pe30040643	Boczkowski, Kazimierz
 pe30040944	Fertner, Karol
 pe30060120	Koperski, Maksymilian
@@ -200,6 +210,10 @@ pe30096438	Borimius, Jan
 pe30097226	Piech, Wawrzyniec
 pe30097723	Łukaszewicz, Maciej
 pe30098283	Jeric
+pe30098311	Just, Franciszek Kasper
+pe30098316	Kasprzykowski, Ignacy
+pe30098443	Kietliński, Albert
+pe30099477	Kraus, Józef
 pe30099691	Kreith
 pe30100063	Kruszyński, Józef
 pe30100064	Krzyżanowski, Ignacy
@@ -210,7 +224,8 @@ pe30102784	Samin, Vulfran
 pe30105639	Miskiewicz, Maciej Arnulf
 pe30105642	Pękiel, Bartłomiej
 pe30105799	Maxylewicz, Wincenty
-pe30105808	Herrisant, Jehan
+pe30105808	Hérissant, Jehan
+pe30105858	Krener, Jan
 pe30105867	Paszkiewicz, Andrzej
 pe30107352	Neumann, Wawrzyniec
 pe30108913	Piotrowski, Franciszek
@@ -226,7 +241,7 @@ pe41010076	Ruth, Christian Joseph
 pe41010079	Luna, Georgius
 pe41010086	Wołoszko, Andrzej
 pe41010092	Rhein, Carolo de
-pe41011487	Siewiński, Andrzej
+pe41011487	Siwiński, Andrzej
 pe41012326	Zajączkowski, Roman
 pe41012328	Krzewdzieński, Paweł
 pe41012330	Sieprawski, Paweł
@@ -259,6 +274,6 @@ pe50041899	Musiałowski, Jan
 pe50043063	Złotaszewski, Józef
 pe50044409	Studziński, Piotr
 pe50045891	Flasza, Tomasz
-pe50045913	Zieleniewicz
+pe50045913	Zieleniewicz, Mathias
 pe50046000	Hlonowski, J.
 pe50046026	Rychling, Wincenty Wacław

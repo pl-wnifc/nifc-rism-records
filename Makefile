@@ -44,6 +44,15 @@ all:
 update: work-list composer-list download aton
 
 
+uw: update-works
+updte-work: update-works
+update-works: work-list download-works aton-works
+
+
+uc: update-composers
+update-composer: update-composers
+update-composers: composer-list download-composers aton-composers
+
 
 ##############################
 ##
