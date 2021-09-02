@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe37240
+@MARC-003:	DE-633
+@MARC-005:	20200310154225.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 45052662
+@MARC-0242: VIAF
+@MARC-024a: 116368853
+@MARC-0242: DNB
+@MARC-024a: MUSV033156
+@MARC-0242: ICCU
+@MARC-024a: Q761228
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-DE
+@MARC-100a: Häser, August Ferdinand
+@MARC-100d: 1779-1844
+@MARC-100y: 15.10.1779-01.11.1844
+@MARC-375a: male
+@MARC-400a: Häser, Ferdinand August
+@MARC-400a: Haeser, August Ferdinand
+@MARC-400a: Häser, F. A.
+@MARC-400a: Haeser, A. F.
+@MARC-400a: Häser, Augustus
+@MARC-500a: Häser, Johann Georg
+@MARC-500i: child of
+@MARC-5000: 30037047
+@MARC-550a: Composer
+@MARC-550a: Conductor
+@MARC-550a: Copyist
+@MARC-550a: Music theorist
+@MARC-551a: Leipzig
+@MARC-551i: go
+@MARC-551a: Weimar
+@MARC-551i: so
+@MARC-670a: DEUMM/b
+@MARC-670b: Häser, August Ferdinand [1779-1844]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Häser, August Ferdinand [1779-1844]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Haeser, August Ferdinand [1779-1844]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Haeser, August Ferdinand [1779-1844]
+@MARC-670w: 3072
+@MARC-670a: MGG
+@MARC-670b: Häser, August Ferdinand [1779-1844]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Häser, August Ferdinand (Haeser) [1779-1844]
+@MARC-670w: 3828
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Häser, August Ferdinand [1779-1844]
+@MARC-670w: 408
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0000E9E900000000
+@MARC-856y: Schriftprobe (1814) [D-B Mus.ms.autogr. Häser, A. F. 1 M / p. 7]
+@@END:		MARC21
+

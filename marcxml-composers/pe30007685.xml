@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe30007685</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20190812050159.0</marc:controlfield>
+  <marc:controlfield tag="008">161109n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">58696609</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">CFIV112874</marc:subfield>
+    <marc:subfield code="2">ICCU</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Riccieri, Giovanni Antonio</marc:subfield>
+    <marc:subfield code="d">1679-1746</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Ricieri, Giovanni Antonio</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Rizieri, Giovanni Antonio</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Rizzieri, Giovanni Antonio</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Ferrarese</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Performer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Singer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Vicenza</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">DEUMM/b</marc:subfield>
+    <marc:subfield code="b">Riccieri, Giovanni Antonio (Ricieri; Rizzieri) [1679-1746]</marc:subfield>
+    <marc:subfield code="w">1577</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">EitnerQ</marc:subfield>
+    <marc:subfield code="b">Riccieri, Giovanni Antonio (Ricieri; Rizzieri) [1679-1746]</marc:subfield>
+    <marc:subfield code="w">1272</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|6</marc:subfield>
+    <marc:subfield code="b">Ricieri, Giovanni Antonio (Riccieri; Rizieri; Rizzieri) [1679-1746]</marc:subfield>
+    <marc:subfield code="w">1258</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG</marc:subfield>
+    <marc:subfield code="b">Ricieri, Giovanni Antonio (Riccieri; Rizieri; Rizzieri) [1619-1746]</marc:subfield>
+    <marc:subfield code="w">1263</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|2/p suppl.</marc:subfield>
+    <marc:subfield code="b">Ricieri, Giovanni Antonio (Riccieri) [1679-1746]</marc:subfield>
+    <marc:subfield code="w">2496</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|2/p</marc:subfield>
+    <marc:subfield code="b">Ricieri, Giovanni Antonio [1679-1746]</marc:subfield>
+    <marc:subfield code="w">408</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Rizzoli-RicordiE</marc:subfield>
+    <marc:subfield code="b">Riccieri, Giovanni Antonio (Ricieri; Rizzieri) [1679-1746]</marc:subfield>
+    <marc:subfield code="w">1754</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">http://resolver.staatsbibliothek-berlin.de/SBB0001E30300000000</marc:subfield>
+    <marc:subfield code="y">Schriftprobe (Zuordnung unsicher) [D-B Mus.ms.autogr. Riccieri, G. A. 1 M]</marc:subfield>
+  </marc:datafield>
+</marc:record>

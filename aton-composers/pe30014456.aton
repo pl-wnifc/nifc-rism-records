@@ -1,0 +1,42 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30014456
+@MARC-003:	DE-633
+@MARC-005:	20200226094833.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 61554270
+@MARC-0242: VIAF
+@MARC-024a: 118715143
+@MARC-0242: DNB
+@MARC-024a: Q191479
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-043c: XD-US
+@MARC-100a: Kościuszko, Tadeusz
+@MARC-100d: 1746-1817
+@MARC-375a: male
+@MARC-400a: Kosciuszko, Tadeusz
+@MARC-400a: Kościuszko, Tadeusz A.
+@MARC-400a: Kościuszko, Tadeusz Andrzej Bonawentura
+@MARC-400j: xx
+@MARC-400a: Kościuszko, Thaddäus
+@MARC-400a: Kościusko, Thadeus
+@MARC-400a: Kostjuški, F.
+@MARC-550a: Composer
+@MARC-550a: Military man
+@MARC-551a: Mereszowszczyzna
+@MARC-551i: go
+@MARC-551a: Solothurn
+@MARC-551i: so
+@MARC-670a: MeyersGTL|2
+@MARC-670b: Kościuszko, Tadeusz Andrzej Bonaventura [1746-1817]
+@MARC-670w: 1273
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: 0
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Kosciuszko, Tadeusz
+@MARC-670w: 3806
+@@END:		MARC21
+

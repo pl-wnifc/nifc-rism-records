@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30003284
+@MARC-003:	DE-633
+@MARC-005:	20190702053909.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 54334130
+@MARC-0242: VIAF
+@MARC-024a: 118770616
+@MARC-0242: DNB
+@MARC-024a: TO0V074472
+@MARC-0242: ICCU
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-AT
+@MARC-100a: Wagenseil, Georg Christoph
+@MARC-100d: 1715-1777
+@MARC-100y: 29.01.1715-01.03.1777
+@MARC-375a: male
+@MARC-400a: Vagensäll, Georg Christoph
+@MARC-400j: xx
+@MARC-400a: Vagiansel, Georg Christoph
+@MARC-400j: xx
+@MARC-400a: Vangelsel, Georg Christoph
+@MARC-400j: xx
+@MARC-400a: Vangenzeil, Georg Christoph
+@MARC-400j: xx
+@MARC-400a: Waghenseil, Georg Christoph
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550a: Harpsichordist
+@MARC-550a: Music teacher
+@MARC-550a: Organist
+@MARC-550a: Performer
+@MARC-551a: Wien
+@MARC-551i: go
+@MARC-551a: Wien
+@MARC-551i: so
+@MARC-551a: Wien
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Wagenseil, Georg Christoph [1715-1777]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Wagenseil, Georg Christoph [1715-1777]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Wagenseil, Georg Christoph [1715-1777]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Wagenseil, Georg Christoph [1715-1777]
+@MARC-670w: 3072
+@MARC-670a: MGG
+@MARC-670b: Wagenseil, Georg Christoph [1715-1777]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Wagenseil, Georg Christoph [1715-1777]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Wagenseil, Georg Christoph
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Wagenseil, Georg Christoph
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Wagenseil, Georg Christoph [1715-1777]
+@MARC-670w: 408
+@MARC-670a: RiemannL|1|3
+@MARC-670b: Wagenseil, Georg Christoph [1715-1777]
+@MARC-670w: 30026906
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00021BF700000000
+@MARC-856y: Schriftprobe 1742-1743 [D-B Mus.ms.autogr. Wagenseil, G. C. 7 / p. 2, 31, 43, 50]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00021BF600000000
+@MARC-856y: Schriftprobe ca. 1746 [D-B Mus.ms.autogr. Wagenseil, G. C. 1 / p. 1-2]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0000CF7D00000007
+@MARC-856y: Schriftprobe ca. 1750-1775 [D-B Mus.ms.autogr. Wagenseil, G. C. 5]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00021BDC00000000
+@MARC-856y: Schriftprobe 1760 [D-B Mus.ms.autogr. Wagenseil, G. C. 4 / p. 1-2, 17]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00021C1900000000
+@MARC-856y: Schriftprobe 1770 [D-B Mus.ms. Bach P 230 / p. 73-82]
+@@END:		MARC21
+

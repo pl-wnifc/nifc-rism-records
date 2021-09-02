@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe30003326</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20200717045728.0</marc:controlfield>
+  <marc:controlfield tag="008">161109n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">64195059</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">103790411</marc:subfield>
+    <marc:subfield code="2">DNB</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">MODV643048</marc:subfield>
+    <marc:subfield code="2">ICCU</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Went, Johann Nepomuk</marc:subfield>
+    <marc:subfield code="d">1745-1801</marc:subfield>
+    <marc:subfield code="y">27.06.1745-03.07.1801</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Vent, Johann Nepomuk</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wend, Johann Nepomuk</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wendt, Johann Nepomuk</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Went, Giovanni de</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Arranger</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">English horn player</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Oboist</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Divice</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Wien</marc:subfield>
+    <marc:subfield code="i">so</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Praha</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Wien</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">DEUMM/b</marc:subfield>
+    <marc:subfield code="b">Wendt, Johann Nepomuk (Wend; Went; Vent) (Jan) [1745-1801]</marc:subfield>
+    <marc:subfield code="w">1577</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">EitnerQ</marc:subfield>
+    <marc:subfield code="b">Wend, Johann II (Went) [1745-1801]</marc:subfield>
+    <marc:subfield code="w">1272</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|6</marc:subfield>
+    <marc:subfield code="b">Went, Johann Nepomuk (Wend; Wendt; Vent) (Jan) [1745-1801]</marc:subfield>
+    <marc:subfield code="w">1258</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|7</marc:subfield>
+    <marc:subfield code="b">Went, Johann Nepomuk (Vent; Wend; Wend) (Jan) [1745-1801]</marc:subfield>
+    <marc:subfield code="w">3072</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">KV</marc:subfield>
+    <marc:subfield code="b">Went, Giovanni de [1745-1801]</marc:subfield>
+    <marc:subfield code="w">50</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG</marc:subfield>
+    <marc:subfield code="b">vide 13, 663 (Wendt, Johann Nepomuk [(s.d.)])</marc:subfield>
+    <marc:subfield code="w">1263</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG|2/p</marc:subfield>
+    <marc:subfield code="b">Went, Johann Nepomuk [1745-1801]</marc:subfield>
+    <marc:subfield code="w">3828</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I suppl.</marc:subfield>
+    <marc:subfield code="b">Went, Johann (Wend) (II)</marc:subfield>
+    <marc:subfield code="w">3808</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I</marc:subfield>
+    <marc:subfield code="b">Went, Johann (Wend) (II)</marc:subfield>
+    <marc:subfield code="w">3806</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">ČSHS</marc:subfield>
+    <marc:subfield code="b">Vent, Jan (Wend) [1745-1801]</marc:subfield>
+    <marc:subfield code="w">1625</marc:subfield>
+  </marc:datafield>
+</marc:record>

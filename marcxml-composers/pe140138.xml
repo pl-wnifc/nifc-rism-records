@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe140138</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20200122140636.0</marc:controlfield>
+  <marc:controlfield tag="008">161109n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">79200325</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">117392359</marc:subfield>
+    <marc:subfield code="2">DNB</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">Q260610</marc:subfield>
+    <marc:subfield code="2">WKP</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="043" ind1=" " ind2=" ">
+    <marc:subfield code="c">XA-PL</marc:subfield>
+    <marc:subfield code="c">XA-RU</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szymanowska, Maria</marc:subfield>
+    <marc:subfield code="d">1789-1831</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">female</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wołowska, Maria Agata</marc:subfield>
+    <marc:subfield code="j">gg</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szymanowska, Maria Agata</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szymanowskiey, Maria</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szymanowska, Marya</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szymanowskiéj, Maria</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Шимановская, Мария</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Shimanovskaya, Maria</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wolosska, Marie</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szymanowska, Helena</marc:subfield>
+    <marc:subfield code="i">mother of</marc:subfield>
+    <marc:subfield code="0">50040891</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Performer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Pianist</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Warszawa</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Sankt Peterburg</marc:subfield>
+    <marc:subfield code="i">so</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">CohenE|2</marc:subfield>
+    <marc:subfield code="b">Szymanowska, Maria Agata (Shimanovskaya) (Wolowska) [1789-1831]</marc:subfield>
+    <marc:subfield code="w">1229</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">DEUMM/b</marc:subfield>
+    <marc:subfield code="b">Szymanowska, Maria Agata (Wołowska) [1789-1831]</marc:subfield>
+    <marc:subfield code="w">1577</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">GarveyJacksonW</marc:subfield>
+    <marc:subfield code="b">Szymanowska, Maria Agata (Shimanovskaya) (Wolowska) (I. M. Pani Szymanowskiey; Szymanowskiéj) [1789-1831]</marc:subfield>
+    <marc:subfield code="w">30000219</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">GroveW</marc:subfield>
+    <marc:subfield code="b">Szymanowska, Maria Aghate (Wolowska) [1789-1831]</marc:subfield>
+    <marc:subfield code="w">497</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|7</marc:subfield>
+    <marc:subfield code="b">Szymanowska, Maria Agata (Wołowska) [1789-1831]</marc:subfield>
+    <marc:subfield code="w">3072</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG|2/p</marc:subfield>
+    <marc:subfield code="b">Szymanowska, Maria (Agata) [1789-1831]</marc:subfield>
+    <marc:subfield code="w">3828</marc:subfield>
+  </marc:datafield>
+</marc:record>

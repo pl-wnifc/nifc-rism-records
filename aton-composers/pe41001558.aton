@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe41001558
+@MARC-003:	DE-633
+@MARC-005:	20191217130832.0
+@MARC-008:	170425n|||||||a||| a
+@MARC-024a: 44566371
+@MARC-0242: VIAF
+@MARC-024a: 14808032
+@MARC-0242: BNF
+@MARC-040a: DE-633
+@MARC-040b: ger
+@MARC-040c: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Jarecki, Józef
+@MARC-100d: 1818-1871
+@MARC-100y: 02.08.1818-23.12.1871
+@MARC-375a: male
+@MARC-400a: Jarocki, Józef
+@MARC-500a: Jarecki, Henryk
+@MARC-500i: father of
+@MARC-5000: 41023315
+@MARC-550a: Composer
+@MARC-550a: Conductor
+@MARC-550a: Organist
+@MARC-550a: Pianist
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: EM/b
+@MARC-670b: vide: 4, 428 (Jarecki, Józef [1818-1871])
+@MARC-670w: 1793
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: MCL
+@MARC-670b: 0
+@MARC-670w: 1635
+@MARC-670a: MGG|2/p
+@MARC-670b: vide: 9, 943 (Jarecki, Józef [1818-1871])
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: 0
+@MARC-670w: 1290
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: PodejkoK 1992
+@MARC-670b: Jarocki, Józef (Jarecki) [1872+]
+@MARC-670w: 1869
+@MARC-670a: SMP
+@MARC-670b: Jarecki, Józef [1872+]
+@MARC-670w: 1935
+@@END:		MARC21
+

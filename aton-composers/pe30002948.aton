@@ -1,0 +1,64 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30002948
+@MARC-003:	DE-633
+@MARC-005:	20210325084728.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 21450279
+@MARC-0242: VIAF
+@MARC-024a: 1037013808
+@MARC-0242: DNB
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Ścigalski, Franciszek
+@MARC-100d: 1782-1846
+@MARC-100w: x
+@MARC-100y: 29.01.1782-27.09.1846
+@MARC-375a: male
+@MARC-500a: Ścigalski, Stanisław
+@MARC-500i: child of
+@MARC-5000: 30040511
+@MARC-550a: Conductor
+@MARC-550i: profession
+@MARC-550a: Violinist
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Performer
+@MARC-550i: profession
+@MARC-551a: Grodzisk Wielkopolski
+@MARC-551i: go
+@MARC-551a: Gniezno
+@MARC-551i: so
+@MARC-670a: DEUMM/b
+@MARC-670b: Scigalski, Franciszek [1782-1846]
+@MARC-670w: 1577
+@MARC-670a: EM/b
+@MARC-670b: Ścigalski, Franciszek [1782-1846]
+@MARC-670w: 1793
+@MARC-670a: EitnerQ
+@MARC-670b: 0
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Scigalski, Franciszek [1782-1846]
+@MARC-670w: 1258
+@MARC-670a: MGG suppl.
+@MARC-670b: 0
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: Ścigalski, Franciszek [18/19]
+@MARC-670w: 1263
+@MARC-670a: RISM A/I
+@MARC-670b: 0
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@MARC-670a: SMP
+@MARC-670b: Ścigalski, Franciszek [(fl 1821-1827)]
+@MARC-670w: 1935
+@@END:		MARC21
+

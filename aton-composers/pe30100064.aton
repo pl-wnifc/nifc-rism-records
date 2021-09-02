@@ -1,0 +1,47 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30100064
+@MARC-003:	DE-633
+@MARC-005:	20161109000000.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 142071455
+@MARC-0242: DNB
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Krzyżanowski, Ignacy
+@MARC-100d: 1826-1905
+@MARC-100w: x
+@MARC-100y: 24.12.1826-10.02.1905
+@MARC-375a: male
+@MARC-400a: Krzyżanowski, Ignace
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Pianist
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Opatów
+@MARC-551i: go
+@MARC-551a: Warszawa
+@MARC-551i: so
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: EM/b
+@MARC-670b: =
+@MARC-670w: 1793
+@MARC-670a: Grove|7
+@MARC-670b: =
+@MARC-670w: 3072
+@MARC-670a: MGG|2/p
+@MARC-670b: =
+@MARC-670w: 3828
+@MARC-670a: SMP
+@MARC-670b: =
+@MARC-670w: 1935
+@@END:		MARC21
+

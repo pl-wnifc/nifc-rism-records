@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30004622
+@MARC-003:	DE-633
+@MARC-005:	20190701045926.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 30687884
+@MARC-0242: VIAF
+@MARC-024a: MUSV026516
+@MARC-0242: ICCU
+@MARC-024a: 132046539
+@MARC-0242: DNB
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-IT
+@MARC-100a: Fischietti, Giovanni
+@MARC-100d: 1692-1743
+@MARC-375a: male
+@MARC-400a: Fischetti, Giovanni
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550a: Organist
+@MARC-551a: Napoli
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Fischietti, Giovanni (Fischetti) [1692-1743]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Fischetti, Giovanni [(s.d.)]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: 0
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: MGG suppl.
+@MARC-670b: 0
+@MARC-670w: 2495
+@MARC-670a: MGG|2/p
+@MARC-670b: Fischietti, Giovanni (Fischetti) [1692-1743]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Fischietti, Giovanni (Fischetti)
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: 0
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@@END:		MARC21
+

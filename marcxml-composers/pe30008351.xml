@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe30008351</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210629091657.0</marc:controlfield>
+  <marc:controlfield tag="008">161109n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">66653621</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">118784552</marc:subfield>
+    <marc:subfield code="2">DNB</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">MILV116381</marc:subfield>
+    <marc:subfield code="2">ICCU</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="043" ind1=" " ind2=" ">
+    <marc:subfield code="c">XA-PL</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Moniuszko, Stanisław</marc:subfield>
+    <marc:subfield code="d">1819-1872</marc:subfield>
+    <marc:subfield code="y">05.05.1819-04.06.1872</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Monjusko, Stanislav</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Manjuska, Stanislau</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1="1" ind2=" ">
+    <marc:subfield code="a">Moniuszko, Aleksandra</marc:subfield>
+    <marc:subfield code="i">married to</marc:subfield>
+    <marc:subfield code="0">41024546</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1="1" ind2=" ">
+    <marc:subfield code="a">Moniuszko-Skrobańska, Jadwiga</marc:subfield>
+    <marc:subfield code="i">father of</marc:subfield>
+    <marc:subfield code="0">41021276</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wyhowska, Zofia</marc:subfield>
+    <marc:subfield code="i">father of</marc:subfield>
+    <marc:subfield code="0">41025410</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1="1" ind2=" ">
+    <marc:subfield code="a">Moniuszko, Jan Czesław</marc:subfield>
+    <marc:subfield code="i">father of</marc:subfield>
+    <marc:subfield code="0">50048395</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Conductor</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Organist</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Performer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Piano teacher</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Ubiel</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Warszawa</marc:subfield>
+    <marc:subfield code="i">so</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Vilnius</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Warszawa</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">DEUMM/b</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">1577</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|6</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">1258</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|7</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">3072</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">GroveMO</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">41000731</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">1263</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG|2/p</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">3828</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG Online</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">41000733</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|2/p</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanislaw [1819-1872]</marc:subfield>
+    <marc:subfield code="w">408</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|3</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">30026906</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">SMP</marc:subfield>
+    <marc:subfield code="b">Moniuszko, Stanisław [1819-1872]</marc:subfield>
+    <marc:subfield code="w">1935</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000018959</marc:subfield>
+    <marc:subfield code="y">Samson, J. (2001, January 01). Moniuszko, Stanisław. Grove Music Online. Ed. Retrieved 7 Mar. 2019</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">https://www.mgg-online.com/mgg/stable/28560</marc:subfield>
+    <marc:subfield code="y">RÜDIGER RITTER, Art. Moniuszko, Stanisław in: MGG Online, zuerst veröffentlicht 2004, online veröffentlicht 2016</marc:subfield>
+  </marc:datafield>
+</marc:record>

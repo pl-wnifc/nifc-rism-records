@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe30000244</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20201001130843.0</marc:controlfield>
+  <marc:controlfield tag="008">161109n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">222787547</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">130589535</marc:subfield>
+    <marc:subfield code="2">DNB</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="043" ind1=" " ind2=" ">
+    <marc:subfield code="c">XA-DE</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Bauer, Joseph Anton</marc:subfield>
+    <marc:subfield code="d">1725-1808</marc:subfield>
+    <marc:subfield code="y">17.01.1725-30.08.1808</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Bauer, Joseph</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Bauer, Johann Joseph Anton</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1="1" ind2=" ">
+    <marc:subfield code="a">Bauer, Catharina</marc:subfield>
+    <marc:subfield code="i">father of</marc:subfield>
+    <marc:subfield code="0">30018259</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1="1" ind2=" ">
+    <marc:subfield code="a">Bauer, Martin Anton</marc:subfield>
+    <marc:subfield code="i">related to</marc:subfield>
+    <marc:subfield code="0">41024494</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Performer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Trumpeter</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Elnbogen</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Würzburg</marc:subfield>
+    <marc:subfield code="i">so</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Würzburg</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">DEUMM/b</marc:subfield>
+    <marc:subfield code="b">Bauer, Josef Anton [1725-1808]</marc:subfield>
+    <marc:subfield code="w">1577</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">EitnerQ</marc:subfield>
+    <marc:subfield code="b">Bauer, Joseph [1797+]</marc:subfield>
+    <marc:subfield code="w">1272</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|6</marc:subfield>
+    <marc:subfield code="b">Bauer, Joseph Anton [1725-1808]</marc:subfield>
+    <marc:subfield code="w">1258</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|7</marc:subfield>
+    <marc:subfield code="b">Bauer, Joseph Anton [1725-1808]</marc:subfield>
+    <marc:subfield code="w">3072</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">KirschW 2002</marc:subfield>
+    <marc:subfield code="b">Bauer, Johann Joseph Anton [17.01.1725-30.08.1808]</marc:subfield>
+    <marc:subfield code="w">41001619</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG suppl.</marc:subfield>
+    <marc:subfield code="b">Bauer, Joseph Anton [1725-1808]</marc:subfield>
+    <marc:subfield code="w">2495</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG|2/p</marc:subfield>
+    <marc:subfield code="b">Bauer, Joseph Anton [1725-1808]</marc:subfield>
+    <marc:subfield code="w">3828</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I suppl.</marc:subfield>
+    <marc:subfield code="b">Bauer, Joseph</marc:subfield>
+    <marc:subfield code="w">3808</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I</marc:subfield>
+    <marc:subfield code="b">Bauer, Joseph</marc:subfield>
+    <marc:subfield code="w">3806</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|2/p suppl.</marc:subfield>
+    <marc:subfield code="b">Bauer, Joseph Anton [1725-1808]</marc:subfield>
+    <marc:subfield code="w">2496</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">Onkel von Martin Anton Bauer</marc:subfield>
+  </marc:datafield>
+</marc:record>

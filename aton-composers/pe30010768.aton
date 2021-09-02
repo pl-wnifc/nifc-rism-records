@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30010768
+@MARC-003:	DE-633
+@MARC-005:	20210325085159.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 129018953
+@MARC-0242: DNB
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-100a: Lasso, Ferdinand di
+@MARC-100d: 1560c-1609
+@MARC-100w: x
+@MARC-100y: 1560c-27.08.1609
+@MARC-375a: male
+@MARC-400a: Lasso, Ferdinando di
+@MARC-400j: zx
+@MARC-400a: Ferdinand de Lassus, Ferdinand di
+@MARC-400j: xx
+@MARC-400a: Lassus, Ferdinando de
+@MARC-400j: xx
+@MARC-500a: Lasso, Orlando di
+@MARC-500i: child of
+@MARC-5000: 506
+@MARC-500a: Lasso, Rudolph di
+@MARC-500i: brother of
+@MARC-5000: 30014045
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Kapellmeister
+@MARC-550i: profession
+@MARC-550a: Tenor
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Performer
+@MARC-550i: profession
+@MARC-551a: München
+@MARC-551i: go
+@MARC-551a: München
+@MARC-551i: so
+@MARC-551a: Landshut
+@MARC-551i: wo
+@MARC-551a: München
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Lasso, Ferdinand di (I) (Lassus) [1560c-1609]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Lassus, Ferdinand de I. (Lasso) [1609+]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Lassus, Ferdinando de (Lasso) [1560c-1609]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Lassus, Ferdinand de [1560c-1609]
+@MARC-670w: 3072
+@MARC-670a: MGG
+@MARC-670b: Lasso, Ferdinand di [1560c-1609]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Lassus, Ferdinand de [?1562-1609]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Lasso, Ferdinando di
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Lasso, Ferdinando di
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@@END:		MARC21
+

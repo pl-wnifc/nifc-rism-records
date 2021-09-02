@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe30017605</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210325085554.0</marc:controlfield>
+  <marc:controlfield tag="008">161109n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">28167235</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">130048518</marc:subfield>
+    <marc:subfield code="2">DNB</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">Q4529253</marc:subfield>
+    <marc:subfield code="2">WKP</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="043" ind1=" " ind2=" ">
+    <marc:subfield code="c">XA-PL</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szczurowski, Jacek</marc:subfield>
+    <marc:subfield code="c">SJ</marc:subfield>
+    <marc:subfield code="d">1716-1773p</marc:subfield>
+    <marc:subfield code="y">15.08.1716-1773p</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Hyacinthus Roxolanus, Jacek</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szizurowski, Jacek</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Hiacinthus Roxolanus, Jacek</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Roxolanus, Jacek</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Minor Polonus, Jacek</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Szczeroski, Jacek</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+    <marc:subfield code="i">profession</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+    <marc:subfield code="i">profession</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Gdańsk</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Jarosław</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kalisz</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kraków</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Krosno</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Toruń</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">ChybińskiS</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hyacinthus) (Roxolanus) [1718*]</marc:subfield>
+    <marc:subfield code="w">1773</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">DEUMM/b</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hiacinthus Roxolanus) [1718-1773p]</marc:subfield>
+    <marc:subfield code="w">1577</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">EitnerQ</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">1272</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|6</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hyacinthus) [1716p (1721a)-1773p]</marc:subfield>
+    <marc:subfield code="w">1258</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|7</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hyacinthus) [1718-1773p]</marc:subfield>
+    <marc:subfield code="w">3072</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">GroveMO</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hyacinthus) [1718-1773p]</marc:subfield>
+    <marc:subfield code="w">41000731</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG suppl.</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">2495</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hiacinthus) (Roxolanus; Minor Polonus) [1718-1773p]</marc:subfield>
+    <marc:subfield code="w">1263</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG|2/p</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hyacinthus) [1716-1773p]</marc:subfield>
+    <marc:subfield code="w">3828</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG Online</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hyacinthus) [15.08.1716-1773p]</marc:subfield>
+    <marc:subfield code="w">41000733</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I suppl.</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">3808</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">3806</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|2/p suppl.</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">2496</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|2/p</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">408</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">SMP</marc:subfield>
+    <marc:subfield code="b">Szczurowski, Jacek (Hyacinthus, Roxolanus) [1718-1773p]</marc:subfield>
+    <marc:subfield code="w">1935</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000027297</marc:subfield>
+    <marc:subfield code="y">Szweykowski, Z. (2001). Szczurowski, Jacek. Grove Music Online. Retrieved 20 Mar. 2018</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">https://www.mgg-online.com/mgg/stable/15043</marc:subfield>
+    <marc:subfield code="y">THOMAS SCHMIDT-BESTE, Art. Schmidt (20./21. Jh.), Thomas Christian Schmidt-Beste, in: MGG Online, zuerst veröffentlicht 2005, online veröffentlicht 2016</marc:subfield>
+  </marc:datafield>
+</marc:record>

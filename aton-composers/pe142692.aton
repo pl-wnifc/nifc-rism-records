@@ -1,0 +1,80 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe142692
+@MARC-003:	DE-633
+@MARC-005:	20190408044522.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 197849
+@MARC-0242: VIAF
+@MARC-024a: 117417718
+@MARC-0242: DNB
+@MARC-024a: MUSV065548
+@MARC-0242: ICCU
+@MARC-024a: Q1858238
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-CZ
+@MARC-043c: XA-DE
+@MARC-100a: Triebensee, Josef
+@MARC-100d: 1772-1846
+@MARC-375a: male
+@MARC-400a: Triebensee, Joseph
+@MARC-400j: xx
+@MARC-400a: Trübensee, Josef
+@MARC-400j: xx
+@MARC-400a: Triebensee, J.
+@MARC-400j: xx
+@MARC-400a: Trieb, Joseph
+@MARC-400j: xx
+@MARC-500a: Triebensee, Georg
+@MARC-500i: child of
+@MARC-5000: 30016897
+@MARC-550a: Composer
+@MARC-550a: Oboist
+@MARC-550a: Performer
+@MARC-551a: Wittingau
+@MARC-551i: go
+@MARC-551a: Praha
+@MARC-551i: so
+@MARC-551a: Praha
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Triebensee, Josef (Trübensee) [1772-1846]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Triebensee, Joseph (Trübensee) [(fl. 1796-1824)]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Triebensee, Josef (Trübensee) [1772-1846]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Triebensee, Josef (Trübensee) [1772-1846]
+@MARC-670w: 3072
+@MARC-670a: MGG suppl.
+@MARC-670b: 0
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: Triebensee, Josef (Trübensee) [1772-1846]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Triebensee, Josef (Trübensee) (Josef) [1772-1846]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: 0
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: 0
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@MARC-670a: ČSHS
+@MARC-670b: Triebensee, Josef [1760-1846]
+@MARC-670w: 1625
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0002040C00000000
+@MARC-856y: Schriftprobe 1816 (nach) [D-B Mus.ms.autogr. Triebensee, J. 1 M ]
+@@END:		MARC21
+

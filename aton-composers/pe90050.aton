@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe90050
+@MARC-003:	DE-633
+@MARC-005:	20190327152848.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 66731920
+@MARC-0242: VIAF
+@MARC-024a: 118980025
+@MARC-0242: DNB
+@MARC-024a: CFIV150261
+@MARC-0242: ICCU
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-DE
+@MARC-100a: Himmel, Friedrich Heinrich
+@MARC-100d: 1765-1814
+@MARC-100y: 20.11.1765-08.06.1814
+@MARC-375a: male
+@MARC-400a: Himmer, Friedrich Heinrich
+@MARC-400j: xx
+@MARC-400a: Himmel, ...
+@MARC-400j: xx
+@MARC-400a: Himmel, G. H.
+@MARC-400j: xx
+@MARC-400a: Himmel, Fred. H.
+@MARC-400j: xx
+@MARC-400a: Himel, M.
+@MARC-400j: xx
+@MARC-400a: Himmel, Frédéric Henry
+@MARC-400j: xx
+@MARC-400a: Himmel, F. H.
+@MARC-400j: xx
+@MARC-400a: Himmel, Friedrich H.
+@MARC-400j: xx
+@MARC-400a: Immel, Friedrich Heinrich
+@MARC-400j: xx
+@MARC-400a: Himmel, J. H.
+@MARC-400j: xx
+@MARC-550a: Arranger
+@MARC-550a: Composer
+@MARC-550a: Kapellmeister
+@MARC-550a: Pianist
+@MARC-551a: Treuenbrietzen
+@MARC-551i: go
+@MARC-551a: Berlin
+@MARC-551i: so
+@MARC-551a: Berlin
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 3072
+@MARC-670a: LedeburTLB
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 1281
+@MARC-670a: MGG
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Himmel, Friedrich Heinrich
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Himmel, Friedrich Heinrich
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 408
+@MARC-670a: RiemannL|1|3
+@MARC-670b: Himmel, Friedrich Heinrich [1765-1814]
+@MARC-670w: 30026906
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0000E7E000000000
+@MARC-856y: Schriftprobe (ca. 1800) [D-B Mus.ms.autogr. Himmel, F. H. 7]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0000E7E200000000
+@MARC-856y: Schriftprobe (1809) [D-B Mus.ms.autogr. Himmel, F. H. 14]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0000E7F200000000
+@MARC-856y: Schriftprobe (1811) [D-B Mus.ms.autogr. Himmel, F. H. 17 / p. 1, 55]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0000E7E500000000
+@MARC-856y: Schriftprobe (ca.1803) [D-B Mus.ms.autogr. Himmel, F. H. 4 / f. 38r]
+@@END:		MARC21
+

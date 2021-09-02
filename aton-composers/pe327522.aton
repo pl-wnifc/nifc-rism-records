@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe327522
+@MARC-003:	DE-633
+@MARC-005:	20210325084450.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-DE
+@MARC-100a: Wiltberger, August
+@MARC-100d: 1850-1928
+@MARC-100w: x
+@MARC-100y: 17.04.1850-02.12.1928
+@MARC-375a: male
+@MARC-400a: Wiltberger, Aug.
+@MARC-400j: xx
+@MARC-500a: Wiltberger, Wendel
+@MARC-500i: father of
+@MARC-5000: 30088120
+@MARC-500a: Wiltberger, Heinrich
+@MARC-500i: brother of
+@MARC-5000: 327602
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Bonn-Lessenich/Meßdorf
+@MARC-551i: so
+@MARC-551a: Münstermaifeld
+@MARC-551i: wo
+@MARC-551a: Sobernheim, heute: Bad Sobernheim
+@MARC-551i: go
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: Frank-AltmannTL|1|5 suppl.
+@MARC-670b: Wiltberger, Aug. [1850-1928]
+@MARC-670w: 2497
+@MARC-670a: Grove|6
+@MARC-670b: 0
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: MGG suppl.
+@MARC-670b: 0
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: Wiltberger, August [1850-1928]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Wiltberger, August [1850-1928]
+@MARC-670w: 3828
+@MARC-670a: RefardtHBM
+@MARC-670b: 0
+@MARC-670w: 1466
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@@END:		MARC21
+

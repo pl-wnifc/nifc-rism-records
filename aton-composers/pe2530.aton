@@ -1,0 +1,110 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe2530
+@MARC-003:	DE-633
+@MARC-005:	20201029224156.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 100191935
+@MARC-0242: VIAF
+@MARC-024a: 118505521
+@MARC-0242: DNB
+@MARC-024a: CFIV063756
+@MARC-0242: ICCU
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-DE
+@MARC-043c: XA-GB
+@MARC-100a: Bach, Johann Christian
+@MARC-100d: 1735-1782
+@MARC-100y: 05.09.1735-01.01.1782
+@MARC-375a: male
+@MARC-400a: Bach, Johann C.
+@MARC-400j: xx
+@MARC-400a: Pach, Johann Christian
+@MARC-400j: xx
+@MARC-400a: Bach, John C.
+@MARC-400j: xx
+@MARC-400a: Bach, Jean Chrétien
+@MARC-400j: xx
+@MARC-400a: Bach, Jean Cretien
+@MARC-400j: xx
+@MARC-400a: Bach, Johann-Christian
+@MARC-400j: xx
+@MARC-400a: Baek, ...
+@MARC-400j: xx
+@MARC-400a: Bach, John Christian
+@MARC-400j: xx
+@MARC-400a: Bach, J. Chr.
+@MARC-400j: xx
+@MARC-400a: Bach, J. C.
+@MARC-400j: xx
+@MARC-400a: Bach, Joh. Chr.
+@MARC-400j: xx
+@MARC-400a: Bach, I. C.
+@MARC-400j: xx
+@MARC-400a: Bach, JohannChristian
+@MARC-400j: dv
+@MARC-400a: Bach, Giovanni
+@MARC-400j: ub
+@MARC-500a: Bach, Johann Sebastian
+@MARC-500i: child of
+@MARC-5000: 2539
+@MARC-500a: Grassi, Cecilia
+@MARC-500i: married to
+@MARC-5000: 30034702
+@MARC-550a: Composer
+@MARC-550a: Copyist
+@MARC-550a: Organist
+@MARC-551a: Leipzig
+@MARC-551i: go
+@MARC-551a: London
+@MARC-551i: so
+@MARC-551a: London
+@MARC-551i: wo
+@MARC-551a: Milano
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Bach, Johann Christian [1735-1782]
+@MARC-670w: 1577
+@MARC-670a: DEUMM/b
+@MARC-670b: vide "Bach (famiglia) (71)"
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Bach, Johann Christian [1735-1782]
+@MARC-670w: 1258
+@MARC-670a: Grove|6
+@MARC-670b: vide "Bach (50); §III (12)"
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Bach, Johann Christian [1735-1782]
+@MARC-670w: 3072
+@MARC-670a: Grove|7
+@MARC-670b: vide "Bach (50); §III (12)"
+@MARC-670w: 3072
+@MARC-670a: MGG
+@MARC-670b: Bach, Johann Christian [1735-1782]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Bach, Johann Christian [1735-1782]
+@MARC-670w: 3828
+@MARC-670a: MGG|2/p
+@MARC-670b: vide "Bach (Familie) (50)"
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Bach, Johann Christian
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Bach, Johann Christian
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Bach, Johann Christian [1735-1782]
+@MARC-670w: 408
+@MARC-670a: RiemannL|1|3
+@MARC-670b: Bach, Johann Christian [1735-1782]
+@MARC-670w: 30026906
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0002C0E100000000
+@MARC-856y: Schriftprobe (1755, Stammbucheintrag)
+@@END:		MARC21
+

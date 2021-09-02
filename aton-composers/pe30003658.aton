@@ -1,0 +1,37 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30003658
+@MARC-003:	DE-633
+@MARC-005:	20210325084750.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-040a: DE-633
+@MARC-042a: not individualized
+@MARC-100a: Ziegler
+@MARC-100w: a
+@MARC-375a: unknown
+@MARC-550a: Author
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Copyist
+@MARC-550i: profession
+@MARC-550a: Performer
+@MARC-550i: profession
+@MARC-550a: Possessor
+@MARC-550i: profession
+@MARC-670a: EitnerQ
+@MARC-670b: ]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: ]
+@MARC-670w: 1258
+@MARC-670a: MGG
+@MARC-670b: ]
+@MARC-670w: 1263
+@MARC-670a: RISM A/I
+@MARC-670b: ]
+@MARC-670w: 3806
+@MARC-670a: ČSHS
+@MARC-670b: ]
+@MARC-670w: 1625
+@@END:		MARC21
+

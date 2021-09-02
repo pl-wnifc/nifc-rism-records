@@ -1,0 +1,107 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Sep  2 07:38:46 CEST 2021
+# Last Modified: Thu Sep  2 07:38:49 CEST 2021
+# Filename:      nifc-rism/bin/checkComposers
+# Syntax:        perl 5
+#
+# Description:   Compare the list of composers from the metadata
+#                spreadsheet to the names in the RISM MARC authority
+#                files for the composer.  Print cases where the 
+#                names do not exactly match in the form:
+#                   spreadsheet-name     rism-id     rism-name
+#                The rism-name should be added to the corrected name
+#                column in the spreadsheet, and then the Humdrum files
+#                should be processed to insert the new names.  Then
+#                The corrected name should replace the old name
+#                in the spreadsheet, and then the work metadata
+#                composer list should be checked for #N/A or #N/D
+#                composer names which should be fixed (manually).
+#
+# Notes:         Composer record is 100a
+#
+
+use strict;
+
+die "Usage: $0 list-composers.txt aton-composers" if @ARGV == 0;
+
+my $listfile = $ARGV[0];
+my $atondir = $ARGV[1];
+
+die "Cannot read file $listfile\n" if !-r $listfile;
+die "$listfile is not a file \n" if -d $listfile;
+die "Problem processing directory $listfile\n" if !-d $atondir;
+
+my %list = getFileList($listfile);
+my %marc = getMarcList($atondir);
+
+my @keys = keys %list;
+
+foreach my $key (@keys) {
+	my $id = $key;
+	my $listname = $list{$id};
+	my $rismname = $marc{$id};
+	next if $listname eq "Anonim";
+	if ($listname ne $rismname) {
+		print "$listname\t$id\t$rismname\n";
+	} else {
+		# print "NAMES MATCH: $id\t$rismname\n";
+	}
+}
+
+exit(0);
+
+###########################################################################
+
+
+##############################
+##
+## getMarcList --
+##
+
+sub getMarcList {
+	my ($dir) = @_;
+	my @contents = `grep "^\@MARC-100a" $dir/*.aton`;
+	chomp @contents;
+	my %output;
+
+	foreach my $line (@contents) {
+		print STDERR "PROBLEM WITH LINE $line\n" if $line !~ /(pe\d+)/;
+		my $id = $1;
+		print STDERR "PROBLEM WITH LINEB $line\n" if $line !~ /MARC-100a:\s*(.*)\s*$/;
+		my $composer = $1;
+		$output{$id} = $composer;
+	}
+
+	return %output;
+}
+
+
+
+##############################
+##
+## getFileList --
+##
+
+sub getFileList {
+	my ($file) = @_;
+	open(FILE, $file) or die;
+	my @contents = <>;
+	chomp @contents;
+	close FILE;
+	my %output;
+	foreach my $line (@contents) {
+		next if $line =~ /^\s*$/;
+		my @data = split(/\t+/, $line);
+		next if @data < 2;
+		my $composer = $data[1];
+		my $rismid = $data[0];
+		$output{$rismid} = $composer;
+	}
+
+	return %output;
+}
+
+
+

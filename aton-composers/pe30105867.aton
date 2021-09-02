@@ -1,0 +1,59 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30105867
+@MARC-003:	DE-633
+@MARC-005:	20210325093150.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Paszkiewicz, Andrzej
+@MARC-100c: OCarm
+@MARC-100d: 1635c-1685
+@MARC-100w: x
+@MARC-375a: male
+@MARC-400a: Paszkiewicz, Jan
+@MARC-400j: xx
+@MARC-400a: Paskiewicz, Andrzej
+@MARC-400j: xx
+@MARC-400a: Paskowicz, Andrzej
+@MARC-400j: xx
+@MARC-400a: Paszkiewicz, Andreas
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Theologian
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Kraków
+@MARC-551i: go
+@MARC-551a: Lublin
+@MARC-551i: so
+@MARC-551a: Kraków
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Paszkiewicz, Andrzej [17.sc]
+@MARC-670w: 1577
+@MARC-670a: EM/b
+@MARC-670b: Paszkiewicz, Andrzej (Paskiewicz; Paskowicz) [1635c-1685]
+@MARC-670w: 1793
+@MARC-670a: EitnerQ
+@MARC-670b: Paszkiewicz, Andreas [17.2d]
+@MARC-670w: 1272
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: 0
+@MARC-670w: 1290
+@MARC-670a: SMP
+@MARC-670b: Paszkiewicz, Andrzej [(fl 1670)]
+@MARC-670w: 1935
+@@END:		MARC21
+

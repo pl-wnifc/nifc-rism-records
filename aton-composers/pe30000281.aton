@@ -1,0 +1,84 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30000281
+@MARC-003:	DE-633
+@MARC-005:	20200827100953.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 18544157
+@MARC-0242: VIAF
+@MARC-024a: MUSV005888
+@MARC-0242: ICCU
+@MARC-024a: MUSV005756
+@MARC-0242: ICCU
+@MARC-024a: 13432546X
+@MARC-0242: DNB
+@MARC-024a: Q2050303
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-IT
+@MARC-100a: Bellinzani, Paolo Benedetto
+@MARC-100d: 1690c-1757
+@MARC-100y: 1690c-25.02.1757
+@MARC-375a: male
+@MARC-400a: Belinzani, Benedetto
+@MARC-400a: Belinzani, Paolo Benedetto
+@MARC-400a: Bellizani, Paolo Benedetto
+@MARC-400a: Bellinzani, Paolo B.
+@MARC-400a: Bellinzani, Paolo
+@MARC-550a: Composer
+@MARC-550a: Maestro di cappella
+@MARC-551a: Ferrara
+@MARC-551i: go
+@MARC-551a: Recanati
+@MARC-551i: so
+@MARC-551a: Fano
+@MARC-551i: wo
+@MARC-551a: Ferrara
+@MARC-551i: wo
+@MARC-551a: Orvieto
+@MARC-551i: wo
+@MARC-551a: Pesaro
+@MARC-551i: wo
+@MARC-551a: Recanati
+@MARC-551i: wo
+@MARC-551a: Udine
+@MARC-551i: wo
+@MARC-551a: Urbino
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Bellinzani, Paolo Benedetto [1690c-1757]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Belinzani, Paolo Benedetto (Bellinzani; Bellizani) [(fl. 1717-1737)]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Bellinzani, Paolo Benedetto [1690c-1757]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Bellinzani, Paolo Benedetto [1690c-1757]
+@MARC-670w: 3072
+@MARC-670a: MGG suppl.
+@MARC-670b: Bellinzani, Paolo Benedetto [17.ex-1757]
+@MARC-670w: 2495
+@MARC-670a: MGG|2/s
+@MARC-670b: vide 9, 1102; 9, 1203 (Bellinzani, P. B. [(fl. 1715-1734)])
+@MARC-670w: 1290
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Bellinzani, Paolo Benedetto
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Bellinzani, Paolo Benedetto
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Bellinzani, Paolo Benedetto [1690c-1757]
+@MARC-670w: 408
+@MARC-670a: Rizzoli-RicordiE
+@MARC-670b: Bellinzani, Paolo Benedetto [1690c-1757]
+@MARC-670w: 1754
+@MARC-680a: 1715-1723 Maestro di capella in Udine
+@MARC-680a: 1730-1734 Maestro di capella in Urbino
+@@END:		MARC21
+

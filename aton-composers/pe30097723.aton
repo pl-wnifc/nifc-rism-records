@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30097723
+@MARC-003:	DE-633
+@MARC-005:	20210325092815.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Łukaszewicz, Maciej
+@MARC-100d: 1685+
+@MARC-100w: x
+@MARC-375a: male
+@MARC-400a: Lukaszewicz, Mathias
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Conductor
+@MARC-550i: profession
+@MARC-550a: Singer
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Krakow
+@MARC-551i: so
+@MARC-551a: Krakow
+@MARC-551i: wo
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: EM/b
+@MARC-670b: Łukaszewicz, Maciej [1685+]
+@MARC-670w: 1793
+@MARC-670a: EitnerQ
+@MARC-670b: Lukaszewicz, Mathias [(fl 1668-1680)]
+@MARC-670w: 1272
+@MARC-670a: Grove|7
+@MARC-670b: Łukaszewicz, Maciej [1685+]
+@MARC-670w: 3072
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: vide 7, 1644
+@MARC-670w: 1290
+@MARC-670a: MGG|2/s
+@MARC-670b: Łukaszewicz, M. [(fl 1681-1685)]
+@MARC-670w: 1290
+@MARC-670a: SMP
+@MARC-670b: vide 1, 241
+@MARC-670w: 1935
+@MARC-670a: SMP
+@MARC-670b: Łukaszewicz, Maciej [1685+]
+@MARC-670w: 1935
+@@END:		MARC21
+

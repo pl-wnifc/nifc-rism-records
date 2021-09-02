@@ -60,7 +60,18 @@ sub downloadMarcXml {
 	my $file = "$targetdir/$rismid.xml";
 	return if -r "$file";
 	print "Downloading $targetdir/$rismid.xml";
-	my $command = "$wget https://opac.rism.info/id/rismid/$rismid?format=marc -O - | xmllint --format -";
+
+	my $url;
+	if ($rismid =~ /^pe/) {
+		# composer record
+		$url = "https://opac.rism.info/id/rismauthorities/$rismid?format=marc";
+	} else {
+		# work record
+		$url = "https://opac.rism.info/id/rismid/$rismid?format=marc";
+	}
+
+	my $command = "$wget \"$url\" -O - | xmllint --format -";
+
 	my $contents = `$command`;
 	if ($contents =~ /^\s*$/) {
 		print STDERR "\t***** ERROR: RISM ID $rismid has no MarcXML data\n";

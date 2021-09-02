@@ -1,4 +1,12 @@
 #!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Sep  2 07:45:55 CEST 2021
+# Last Modified: Thu Sep  2 07:45:58 CEST 2021
+# Filename:      nifc-rism/bin/marcxml2aton
+# Syntax:        perl 5
+#
+# Description:   Convert MarcXml data into ATON data.
 
 use strict;
 

@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30102784
+@MARC-003:	DE-633
+@MARC-005:	20210325093101.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 135256860
+@MARC-0242: DNB
+@MARC-024a: 310946867
+@MARC-0242: DNB
+@MARC-024a: 103792759
+@MARC-0242: DNB
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-FR
+@MARC-100a: Samin, Vulfran
+@MARC-100d: 16.sc
+@MARC-100w: k
+@MARC-100y: fl. 1543-1559
+@MARC-375a: male
+@MARC-400a: Samin, Vul.
+@MARC-400j: xx
+@MARC-400a: Samin, Vulfranus
+@MARC-400j: xx
+@MARC-400a: Vulfran
+@MARC-400j: xx
+@MARC-400a: Vulfram
+@MARC-400j: xx
+@MARC-400a: Vulfrant
+@MARC-400j: xx
+@MARC-400a: Samin, Vulfram
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Singer
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Amiens
+@MARC-551i: wo
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: Samin, Vulfran [16.sc]
+@MARC-670w: 2957
+@MARC-670a: EitnerQ
+@MARC-670b: Samin, Vulfran (Vulfran; Vulfram; Vulfrant) [16.sc]
+@MARC-670w: 1272
+@MARC-670a: Grove|7
+@MARC-670b: Samin, Vulfran [(fl 1543-1559)]
+@MARC-670w: 3072
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: MGG|2/p
+@MARC-670b: Samin, Vulfran [(s.d.)]
+@MARC-670w: 3828
+@MARC-670a: MGG|2/p
+@MARC-670b: vide 2, 109
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: Samin, Vulfran [(fl 1543)]
+@MARC-670w: 1290
+@MARC-670a: MGG|2/s
+@MARC-670b: vide 1, 570
+@MARC-670w: 1290
+@MARC-670a: RISM B/I
+@MARC-670b: Samin, Vulfran [16.sc]
+@MARC-670w: 30000057
+@@END:		MARC21
+

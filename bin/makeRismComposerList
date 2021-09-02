@@ -1,0 +1,72 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Sep  2 06:12:03 CEST 2021
+# Last Modified: Thu Sep  2 06:24:44 CEST 2021
+# Filename:      nifc-rism/bin/makeRismComposerList
+# Syntax:        perl 5
+#
+# Description:   Collate a list of RISM Composer IDs extracted
+#                from composer index for POPC2.
+#
+
+use strict;
+
+my $wget = `which wget`;
+chomp $wget;
+die "Cannot find wget program\n" if $wget =~ /^\s*$/;
+
+my $field = "COM-rism";
+
+my $macroid = "AKfycbwsvObIXCc-hJmM2lxExHZqbspFiDMMFJkX_8GDzefGvqC-q0tjR_yO4cfcgp4d8BqFfw";
+
+my @aton = `$wget "https://script.google.com/macros/s/$macroid/exec?format=aton" -O - 2> /dev/null`;
+chomp @aton;
+
+my %ids;
+
+my $composer;
+my $rismid;
+foreach my $line (@aton) {
+	if ($line =~ /\@\@BEGIN:/) {
+		$composer = "";
+		$rismid = "";
+		next;
+	}
+	if ($line =~ /\@\@END:/) {
+		if ($rismid !~ /^\s*$/) {
+			die "RISM ID $rismid already used.\n" if $ids{$rismid} !~ /^\s*$/;
+			$ids{$rismid} = $composer;
+		}
+		$composer = "";
+		$rismid = "";
+		next;
+	}
+	if ($line =~ /\@COM:\s*(.*)\s*$/) {
+		$composer = "$1";
+		next;
+	}
+	if ($line =~ /\@COM-rism:\s*(.*)\s*$/) {
+		$rismid = "$1";
+		next;
+	}
+}
+
+my @keys = sort { 
+	$a =~ /(\d+)/;
+	my $A  = $1;
+	$b =~ /(\d+)/;
+	my $B  = $1;
+	return $A <=> $B;
+} keys %ids;
+
+die "ERROR: Problem downloading data\n" if @keys == 0;
+
+foreach my $key (@keys) {
+	print "$key\t$ids{$key}\n";
+}
+
+
+exit 0;
+
+

@@ -1,0 +1,52 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30006011
+@MARC-003:	DE-633
+@MARC-005:	20210325084916.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 38034911
+@MARC-0242: VIAF
+@MARC-024a: 130876704
+@MARC-0242: DNB
+@MARC-024a: Q7192115
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-FR
+@MARC-100a: Cadéac, Pierre
+@MARC-100d: 16.sc
+@MARC-100y: fl. 1500-1599
+@MARC-375a: male
+@MARC-400a: Cadeac, Pierre
+@MARC-400j: z
+@MARC-400a: Cadéac, Petrus
+@MARC-400a: Cadéac, P.
+@MARC-550a: Composer
+@MARC-670a: DEUMM/b
+@MARC-670b: Cadéac, Pierre [16.sc]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Cadeac, Pierre [(fl. 1556c)]
+@MARC-670w: 1272
+@MARC-670a: Grove|5
+@MARC-670b: Cadéac, Pierre [16.sc]
+@MARC-670w: 407
+@MARC-670a: Grove|6
+@MARC-670b: Cadéac, Pierre [(fl. 1538-56)]
+@MARC-670w: 1258
+@MARC-670a: MGG
+@MARC-670b: Cadeac, Pierre [16.1d*]
+@MARC-670w: 1263
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Cadeac, Pierre
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Cadeac, Pierre
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: Cadéac, Pierre [16.sc]
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Cadéac, Pierre [16.sc]
+@MARC-670w: 408
+@@END:		MARC21
+

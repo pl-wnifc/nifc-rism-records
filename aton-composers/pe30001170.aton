@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30001170
+@MARC-003:	DE-633
+@MARC-005:	20210325084632.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 12963414X
+@MARC-0242: DNB
+@MARC-024a: 54415652
+@MARC-0242: VIAF
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-CZ
+@MARC-100a: Führer, Robert
+@MARC-100d: 1807-1861
+@MARC-100w: x
+@MARC-100y: 02.06.1807-28.11.1861
+@MARC-375a: male
+@MARC-400a: Führer, Robert Jan Nepomuk
+@MARC-400j: xx
+@MARC-400a: Führer, Robert Johann Nepomuk
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Conductor
+@MARC-550i: profession
+@MARC-550a: Organist
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Performer
+@MARC-550i: profession
+@MARC-551a: Gmunden
+@MARC-551i: wo
+@MARC-551a: Praha
+@MARC-551i: wo
+@MARC-551a: Salzburg
+@MARC-551i: wo
+@MARC-551a: Wien
+@MARC-551i: wo
+@MARC-551a: Praha
+@MARC-551i: go
+@MARC-551a: Wien
+@MARC-551i: so
+@MARC-670a: DEUMM/b
+@MARC-670b: Führer, Robert Johann Nepomuk [1807-1861]
+@MARC-670w: 1577
+@MARC-670a: Grove|6
+@MARC-670b: Führer, Robert (Jan Nepomuk) [1807-1861]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Führer, Robert (Jan Nepomuk) [1807-1861]
+@MARC-670w: 3072
+@MARC-670a: MGG
+@MARC-670b: Führer, Robert Johann Nepomuk [1807-1861]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Führer, Robert (Johann Nepomuk) [1807-1861]
+@MARC-670w: 3828
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Führer, Robert [1807-1861]
+@MARC-670w: 408
+@MARC-670a: ČSHS
+@MARC-670b: Führer, Robert (Jan Nepomuk) [1807-1861]
+@MARC-670w: 1625
+@MARC-856u: http://dl.rism.info/DO/10615.jpg
+@MARC-856y: Digital Object Person Link
+@@END:		MARC21
+

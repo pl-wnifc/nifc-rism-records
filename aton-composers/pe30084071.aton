@@ -1,0 +1,63 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30084071
+@MARC-003:	DE-633
+@MARC-005:	20210325092303.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-100a: Zangl, Johann Baptist
+@MARC-100d: 1822-1865
+@MARC-100w: x
+@MARC-100y: 23.07.1822-10.06.1865
+@MARC-375a: male
+@MARC-500a: Zangl, Josef Gregor
+@MARC-500i: brother of
+@MARC-5000: 328301
+@MARC-550a: Choirmaster
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Kapellmeister
+@MARC-550i: profession
+@MARC-550a: Copyist
+@MARC-550i: profession
+@MARC-551a: Bruneck
+@MARC-551i: wo
+@MARC-551a: Steinach am Brenner
+@MARC-551i: go
+@MARC-551a: Bruneck
+@MARC-551i: so
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: KnappK 1993
+@MARC-670b: Zangl, Johann Baptist [1822-1865]
+@MARC-670w: 2506
+@MARC-670a: KnappK 1997
+@MARC-670b: Zangl, Johann Baptist [1822-1865]
+@MARC-670w: 30020206
+@MARC-670a: KnappK 2007
+@MARC-670b: Zangl, Johann Baptist [1822-1865]
+@MARC-670w: 30026284
+@MARC-670a: MCL
+@MARC-670b: 0
+@MARC-670w: 1635
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: 0
+@MARC-670w: 1290
+@MARC-680a: 1854-1865 "Chordirigent" an der Pfarrkirche und "städtischer Kapellmeister" in Bruneck (http://www.pfarrchor.it/chronik/regenten.htm)
+@MARC-680a: "Pfarrchorregent und Kapellmeister zu Bruneck" (laut Sterbebildchen, Abbildung bei KnappK 1997, p.64)
+@@END:		MARC21
+

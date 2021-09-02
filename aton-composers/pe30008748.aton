@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30008748
+@MARC-003:	DE-633
+@MARC-005:	20210325085046.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 103786554
+@MARC-0242: DNB
+@MARC-024a: 74274367
+@MARC-0242: VIAF
+@MARC-024a: 24785834
+@MARC-0242: VIAF
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Gołąbek, Jakub
+@MARC-100d: 1739c-1789
+@MARC-100w: x
+@MARC-100y: 1739c-30.03.1789
+@MARC-375a: male
+@MARC-400a: Gollumbek, Jakub
+@MARC-400j: xx
+@MARC-400a: Gollumbek, Silesianus
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Pedagogue
+@MARC-550i: profession
+@MARC-550a: Singer
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Kraków
+@MARC-551i: so
+@MARC-551a: Kraków
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Gołąbek, Jakub (Gollumbek, Silesianus) [1739-1789]
+@MARC-670w: 1577
+@MARC-670a: EM/b
+@MARC-670b: Gołąbek, Jakub [1739-1789]
+@MARC-670w: 1793
+@MARC-670a: EitnerQ
+@MARC-670b: 0
+@MARC-670w: 1272
+@MARC-670a: Grove|5
+@MARC-670b: Gołąbek, Jakób (Gollumbek) [1789+]
+@MARC-670w: 407
+@MARC-670a: Grove|6
+@MARC-670b: Gołąbek, Jakub [1739-1789]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Gołąbek, Jakub [1739c-1789]
+@MARC-670w: 3072
+@MARC-670a: MGG suppl.
+@MARC-670b: Gołąbek, Jakub (Gollumbek)[ 1739c-1789]
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: 0
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Gołąbek, Jakub (Gołumbek) [1739c-1789]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: 0
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: 0
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@@END:		MARC21
+
