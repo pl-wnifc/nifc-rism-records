@@ -147,7 +147,7 @@ aton-composers:
 ##     entries for each composer.
 ##
 
-mc: work-composers
+wc: work-composers
 work-composer: work-composers
 work-composers:
 	(cd aton-works; grep -h MARC-100a * | sed 's/@MARC-100a: //' | sort | uniq -c)
