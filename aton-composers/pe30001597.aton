@@ -1,0 +1,83 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30001597
+@MARC-003:	DE-633
+@MARC-005:	20190403053839.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 39428131
+@MARC-0242: VIAF
+@MARC-024a: 118983849
+@MARC-0242: DNB
+@MARC-024a: MUSV034729
+@MARC-0242: ICCU
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-FR
+@MARC-043c: XA-MT
+@MARC-100a: Isouard, Nicolas
+@MARC-100d: 1775-1818
+@MARC-100y: 06.12.1775-23.03.1818
+@MARC-375a: male
+@MARC-400a: Isoiar, Nicolò
+@MARC-400j: xx
+@MARC-400a: Nicolò
+@MARC-400j: da
+@MARC-400a: Nicolo da Malta
+@MARC-400j: da
+@MARC-400a: Nicolò de Malthe
+@MARC-400j: da
+@MARC-400a: Isoard, Nicolas
+@MARC-400j: xx
+@MARC-400a: Nicolò de Malte
+@MARC-400j: da
+@MARC-400a: Isouard, Niccola
+@MARC-400a: Isouard, Nicolò
+@MARC-550a: Composer
+@MARC-550a: Maître de chapelle
+@MARC-550a: Organist
+@MARC-550a: Composer
+@MARC-550a: Possessor
+@MARC-551a: Musta
+@MARC-551i: go
+@MARC-551a: Paris
+@MARC-551i: so
+@MARC-551a: Paris
+@MARC-551i: wo
+@MARC-551a: Valletta
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Isouard, Nicolò (Nicolas) (Nicolò de Malte) [1775-1818]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Isouard, Nicolo (Nicolo; Nicolo da Malta) [1774c* (1775*)-1818]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Isouard, Nicolas (Nicolò; Isoiar, Nicolò; Nicolò de Malte) [1775-1818]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Isouard, Nicolò (Nicholas; Nicolas; Nicolo) (Isoiar, Nicolò; Nicolò de Malt(h)e) [1775-1818]
+@MARC-670w: 3072
+@MARC-670a: MGG
+@MARC-670b: Isouard, Nicolas [1775-1818]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Isouard, Nicolas (Nicolò; Nicolò de Malte) [1775 (1773)-1818]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: 0
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: 0
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: Isouard, Nicolas (Nicolò Isoiar) [1775-1818]
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Isouard, Niccolò (Niccolò de Malta) [1775-1818]
+@MARC-670w: 408
+@MARC-670a: RiemannL|1|3
+@MARC-670b: Isouard, Nicolas (Nicolò Isoiar; Nicolò de Malte) [1775-1818]
+@MARC-670w: 30026906
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0000C2BB00000000
+@MARC-856y: Schriftprobe 1815 [D-B Mus.ms.autogr. Isouard, N. 1]
+@@END:		MARC21
+

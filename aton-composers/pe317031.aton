@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe317031
+@MARC-003:	DE-633
+@MARC-005:	20210325084448.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 103812202
+@MARC-0242: DNB
+@MARC-024a: 134423631
+@MARC-0242: DNB
+@MARC-024a: 310113636
+@MARC-0242: DNB
+@MARC-024a: 61974199
+@MARC-0242: VIAF
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-DE
+@MARC-100a: Kayser, Isfrid
+@MARC-100c: OPraem
+@MARC-100d: 1712-1771
+@MARC-100w: x
+@MARC-100y: 1712-01.03.1771
+@MARC-375a: male
+@MARC-400a: Kayser, Laurentius Antonius
+@MARC-400j: tn
+@MARC-400a: Kaiser, Isfrid
+@MARC-400j: xx
+@MARC-400a: Kaiser, Isfried
+@MARC-400j: xx
+@MARC-400a: Kayser, Isfrido
+@MARC-400j: xx
+@MARC-400a: Kayser, Isfridus
+@MARC-400j: xx
+@MARC-400a: Kayser, Isfried
+@MARC-400j: xx
+@MARC-550a: Clergyman
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Organist
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Obermarchtal
+@MARC-551i: wo
+@MARC-551a: Obermarchtal
+@MARC-551i: so
+@MARC-670a: DEUMM/b
+@MARC-670b: Kayser, Isfrid [1712-1771]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Kayser, Isfrid [18.me]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Kayser, Isfrid [1712-1771]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Kayser, Isfrid [1712-1771]
+@MARC-670w: 3072
+@MARC-670a: MGG
+@MARC-670b: Kayser, Isfrid [1712-1771]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Kayser, Isfrid OPraem (Laurentius Antonius Kayser) [bapt. 13.03.1712-1771]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Kayser, Isfrid
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Kayser, Isfrid
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@@END:		MARC21
+

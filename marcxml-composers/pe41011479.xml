@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe41011479</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20180705134821.0</marc:controlfield>
+  <marc:controlfield tag="008">180328n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">ger</marc:subfield>
+    <marc:subfield code="c">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Pichler, Johann Melchior</marc:subfield>
+    <marc:subfield code="d">1695*</marc:subfield>
+    <marc:subfield code="y">bapt. 19.02.1695-</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Bichler</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Wien</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">ÁgústssonL 2017</marc:subfield>
+    <marc:subfield code="b">Pichler, Johann Melchior [1695*]</marc:subfield>
+    <marc:subfield code="w">41001180</marc:subfield>
+  </marc:datafield>
+</marc:record>

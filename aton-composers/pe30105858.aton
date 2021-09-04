@@ -1,0 +1,56 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30105858
+@MARC-003:	DE-633
+@MARC-005:	20210325093150.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 103800840
+@MARC-0242: DNB
+@MARC-024a: 57034755
+@MARC-0242: VIAF
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Krener, Jan
+@MARC-100d: 17.sc
+@MARC-100w: i
+@MARC-100y: fl. 1630-1669
+@MARC-375a: male
+@MARC-400a: Crener, Jan
+@MARC-400j: xx
+@MARC-400a: Krener, Johann
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Kraków
+@MARC-551i: wo
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: EM/b
+@MARC-670b: Krener, Jan (Crener) [17.sc]
+@MARC-670w: 1793
+@MARC-670a: EitnerQ
+@MARC-670b: Krener, Johann [(fl 1630)]
+@MARC-670w: 1272
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: 0
+@MARC-670w: 1290
+@MARC-670a: SMP
+@MARC-670b: Krener, Jan [(fl 1669)]
+@MARC-670w: 1935
+@@END:		MARC21
+

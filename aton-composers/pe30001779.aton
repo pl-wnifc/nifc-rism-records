@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30001779
+@MARC-003:	DE-633
+@MARC-005:	20210325084650.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 60295905
+@MARC-0242: VIAF
+@MARC-024a: 100201946
+@MARC-0242: DNB
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-DE
+@MARC-100a: Kraus, Lambert
+@MARC-100c: OSB
+@MARC-100d: 1728-1790
+@MARC-100y: bapt. 27.09.1728-27.11.1790
+@MARC-375a: male
+@MARC-400a: Kraus, Philipp Josef Anton
+@MARC-400j: tn
+@MARC-400a: Kraus, Philipp Joseph Anton
+@MARC-400a: Krause, Lambert
+@MARC-550a: Abbot
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Copyist
+@MARC-550i: profession
+@MARC-550a: Possessor
+@MARC-550i: profession
+@MARC-550a: Regens chori
+@MARC-550i: profession
+@MARC-551a: Pfreimd
+@MARC-551i: go
+@MARC-551a: Metten
+@MARC-551i: so
+@MARC-551a: Metten
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Kraus, Philipp Josef Anton [bapt. 27.09.1729-1790]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Kraus, Lambert [1728-1790]
+@MARC-670w: 1272
+@MARC-670a: Grove|5
+@MARC-670b: Kraus, Lambert [1790+]
+@MARC-670w: 407
+@MARC-670a: Grove|6
+@MARC-670b: 0
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: KBM 1
+@MARC-670b: Kraus, Lambert [bapt. 27.09.1728-1790]
+@MARC-670w: 1511
+@MARC-670a: MGG suppl.
+@MARC-670b: 0
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: Kraus, Philipp Josef Anton, Pater Lambert [bapt. 27.09.1729-1790]
+@MARC-670w: 1263
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Kraus, Philipp Joseph Anton, Lambert
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Kraus, Philipp Joseph Anton, Lambert
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@MARC-680a: Seit 1770 Abt im Benediktinerkloster Metten
+@@END:		MARC21
+

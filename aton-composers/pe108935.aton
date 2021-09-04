@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe108935
+@MARC-003:	DE-633
+@MARC-005:	20190411081107.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 42605931
+@MARC-0242: VIAF
+@MARC-024a: 117081523
+@MARC-0242: DNB
+@MARC-024a: RMRV009362
+@MARC-0242: ICCU
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-AT
+@MARC-043c: XA-DE
+@MARC-100a: Jansa, Leopold
+@MARC-100d: 1795-1875
+@MARC-100y: 23.03.1795-24.01.1875
+@MARC-375a: male
+@MARC-550a: Arranger
+@MARC-550a: Composer
+@MARC-550a: Music director
+@MARC-550a: Music teacher
+@MARC-550a: Violinist
+@MARC-551a: Ústí nad Orlicí
+@MARC-551i: go
+@MARC-551a: Wien
+@MARC-551i: so
+@MARC-551a: Braunschweig
+@MARC-551i: wo
+@MARC-551a: Wien
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Jansa, Leopold [1795-1875]
+@MARC-670w: 1577
+@MARC-670a: Grove|5
+@MARC-670b: Jansa, Leopold [1795-1875]
+@MARC-670w: 407
+@MARC-670a: Grove|6
+@MARC-670b: Jansa, Leopold [1795-1875]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Jansa, Leopold [1795-1875]
+@MARC-670w: 3072
+@MARC-670a: MGG suppl.
+@MARC-670b: Jansa, Leopold [1795-1875]
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: Jansa, Leopold [1795-1875]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Jansa, Leopold [1795-1875]
+@MARC-670w: 3828
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Jansa, Leopold [1795-1875]
+@MARC-670w: 408
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0000BCC800000000
+@MARC-856y: Schriftprobe [D-B Mus.ms.autogr. Jansa, L. 1 M]
+@@END:		MARC21
+

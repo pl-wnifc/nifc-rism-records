@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe30020354</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20190321132917.0</marc:controlfield>
+  <marc:controlfield tag="008">161109n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">70188820</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">131998455</marc:subfield>
+    <marc:subfield code="2">DNB</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Neumann, Anton</marc:subfield>
+    <marc:subfield code="d">1721-1776</marc:subfield>
+    <marc:subfield code="y">bapt. 07.03.1721-1776</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Neyman, Anton</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Neumann, Johann Heinrich</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Composer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Music director</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Violinist</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Horní Řasnice</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Brno</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Hošťálkovy ve Slezsku</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kraków</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kroměříž</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Olomouc</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Uničov</marc:subfield>
+    <marc:subfield code="i">wo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">ČSHS</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">1625</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">DEUMM/b</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">1577</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">EitnerQ</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">1272</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">Grove|6</marc:subfield>
+    <marc:subfield code="b">Neumann, Anton [1740-1776]</marc:subfield>
+    <marc:subfield code="w">1258</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">GroveMO</marc:subfield>
+    <marc:subfield code="b">Neumann, Anton [1720p (1730a)-21.11.1776 (22.11.1776)]</marc:subfield>
+    <marc:subfield code="w">41000731</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG suppl.</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">2495</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">MGG</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">1263</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I suppl.</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">3808</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I</marc:subfield>
+    <marc:subfield code="b">]</marc:subfield>
+    <marc:subfield code="w">3806</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|2/p suppl.</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">2496</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">RiemannL|1|2/p</marc:subfield>
+    <marc:subfield code="b">0</marc:subfield>
+    <marc:subfield code="w">408</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">1738-1743 Turnergesell in Brno (Brünn) als Violinist</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">1755 Violinist in der Schlosskapelle Hošťálkovy ve Slezsku (Gotschdorf)</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">1758 Stadtturner in Uničov (Mährisch Neustadt)</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">1759-1763 Musikdirektor bei den Olmützer Bischöfen Leopold Egkh und Maximilián Hamilton in Kroměříž (Kremsier)</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">1764-spätestens 1767 Musikdirektor beim Krakauer Bischof Kajetan Sołtyk</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">Spätestens 1767-1769 in Oberösterreich tätig</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">Ab 1769 war Neumann als Domkapellmeister in Olmütz angestellt</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">Zwischen 1743-1754 musste Anton Neumann seinen Vornamen von Johann Heinrich auf Anton ändern</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="680" ind1=" " ind2=" ">
+    <marc:subfield code="a">Biographische Daten laut Mitteilung von MgA. Marek Čermák, Institut für Musikwissenschaft, Brno</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000019777</marc:subfield>
+    <marc:subfield code="y">Sehnal, J. (2001, January 01). Neumann, Anton. Grove Music Online. Ed. Retrieved 21 Mar. 2019</marc:subfield>
+  </marc:datafield>
+</marc:record>

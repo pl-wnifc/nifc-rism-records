@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30008527
+@MARC-003:	DE-633
+@MARC-005:	20191030094822.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 42128210
+@MARC-0242: VIAF
+@MARC-024a: 137452640
+@MARC-0242: DNB
+@MARC-024a: TO0V399961
+@MARC-0242: ICCU
+@MARC-024a: Q6215625
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-100a: Singenberger, Johann Baptist
+@MARC-100d: 1848-1924
+@MARC-100y: 25.05.1848-29.05.1924
+@MARC-375a: male
+@MARC-400a: Singenberger, J.
+@MARC-400a: Singenberger, Johann
+@MARC-400a: Singenberger, Johann B.
+@MARC-400j: xx
+@MARC-400a: Singenberger, Johannes B.
+@MARC-400a: Singenberger, John
+@MARC-400j: xx
+@MARC-400a: Singenberger, John B.
+@MARC-400a: Singenberger, John Baptist
+@MARC-550a: Arranger
+@MARC-550a: Choral conductor
+@MARC-550a: Composer
+@MARC-550a: Journalist
+@MARC-550a: Musicologist
+@MARC-550a: Performer
+@MARC-551a: Kirchberg
+@MARC-551i: go
+@MARC-551a: Milwaukee, WI
+@MARC-551i: so
+@MARC-551a: St. Francis, WI
+@MARC-551i: wo
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: GroveAS
+@MARC-670b: Singenberger, Johannes B. [1848*]
+@MARC-670w: 671
+@MARC-670a: Grove|6
+@MARC-670b: 0
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: MGG suppl.
+@MARC-670b: 0
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: vide 2, 625 (Singenberger, Johann Baptist [(fl. 1873-1877)])
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: vide 13, 1083 (Singenberger, Johann Baptist [1848-1924])
+@MARC-670w: 3828
+@MARC-670a: RefardtHBM
+@MARC-670b: 0
+@MARC-670w: 1466
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@MARC-670a: SML
+@MARC-670b: 0
+@MARC-670w: 1700
+@MARC-670a: Schuh-RefardtL
+@MARC-670b: Singenberger, Johann Baptist [1848-1924]
+@MARC-670w: 2288
+@@END:		MARC21
+

@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30020040
+@MARC-003:	DE-633
+@MARC-005:	20161109000000.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 116341971
+@MARC-0242: DNB
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Kątski, Apolinary
+@MARC-100d: 1825-1879
+@MARC-100w: x
+@MARC-375a: male
+@MARC-400a: Kontski, Apolinary
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Music teacher
+@MARC-550i: profession
+@MARC-550a: Violinist
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Performer
+@MARC-550i: profession
+@MARC-551a: Sankt Peterburg
+@MARC-551i: wo
+@MARC-551a: Warszawa
+@MARC-551i: wo
+@MARC-670a: DEUMM/b
+@MARC-670b: Kątski, Apolinary (Apollinaire de Kontski) [1825-1879]
+@MARC-670w: 1577
+@MARC-670a: EM/b
+@MARC-670b: Kątski, Apolinary [1826 (1825, 1824)-1879]
+@MARC-670w: 1793
+@MARC-670a: Grove|6
+@MARC-670b: Kątski, Apolinary (Apollinaire de Kontski) [1825-1879]
+@MARC-670w: 1258
+@MARC-670a: MGG
+@MARC-670b: Kątski, Apolinary [1825 (1826)-1879]
+@MARC-670w: 1263
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: de Kontski, Apolinary (Apollinaire) [1825-1879]
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: de Kontski, Apollinaire (Kątski) [1825-1879]
+@MARC-670w: 408
+@MARC-670a: SMP
+@MARC-670b: Kątski, Apolinary [1825-1879]
+@MARC-670w: 1935
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00016BFF00000000
+@MARC-856y: Schriftprobe (1849) [D-B Mus.ms.autogr. Kontski, A. de 1 M / p. 1]
+@@END:		MARC21
+
