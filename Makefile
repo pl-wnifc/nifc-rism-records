@@ -31,6 +31,7 @@ all:
 	@echo "  make empty              -- List missing MarcXml files."
 	@echo "  make count              -- Count number of RISM IDs."
 	@echo "  make aton               -- Convert MarcXml files to ATON files."
+	@echo "  make genres             -- Extract a list of RISM 650a records."
 	@echo "  make work-composers     -- List composers and RISM IDs counts for each."
 	@echo
 
@@ -179,6 +180,17 @@ cl: composers-list
 composer-list: composers-list
 composers-list:
 	bin/makeRismComposerList > list-composers.txt
+
+
+
+##############################
+##
+## genres -- Generate a list of the RISM 650a entries, sorted
+##     by most common first.
+##
+
+genres:
+	grep -h MARC-650a aton-works/* | sed 's/^[^:]*: *//' | sortcount
 
 
 
