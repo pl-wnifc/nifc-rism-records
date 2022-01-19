@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndd a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">300033232</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20201029163416.0</marc:controlfield>
+  <marc:controlfield tag="008">060823##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Kirie</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">T 1</marc:subfield>
+    <marc:subfield code="n">bBEAD</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">'2.A4B/''2CC/2.D4D/2C4C-/FFED/2D4ED/CC</marc:subfield>
+    <marc:subfield code="r">f</marc:subfield>
+    <marc:subfield code="t">Za swych braci wznosim pienia</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="n">bBEAD</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">'2.A4B/''1C/1D/2.C4F/2F4ED/2D4ED/1C</marc:subfield>
+    <marc:subfield code="r">f</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Graduale</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">T 1</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2''CC/'nB''C/C4.E8D/2D4C-/</marc:subfield>
+    <marc:subfield code="r">c</marc:subfield>
+    <marc:subfield code="t">Gdy dzień straszny sądu Twego</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2''CC/'nB''C/C4.E8D/2D4C-/</marc:subfield>
+    <marc:subfield code="r">c</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">3</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Offertorium</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">T 1</marc:subfield>
+    <marc:subfield code="n">bBEAD</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2''CC/EC/C4'BB/4.''D8C4C-/</marc:subfield>
+    <marc:subfield code="r">A|b</marc:subfield>
+    <marc:subfield code="t">Królu tronu wspaniałego</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">3</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="n">bBEAD</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">8{''C'ECD}{''C'ECD}/2''EC/C8{'BEGB}/''2D8{C'EA''C}/</marc:subfield>
+    <marc:subfield code="q">[pl-text: pierwsza nuta w pierwszym takcie z niezamalowaną główką]</marc:subfield>
+    <marc:subfield code="r">A|b</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">4</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Sanctus</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">T 1</marc:subfield>
+    <marc:subfield code="n">bBE</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2''DC/'B-/''ED/C/DD/E4EnE/2FC/CE/D4D</marc:subfield>
+    <marc:subfield code="q">[pl-text: błąd kopisty: brak pauzy półnutowej w takcie 4]</marc:subfield>
+    <marc:subfield code="r">B|b</marc:subfield>
+    <marc:subfield code="t">Święty Pan Bóg zastępów niepojęty</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">4</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="n">bBE</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2''DC/'B8{FB''CD}/2ED/C'8{FAB''C}1/D/</marc:subfield>
+    <marc:subfield code="r">B|b</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">5</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Benedictus</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">T 1</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2'B''4C8'BB/2B4G-/AAGA/2A4G-/</marc:subfield>
+    <marc:subfield code="r">E|b</marc:subfield>
+    <marc:subfield code="t">Ten co w imieniu</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">5</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2'B4''C'B/2B4G-/2A4GA/2A4G-/</marc:subfield>
+    <marc:subfield code="r">E|b</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">6</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Agnus Dei</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">T 1</marc:subfield>
+    <marc:subfield code="n">bBEADG</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2'F4BB/2.B4nA/2B4BG/2FE/E4D</marc:subfield>
+    <marc:subfield code="r">b|b</marc:subfield>
+    <marc:subfield code="t">Baranku Boży ty gładzisz grzechy świata</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">6</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="n">bBEADG</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2'EB/B4BnA/2B4BG/2FE/E4D</marc:subfield>
+    <marc:subfield code="r">b|b</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">7</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">T 1</marc:subfield>
+    <marc:subfield code="n">bBEAD</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">'2.A4B/''2CC/2.D4D/2C4C-/FFED/2D4ED/CC</marc:subfield>
+    <marc:subfield code="q">[pl-text: brak tytułu części w źródle, wyróżniona jedynie grubszą kreską taktową]</marc:subfield>
+    <marc:subfield code="r">f</marc:subfield>
+    <marc:subfield code="t">Za swych braci</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">7</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="n">bBEAD</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">'2A4B/''1C/1D/2.C4F/2F4ED/2D4ED/2C</marc:subfield>
+    <marc:subfield code="q">[pl-text: błąd kopisty: brak kropki przy półnucie w pierwszym takcie]</marc:subfield>
+    <marc:subfield code="r">f</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">pol</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Chwalibóg, Izydor Konstanty</marc:subfield>
+    <marc:subfield code="d">1826-1897</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30020334</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Requiems</marc:subfield>
+    <marc:subfield code="m">V (3), org</marc:subfield>
+    <marc:subfield code="r">f</marc:subfield>
+    <marc:subfield code="0">3900193</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[caption title:] Kirie [space] Msza żałobna na 3 głosy [space] per B. Chwalibóg</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 vocal score: f. 27r-31v</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Utwór zanotowany na 4 pięcioliniach w systemie: na pierwszej oba głosy T, na drugiej B, na trzeciej i czwartej org; na początku pierwszego systemu zapisane nazwy głosów i instrumentu]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Po prawej stronie pierwszego systemu ołówkiem zapisany numer utworu w kolekcji: 8]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: na f. 31v po zakończeniu utworu zanotowany szkic fragmentu muzycznego]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">org</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">T (2), B, org</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Requiems</marc:subfield>
+    <marc:subfield code="0">25134</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">PodejkoK 1992</marc:subfield>
+    <marc:subfield code="n">no.184</marc:subfield>
+    <marc:subfield code="0">lit1869</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1="1" ind2="8">
+    <marc:subfield code="w">300033223</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-CZ</marc:subfield>
+    <marc:subfield code="d">110</marc:subfield>
+    <marc:subfield code="e">Klasztor OO. Paulinów Jasna Góra - Biblioteka</marc:subfield>
+    <marc:subfield code="x">ks30002070</marc:subfield>
+    <marc:subfield code="c">II-87</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

@@ -1,0 +1,47 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147615
+@MARC-003:	DE-633
+@MARC-005:	20210923120941.0
+@MARC-008:	210223##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B conc
+@MARC-031o: 3/1
+@MARC-031p: 1,,A,AgB1G/A,,2AB1,C/9F1F1.E2E,,GA/1.B2Bx,FG/9A
+@MARC-031t: Aeterne rex altissime redemptor et fidelium
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Aeterne rex altissime redemptor et fidelium
+@MARC-240m: B conc
+@MARC-2400: 50200872
+@MARC-245a: [without title]
+@MARC-260c: 18th century
+@MARC-2608: 01
+@MARC-300a: 1 part, 1 f.
+@MARC-3008: 01
+@MARC-590a: B conc
+@MARC-590b: f. 5v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B conc
+@MARC-594c: 1
+@MARC-594a: B conc
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001147607
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.278
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

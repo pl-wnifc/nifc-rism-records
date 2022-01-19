@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001091849
+@MARC-003:	DE-633
+@MARC-005:	20210505074346.0
+@MARC-008:	191028##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Wolno śpiewnie [slow, singingly]
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 8{EF}/4.G8G{G''C}{'BA}/{AG}2G8''CE/{ED}{FD}4C'B/2''C4-{8'EF}/
+@MARC-031r: C
+@MARC-031t: O który jesteś w niebie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: c
+@MARC-031p: 4-/8-{GE^CG}-''C^'A{B^GA^F}/{A^FG^E}2G^E8{''C^'G^E''E^'G}/{''E^'G''D^'F}{''F^'A''D^'F}4''C^'G^E'B^F^G^D/2''C^'G^E4-8{'E^CF^D}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: O który jesteś w niebie
+@MARC-240m: V (2), keyb
+@MARC-240r: C
+@MARC-2400: 5218123
+@MARC-245a: [without title]
+@MARC-260c: ca. 1815-1830
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 f.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-300a: 3 parts
+@MARC-300c: 20,5 x 25,5 cm
+@MARC-3008: 01
+@MARC-500a: Manuscript contains 1 score (S, A, keyb) and 3 additional copies of V parts, written by two copyists hands.
+@MARC-5008: 01
+@MARC-500a: Inscriptions: "Wolne śpiewanie" [slow singing] in the captions of additional V parts.
+@MARC-590a: S (2x), A
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: S, A, keyb
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 250
+@MARC-6910: lit1891
+@MARC-700a: Copyist A from Sandomierz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe41011643
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 69/A II 9
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

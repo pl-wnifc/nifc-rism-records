@@ -1,0 +1,97 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001069556
+@MARC-003:	DE-633
+@MARC-005:	20210504114318.0
+@MARC-008:	190427##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4'D,A{8FA}4D/GE{8CE}4,,A/A8,CE4G8BG/GF4-8'D,AFG/
+@MARC-031r: D
+@MARC-031t: Gwałtu bracia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 1,D/4GE{8CE}4,,A/2A4,A{8.6BG}/{8GF}4-{'8D,AFG}/{AFED}2-//
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: =20/''D8'A/F4D/E8E/E4D/''D8'A/F4D/
+@MARC-031r: D
+@MARC-031t: Cicho wszyscy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: 4'''D8''A/{6FC}4D/G8G/{6GF}8F-/4'''D8''A/{6FC}4D/G8G/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Pastorale
+@MARC-240r: D
+@MARC-2400: 3900694
+@MARC-245a: [without title]
+@MARC-260c: 1750-1799
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 38 x 24,5 cm
+@MARC-3008: 01
+@MARC-500a: other parts missing
+@MARC-5008: 01
+@MARC-590a: A, B
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: no indication
+@MARC-594a: no indication
+@MARC-599b: full
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 238-239
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 46/A I 46
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

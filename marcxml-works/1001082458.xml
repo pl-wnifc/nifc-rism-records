@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001082458</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20211027135155.0</marc:controlfield>
+  <marc:controlfield tag="008">190819##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">No. 1.</marc:subfield>
+    <marc:subfield code="d">Allegro moderato</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">Coro: V 1</marc:subfield>
+    <marc:subfield code="n">bBEADG</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">8.''D6'A4..F6A/8.''D6E4FD/8.E6F4..G6E/4''AF-/8.''D6'A4..F6A/8.''D6E4FD/</marc:subfield>
+    <marc:subfield code="q">Text illegible.</marc:subfield>
+    <marc:subfield code="q">[pl-text: nieczytelny tekst]</marc:subfield>
+    <marc:subfield code="r">D|b</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">No. 1.</marc:subfield>
+    <marc:subfield code="d">Allegro moderato</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">Coro: V 3</marc:subfield>
+    <marc:subfield code="n">bBEADG</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">8.,D6,,A4..F6A/8.,D6E4FD/8.A6A4..A6A/4AA-/8.,D6,,A4..F6A/8.,D6E4FD/</marc:subfield>
+    <marc:subfield code="q">Text illegible.</marc:subfield>
+    <marc:subfield code="q">[pl-text: nieczytelny tekst]</marc:subfield>
+    <marc:subfield code="r">D|b</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">No. 2.</marc:subfield>
+    <marc:subfield code="d">Andante</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">Coro: V 1</marc:subfield>
+    <marc:subfield code="n">bBEAD</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2E4..A6''C/2Cn'B/bB4..''D6F/2FnE/2bE4..F6E/</marc:subfield>
+    <marc:subfield code="r">A|b</marc:subfield>
+    <marc:subfield code="t">Czysta miłości</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">No. 2.</marc:subfield>
+    <marc:subfield code="d">Andante</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">Coro: V 4</marc:subfield>
+    <marc:subfield code="n">bBEAD</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">2,,A4..,C6E/2nDD/bD4..F6B/2AA/2G4..A6G/</marc:subfield>
+    <marc:subfield code="r">A|b</marc:subfield>
+    <marc:subfield code="t">Czysta miłości</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">pol</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Hertz, Michał</marc:subfield>
+    <marc:subfield code="d">1844-1918</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe41023359</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Komandor</marc:subfield>
+    <marc:subfield code="k">Excerpts</marc:subfield>
+    <marc:subfield code="m">Coro</marc:subfield>
+    <marc:subfield code="0">5214042</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[caption title, purple pen:] Komandor | St. Kozłowskiego | akt 3|c|i | śpiew wolnomularski</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1850-1918</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score: 4 p.</marc:subfield>
+    <marc:subfield code="c">32.0 x 25.2 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">The manuscript contains two pieces for choir.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Rękopis zawiera dwa utwory na chór.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="a">Muzyka do sztuki dramatycznej "Komandor"</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">inw. 2556</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Autograph manuscript</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">Coro</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Incidental music</marc:subfield>
+    <marc:subfield code="0">25188</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Choruses</marc:subfield>
+    <marc:subfield code="0">3000136</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kozłowski, Stanisław</marc:subfield>
+    <marc:subfield code="d">1860-1922</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe41023380</marc:subfield>
+    <marc:subfield code="4">lyr</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Wtm</marc:subfield>
+    <marc:subfield code="e">Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki</marc:subfield>
+    <marc:subfield code="x">ks30000150</marc:subfield>
+    <marc:subfield code="c">R 2541</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+</marc:record>

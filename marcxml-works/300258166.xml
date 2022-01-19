@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndd a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">300258166</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210923120855.0</marc:controlfield>
+  <marc:controlfield tag="008">130901##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">89</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1A2nFD/4AGFE2.F4G1AG2F1A2A1(A)//</marc:subfield>
+    <marc:subfield code="t">Alleluia</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">89</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1,,A2,D1F2D4AGFE/2D1D2C9D1,,A//</marc:subfield>
+    <marc:subfield code="t">Alleluia</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">89</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1A2AA1bB2A2.F4GAB/2.''C4'bB2AGA1''C2'nB1A/</marc:subfield>
+    <marc:subfield code="t">Prophetae sancti praedicaverunt</marc:subfield>
+    <marc:subfield code="t">Post partum virgo</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">89</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1,D2DD/4,,GAbB,C/DEFE/1D,,A/2,D,,bB1A2A</marc:subfield>
+    <marc:subfield code="t">Prophetae sancti praedicaverunt</marc:subfield>
+    <marc:subfield code="t">Post partum virgo</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Gorczycki, Grzegorz Gerwazy</marc:subfield>
+    <marc:subfield code="d">1665p-1734</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30009207</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Alleluia Prophetae sancti</marc:subfield>
+    <marc:subfield code="m">V (3)</marc:subfield>
+    <marc:subfield code="0">3921313</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[caption title S, T:] In adventu et post Nativitatem</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="246" ind1="2" ind2=" ">
+    <marc:subfield code="a">[caption title B partbook:] In adventu et post Nativitatem Dni</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1739-1769</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">3 parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">A missing</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Second text: Alleluia. Post partum Virgo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Numer 68 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, T, B</marc:subfield>
+    <marc:subfield code="b">p. 140, 135, 134</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kk.I.7/1-4</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, T, B</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Versus alleluiatici</marc:subfield>
+    <marc:subfield code="0">3005779</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="657" ind1=" " ind2="7">
+    <marc:subfield code="a">Adventus</marc:subfield>
+    <marc:subfield code="0">24328</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="657" ind1=" " ind2="7">
+    <marc:subfield code="a">Nativitas Domini, post</marc:subfield>
+    <marc:subfield code="0">3900035</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">Głuszcz-ZwolińskaW 1983</marc:subfield>
+    <marc:subfield code="0">lit2819</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">MMPa/G</marc:subfield>
+    <marc:subfield code="0">lit2376</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Pękalski, Józef Tadeusz Benedykt</marc:subfield>
+    <marc:subfield code="d">18.sc</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30104332</marc:subfield>
+    <marc:subfield code="4">scr</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1="1" ind2="8">
+    <marc:subfield code="w">300258077</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kk</marc:subfield>
+    <marc:subfield code="d">D32-35</marc:subfield>
+    <marc:subfield code="e">Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej</marc:subfield>
+    <marc:subfield code="x">ks30002080</marc:subfield>
+    <marc:subfield code="c">Kk.I.7</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001148293
+@MARC-003:	DE-633
+@MARC-005:	20210720131548.0
+@MARC-008:	210227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante con moto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: =6/4.'''C{''8BAF}/{EC'AB}{''CA}/4.A{8AGA}/4AD8-D/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Melodie
+@MARC-240m: orch
+@MARC-240r: A
+@MARC-2400: 3991327
+@MARC-245a: [title page:] Melodie | componiert | von | Siegmund Noskowski | Partition d’orchestre
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 34 x 27 cm
+@MARC-3008: 01
+@MARC-300a: 72 parts
+@MARC-300c: 36 x 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "Towarzystwo Muzyczne | w Krakowie".]
+@MARC-500a: [pl-text: Obwoluta z rózowego papieru z nadrukiem: "Neumann's Notendeckel | Eigentum von".]
+@MARC-590a: vl 1-2 (11x), vl 3 (2x), vla 1 (2x), 2 (2x), vlc (2x),cb (2x); cl 1, 2, cor 1, 1, fag 1, 2
+@MARC-590b: 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2; 2, 2; 2, 2, 2, 2; 2, 2; 2, 2; 2, 2, 2, 2, 2, 2 p.
+@MARC-5908: 01
+@MARC-591a: 14.1589
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 3
+@MARC-594b: vla
+@MARC-594c: 2
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: vl (3), vla (2), vlc, cb, cl (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Orchestral pieces
+@MARC-6500: 3901803
+@MARC-710a: Towarzystwo Muzyczne w Krakowie
+@MARC-710g: Ascertained
+@MARC-7100: ks51004207
+@MARC-7104: fmo
+@MARC-852a: PL-Wtm
+@MARC-852d: R 1942
+@MARC-852d: R 1943
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 123-123a/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001099425
+@MARC-003:	DE-633
+@MARC-005:	20211027135300.0
+@MARC-008:	191226##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =1/2-4G8AB/4.''D8DC'B''CD/4D8'A-4''C8'BA/4.G8G8.G6xF8GA/4B8-B4.A8xF/
+@MARC-031r: g
+@MARC-031t: Boże Wszechmocny, przed którego tronem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4G6{B''DGA}4.B8G/4.'''D+3{DC''BA}8G-4-/1''D^'G^B/''D^'A^F/B^G^E/2B4AD/+DGxF8{GA}/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Wieczny pokój lirnikowi
+@MARC-240m: V, pf
+@MARC-240r: g
+@MARC-2400: 50222449
+@MARC-245a: [title page:] Pamięći [!] | Władysława Syrokomli! | „Wieczny pokój Lirnikowi." | słowa | Seweryny z Żochowskich Pruszakowej, | muzyka | Stanisława Moniuszki
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 3 p.
+@MARC-300c: 35.5 x 26.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na pierwszej stronie znajduje się informacje: "Tytuł w autografie | M"; "Wolno litografować | [nieczytelny podpis]", "N|o 268. | [nieczytelnie]", oraz pieczątka: Towarzystwo Muzyczne. Sekcja imienia S. Moniuszki]
+@MARC-591a: R 379-409
+@MARC-591a: Inw. 828
+@MARC-591a: N. 43 a)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Duchińska, Seweryna
+@MARC-700d: 1816-1905
+@MARC-700j: Ascertained
+@MARC-7000: pe41014170
+@MARC-7004: lyr
+@MARC-700a: Syrokomla, Władysław
+@MARC-700d: 1823-1862
+@MARC-700j: Ascertained
+@MARC-7000: pe30040492
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 409/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

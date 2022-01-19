@@ -1,0 +1,135 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258104
+@MARC-003:	DE-633
+@MARC-005:	20210923120854.0
+@MARC-008:	130725##################################
+@MARC-031a: 27
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 2-,B/'CE1D/E2FE/2.G4F1E9D/
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 27
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1-/C2,AB/1.'C2C/DD/C4,GA/B'CDE/2F1D2C/DD/
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 27
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 2-,,G/A,C1D/C2FA/1G/2-C/4,,GAB,C1DED/
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 27
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1,G9EF1G9AB'C,BAG1FA9G/
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 27
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 1DxC/D2E4CD/EF1G2xF/9GA9G/
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-031a: 27
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1,B1.A2A/1.'C2D/2.C4DEF1G2xF/G
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-031a: 27
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1,,GA/,D1.C2,,B/9AG,D1,,G/9-2-,D/EE/1D,,G/
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-031a: 27
+@MARC-031b: 2
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1,G9EF1GGA9BA1B
+@MARC-031t: Ave Maria gratia plena
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Biandrà, Giovanni Pietro
+@MARC-100d: 1633p+
+@MARC-100j: Ascertained
+@MARC-1000: pe30011487
+@MARC-240a: Alleluia ave Maria
+@MARC-240m: V (4)
+@MARC-2400: 3911891
+@MARC-245a: [heading, C partbook:] A D[omi]nica in Albis ad | D[omi]nicam Pentecosten
+@MARC-260c: 1660-1682
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: [heading, A partbook:] A Paschale ad Pentecosten; [heading, T partbook:] A Pascha ad Pentecosten; [heading, B partbook:] A D[omi]nica Conductus ad D[omi]nica[m] Penteco[sten]
+@MARC-500a: Concordance: see rec. 300257925 [PL-Kk] Mus. I. 6/1-3 no. 8
+@MARC-500a: [pl-text: Numer 6 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-590a: S, A, T, B
+@MARC-590b: p. 28-29, 27-28, 22, 29-30
+@MARC-5908: 01
+@MARC-591a: Kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Versus alleluiatici
+@MARC-6500: 3005779
+@MARC-657a: Dominica in Albis
+@MARC-6570: 24380
+@MARC-657a: Pentecostes
+@MARC-6570: 24306
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-700a: Miskiewicz, Maciej Arnulf
+@MARC-700d: 1685c+
+@MARC-700j: Ascertained
+@MARC-7000: pe30105639
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

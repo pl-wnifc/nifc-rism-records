@@ -1,0 +1,52 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001077363
+@MARC-003:	DE-633
+@MARC-005:	20210711175456.0
+@MARC-008:	190715##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2''D4DC2'BA4.8BABA8.6{BA}2BA://:G4A''C2'BA
+@MARC-031r: g
+@MARC-031t: Witaj o rano przebłogosławiona
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Witaj o rano przebłogosławiona
+@MARC-240r: g
+@MARC-2400: 5210100
+@MARC-245a: [caption title:] Planctus 4tus:
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Part heading: "Alto"; clef: C-1.
+@MARC-5008: 01
+@MARC-500a: Four stanzas under the staff.
+@MARC-590a: S
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: no indication
+@MARC-594a: no indication
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Planctus
+@MARC-6500: 3900596
+@MARC-773w: 1001077353
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 374/A VIII 14
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

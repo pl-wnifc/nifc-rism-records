@@ -1,0 +1,69 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001094066
+@MARC-003:	DE-633
+@MARC-005:	20211027135257.0
+@MARC-008:	191116##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro, molto animato
+@MARC-031g: G-2
+@MARC-031m: pf Primo
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4-A^F-A^F/-A^F6-{''8F6-D8F6-A}/'''2D
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Kochanka hetmańska
+@MARC-240m: pf 4hands
+@MARC-240o: Arr
+@MARC-2400: 5219662
+@MARC-245a: [title page:] [in left corner, crossed out:] Prawo wydawnictwa | nabyte przez firmę | Gebethnera i Wolffa | 18/XI 1887] [in right corner, crossed out:] Rękopis niniejszy otrzymałem | dla Sekcyi im. Moniuszki | za zwrotem kopii. 25/6 96 r. | [Władysław Zahorowski's signature]] | [crossed out: Józefowi Wieniawskiemu] | Uwertura do powieści Lucyana Siemieńskiego | „Kochanka Hetmańska.” | Muzyka Stanisława Moniuszki. | (: ułożenie na fortepian, na cztery ręce :) | [at left, in frame: prawo wydawnictwa | ustępujemy Sekcyi Mo-|niuszki za zapłatą[?] | Rubli dwadzieścia | Gebethner i Wolff | d 27/6 1896] | Zapłacono z funduszów Sekcyi | 27/6 96. [Władysław Zahorowski's signature] | [at right, in frame, crossed out: Własność wydawców | Warszawa Nakład Gebethnera i Wolffa. | Ostatnia pamiątka Józefowi Wieniawskiemu | którego talent i życzliwość tak wysoce cenił | ś. p. mąż mój, Stanisław Moniuszko. | [Aleksandra] Moniuszkowa] | (pismo Moniuszki)......Wilno _ 1854 r. Maja 30. d. | (Wilno 1854..)
+@MARC-260c: 1854-05-30
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-300c: 27 x 35 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "Towarzystwo Muzyczne | Sekcja imienia | S. Moniuszki".]
+@MARC-500a: [pl-text: Adnotacje niebieską kredką.]
+@MARC-590a: pf 4hands (2)
+@MARC-590b: 7, 7 p.
+@MARC-5908: 01
+@MARC-591a: Inw. 843
+@MARC-591a: 117 a
+@MARC-591a: 75
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf 4hands
+@MARC-594c: 1
+@MARC-594a: pf 4hands
+@MARC-599b: full
+@MARC-650a: Overtures
+@MARC-6500: 25196
+@MARC-700a: Wieniawski, Józef
+@MARC-700d: 1837-1912
+@MARC-700j: Ascertained
+@MARC-7000: pe137276
+@MARC-7004: dte
+@MARC-700a: Moniuszko, Aleksandra
+@MARC-700d: 1821-1891
+@MARC-700j: Conjectural
+@MARC-7000: pe41024546
+@MARC-7004: fmo
+@MARC-700a: Siemieński, Lucjan Hipolit
+@MARC-700d: 1807-1877
+@MARC-700j: Ascertained
+@MARC-7000: pe41021280
+@MARC-7004: oth
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 424
+@@END:		MARC21
+

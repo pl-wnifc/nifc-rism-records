@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001120470
+@MARC-003:	DE-633
+@MARC-005:	20210720131905.0
+@MARC-008:	200625##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 6/8
+@MARC-031p: 8-/=3/48---E/''C'xGAE/''C'xGA''E/
+@MARC-031r: a
+@MARC-031t: Czy wróci się Choć wróci Maj
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 6/8
+@MARC-031p: 84E/FA''C'xD/E'xGAB/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Czy wróci się
+@MARC-240m: V, orch
+@MARC-240r: a
+@MARC-2400: 50234801
+@MARC-245a: [caption title:] „Czy wróci się„ | Śpiew z Orkiestrą | Józefa Stefaniego
+@MARC-246a: [caption title, in pencil:] Autograf
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 36,2 × 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1615
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: V, vl (2), vla, vlc, cb, fl, cl (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-852a: PL-Wtm
+@MARC-852d: 10977
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1532
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,134 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001140197
+@MARC-003:	DE-633
+@MARC-005:	20210923121018.0
+@MARC-008:	201218##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Aria, Allegro molto
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =24/2'D4FA/4.''D{6FE}4DA/8{GE}{EC}{C'A}{AG}/4GF-D/FA''DF/E{8DC}g'B4A''E/gE2D
+@MARC-031r: D
+@MARC-031t: Ad sponsum animae veloces
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Aria, Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2'D4FA/''4.D6{FE}4D'''D+/8{D''E}2E8{FG}/{GFBA}{'''D''AGF}/{FE}2E8{FG}/{3FE8D}{8.'D6D}4D8-
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Aria, Adagio
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =15/4''E6{DC}{FE}/4.E8D/gEDC-6{EC}/8C6.'B3''F8F6.E3'G/8{GA}-
+@MARC-031r: D
+@MARC-031t: Veni o Jesu chare
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Aria, Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''E+4({6EAEgFExDE};6)/4E+4({6EBEgFExDE};6)/4E+{6EA'AAGA}/{8xA6.B3''F}{6F6.E3'xG}/{8A6.E3A}{6.C3EgE6D3C,B/6{A''EEE}{E3DC'B''C}/{6D3BAGFE}gE4Dt/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Alleluia, Allegro molto
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''D8DD/{D'A''DF}/4D-/=/4E8EE/{E'A''EG}/4G-/=/
+@MARC-031r: D
+@MARC-031t: Alleluia Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Alleluia, Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''D-/D-/8{D'6DD}{FFAA}/{''DDFF}{AAFF}/4E-/E-/8{E6,AA}{'CCEE}/{AA''CC}{EEGG}/{8F'DFD}/{FDFD}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Hoffmann, Leopold
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30113655
+@MARC-240a: Motetto
+@MARC-240m: S solo, Coro, orch, org
+@MARC-240r: D
+@MARC-2400: 3925022
+@MARC-245a: [in the upper left corner of the violone card:] Motetto a Soprano Con|to| [inte upper right corner:] A. T. B. ripirnio Violinis 2. Clarini 2 | Voiola Violoni Organo et Timpano. | Del S|re| Hoffman
+@MARC-260c: 18th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 13 parts; 95 p.
+@MARC-300c: 22 x 30 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na pierwszej stronie partii S solo. Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” pojawia się 28 w dolnym brzegu kart.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Dodatkowe partie vl 1 i vl 2 spisane przez innego kopistę, prawdopodobnie w późniejszym okresie.]
+@MARC-500a: [pl-text: Na odwrocie ostatniej karty głosu vlne spisana pierwsza aria (głos org) w innej tonacji.]
+@MARC-590a: S solo; Coro: S, A, T, B; vl 1 (2), 2 (2), vla, vlne, clno 1, 2, timp, org
+@MARC-590b: 12, 2, 2, 2, 2, 10, 10, 10, 10, 9, 10, 2, 2, 2, 10 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: clno in D
+@MARC-594c: 2
+@MARC-594b: timp in D
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: S solo, S coro, A coro, T coro, B coro, vl (2), vla, vlne, clno in D (2), timp in D, org (= bc)
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.514
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

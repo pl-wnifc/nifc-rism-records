@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001128950
+@MARC-003:	DE-633
+@MARC-005:	20210720131637.0
+@MARC-008:	200916##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo di Marcia
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: 8-/=3/4-8-G/{''8C6CC}{8CD}/{8.6EF}8G{6GF}/{866EFE}{DED}/{CEE}D8-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Tempo di Marcia
+@MARC-031g: G-2
+@MARC-031m: iSol: tr
+@MARC-031o: 2/4
+@MARC-031p: 8-/=10/866-{CE}{GEG}/{''C'EG}{''C'G''C}/{E'G''C}{ECE}/{GEC}8'G-//
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Noc i poranek w obozie
+@MARC-240m: tr, orch
+@MARC-240r: C
+@MARC-2400: 50238917
+@MARC-245a: [title page:] Noc i poranek, | w Oboźie [!] | Koncertino na Trombkę [!] | z akompaniamentem Orkiestry | Kompozycyj | Józefa Stefaniego
+@MARC-300a: 1 score: 48 p.
+@MARC-300c: 36,2 × 26,4 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1758
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: isol: tr
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: triangolo
+@MARC-594c: 1
+@MARC-594b: gran cassa
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594a: isol: tr, vl (2), vla, vlc, cb, fl.picc, fl, ob (2), cl (2), fag, cor (2), tr (2), trb (3), timp, triangolo, gran cassa, tamb
+@MARC-599b: full
+@MARC-650a: Concertos
+@MARC-6500: 25176
+@MARC-852a: PL-Wtm
+@MARC-852d: 10839
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1723
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

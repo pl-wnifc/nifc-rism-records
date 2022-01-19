@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001025346
+@MARC-003:	DE-633
+@MARC-005:	20180409000740.0
+@MARC-008:	171028##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Agitato
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: 3/8
+@MARC-031p: =6/8''EDC/4'B8A/4''E8E/4F8E/
+@MARC-031r: a
+@MARC-031t: O dieu charmant des l'harmonie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Agitato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/8
+@MARC-031p: 6-{'CE}{AEA}{''C'A''C}/8EAB/''6A'{CE}{AEA}{''C'A''C}/8E
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: fre
+@MARC-100a: Chodkiewicz, Zofia
+@MARC-100d: 1803-1871
+@MARC-100j: Ascertained
+@MARC-1000: pe30113022
+@MARC-240a: O dieu charmant des l'harmonie
+@MARC-240m: S, pf
+@MARC-240r: a
+@MARC-2400: 5016750
+@MARC-245a: [cover title:] ROMANCE | avec accompagnement de | Piano Forte | composée et dediée | à Madame | Marie Szýmanowska | PAR SOPHIE OSSOLIŃSKA | nee C-sse CHODKIEWICZ | à Varsovie chez A. Brzezina
+@MARC-260a: Varsovie
+@MARC-260b: A. Brzezina
+@MARC-260c: [ca. 1822-1832]
+@MARC-2608: 01
+@MARC-300a: 1 score: p. 2-3
+@MARC-300c: 26,0 x 34 cm
+@MARC-3008: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: S, pf
+@MARC-599b: full
+@MARC-650a: Romances (voc.)
+@MARC-6500: 25471
+@MARC-700a: Szymanowska, Maria
+@MARC-700d: 1789-1831
+@MARC-700j: Ascertained
+@MARC-7000: pe140138
+@MARC-7004: dte
+@MARC-710a: Antoni Brzezina
+@MARC-710g: Ascertained
+@MARC-7100: ks51000239
+@MARC-7104: pbl
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-852c: mzk/m/241
+@@END:		MARC21
+

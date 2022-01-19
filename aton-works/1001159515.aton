@@ -1,0 +1,89 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001159515
+@MARC-003:	DE-633
+@MARC-005:	20211014232311.0
+@MARC-008:	210618##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: -GF{8EF}/4D{8GA}4B''C/(DED)xC'A/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: =2/{6q''AqB}4.'''C/i/{6''BAGABG}/{8AGF}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xF
+@MARC-031o: 4/4
+@MARC-031p: =4/-''G2'''D/+{8DDGD}4GE/DC2''B/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Suites
+@MARC-240m: vl (2), vla, vlc, cb
+@MARC-240r: G
+@MARC-2400: 3900138
+@MARC-245a: [without title]
+@MARC-260c: [after 1860]
+@MARC-2608: 01
+@MARC-300a: 1 score: 12 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: f. 1r: sygnatura "R 304" zapisana ołówkiem; pieczęć "CIM.".]
+@MARC-500a: [pl-text: f. 1v: prostokątna pieczęć "BIBLIOTEKA GŁ. | AM m. Fr. Chopina | w Warszawie"; numer "65.D.91" zapisany ołówkiem.]
+@MARC-500a: [pl-text: f. 9r i 10r: prostokątna pieczęć "BIBLIOTEKA GŁ. | AM m. Fr. Chopina | w Warszawie".]
+@MARC-506a: Magazyn Biblioteki
+@MARC-590a: vl
+@MARC-590b: 10 f.
+@MARC-5908: 01
+@MARC-590a: vla
+@MARC-590b: 10 f.
+@MARC-5908: 01
+@MARC-590a: vlc
+@MARC-590b: 10 f.
+@MARC-5908: 01
+@MARC-590a: cb
+@MARC-590b: 10 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb
+@MARC-599b: full
+@MARC-650a: Suites
+@MARC-6500: 25214
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R304
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

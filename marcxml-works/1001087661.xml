@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001087661</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20211027135212.0</marc:controlfield>
+  <marc:controlfield tag="008">190925##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Adagio</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">pf 1</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">6/4</marc:subfield>
+    <marc:subfield code="p">4-AAABA/4-AAABA/4-''bEE2.E/</marc:subfield>
+    <marc:subfield code="r">d</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Adagio</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">pf 2</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">6/4</marc:subfield>
+    <marc:subfield code="p">3{,,qAnqBx,qC}1.D/E^A/bE^n'C/,D^G^'D/</marc:subfield>
+    <marc:subfield code="r">d</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Fuga allegro</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">pf 1</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">=1/8-{AnBx''C}{DFED}/{xCDEF}{GA}4B+/B2A4G+G8{FE}8{FAxGnB}/</marc:subfield>
+    <marc:subfield code="r">d</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Fuga allegro</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">pf 2</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">6/4</marc:subfield>
+    <marc:subfield code="p">4,,A,2A4G/FEDB/2.A4G/8{AG}4F{8GF}4E/</marc:subfield>
+    <marc:subfield code="r">d</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Lessel, Franciszek</marc:subfield>
+    <marc:subfield code="d">1780c-1838</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30004332</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Adagio et fugue</marc:subfield>
+    <marc:subfield code="m">pf 4 hands</marc:subfield>
+    <marc:subfield code="0">5216068</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[title page:] Adagio et Fugue | Pour le Piano | à 4. mains | Composée | par | Fr: Lèssel. | à Varsovia | [two lines]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">ca 1820</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">2 parts</marc:subfield>
+    <marc:subfield code="c">23,2 x 31,0 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf 1</marc:subfield>
+    <marc:subfield code="b">5 p.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf 2</marc:subfield>
+    <marc:subfield code="b">5 p.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">Inw 925</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Autograph manuscript</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">pf 4 hands</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf 4 hands</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Chamber music</marc:subfield>
+    <marc:subfield code="0">3901050</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Wtm</marc:subfield>
+    <marc:subfield code="d">8373</marc:subfield>
+    <marc:subfield code="e">Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki</marc:subfield>
+    <marc:subfield code="x">ks30000150</marc:subfield>
+    <marc:subfield code="c">R 1184</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+</marc:record>

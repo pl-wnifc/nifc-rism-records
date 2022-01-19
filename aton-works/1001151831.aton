@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001151831
+@MARC-003:	DE-633
+@MARC-005:	20210923121128.0
+@MARC-008:	210327##################################
+@MARC-031a: 3
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1D,2.B4A2G'DbE,B'4C,G1'C,2xB'9bED2C
+@MARC-031t: Assumpta est Maria
+@MARC-0312: pe
+@MARC-031a: 3
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T (2)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =1/1D2.,B4A9G/=3/1'F2.D4C,B'C4.D8D2bE,B
+@MARC-031t: Assumpta est Maria
+@MARC-0312: pe
+@MARC-031a: 3
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =2/1,,G,2.bE4D2CC1G2GA9BF2,,B
+@MARC-031t: Assumpta est Maria
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Pękiel, Bartłomiej
+@MARC-100d: 1670c+
+@MARC-100j: Ascertained
+@MARC-1000: pe30105642
+@MARC-240a: Assumpta est Maria
+@MARC-240m: V (3)
+@MARC-2400: 3021841
+@MARC-245a: [in B partbook:] Assumpta e S.BP.
+@MARC-260c: 17th century
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Ponad zapisem nutowym adnotacja atramentem w księdze I "Primur"; w księdze II "2dus".]
+@MARC-500a: [pl-text: Konkordancja z RISM ID 300258147. "Assumpta est Maria" ze zbioru Kk.I.7, numer 49 według katalogu "Musicalia vetera".]
+@MARC-590a: T, T (2), B
+@MARC-590b: f. 7v-8r, f. 6v-7r, f. 7v-8r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: T (2), B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-691n: I/6-70
+@MARC-6910: lit2819
+@MARC-773w: 1001151827
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.10
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

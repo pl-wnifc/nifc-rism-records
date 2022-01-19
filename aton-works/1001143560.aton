@@ -1,0 +1,109 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001143560
+@MARC-003:	DE-633
+@MARC-005:	20210923121045.0
+@MARC-008:	210122##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Largo Devoto
+@MARC-031g: C-1
+@MARC-031m: S1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4''C,'F{8B6''CD}{CD,'GB}/4A8''CC{F+E}DG/
+@MARC-031r: F
+@MARC-031t: Caro mea vere est cibus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Largo Devoto
+@MARC-031g: C-1
+@MARC-031m: S2
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 0-9-/2-4''C,'F/{8B6''CD}{CD,'GB}4'A8''CC/
+@MARC-031r: F
+@MARC-031t: Caro mea vere est cibus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Largo Devoto
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 9-1-/2-8-,G'C,B/{8A6,B'C}{8,F6',GA}{8B6'CD}{8,G6AB}/
+@MARC-031r: F
+@MARC-031t: Caro mea vere est cibus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Largo assai
+@MARC-031g: F-4
+@MARC-031m: org.fig
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2,F4+FE/FEDn,,B/8{'C,BAF}4G8EF/
+@MARC-031q: [pl text: Nad zapisem nutowym są dodane cyfry B.C]
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Caro mea vere est cibus
+@MARC-240m: Coro S1, S2, B, org
+@MARC-240r: F
+@MARC-2400: 4063856
+@MARC-245a: Caro mea | Per il SSmo Sagramento à Mottetto à 3. Canti Due e Basso | Organo
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 24 x 18 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: Tytuł jest na okładka partii organowej]
+@MARC-5008: 01
+@MARC-500a: [pl text: numeracja stron wykonana ołówkiem, w górnym prawym narożniku każdej folio recto ]
+@MARC-5008: 01
+@MARC-500a: [pl text: na okładce partii organowej, w prawym górnym rogu pojawia się napis długopisem: "505"]
+@MARC-5008: 01
+@MARC-500a: [pl text: na folio 1r, w prawym górnym rogu jest napisane: Canto pmo]
+@MARC-5008: 01
+@MARC-500a: [pl text: na folio 3r , w prawym górnym rogu jest napisane: Canto sdo]
+@MARC-5008: 01
+@MARC-500a: [pl text: na folio 5r, w prawym górnym rogu jest napisane: Basso]
+@MARC-5008: 01
+@MARC-561a: [pl text: Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” na folio 1r z partii głosowej Canto pmo]
+@MARC-561a: [pl text: Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” na folio 3r z partii głosowej Canto sdo]
+@MARC-561a: [pl text: Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” na folio 5r z partii głosowej Basso]
+@MARC-561a: [pl text: Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” na folio 7v i folio 8v partii Organo]
+@MARC-590a: S1, S2, B, org.fig
+@MARC-590b: 4, 5, 4, 4 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S1
+@MARC-594c: 1
+@MARC-594b: S2
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: org.fig
+@MARC-594c: 1
+@MARC-594a: S1, S2, B, org.fig
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.137
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001097954
+@MARC-003:	DE-633
+@MARC-005:	20211027135345.0
+@MARC-008:	191211##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c
+@MARC-031p: 2-4-A//:A8AA4B8.B6B/2.''C'4B/
+@MARC-031r: a
+@MARC-031t: Powszedni chleb łzami obmywam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Pieśń pokutna
+@MARC-240m: V, org
+@MARC-240r: a
+@MARC-2400: 5221695
+@MARC-245a: [caption title:] Własnoręczne pismo Moniszuki z roku 1866go (własność Dra H. Dobrzyckiego) | (patrz załączony list.) [space] Pieśń pokutna.
+@MARC-260c: 1866
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 28 x 35 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: W prawym dolnym rogu na czerwono: "97."]
+@MARC-591a: inw. 134
+@MARC-591a: 13 a)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V, org
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Dobrzycki, Henryk
+@MARC-700d: 1843-1914
+@MARC-700j: Ascertained
+@MARC-7000: pe41025341
+@MARC-7004: fmo
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 265/M
+@@END:		MARC21
+

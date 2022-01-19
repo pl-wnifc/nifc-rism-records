@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001154135
+@MARC-003:	DE-633
+@MARC-005:	20210923120959.0
+@MARC-008:	210421##################################
+@MARC-031a: 3
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031o: c/
+@MARC-031p: 9,,A,E1FC2,,F2.F4GAB,CDEC1D
+@MARC-031t: Gloria laus et honor
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Lilius, Franciszek
+@MARC-100d: 1657+
+@MARC-100j: Ascertained
+@MARC-1000: pe30020509
+@MARC-240a: Gloria laus et honor
+@MARC-240m: org
+@MARC-2400: 3920726
+@MARC-245a: [subject heading:] 1651. Text Pro Dominica Palmar a 4 F. L. Pro Org.
+@MARC-260c: 17th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pozycja nr 75 według "Katalogu dzieł Franciszka Liliusa" w opracowaniu M. Bebaka, Kraków 2017.]
+@MARC-500a: [pl-text: Konkordancja z Kk.I.10 (pozycja nr 9), RISM ID 1001153877.]
+@MARC-590a: org
+@MARC-590b: f. 8v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: org
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-691a: BebakF 2018
+@MARC-6910: lit50005860
+@MARC-773w: 1001154115
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.11
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

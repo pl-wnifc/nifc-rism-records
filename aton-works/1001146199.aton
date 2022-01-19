@@ -1,0 +1,108 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001146199
+@MARC-003:	DE-633
+@MARC-005:	20210923121106.0
+@MARC-008:	210213##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =5 / 4- 8- ,8AFFGA / AD 8- DFFFG /
+@MARC-031t: In hac festiva die
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: bc
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ,4DDD4- / ,4DDD4- / {8DDDD} {,,8AAAA} /
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: G-2
+@MARC-031m: vl1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: '4D^A^''F'4D^A^''F'4D^A^''F {6AFGE} / '4D^A^''F'4D^A^''F'4D^A^''F {6AFGE} /{ '8D^A^''F A} { '8D^A^''F A} {6GFEF} {6GFEG} /
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: G-2
+@MARC-031m: vl2
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: '4D^A^''F'4D^A^''F'4D^A^''F {6FDEC} / '4D^^''F'4D^^''F'4D^^''F {6FDEC} /{ '8D^''D F} { '8D^''D F} {6EDCE} {6EDCE} /
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: C-2
+@MARC-031m: vla
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: FFF 4- / FFF 4- / {8FFFF} {CCCC} /
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Casali, Giovanni Battista
+@MARC-100d: 1715c-1792
+@MARC-1000: pe30000607
+@MARC-240a: In hac festiva die
+@MARC-240m: V (1), vl1, vl2, vla, bc
+@MARC-2400: 48097
+@MARC-245a: [page title:] In hac festiva die | Motetto a voce Sola di Basso | Del Sig. Gio: Batta: Casali
+@MARC-260a: Cracow
+@MARC-260c: XVIII-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score: 21 f.
+@MARC-300c: 21,8 x 28,5 cm
+@MARC-3008: 01
+@MARC-520a: 1 scores
+@MARC-590a: V
+@MARC-590b: 1v-9v
+@MARC-5908: 01
+@MARC-590a: vl 1
+@MARC-590b: 10v-13v
+@MARC-5908: 01
+@MARC-590a: vl 2
+@MARC-590b: 14v-17v
+@MARC-5908: 01
+@MARC-590a: vla
+@MARC-590b: 18v-21v
+@MARC-5908: 01
+@MARC-590a: bc
+@MARC-590b: 1v-9v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: V, vl 1, vl 2, vla, bc
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.324
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

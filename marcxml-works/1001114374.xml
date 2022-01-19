@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001114374</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210720131945.0</marc:controlfield>
+  <marc:controlfield tag="008">200507##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Duetto</marc:subfield>
+    <marc:subfield code="d">All[egr]o Moderato</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">bBE</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">''2DD/EE/{3qFqGqAqB}{8.6{'''C''F}{'''6DC}{''BAGA}/4B'''CD-/=/</marc:subfield>
+    <marc:subfield code="r">B|b</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Duetto</marc:subfield>
+    <marc:subfield code="d">All[egr]o Moderato</marc:subfield>
+    <marc:subfield code="e">Oskar</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">T</marc:subfield>
+    <marc:subfield code="n">bBE</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">=3/2-4-B/BF8-B''8.6CD/4D'8A-</marc:subfield>
+    <marc:subfield code="r">B|b</marc:subfield>
+    <marc:subfield code="t">Szczęśliwszy od władców świata</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">pol</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Stefani, Józef</marc:subfield>
+    <marc:subfield code="d">1800-1876</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30024097</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Szczęśliwszy od władców świata</marc:subfield>
+    <marc:subfield code="m">V (2), coro maschile, orch</marc:subfield>
+    <marc:subfield code="r">B|b</marc:subfield>
+    <marc:subfield code="0">50231396</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[title page:] Dwu Śpiew | z Towarzyszeniem | Chóru i Orkiestry | z komponowany na Popis Publiczny Konserwatorium Warszawsk[iego] przez Józefa Stefaniego | Ucznia Kompozycyi tegoż Konserwatorium</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1824-10-22</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score: 22 p.</marc:subfield>
+    <marc:subfield code="c">26 x 38 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Dawna sygnatura wykreślona ołówkiem.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="563" ind1=" " ind2=" ">
+    <marc:subfield code="a">Binded into a hard cover.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">inw. 1595</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Autograph manuscript</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">V</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro T</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vl</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vla</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vlc</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">cb</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">fl</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">cl</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">fag</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">cor</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">V (2), Coro T, Coro B, vl (2), vla, vlc, cb, fl (2), cl (2), fag (2), cor (2)</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="595" ind1=" " ind2=" ">
+    <marc:subfield code="a">Oskar</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="595" ind1=" " ind2=" ">
+    <marc:subfield code="a">Halina</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Cantatas</marc:subfield>
+    <marc:subfield code="0">25226</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Wtm</marc:subfield>
+    <marc:subfield code="d">10985</marc:subfield>
+    <marc:subfield code="e">Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki</marc:subfield>
+    <marc:subfield code="x">ks30000150</marc:subfield>
+    <marc:subfield code="c">R 1643</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

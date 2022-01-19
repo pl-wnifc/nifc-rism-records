@@ -1,0 +1,86 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258156
+@MARC-003:	DE-633
+@MARC-005:	20210923120855.0
+@MARC-008:	130717##################################
+@MARC-031a: 79
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1E2,A'D/1EF2.E4E1C/2-2.E4DEF/2GE1.G2xF/G
+@MARC-031t: Tibi laus tibi gloria
+@MARC-0312: pe
+@MARC-031a: 79
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1,E9FE1D/9E/n1B9'C,B/GA1GG/
+@MARC-031t: Tibi laus tibi gloria
+@MARC-0312: pe
+@MARC-031a: 79
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1,ED/,,A2,DD/2.E4E/1,,A,E4,,AB,CD2.E4D/EF2G2.D4D1,,G/
+@MARC-031t: Tibi laus tibi gloria
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Paszkiewicz, Andrzej
+@MARC-100d: 1635c-1685
+@MARC-1000: pe30105867
+@MARC-240a: Tibi laus tibi gloria
+@MARC-240m: V (3)
+@MARC-2400: 4063915
+@MARC-245a: [caption title, C partbook:] Cantilena de | Passione D[omi]ni auth[ore] A[ndrea] P[aszkiewicz] O[rdinis] | C[armelitanum] D[iscalceatorum] 1669
+@MARC-260c: 1669
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: T 1 missing
+@MARC-5008: 01
+@MARC-500a: At the end of the voice: "A[d] M[aiore] D[ei] G[loriam] | R[everendus] P[raepositus] R[orantistarum] Scripsit"; [T:] Cantilena de Passione D[omi]ni auth[ore] R[everendo] P[atre] Andrea Paszkiewicz Ord[inis] Carm[elitarum] Discalcea[torum] S[anctae] Th[eologiae] Lectore Crac[oviensis] 1669; [B:] Cantilena de Passione D[omi]ni gratiar[um] actoria auth[ore] R[everendo] P[atre] Andrea Paszkiewicz Ord[inis] Carm[elitarum] Discalc[eatorum] Crac[oviensis] S[anctae] Theologiae Lectore et Concionat[ore] dignissimo. A[nno] D[omini] 1669 facta A[nno] D[omini] [...?] scripta 1670: A[d] M[aiorem] D[ei] G[loriam].
+@MARC-500a: [pl-text: Numer 58 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-590a: A, T 2, B
+@MARC-590b: p. 128-130, 125-126, 122-123
+@MARC-5908: 01
+@MARC-591a: kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T, B
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-657a: Passio Domini
+@MARC-6570: 24410
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-700a: Miskiewicz, Maciej Arnulf
+@MARC-700d: 1685c+
+@MARC-700j: Ascertained
+@MARC-7000: pe30105639
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

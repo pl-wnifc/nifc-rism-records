@@ -1,0 +1,62 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001100316
+@MARC-003:	DE-633
+@MARC-005:	20211027135347.0
+@MARC-008:	200110##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031e: Kwiecińska
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCGD
+@MARC-031o: c
+@MARC-031p: 2G4EF/1G/4.G8G4E8{AG}/2.G4G/
+@MARC-031r: c|x
+@MARC-031t: Requeim, requeim aeternam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Requiem cis-moll
+@MARC-240m: V(11), Coro, org
+@MARC-240r: c|x
+@MARC-2400: 50222960
+@MARC-245a: Requiem. | Moniuszko | Dar p. Italo Quatriniego 1896 r.
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 12 p.
+@MARC-300c: 26 x 32 cm
+@MARC-3008: 01
+@MARC-591a: Inw. 138
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 11
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V (11), Coro S, Coro A, Coro T, Coro B, org
+@MARC-599b: full
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 269/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

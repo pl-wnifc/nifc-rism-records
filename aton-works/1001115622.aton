@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115622
+@MARC-003:	DE-633
+@MARC-005:	20210720131941.0
+@MARC-008:	200519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo di Polacca
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8.6,BA/4B'D8.6C,A/4B8B-4B/
+@MARC-031r: G
+@MARC-031t: Z nadchodzącą każdą wiosną
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Z nadchodzącą każdą wiosną
+@MARC-240m: V (3)
+@MARC-240r: G
+@MARC-2400: 50232062
+@MARC-245a: [caption title:] Wiersz A. Krasińskiego | Muzyka J. Stefaniego.
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 28,6 × 22,6 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1680
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: T (2), B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Krasiński, Adam Stanisław
+@MARC-700d: 1714-1800
+@MARC-700j: Alleged
+@MARC-7000: pe41023845
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852d: 10745
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1630
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

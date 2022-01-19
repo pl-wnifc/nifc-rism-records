@@ -1,0 +1,62 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147274
+@MARC-003:	DE-633
+@MARC-005:	20210923121112.0
+@MARC-008:	210220##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 4DEFG/2AA/4AnB''C8'{BA}/2GG/n4B''CD{8C'B}/1A/
+@MARC-031t: Rorate Caeli desuper
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 2.,D4En2FD/2.,,A4B/,CDEF/2GGFD/2.E4D2C4,,BA/
+@MARC-031t: Rorate Caeli desuper
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Rorate caeli
+@MARC-240m: Coro
+@MARC-2400: 3905164
+@MARC-245a: [above the staves in Canto part:] ex D a Capella
+@MARC-260c: 18th century
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-590a: S, A, T, B, B (2)
+@MARC-590b: f. 1r-v, 3r-v, 5r-v, 7r-v, 9r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 2
+@MARC-594a: S, A, T, B (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001147273
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.272
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

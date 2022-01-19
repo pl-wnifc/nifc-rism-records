@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndd a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001147275</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210923121112.0</marc:controlfield>
+  <marc:controlfield tag="008">210220##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">=2/2.A4A/''2D1D2C/2.'B4B/1A2.B4B/1A/</marc:subfield>
+    <marc:subfield code="t">Tollite portas principes</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">=6/2.,D4D/2G1G2F/n2.E4E/2DD/EF/2.G4F/2.E4E/1D/</marc:subfield>
+    <marc:subfield code="t">Tollite portas principes</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Anonymus</marc:subfield>
+    <marc:subfield code="0">pe30004985</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Tollite portas principes</marc:subfield>
+    <marc:subfield code="m">Coro</marc:subfield>
+    <marc:subfield code="0">5076742</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[on B rip part, above the staves:] Graduale</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">18th century</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">5 parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Na początku partii B obok klucza rozpisany małymi nutkami akord (od dołu) g, b, d.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, A, T, B, B (2)</marc:subfield>
+    <marc:subfield code="b">f. 1v-2r, 3v-4r, 5v-6r, 7v-8r, 9v-10r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">A</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, A, T, B (2)</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Graduals</marc:subfield>
+    <marc:subfield code="0">25239</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1="1" ind2="8">
+    <marc:subfield code="w">1001147273</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kk</marc:subfield>
+    <marc:subfield code="e">Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej</marc:subfield>
+    <marc:subfield code="x">ks30002080</marc:subfield>
+    <marc:subfield code="c">Kk.I.272</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

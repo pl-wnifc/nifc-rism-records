@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001083917</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20211027135146.0</marc:controlfield>
+  <marc:controlfield tag="008">190831##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">Coro V 1</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">=2/2F4FF/2FE/4.A8A4BA/2AG/</marc:subfield>
+    <marc:subfield code="r">F</marc:subfield>
+    <marc:subfield code="t">Z krzyża boleści</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">8-{8''FEC}{xCD'FB}/{AFD,B}{A'DDE}/4F-2-/=5/1D/</marc:subfield>
+    <marc:subfield code="r">F</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">pol</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Moniuszko, Stanisław</marc:subfield>
+    <marc:subfield code="d">1819-1872</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30008351</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Agnus Dei (Z krzyża boleści)</marc:subfield>
+    <marc:subfield code="m">Coro, org</marc:subfield>
+    <marc:subfield code="r">F</marc:subfield>
+    <marc:subfield code="0">5214175</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[caption title:] Agnus. &lt;&lt;&gt;&gt; słowa J. I. Kraszewskiego | muzyka S. Moniuszki</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">after 1861</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score: 7 p.</marc:subfield>
+    <marc:subfield code="c">28,5 x 35,5 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Na pierwszej stronie znajdują się dwie pieczęcie: "Towarzystwo Muzyczne SEKCJA IMIENIA S. MONIUSZKI" oraz pieczęć przedstawiająca lirę.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">On the first page there are two stamps: "Towarzystwo Muzyczne SEKCJA IMIENIA S. MONIUSZKI" and the stamp represents a lyre.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Autograph manuscript</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro V</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">org</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">Coro V (4), org</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Sacred songs</marc:subfield>
+    <marc:subfield code="0">25250</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Józef Ignacy</marc:subfield>
+    <marc:subfield code="d">1812-1887</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30114991</marc:subfield>
+    <marc:subfield code="4">lyr</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Wtm</marc:subfield>
+    <marc:subfield code="e">Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki</marc:subfield>
+    <marc:subfield code="x">ks30000150</marc:subfield>
+    <marc:subfield code="c">R 585/M</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+</marc:record>

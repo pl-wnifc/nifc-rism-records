@@ -1,0 +1,86 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001138969
+@MARC-003:	DE-633
+@MARC-005:	20210923121029.0
+@MARC-008:	201210##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: Coro: A
+@MARC-031o: c/
+@MARC-031p: 0--1G/2GxF/4GDGF/E8{FG}4AG/
+@MARC-031r: 11t
+@MARC-031t: Tollite portas principes
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: Coro: T1
+@MARC-031o: c/
+@MARC-031p: 1'C/2C,B/4'C,G'C,B/A8{B'C}4DC/
+@MARC-031r: 11t
+@MARC-031t: Tollite portas principes
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: Coro: T2
+@MARC-031o: c/
+@MARC-031p: 0----9-1-C/2C,B/4'C,G'C,B/A8{B'C}2D/
+@MARC-031r: 11t
+@MARC-031t: Tollite portas principes
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: Coro: B
+@MARC-031o: c/
+@MARC-031p: 2-2,C/1D/E/F/G/2.A4G/2xFG/
+@MARC-031r: 11t
+@MARC-031t: Tollite portas principes
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Tollite portas principes
+@MARC-240m: Coro: A, T1, T2, B
+@MARC-240r: 11t
+@MARC-2400: 5076742
+@MARC-245a: [without title]
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks
+@MARC-300c: 20 x 16 cm
+@MARC-3008: 01
+@MARC-590a: Coro: A, T1, T2, B
+@MARC-590b: 2, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: A
+@MARC-594c: 1
+@MARC-594b: Coro: T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: A, Coro: T1, Coro: T2, Coro: B
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-773w: 1001138841
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.271
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

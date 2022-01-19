@@ -1,0 +1,117 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035158
+@MARC-003:	DE-633
+@MARC-005:	20210627213057.0
+@MARC-008:	180313##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: [Allegro di molto]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4'DFA8-6-3{(AB''C)}/4DFA8-6-3{(AB'''C)}/4D-Dq8C{8''B6AB}/4A-'''Dq8C{''B6AB}/
+@MARC-031q: +
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: [Andante]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4.'D8G/4G8F-/4.D8B/4B8A-/{6''GD}4.D/6''GD}4.D/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: {'8DFA}/{DFA}/{''DFA}/qA4G8F/{3BA8.G}8B/{3AG8.F}8A/{AGF}/4.'A^''E/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Bach, Johann Christian
+@MARC-100d: 1735-1782
+@MARC-100j: Ascertained
+@MARC-1000: pe2530
+@MARC-240a: Symphony
+@MARC-240m: orch, b
+@MARC-240n: WarB G 1
+@MARC-240n: TerB 272/3
+@MARC-240r: D
+@MARC-2400: 3993700
+@MARC-245a: [cover title:] Sinphonia ex D | A vocibus 8 | Violino 1mo | Violino 2do | Hobois 1mo | Hobois 2do | Cornu 1mo | Cornu 2do | Altoviola &amp; Basso | ex Rebus Stawisz
+@MARC-260c: 1770-1773
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 37,5 x 24,5 cm and three different sizes
+@MARC-3008: 01
+@MARC-500a: Musical inicipit of the first movement (vl 1) at the top of the title page.
+@MARC-500a: Inscription "Panu Swiątkiewiczowi Kłaniam" [I bow to Mr. Świątkiewicz] at the end of cor 2 part.
+@MARC-500a: Composer identified on the basis of RISM ID 200018110, 240001009, 850002018 and many others.
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1, f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), a-vla, ob (2), cor (2), b
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-690a: TerB
+@MARC-690n: 272/3
+@MARC-6900: lit103
+@MARC-690a: WarB
+@MARC-690n: G 1
+@MARC-6900: lit3490
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 274
+@MARC-6910: lit1891
+@MARC-700a: Stawisz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41020337
+@MARC-7004: fmo
+@MARC-7004: scr
+@MARC-700a: Świątkiewicz, Marcin
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41020338
+@MARC-7004: prf
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 233/A VI 37
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

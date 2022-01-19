@@ -1,0 +1,56 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001116254
+@MARC-003:	DE-633
+@MARC-005:	20210720131909.0
+@MARC-008:	200525##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o mod[era]to
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 6-4-/=7/2-4.-{6B''8.6EF/2GE/4DF4.-'{6B''8.6FG}/2AF/4EG
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Quartets
+@MARC-240m: strings
+@MARC-240r: E|b
+@MARC-2400: 3900008
+@MARC-245a: [caption title:] Quartetto | Composeta [!] del signiore GStefani
+@MARC-260c: 1825
+@MARC-2608: 01
+@MARC-300a: 1 score: 42 p.
+@MARC-300c: 32,1 × 26,7 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Rękopis poddany konserwacji w 2010 r.]
+@MARC-500a: [pl-text: Wewnątrz twardej oprawy rękopis zapisano na papierach o różnych formatach, z uciętą górną krawędzią.]
+@MARC-563a: Binded into a hard cover.
+@MARC-5638: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1432
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

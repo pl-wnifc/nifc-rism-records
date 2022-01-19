@@ -1,0 +1,223 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001313
+@MARC-003:	DE-633
+@MARC-005:	20201029163408.0
+@MARC-008:	150729##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: 4'G8G{8.B6A8G}/4A8D4G8B/{''D'A''D}{D'B''D}/4'A8xF4D8''D/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: 4'G8G{8.B6A}8G/4.A4G8-/4.A4B8B/4A8xF4D8-/
+@MARC-031r: g
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4.B8B4B-/4.''G8G4G-/CDEF/D'B2-/
+@MARC-031r: B|b
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: BAG/2F4F/2.F/2D4-/
+@MARC-031r: B|b
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =8/2B4BB/''4.C8'B4B-/2B4BB/''4.C8'B4B-/
+@MARC-031r: E|b
+@MARC-031t: Et incarnatus est de spirito sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: B''EF/2.bA/2bA4-/GEC/C'B-/
+@MARC-031r: B|b
+@MARC-031t: Et resurrexit tertia die
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: C-1
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 1-/F/4F-2-/1F/4F-''CC/
+@MARC-031r: B|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Allegretto quasi allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: ''FFF/F'F-/''EEE/ED-/
+@MARC-031r: B|b
+@MARC-031t: Pleni sunt caeli et terra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =2/4-BB/B''GE/ED-/1-/4-'BB/
+@MARC-031r: E|b
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEADG
+@MARC-031o: 6/8
+@MARC-031p: ''4.FF/4bG8F4F8-/'4.FF/4bG8F4F8''C/2.D/
+@MARC-031r: b|b
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Allegro ma non troppo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''D'B8{AB}{''C'B/4BG2G/4''EC8{'nB''C}{DC/4C'A2A/
+@MARC-031r: B|b
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Ścigalski, Franciszek
+@MARC-100d: 1782-1846
+@MARC-100j: Ascertained
+@MARC-1000: pe30002948
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: B|b
+@MARC-2400: 3900051
+@MARC-245a: MISSA | MUSICA | Quatuor Vocibus humanis comitata. | Orchestra | II Violinis. II Clarinettis. | II Clarinis. II Tympanis. | Violoncello et Organo obligatis. | Flauto II Fagottis non obligatis. | Concepta | per. | Franciscum Ścigalski.
+@MARC-260c: 1827 (1827)
+@MARC-2608: 01
+@MARC-300a: 16 parts
+@MARC-300c: 36 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry z prawej czarnym tuszem, prawdopodobnie ręką kopisty: "N=|o 102."; późniejsza na środku ołówkiem ręką nieznanego Paulina "N=|o 13"; późniejsza poniżej czerwonym atramentem ręką F. Maletza "N 364"; późniejsza u góry z prawej ołówkiem ręką W. Świerczka "215" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona czerwoną kredką oraz parafowana]
+@MARC-500a: Soloabschnitte fag 1, clno 1 und timp.
+@MARC-500a: Vermerk auf org und den vl-Stimmen: "Sum C.M.C. Authore Ścigalski 1827".
+@MARC-500a: Inscription in pencil at the end of fl part: "Ta Msza grana była w Wielki Czwartek 16 4 1829" ["This Mass was performed on Maundy Thursday 16 4 1829"].
+@MARC-590a: Coro: S, A, T, B, vl 1, 2, vla, org and vlc, fl, cl 1, 2, fag 1, 2, clno in B|b 1, 2, timp
+@MARC-590b: 4, 4, 4, 4, 4, 4, 3, 4, 2, 2, 2, 2, 2, 1, 2, 1f.
+@MARC-5908: 01
+@MARC-592a: [indistinct]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: A solo
+@MARC-594c: 1
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vc et org
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: S solo, A solo, S coro, A coro, T coro, B coro, vl (2), vla, vc et org, fl, cl (2), fag (2), clno (2), timp
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1427
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 10
+@MARC-6910: lit1887
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: 102
+@MARC-852d: 13
+@MARC-852d: 364
+@MARC-852d: 215
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-668
+@@END:		MARC21
+

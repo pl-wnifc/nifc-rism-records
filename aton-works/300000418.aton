@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000418
+@MARC-003:	DE-633
+@MARC-005:	20201029163338.0
+@MARC-008:	110317##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: T 1 coro
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4.'E8FGFEG/2''C'B/4B{8''CD}4ED/1C/
+@MARC-031r: E|b
+@MARC-031t: Otośmy się dziś zebrali
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Gruberski, Eugenjusz
+@MARC-100d: 1870-1923
+@MARC-100j: Ascertained
+@MARC-1000: pe353782
+@MARC-240a: Otośmy się dziś zebrali
+@MARC-240m: B, Coro maschile
+@MARC-240r: E|b
+@MARC-2400: 4331563
+@MARC-245a: [title page:] PRZEWIELEBNEMU | Księdzu Prałatowi | KAZIMIERZOWI | Welońskiemu | Najukochańszemu swemu Regensowi | w dniu Jego Imienin | 4-go Marca 1899 Roku | SKŁADAJĄ | Alumni - śpiewacy
+@MARC-246a: [caption title:] Kantata | [aligned to right:] Muzyka ks. E. Gruberskiego. | Słowa M.K. al: Sem: Płock:
+@MARC-260c: 1899
+@MARC-2608: 01
+@MARC-300a: score: 2f.
+@MARC-300c: 40 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na f. 1r]
+@MARC-500a: [pl-text: Tekst na karcie tytułowej (f. 1r) drukowany, część napisów pokryta metaliczną kolorową farbą; w rogach karty ornamenty roślinne; na kartach z tekstem nutowym drobne ornamenty wokół inicjałów tytułów i tekstu]
+@MARC-500a: [pl-text: Odcinki solowe w głosie B 1]
+@MARC-500a: [pl-text: Uwaga na temat autora słów: "M.K. al[umn] Sem[inarium] Płock[iego]"]
+@MARC-592a: [without watermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 2
+@MARC-594a: B, Coro T (2), Coro B (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 526
+@MARC-6910: lit1869
+@MARC-700a: M. K.
+@MARC-700j: Verified
+@MARC-7000: pe30017342
+@MARC-7004: lyr
+@MARC-700a: Weloński, Kazimierz Justyn
+@MARC-700d: 1831-1915
+@MARC-700j: Ascertained
+@MARC-7000: pe30040582
+@MARC-7004: dte
+@MARC-7004: fmo
+@MARC-710a: Chór Alumnów Seminarium Płockiego
+@MARC-710g: Ascertained
+@MARC-7100: ks51003403
+@MARC-7104: oth
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-941
+@@END:		MARC21
+

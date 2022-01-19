@@ -1,0 +1,51 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143725
+@MARC-003:	DE-633
+@MARC-005:	20211112150139.0
+@MARC-008:	210124##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 2-1E2.F4F/2D1G2G/2.A4GFE1D2D/
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-130a: Rorate caeli
+@MARC-130m: Coro
+@MARC-1300: 3905164
+@MARC-245a: [without title]
+@MARC-260c: ca. 1700
+@MARC-2608: 01
+@MARC-300a: 2 partbooks: 2 f.
+@MARC-300c: 20,5 x 16 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-590a: Coro: A , B
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro A, Coro B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-6910: lit41000579
+@MARC-773w: 1001143724
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.265
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

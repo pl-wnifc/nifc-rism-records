@@ -1,0 +1,88 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033540
+@MARC-003:	DE-633
+@MARC-005:	20210116212220.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 3/1
+@MARC-031p: ''9.C/'9B1B/9''C1D/2C'BGA1B/9''C1'B/9.''C/
+@MARC-031r: a
+@MARC-031t: Ad jussu cujus turbidae
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Ad jussu cujus turbidae
+@MARC-240m: Coro, bc
+@MARC-240r: a
+@MARC-2400: 4040094
+@MARC-245a: [caption title, org:] Gratiarum Actio pro Victoria ex Turcis
+@MARC-260c: 1621 (1621c)
+@MARC-2608: 01
+@MARC-260c: 1790-1799
+@MARC-2608: 02
+@MARC-300a: 4 parts
+@MARC-300c: 16,5 x 20,5 cm
+@MARC-3008: 01
+@MARC-300a: 1 part
+@MARC-3008: 02
+@MARC-500a: [pl-text: Na f. 1v każdego głosu okrągła pieczęć: "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Na f. 1v S notatka: "Scripsit | Josepho | Jaroszewicz." obok ołówkiem, prawdopodobnie ręką P. Podejki: "1785-93 na JG" [?]]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-5)]
+@MARC-500a: Das Stück entstand zu der neu eingeführten kirchlichen Feier des Sieges über die Türken in der Schlacht in Chocim. Im Kloster Jasna Góra wurde das Fest am 9/10 Oktober begangen
+@MARC-500a: Schreibervermerk in der S-Stimme
+@MARC-590a: Coro: A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: Coro S
+@MARC-590b: 1 f.
+@MARC-5908: 02
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 02
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, org (= bc)
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1616
+@MARC-6910: lit1869
+@MARC-700a: Jaroszewicz, Józef
+@MARC-700j: Ascertained
+@MARC-7000: pe30040540
+@MARC-7004: scr
+@MARC-7008: 02
+@MARC-700a: Podejko, Paweł
+@MARC-700j: Ascertained
+@MARC-7000: pe30075898
+@MARC-7004: oth
+@MARC-7008: 02
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-157
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

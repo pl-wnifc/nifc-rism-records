@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001088459
+@MARC-003:	DE-633
+@MARC-005:	20211119132244.0
+@MARC-008:	191001##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: T
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: =3/4-8-''4.D/D+4D8'B/4.A+4A8G/
+@MARC-031r: g
+@MARC-031t: Exaudi Deus orationem meam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Exaudi Deus orationem meam
+@MARC-240m: T, Bariton, org
+@MARC-2400: 3904120
+@MARC-245a: Franciszkowi Cieślewskiemu | Duet. S. Moniuszki
+@MARC-260c: 1862-1872
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 4 p.
+@MARC-300c: 34 x 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na s. 1 i s. 4 pieczęć: "Towarzystwo Muzyczne | S. Moniuszki | Sekcja imienia]
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: Bariton
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: T, Bariton, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Cieślewski, Franciszek
+@MARC-700d: 1841-1920
+@MARC-7000: pe41024476
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 279/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

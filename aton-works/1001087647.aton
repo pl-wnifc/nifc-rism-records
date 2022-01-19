@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001087647
+@MARC-003:	DE-633
+@MARC-005:	20211027135214.0
+@MARC-008:	190925##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 3,{qAqBq'C}4'D8.-3{,AB'C}{8.D6,A}/8'{D3,AB'C5DE}{8F3DEFG}{8A3FGA5B''C}/8{D6-'A3B''C}{6DC'BA}{GFEF}/
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: bassi
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ,,{3qAqB,qC}4D8.-{3,,AB,C}8.,{D6,,A}/8,{D3,,AB,C5DE}8{F3DEFG}{8A3FGA5B'C}/8{D8-3,AB'C}6{DC,BA}{GFEF}/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Polonaises
+@MARC-240m: strings, woodwinds, brass, percussion
+@MARC-2400: 3900011
+@MARC-245a: [caption title:] Taniec Polski ułożony na dzień Balu [illegible] dla Nayjasnieyszey Matki Imperatora | Całey Rosyi a Króla Polskiego, przez Karola Kurpińskiego, w Roku 1818. | w [underlined:] miesiącu wr [obliterated]
+@MARC-260c: 1818
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 p.
+@MARC-300c: 25,0 x 41,0 cm
+@MARC-3008: 01
+@MARC-591a: Inw 2299
+@MARC-591a: A-22.079
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 2
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in A
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in B|b
+@MARC-594b: tr in D
+@MARC-594c: 2
+@MARC-594b: timp in D and A
+@MARC-594c: 1
+@MARC-594b: bassi
+@MARC-594c: 1
+@MARC-594a: vl (2), vla (2), fl (2), ob (2), cl in A (2), fag (2), cor in B|b, tr in D (2), timp in D and A, bassi
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-773w: 1001087644
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1024|1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

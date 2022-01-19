@@ -1,0 +1,148 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001100158
+@MARC-003:	DE-633
+@MARC-005:	20211027135311.0
+@MARC-008:	200108##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: I
+@MARC-031d: Allegro espressivo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 9/8
+@MARC-031p: *B+6B-,8B+4B8'C+{CAG}/B-,B+4B8'C+{CAG}/B-G+{GB''C}+{C'AB}/{6qAqB}8{AGB}4-8-4-8-/''8D+6D6-8,'D+4D8bE+{E''C'B}/8''D-'D+4D8bE+{E''C'B}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: I
+@MARC-031d: Allegro espressivo
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031n: xF
+@MARC-031o: 9/8
+@MARC-031p: 4.,,E+4E8-4-8-/8{ExDE}+4E8-4-8-/{DxCD+}D--4.D/4G8-4-8-4-8-/4.G+4G8-4-8-/8{GFG}+4G8-4-8-/8{GFG}+G--4.G/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: II
+@MARC-031d: Moderato scherzando
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: =3/4-8{ED}/4C6{DE8F}/4E+8E-/4-8{ED}/4C6{DE8F}/4E8{EE}/4E6{EF8G}/4A6{AG8F}/6{''GAbB'''D}{''GBDG}/{xGAnB'''D}{''GBEG}/{AB'''CE}{''A'''C''EA}/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: II
+@MARC-031d: Moderato scherzando
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031o: 2/4
+@MARC-031p: 4,C,,xG/4,C,,xG/4,C,,xG/4,C,,xG/4,C,,xG/4,C,,xG/4,C,,xG/4,C,,xG/4,C,,xG/AE/D8{EF}/8{DD}4D/6{DD8D}4D+/8D-4-/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Largo tragico
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: 4A4.,xB8'C/8.{D6E}4.C8''C/4E8{DC'A''C}/4''C4.'xB8G/{A''C}4.'G8E/8{FA}4.nD,8B/8{,xB'C}{GgnBA}8.{G6xD}/4.F8{EC,G}/
+@MARC-031r: c|x
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Largo tragico
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: 2.,,C/2C+8C-/2.,C/4nD2xD/4E,2,,E/4nD2nG/8F4E8F4G/{8..C3C}4.C8E/4FGG/
+@MARC-031r: c|x
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: IV
+@MARC-031d: Allegro feroce
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8{xGAG}{AGA}{GAG}{AGA}/x{GAF}{ExDxC}{,xB'CD}{EFG}/{ABA}{BAB}{ABA}{BAB}/{AxGF}{ExDxC}{,xB'DE}{FGA}/{B''nC'B}{''C'B''C}{'B''C'B}{''C'B''C}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: IV
+@MARC-031d: Allegro feroce
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =9/8,,gD4,D8.{C6,,A}4B8.{A6F}/4G8.{F6E}4D-/8gG4,A8.{G6E}4nF8.{E6D}/4C8.{,,B6A}4G,E^,,G^C/,G^C^,,E,E^,,G^CnFG/,B^E^,,G{8,G^,,B^E,G^,,B^E}4,E^,,A^CA/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Quartets
+@MARC-240m: String quartet: vl (2), vla, vlc
+@MARC-2400: 3900008
+@MARC-245a: [title page:] Quatuor (en Mi mineur) | pour | 2 Violon, Viola et Violoncelle | Section G | Devise: Wer nie sein Brot [!] mit Tränen ass! | (Goethe)
+@MARC-260c: before 1884
+@MARC-2608: 01
+@MARC-300a: 1 score: 23 f.
+@MARC-300c: 35.5 x 27.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na stronę tytułową naklejona została kartka z tytułem.]
+@MARC-500a: [pl-text: na stronie tytułowej znajduje się pieczątka Biblioteki Warszawskiego Towarzystwa Muzycznego oraz skreślona pieczątka Muzeum Warszawskiego Towarzystwa Muzycznego.]
+@MARC-500a: [pl-text: na stronie przedtytułowej znajduje się zapis: "Zygmunt Noskowski | Quatuor | en | mi-mineur | pour | 2 violon, Viola et Violoncelle. | Partytura | Autograf."]
+@MARC-591a: R 1849
+@MARC-591a: Inw. 1173
+@MARC-591a: 24
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-691a: EM/b
+@MARC-691n: vol. VII "n-pa" p. 97
+@MARC-6910: lit1793
+@MARC-700a: Goethe, Johann Wolfgang von
+@MARC-700d: 1749-1832
+@MARC-700j: Ascertained
+@MARC-7000: pe173930
+@MARC-7004: oth
+@MARC-852a: PL-Wtm
+@MARC-852d: 9209
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 47/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

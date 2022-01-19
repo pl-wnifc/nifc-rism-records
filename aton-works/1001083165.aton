@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083165
+@MARC-003:	DE-633
+@MARC-005:	20211027135141.0
+@MARC-008:	190824##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGDA
+@MARC-031o: 4/4
+@MARC-031p: 4F8{GA}4B''8{CD/{FEDC}4D'B/''ECD'B/''{8CDC'B}2''C/
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Trio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGDA
+@MARC-031o: 4/4
+@MARC-031p: 2B''D/8{EDFE}2D/'A''C/8{C'B''DC}2'B/
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Moderato na kwartet smyczkowy
+@MARC-240m: vl, vla, vlc/cb
+@MARC-240r: B
+@MARC-2400: 5213615
+@MARC-245a: [tittle page:] Hertz Michał | Moderato na kwartet smyczkowy. H-dur | Autograf
+@MARC-246a: [caption tittle:] Moderato.
+@MARC-246a: [caption tittle:] Trio.
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 22,5 x 29 cm
+@MARC-3008: 01
+@MARC-590a: vl 1
+@MARC-590b: 2 p.
+@MARC-5908: 01
+@MARC-590a: vl 2
+@MARC-590b: 2 p.
+@MARC-5908: 01
+@MARC-590a: vla
+@MARC-590b: 2 p.
+@MARC-5908: 01
+@MARC-590a: vlc and cb
+@MARC-590b: 2 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2606
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc and cb
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc and cb
+@MARC-599b: full
+@MARC-650a: Instrumental pieces
+@MARC-6500: 25243
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2590
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

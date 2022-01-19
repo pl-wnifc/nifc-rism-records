@@ -1,0 +1,110 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001099288
+@MARC-003:	DE-633
+@MARC-005:	20211027135305.0
+@MARC-008:	191221##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: N 1. Chór Sabaudczyków
+@MARC-031g: G-2
+@MARC-031m: Coro A
+@MARC-031o: 6/8
+@MARC-031p: 4E8E4E8E/4E8E4E8E/4E8E4E8E/4E8E4E8E/4E8E4E8E/4E8E4E8E/4E8E4E8E/
+@MARC-031r: a
+@MARC-031t: Dalej w drogę czas ucieka
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: N 1. Chór Sabaudczyków
+@MARC-031g: F-4
+@MARC-031m: Coro B
+@MARC-031o: 6/8
+@MARC-031p: 4,A8A4A8A/4,A8A4A8A/4,A8A4A8A/4,A8A4A8A/4,A8A4A8A/4,A8A4A8A/4A8A4xG8G/
+@MARC-031r: a
+@MARC-031t: Dalej w drogę czas ucieka
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: N 2. Powrót z Paryża do Sabaudii
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: Coro A
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 1A+/4A-2-/1B+/4B-2-/1A+/4A--8AA/2A4A8AA/2A4A8AA/4GGGG/
+@MARC-031r: A
+@MARC-031t: Witaj kraju nasz
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: N 2. Powrót z Paryża do Sabaudii
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: Coro B
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 1,A+/4A-2-/1G+/4G-2-/1F+/4F--8AA/2A4A8AA/2'C,4A8AA/4EEEE/
+@MARC-031r: A
+@MARC-031t: Witaj kraju nasz
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Sabaudka czyli Błogosławieństwo matki
+@MARC-240k: Excerpts
+@MARC-240m: Coro
+@MARC-2400: 50222352
+@MARC-245a: [caption title:] N 1 Chór Sabaudczyków [space] Muzyka S: Moniuszki.
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: Chorus score: 10 p.
+@MARC-300c: 36.0 x 27.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: informacje na pierwszej stronie: "Od p. Leszczyńskiego z Wilna grudzień 1892."]
+@MARC-500a: [pl-text: strona 10 niezapisana]
+@MARC-591a: 575
+@MARC-591a: 86 d)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro A, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-700a: Ennery, Adolphe d'
+@MARC-700d: 1811-1899
+@MARC-700j: Ascertained
+@MARC-7000: pe30051535
+@MARC-7004: lyr
+@MARC-700a: Lemoîne, Gustave
+@MARC-700d: 1802-1885
+@MARC-700j: Ascertained
+@MARC-7000: pe30051583
+@MARC-7004: lyr
+@MARC-700a: Leszczyński, Bolesław
+@MARC-700d: 1837-1918
+@MARC-700j: Ascertained
+@MARC-7000: pe50040707
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 882
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

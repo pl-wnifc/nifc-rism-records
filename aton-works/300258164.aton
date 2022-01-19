@@ -1,0 +1,91 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258164
+@MARC-003:	DE-633
+@MARC-005:	20210923120855.0
+@MARC-008:	130717##################################
+@MARC-031a: 87
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 1-/''C'AnB''C2.'B4A2GAB''D1C'A9(B)//
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 87
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 0-1-/1,G/2EF/G,,nB/,C,,A1,D,,G//
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 87
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 1-/''C'A/4BG1''C2'B1''C/4'BA2G1AG/-''D2C'A1B2''C
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-031a: 87
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 0-0-/1,G/2ExF/4GD1G2xF/1G/2-C/,,A
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Alleluia ave Maria
+@MARC-240m: V (3)
+@MARC-2400: 3911891
+@MARC-245a: [without title]
+@MARC-260c: 1739-1769
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: A missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Numer 66 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-590a: S, T, B
+@MARC-590b: p. 138-139, 133, 132
+@MARC-5908: 01
+@MARC-591a: Kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, T, B
+@MARC-599b: full
+@MARC-650a: Versus alleluiatici
+@MARC-6500: 3005779
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,84 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147622
+@MARC-003:	DE-633
+@MARC-005:	20210923120941.0
+@MARC-008:	210223##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: V (1)
+@MARC-031o: c/
+@MARC-031p: 9C2,AA/'EEDC/FEFF/1EE/2E1F2E/
+@MARC-031t: Sancte paule apostole
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: V (2)
+@MARC-031o: c/
+@MARC-031p: 1-1E2EE/2.G4G/2GGA''C/4'BA1Ax2G/9A/
+@MARC-031t: Sancte paule apostole
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: v (3)
+@MARC-031o: c/
+@MARC-031p: 1,E2EE/2.'C4C2CC/,B'ED,A/'2.E4C,BA2B/'CC,AA/
+@MARC-031t: Sancte paule apostole
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: V (4)
+@MARC-031o: c/
+@MARC-031p: =7/1,E2EE/2.'C4C2CC/,BBA'C/
+@MARC-031t: Sancte paule apostole
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: V (5)
+@MARC-031o: c/
+@MARC-031p: =8/1,,A2AA/2.,C4C,,2GG/,DE/F4FE/1D2CC/
+@MARC-031t: Sancte paule apostole
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Sancte paule apostole
+@MARC-240m: V (5)
+@MARC-2400: 4341762
+@MARC-245a: [subject headnigs:] De Scto Paulo hoto.
+@MARC-246a: [on the folio 3:] De Scti Pauli holi. Conversite et | commenoratore
+@MARC-260c: 18th century, 1st half
+@MARC-2608: 01
+@MARC-300a: 5 parts, 5 f.
+@MARC-3008: 01
+@MARC-590a: V (1), V (2), V (3), V (4), V (5)
+@MARC-590b: f. 1r, 2r, 3r, 4r, 5r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 5
+@MARC-594a: V (5)
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-773w: 1001147619
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.286
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

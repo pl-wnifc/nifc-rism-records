@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114064
+@MARC-003:	DE-633
+@MARC-005:	20210720131935.0
+@MARC-008:	200504##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: =4/4.8''CC4'GA/B''C4.8ED/C'B4nAB/
+@MARC-031r: A|b
+@MARC-031t: Komu ślubny splatasz wieniec
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: 4.8'''C''B'''FE/DCGF/D''bFE'''nF/E''B48A''''C8(-)//
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Wieniec
+@MARC-240m: V, pf
+@MARC-240n: Op. 17
+@MARC-240r: A|b
+@MARC-2400: 50231211
+@MARC-245a: [title page:] [view of Royal Exchange of London] | Wieniec. | Romans do śpiewu | przez | Wilhelma Troschel. | Op. 17.
+@MARC-260c: before 1887
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 28 x 23,5 cm
+@MARC-3008: 01
+@MARC-383b: Op. 17
+@MARC-500a: [pl-text: Rękopis sporządzony na papierze z wydrukowanymi pięcioliniami i akoladami, obramowaniem stron oraz informacją: "J. &amp; F. HARDWOOD LONDON." Na pierwszej stronie znajduje się wydrukowany widok londyńskiej giełdy.]
+@MARC-590a: pf
+@MARC-590b: 4 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2277
+@MARC-591a: A-21.313
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2305
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

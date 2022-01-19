@@ -1,0 +1,103 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050601
+@MARC-003:	DE-633
+@MARC-005:	20210630160235.0
+@MARC-008:	141030##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4.''B8F{DFD'B}/4F2''F{8GA}/{6BFGE}{DFEC}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 6-{FEF}{AFEF}{''C'FEF}/{''D'BAB}-{''C'A''C}{FCAF}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Rondo.
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8'B''4B8F+/F4D8'B+/B4''B8G+/G4E8'B+/B4''B8F+/F4D8'B/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Matuszkiewicz, Franciszek
+@MARC-100d: 18/19
+@MARC-100j: Ascertained
+@MARC-1000: pe30109835
+@MARC-240a: Symphonies
+@MARC-240m: orch, org
+@MARC-240r: B|b
+@MARC-2400: 3900027
+@MARC-245a: [cover title:] N=|r|o 7 [later with pencil:] a | Sinphonia ex B. | a | Violino Primo. | Violino Secundo. | Clarinetto Primo. | Clarinetto Secundo. | Corno Primo. | Corno Secundo. | Alto Viola. | cum | Organo. | Del: Sigl: F: Matuszkiewicz. | [bottom middle:] N=|r|o 7
+@MARC-260c: 1780-1830
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N 7"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-13)]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: cl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor in B|b
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, cl (2), cor in B|b (2), org
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.87-88, no.66
+@MARC-6910: lit30022863
+@MARC-691a: SMP
+@MARC-691n: vol.1, p.256
+@MARC-6910: lit1935
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 329
+@MARC-6910: lit41001126
+@MARC-852a: PL-STAb
+@MARC-852d: N=|r|o 7
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 7a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

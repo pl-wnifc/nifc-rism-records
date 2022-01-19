@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001142097
+@MARC-003:	DE-633
+@MARC-005:	20210923120951.0
+@MARC-008:	210108##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,9D 1.G 2G 1ED 1.C 2C /
+@MARC-031t: Beata Dei Genetrix
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,2G / '1C ,2A '2C ,2BA G /
+@MARC-031t: Beata quae credidit
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Porta, Costanzo
+@MARC-100d: 1528c-1601
+@MARC-100j: Conjectural
+@MARC-1000: pe20000261
+@MARC-240a: Beata Dei Genetrix
+@MARC-240m: B
+@MARC-2400: 5069216
+@MARC-245a: [text incipit:] Beata Dei Genitrix
+@MARC-260c: after 1583
+@MARC-2608: 01
+@MARC-300a: 1 item
+@MARC-300a: 1 part
+@MARC-300a: 1f
+@MARC-300c: 25,4 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Rękopiśmienna kopia partii basowej pięciogłosowego motetu C. Porty, zamieszczonego pierwotnie w druku "Harmoniae miscellae [...] editae studio Leonardi Lechneri" (Norymberga 1583)]
+@MARC-520a: Bass part from the 2-movement Motet
+@MARC-590a: B
+@MARC-590b: 4v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-773w: 1001141440
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.356
+@MARC-856u: https://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP116443-PMLP236915-harmoniae_miscellae_cantionum_sacrarum_348084374_B.pdf
+@MARC-856x: Digitalization
+@MARC-856z: Link to digitized, related printed source
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

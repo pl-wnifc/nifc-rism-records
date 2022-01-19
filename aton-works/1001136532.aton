@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001136532
+@MARC-003:	DE-633
+@MARC-005:	20210923121035.0
+@MARC-008:	201121##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C coro
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2-2''DD/4,'BABGB''C/1.D
+@MARC-031r: 8t
+@MARC-031t: Gaude Maria virgo cunctas haereses sola
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T Coro
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 1,B2A1.B2A'DD4,BABG
+@MARC-031r: 8t
+@MARC-031t: Gaude Maria virgo cunctas haereses sola
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B Coro
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 1,G2xF/1.G/1.D/2-2GG/
+@MARC-031r: 8t
+@MARC-031t: Gaude Maria virgo cunctas haereses sola
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Gaude Maria virgo cunctas haereses sola
+@MARC-240m: Coro: C, T, B
+@MARC-240r: 8t
+@MARC-2400: 50202366
+@MARC-245a: Tractus post Septuagesimam
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 20 x 16.5 cm
+@MARC-3008: 01
+@MARC-590a: Coro: C, T, B
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Tracts
+@MARC-6500: 25156
+@MARC-773w: 1001135513
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

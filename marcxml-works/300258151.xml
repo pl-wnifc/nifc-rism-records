@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndd a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">300258151</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210923120854.0</marc:controlfield>
+  <marc:controlfield tag="008">130906##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">74</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1-/9E2.,B4B/2'C2.C4D2E/1D2E4CD/EF1G2D/1D2D</marc:subfield>
+    <marc:subfield code="t">Domine rex Deus Abraham</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">74</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T (1)</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">9-1-/2-9E2.,A4G2F/9E2D1G2xF/G4GF2E</marc:subfield>
+    <marc:subfield code="t">Domine rex Deus Abraham</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">74</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T (2)</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">9-1-/9,A2.E4E/1F2GA/2.G4AB'CD,G/1A2B</marc:subfield>
+    <marc:subfield code="t">Domine rex Deus Abraham</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">74</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T (3)</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1,AE/9GA'C1,A/'C9C,B1A9GAB'C1,A/</marc:subfield>
+    <marc:subfield code="t">Domine rex Deus Abraham</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">74</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">5</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">9-/9,E9.,,A2,C/1D2C4,,AB/,CDEF9GC/2,,G</marc:subfield>
+    <marc:subfield code="t">Domine rex Deus Abraham</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Lilius, Franciszek</marc:subfield>
+    <marc:subfield code="d">1657+</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30020509</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Domine rex Deus Abraham</marc:subfield>
+    <marc:subfield code="m">V (5)</marc:subfield>
+    <marc:subfield code="0">3025743</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[on margin partbooks C, A, B:] à 5 F[ranciscus] L[ilius]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1660-1682</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">4 parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Final inscriptions: "AMDG"</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Numer 53 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Partia piątego głosu zapisana w księdze III.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Partia zapisana w księdze II niekompletna. W księdze tej brakuje 25 stron. Na następnej stronie, ponad pustymi pięcioliniami adnotacja ołówkiem: "brak stron 15-40".]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: W księdze III na lewym marginesie adnotacja atramentem "1mus"' na następnej stronie, przy partii drugiego głosu na marginesie po prawej stronie: "2dus'.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">A, T 1, T 2 and 3, B</marc:subfield>
+    <marc:subfield code="b">p. 124, 124, 120-121, 118</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kk.I.7/1-4</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">A</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">A, T (3), B</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Sacred songs</marc:subfield>
+    <marc:subfield code="0">25250</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">Głuszcz-ZwolińskaW 1983</marc:subfield>
+    <marc:subfield code="0">lit2819</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Miskiewicz, Maciej Arnulf</marc:subfield>
+    <marc:subfield code="d">1685c+</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30105639</marc:subfield>
+    <marc:subfield code="4">scr</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1="1" ind2="8">
+    <marc:subfield code="w">300258077</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kk</marc:subfield>
+    <marc:subfield code="d">D32-35</marc:subfield>
+    <marc:subfield code="e">Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej</marc:subfield>
+    <marc:subfield code="x">ks30002080</marc:subfield>
+    <marc:subfield code="c">Kk.I.7</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

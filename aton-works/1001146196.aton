@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001146196
+@MARC-003:	DE-633
+@MARC-005:	20210923121106.0
+@MARC-008:	210213##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 4/4
+@MARC-031p: 1- / ''2D + 8D 4E 8F / 8G 'G ''8.D '6B 8.A ''6C /
+@MARC-031t: Ecce panis angelorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Largo
+@MARC-031g: F-4
+@MARC-031m: bc
+@MARC-031n: xF
+@MARC-031o: 4/4
+@MARC-031p: {,,8G,GFE} {DEDC} / {,,B,GFE} 4DC /
+@MARC-031t: Ecce panis angelorum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Casali, Giovanni Battista
+@MARC-100d: 1715c-1792
+@MARC-1000: pe30000607
+@MARC-240a: Ecce panis angelorum
+@MARC-240m: S, bc
+@MARC-2400: 3902605
+@MARC-245a: [page title:] [u góry, dopisane później:] Na Boże Ciało - pełne komplety | Organo | Motetto a Voce Solo | di Soprano | Del Sig Gio: Batta Casali
+@MARC-260a: Cracow
+@MARC-260c: XVIII-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 f.
+@MARC-300c: 25,3 x 20,6 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na kartach 1v, 2r, 3r, 4r, 5r, 6v owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: dalsza część rękopisu, oznaczona numeracją 14-16, stanowi partię basową obcego utworu Rorate caeli]
+@MARC-5008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: 2r-3r
+@MARC-5908: 01
+@MARC-590a: S, bc
+@MARC-590b: 1v, 4r-5v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: S, bc
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.323
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

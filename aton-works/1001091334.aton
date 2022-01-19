@@ -1,0 +1,64 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001091334
+@MARC-003:	DE-633
+@MARC-005:	20211027135223.0
+@MARC-008:	191024##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato, non troppo lento
+@MARC-031g: G-2
+@MARC-031m: Coro V 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =2/4.''D8'F4FG/2A8D-DF/4AA''C8'BA/2G8B-4B/4.B8F4G{8FG}/2A4G8''C-/
+@MARC-031r: F
+@MARC-031t: Ecce lignum crucem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato, non troppo lento
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =1/2-4FA/4.''D8'F4FA/2A4.D8F/2A4''C{'8BA}/2GB/4.B8F4G{8FG}/2A4G8C-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Ecce lignum crucis
+@MARC-240m: V, coro, org
+@MARC-2400: 3975263
+@MARC-245a: [title page:] [underlined:] "Ecce lignum crucis..." | (: Chor - Solo (: Baryton :) - Organy :) | [underlined:] muzyka S. Moniuszki.
+@MARC-260c: 1872-03-11
+@MARC-2608: 01
+@MARC-300a: 1 score: 10 p.
+@MARC-300c: 26.0 x 33.5 cm
+@MARC-3008: 01
+@MARC-591a: inw 131
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Bariton
+@MARC-594c: 1
+@MARC-594b: Coro
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Bariton, Coro, org
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 262/M
+@@END:		MARC21
+

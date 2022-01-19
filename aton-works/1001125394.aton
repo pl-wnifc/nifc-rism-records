@@ -1,0 +1,52 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001125394
+@MARC-003:	DE-633
+@MARC-005:	20210720131652.0
+@MARC-008:	200806##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: Primo
+@MARC-031n: xFCGD
+@MARC-031o: c
+@MARC-031p: 2''E'4..B6B/2.''C4'E/FGAA/2A+4A-/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Wieniawski, Józef
+@MARC-100d: 1837-1912
+@MARC-100j: Ascertained
+@MARC-1000: pe137276
+@MARC-240a: Ouvertures
+@MARC-240m: pf 4hands
+@MARC-240r: E
+@MARC-2400: 50104926
+@MARC-245a: [title page:] Ouverture | (op: [crossed out: 28].) Arrangée à 4 Mains | par | l’Auteur. | Joseph Wieniawski | (Baden Baden 1862.)
+@MARC-260c: 1862-07-24
+@MARC-2608: 01
+@MARC-300a: 1 score: 18 p.
+@MARC-300c: 26,5 x 24,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na końcu utworu adnotacja: "Jeudi 24 Juillet 1862. (266 Lichtentahler-strasse [!]; Baden.)".]
+@MARC-500a: [pl-text: Pierwsza strona poplamiona przez częściowe zalanie.]
+@MARC-591a: inw. 3511
+@MARC-591a: A-31.230/79
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf 4hands
+@MARC-594c: 1
+@MARC-594a: pf 4hands
+@MARC-599b: full
+@MARC-650a: Piano music
+@MARC-6500: 3902024
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 3444
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

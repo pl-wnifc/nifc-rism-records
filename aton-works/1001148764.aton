@@ -1,0 +1,86 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001148764
+@MARC-003:	DE-633
+@MARC-005:	20210923121121.0
+@MARC-008:	210303##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A coro
+@MARC-031o: c/
+@MARC-031p: 9-1-2-1E2D2.C4C1,B2.'E4EEDC,B
+@MARC-031r: a
+@MARC-031t: Ego dormio et cor meum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T1 coro
+@MARC-031o: c/
+@MARC-031p: 2.E4D2C,B'CD1.E1.,A2G2.F4E
+@MARC-031r: a
+@MARC-031t: Ego dormio et cor meum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-1
+@MARC-031m: T2 coro
+@MARC-031o: c/
+@MARC-031p: 9-1.A2G2.F4F1E2-2.E8{DC}2D
+@MARC-031r: a
+@MARC-031t: Ego dormio et cor meum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031o: c/
+@MARC-031p: 9-1.,A2G2.F4F1E2-1-2AABB
+@MARC-031r: a
+@MARC-031t: Ego dormio et cor meum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Ego dormio et cor meum
+@MARC-240m: Coro: A, T1, T2, B
+@MARC-240r: a
+@MARC-2400: 50228309
+@MARC-245a: [without title]
+@MARC-260c: [1600-1750]
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 21 x 16.5 cm
+@MARC-3008: 01
+@MARC-590a: Coro: A, T1, T2, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: A
+@MARC-594c: 1
+@MARC-594b: Coro: T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: A, Coro: T1, Coro: T2, Coro: B
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-773w: 1001148105
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.8
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndc a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001084050</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210601132704.0</marc:controlfield>
+  <marc:controlfield tag="008">190902##################################</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Ćwiklicz, Bolesław Jan</marc:subfield>
+    <marc:subfield code="d">19.sc</marc:subfield>
+    <marc:subfield code="0">pe41023611</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">9 Partsongs</marc:subfield>
+    <marc:subfield code="m">Coro maschile</marc:subfield>
+    <marc:subfield code="0">3929753</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">Polskim Towarzystwom Śpiewackim | w Galicyi. | Dziewięć chórków | na głosy męskie | do słów poetów polskich | napisał | Bolesław Jan Ćwiklicz. | Lwów. | Nakład własność autora muzyki.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">Lwów</marc:subfield>
+    <marc:subfield code="c">[s.d.]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score: 8 p.</marc:subfield>
+    <marc:subfield code="c">34,1 x 21,1 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Possible autograph manuscript</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro maschile</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">Coro maschile</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Partsongs</marc:subfield>
+    <marc:subfield code="0">25460</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-KOZmzk</marc:subfield>
+    <marc:subfield code="e">Muzeum Zamoyskich w Kozłówce</marc:subfield>
+    <marc:subfield code="x">ks51000446</marc:subfield>
+    <marc:subfield code="c">mzk/m/137</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+</marc:record>

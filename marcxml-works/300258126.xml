@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndd a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">300258126</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210923120902.0</marc:controlfield>
+  <marc:controlfield tag="008">130716##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">0-9-/1.G2GAG1''C/2'B''C1.'A2AF2.A4G1G2xF9(G)//</marc:subfield>
+    <marc:subfield code="t">Kyrie, eleison Christe eleison Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">0-0-/1.C2CDC1F/2E1FD2C1D9,(B)//</marc:subfield>
+    <marc:subfield code="t">Kyrie, eleison Christe eleison Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1.,G2GAG/1'C2,B1'C2,A/B'C1,G/2-GA1G2G/4FGAB2'C2.D4C2,B/</marc:subfield>
+    <marc:subfield code="t">Kyrie, eleison Christe eleison Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">9-1.,C2C/DC1F/2E2.C4D2EFC/,,A,C,,G</marc:subfield>
+    <marc:subfield code="t">Kyrie, eleison Christe eleison Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">9-1-/1.G2GAG/2''CC'B''C1'A/2GGFFG</marc:subfield>
+    <marc:subfield code="t">Et in terra pax, hominibus bonae voluntatis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1.,G2GAG'CC,B'C/,A2.'C4DEC/2DE4FEDC/2D</marc:subfield>
+    <marc:subfield code="t">Et in terra pax, hominibus bonae voluntatis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">0-9-1-/2-,ADAB'C/,B1'D2C,BG1A9G/</marc:subfield>
+    <marc:subfield code="t">Bonae voluntatis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">0-0-/2-,D,,G,C/4DEFD2EF/GE1D/2,,G</marc:subfield>
+    <marc:subfield code="t">Bonae voluntatis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">3</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1-9G1A2G1''C4'BA/1B2.''C4'B2AF/9G2D</marc:subfield>
+    <marc:subfield code="t">Sanctus, Dominus Deus Sabaoth</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">3</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">9,G1.'C2D/EC9D1.E4DC2,B'E1D/</marc:subfield>
+    <marc:subfield code="t">Sanctus, Dominus Deus Sabaoth</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">3</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">0-9-/9,G1A2G1'C4,BA/2B'C1,A2G1A2FG1A</marc:subfield>
+    <marc:subfield code="t">Sanctus, Dominus Deus Sabaoth</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">3</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">0-1-/9,,G1.,C2D/EC/1.G4FE1F/2E</marc:subfield>
+    <marc:subfield code="t">Sanctus, Dominus Deus Sabaoth</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">4</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">0-0-9-/1.G2GAG/1''C2'B''C9'A2G2.''D4C2'B/A</marc:subfield>
+    <marc:subfield code="t">Agnus Dei, qui tollis peccata mundi miserere nobis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">4</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">0-1-/1.C2CDC1F/2E1F2E9D2CC2D2C1F/2E</marc:subfield>
+    <marc:subfield code="t">Agnus Dei, qui tollis peccata mundi miserere nobis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">4</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">1.,G2GAG1'C/2,B2.'C4,B2A/G1A2GAFGA9G/</marc:subfield>
+    <marc:subfield code="t">Agnus Dei, qui tollis peccata mundi miserere nobis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">49</marc:subfield>
+    <marc:subfield code="b">4</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">9-/1.,C2CDC1F/2E1F2E1D9C1,,G/</marc:subfield>
+    <marc:subfield code="t">Agnus Dei, qui tollis peccata mundi miserere nobis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Samin, Vulfran</marc:subfield>
+    <marc:subfield code="d">16.sc</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30102784</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Masses</marc:subfield>
+    <marc:subfield code="m">V (4)</marc:subfield>
+    <marc:subfield code="0">3900051</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[heading in all voices:] Missa Sa[nc]ti Spiritus</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1739-1769</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">4 parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">The composer was established based on the print: Missae tres a P. Cadeac, I. Herissant, V. Samin ... , Paris 1558 see: RISM 1558(1)</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">The copy of basso ripieno: Mus. I. 7a no. 5 (olim Ch. 151) "S[an]cti Spiritus"</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">The cycle without Patrem.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Numer 28 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, A, T, B</marc:subfield>
+    <marc:subfield code="b">p. 83-86, 78-80, 73-75, 74-75</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kk.I.7/1-4</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">A</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, A, T, B</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Masses (cantus firmus-, paraphrase-, parody masses)</marc:subfield>
+    <marc:subfield code="0">3000157</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">Głuszcz-ZwolińskaW 1983</marc:subfield>
+    <marc:subfield code="0">lit2819</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Pękalski, Józef Tadeusz Benedykt</marc:subfield>
+    <marc:subfield code="d">18.sc</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30104332</marc:subfield>
+    <marc:subfield code="4">scr</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="730" ind1="0" ind2=" ">
+    <marc:subfield code="a">Missa Sancti Spiritus</marc:subfield>
+    <marc:subfield code="g">RISM</marc:subfield>
+    <marc:subfield code="0">3922669</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1="1" ind2="8">
+    <marc:subfield code="w">300258077</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kk</marc:subfield>
+    <marc:subfield code="d">D32-35</marc:subfield>
+    <marc:subfield code="e">Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej</marc:subfield>
+    <marc:subfield code="x">ks30002080</marc:subfield>
+    <marc:subfield code="c">Kk.I.7</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

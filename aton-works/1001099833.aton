@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099833
+@MARC-003:	DE-633
+@MARC-005:	20211027135304.0
+@MARC-008:	200105##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =1//=5//A8AABA-A/''D'A-6AqA''4C8'B6-B/4''E6{ED}{C'B}4B{6BA}{GE}/{xDE}{GF}{AG}{BA}{8.A6''D}8'A-}/4A8AAbBA-/8AA''D'A''nC'bB4-/
+@MARC-031r: D
+@MARC-031t: Gdy cię nie widzę nie wzdycham nie płaczę
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''F^D8{F^DF^D}{''B^E^xDB^E^D}-B^E^D//{{E^CE^C}-E^C{A^F^nCA^F^C}-A/8{G6AG}{8F6EF}{8G6AG}8{F6GF}/8{E6xDE}{8.F6E}{8DD}-''D^'D/'''{D^''bB^G^D'''D^''B^G^D}-4''D^'D8-,A/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Niepewność
+@MARC-240m: V, pf
+@MARC-240r: D
+@MARC-2400: 5213682
+@MARC-245a: [caption title:] Niepewność
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajduje się pieczątka: "ALEKSANDER MONIUSZKO | N|o 773"]
+@MARC-591a: N|o 773
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Alleged
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|21
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

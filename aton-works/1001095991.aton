@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001095991
+@MARC-003:	DE-633
+@MARC-005:	20211027135234.0
+@MARC-008:	191127##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4''xFGA/2'''C''4B/nEFxF/2A4G/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Walc B-dur
+@MARC-240m: pf
+@MARC-240r: B
+@MARC-2400: 5220740
+@MARC-245a: [caption title, in pencil:] N|o 1 Walc
+@MARC-260a: Willno
+@MARC-260c: 1840-08-05
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 33 x 26 cm
+@MARC-3008: 01
+@MARC-590a: pf
+@MARC-590b: 1 p.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Waltzes
+@MARC-6500: 25220
+@MARC-700a: Jakubowska, Maria
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41025294
+@MARC-7004: dte
+@MARC-773w: 1001095989
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 741/M
+@@END:		MARC21
+

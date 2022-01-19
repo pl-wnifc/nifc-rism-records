@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041680
+@MARC-003:	DE-633
+@MARC-005:	20210527001455.0
+@MARC-008:	180627##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''D4D'xA/2BxA/4.''D8D4ED/DxC2D/
+@MARC-031r: b
+@MARC-031t: Gdy cię na krzyżu widzę
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2,,B4B,F/2GF/4.D8D4GD/2,,A,D/
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Gdy cię na krzyżu widzę
+@MARC-240m: V (2), vl (2), org
+@MARC-240r: b
+@MARC-2400: 5035685
+@MARC-245a: [S 1 part caption title:] Planc | tus | 4
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-590a: S 1, T 1
+@MARC-590b: f. 1v-2v, 1v-2v
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2v, 2v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 3r-4v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, T, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Planctus
+@MARC-6500: 3900596
+@MARC-691a: ŹHMP 15
+@MARC-691n: p. 65-73
+@MARC-6910: lit2272
+@MARC-773w: 1001041676
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 372/A VIII 12
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

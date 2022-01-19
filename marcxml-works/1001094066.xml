@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001094066</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20211027135257.0</marc:controlfield>
+  <marc:controlfield tag="008">191116##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro, molto animato</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">pf Primo</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">4-A^F-A^F/-A^F6-{''8F6-D8F6-A}/'''2D</marc:subfield>
+    <marc:subfield code="r">D</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Moniuszko, Stanisław</marc:subfield>
+    <marc:subfield code="d">1819-1872</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30008351</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Kochanka hetmańska</marc:subfield>
+    <marc:subfield code="m">pf 4hands</marc:subfield>
+    <marc:subfield code="o">Arr</marc:subfield>
+    <marc:subfield code="0">5219662</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[title page:] [in left corner, crossed out:] Prawo wydawnictwa | nabyte przez firmę | Gebethnera i Wolffa | 18/XI 1887] [in right corner, crossed out:] Rękopis niniejszy otrzymałem | dla Sekcyi im. Moniuszki | za zwrotem kopii. 25/6 96 r. | [Władysław Zahorowski's signature]] | [crossed out: Józefowi Wieniawskiemu] | Uwertura do powieści Lucyana Siemieńskiego | „Kochanka Hetmańska.” | Muzyka Stanisława Moniuszki. | (: ułożenie na fortepian, na cztery ręce :) | [at left, in frame: prawo wydawnictwa | ustępujemy Sekcyi Mo-|niuszki za zapłatą[?] | Rubli dwadzieścia | Gebethner i Wolff | d 27/6 1896] | Zapłacono z funduszów Sekcyi | 27/6 96. [Władysław Zahorowski's signature] | [at right, in frame, crossed out: Własność wydawców | Warszawa Nakład Gebethnera i Wolffa. | Ostatnia pamiątka Józefowi Wieniawskiemu | którego talent i życzliwość tak wysoce cenił | ś. p. mąż mój, Stanisław Moniuszko. | [Aleksandra] Moniuszkowa] | (pismo Moniuszki)......Wilno _ 1854 r. Maja 30. d. | (Wilno 1854..)</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1854-05-30</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">2 parts</marc:subfield>
+    <marc:subfield code="c">27 x 35 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Stemple "Towarzystwo Muzyczne | Sekcja imienia | S. Moniuszki".]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Adnotacje niebieską kredką.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf 4hands (2)</marc:subfield>
+    <marc:subfield code="b">7, 7 p.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">Inw. 843</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">117 a</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">75</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Autograph manuscript</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">pf 4hands</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf 4hands</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Overtures</marc:subfield>
+    <marc:subfield code="0">25196</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wieniawski, Józef</marc:subfield>
+    <marc:subfield code="d">1837-1912</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe137276</marc:subfield>
+    <marc:subfield code="4">dte</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Moniuszko, Aleksandra</marc:subfield>
+    <marc:subfield code="d">1821-1891</marc:subfield>
+    <marc:subfield code="j">Conjectural</marc:subfield>
+    <marc:subfield code="0">pe41024546</marc:subfield>
+    <marc:subfield code="4">fmo</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Siemieński, Lucjan Hipolit</marc:subfield>
+    <marc:subfield code="d">1807-1877</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe41021280</marc:subfield>
+    <marc:subfield code="4">oth</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Wtm</marc:subfield>
+    <marc:subfield code="e">Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki</marc:subfield>
+    <marc:subfield code="x">ks30000150</marc:subfield>
+    <marc:subfield code="c">R 424</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+</marc:record>

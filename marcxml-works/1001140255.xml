@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001140255</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210923121019.0</marc:controlfield>
+  <marc:controlfield tag="008">201219##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Kyrie, Andante moderato</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="n">xFCG</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=19/2.''D/'B/F/G/A/B/''nC/D/D/xC/</marc:subfield>
+    <marc:subfield code="r">A</marc:subfield>
+    <marc:subfield code="t">Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Kyrie, Andante moderato</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="n">xFCG</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=17/2.''D/'B/F/G/A/B/2''nC4'B/2B4G/2.F/G/B/4A--/</marc:subfield>
+    <marc:subfield code="r">A</marc:subfield>
+    <marc:subfield code="t">Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="d">Kyrie, Andante moderato</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T</marc:subfield>
+    <marc:subfield code="n">xFCG</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=15/2.D/,B/F/G/A/B/2'nC4D/2.D/D/D/2D4nC/2.,A/'E/4E--/</marc:subfield>
+    <marc:subfield code="r">A</marc:subfield>
+    <marc:subfield code="t">Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="d">Kyrie, Andante moderato</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="n">xFCG</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=21/2.D/,B/F/G/A/B/xG/4A--/</marc:subfield>
+    <marc:subfield code="r">A</marc:subfield>
+    <marc:subfield code="t">Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">5</marc:subfield>
+    <marc:subfield code="d">Kyrie, Andante moderato</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">xFCG</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">D''DD/D{6DEFE}{DC'BA}/4BBB/B{6B''CDC}{'BAGF}/4GGG/4.G6{AB}{AGFE}/q8E4F-{8.G3FG}/4F-{8.B3AB}/4A-{6GBAG}/4F-</marc:subfield>
+    <marc:subfield code="r">A</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Gloria, Allegro</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">''FFF-/=16/FFF-/2.D8DxC/4'BBB{8BA}/2GG/4F''DDC/'BBBA/2GG/4A8''DD4DD/GFED/EDD-/</marc:subfield>
+    <marc:subfield code="r">D</marc:subfield>
+    <marc:subfield code="t">Gloria in excelsis Deo</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Gloria, Allegro</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">AAA-/=16/AAA-/2.F8FF/4GGG{8GF}/2EE/4DF2F/4GGGF/2EE/4D8FF4FF/2DD/A4A-/</marc:subfield>
+    <marc:subfield code="r">D</marc:subfield>
+    <marc:subfield code="t">Gloria in excelsis Deo</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="d">Gloria, Allegro</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">DDD-/=16/DDD-/2.,A8AA/4B'DDD/2E,A/4AA2A/4B'DDD/2E,A/4A8AA4AA/2'D4EF/CDD-/</marc:subfield>
+    <marc:subfield code="r">D</marc:subfield>
+    <marc:subfield code="t">Gloria in excelsis Deo</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="d">Gloria, Allegro</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">,DDD-/=16/DDD-/2.D8DD/4DDDD/2DC/4DD2D/4DDDD/2DC/4D8DD4DD/4BAGF/GFF-/</marc:subfield>
+    <marc:subfield code="r">D</marc:subfield>
+    <marc:subfield code="t">Gloria in excelsis Deo</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">5</marc:subfield>
+    <marc:subfield code="d">Gloria, Allegro</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">''F^'A^D''F^'A^D''F^'A^D-/2.''D8{DnC}/2.'B4A/GG{8.G3FG}8{AG}/{FG}4A''D8{DnC}/4qC2.'B4A/GG{8.G3FG}8{AG}/4F8-6{FE}4FF/BA''CD/</marc:subfield>
+    <marc:subfield code="r">D</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Vogel, Kajetán</marc:subfield>
+    <marc:subfield code="d">1750a-1794</marc:subfield>
+    <marc:subfield code="j">Conjectural</marc:subfield>
+    <marc:subfield code="0">pe30003272</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Missa</marc:subfield>
+    <marc:subfield code="m">Coro, orch, org</marc:subfield>
+    <marc:subfield code="r">A</marc:subfield>
+    <marc:subfield code="0">3921633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[no title]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">[2nd half 18th c.]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">12 parts; 80 f.</marc:subfield>
+    <marc:subfield code="c">37 cm x 21,5 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: adnotacja "Fogel" w prawym górnym roku pierwszej strony partii Vl I.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Pieczęć okrągła: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na pierwszej stronie Canto.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Pieczęć "CATH. CRAC. * ARCH. CAPIT." na dole pierwszych i ostatnich stron partii oprócz pierwszej strony Canto.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Sygnatura Kk.I.478 ołówkiem na początku każdej partii.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, A, T, B, Vl 1 (x2), Vl 2 (x2), Vla, Ob 1, Ob 2, Cor 1, Cor 2, Org=bc (x2)</marc:subfield>
+    <marc:subfield code="b">10, 10, 8, 8, 16, 16, 12, 6, 6, 6, 6, 12 p.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">A</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vl</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vla</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">ob</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">cor</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">org</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, A, T, B, vl (2), vla, ob (2), cor (2), org</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Masses</marc:subfield>
+    <marc:subfield code="0">25133</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kk</marc:subfield>
+    <marc:subfield code="e">Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej</marc:subfield>
+    <marc:subfield code="x">ks30002080</marc:subfield>
+    <marc:subfield code="c">Kk.I.478</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

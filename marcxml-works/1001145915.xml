@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001145915</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210923121106.0</marc:controlfield>
+  <marc:controlfield tag="008">210210##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">Organo</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">,4DFE / D 4- G / DDD / DDD /</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">Canto</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">''2.D / 4D'AB / BA ''D / 4D'AB /</marc:subfield>
+    <marc:subfield code="t">Beatus vir</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">Canto di ripieno</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=59 / ''2. E /4 E'B''C / C'B''E /</marc:subfield>
+    <marc:subfield code="t">Beatus vir</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">Alto</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=30 / '2.A / 4AEF / FEA /</marc:subfield>
+    <marc:subfield code="t">Beatus vir</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">5</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">Alto di ripieno</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">1- / '2.xG / 2xG 4A / 4A xGG / 2xG 4A /</marc:subfield>
+    <marc:subfield code="t">Beatus vir</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">6</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">Tenore di Ripieno</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=59 / ,2.B / 4B '2E / 2E 4E / 2E 4E /</marc:subfield>
+    <marc:subfield code="t">Beatus vir</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">7</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">Basso di Ripieno</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=59 / ,2.E / 2E 4A / ,2E 4E / 2E 4A /</marc:subfield>
+    <marc:subfield code="t">Beatus vir</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Constanzi</marc:subfield>
+    <marc:subfield code="j">Alleged</marc:subfield>
+    <marc:subfield code="0">pe50046616</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Beatus vir</marc:subfield>
+    <marc:subfield code="m">S, S rip, A, A rip, T rip, B rip, org</marc:subfield>
+    <marc:subfield code="0">3023296</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[page title:] [w prawym górnym rogu, przekreślone:] 555 | Beatus vir à [?] | Canto, Alto con Ripieno | Organo | Del Sign. [?] Batta Constanzi</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">Cracow</marc:subfield>
+    <marc:subfield code="c">XVII-XIX</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score: 48 f.</marc:subfield>
+    <marc:subfield code="c">24,5 x 18,4 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: na kartach 1v, 6v, 7r, 8r, 9r, 10r, 11r, 11v, 13v, 18v, 19v, 20r, 21r, 22r, 23r, 25v, 30r, 31v, 33r, 34r, 35r, 36r 37v, 38r, 39r, 40r, 41r, 42r, 43v, 44r, 45r, 46r, 47r, 48r owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">Organo</marc:subfield>
+    <marc:subfield code="b">f. 1v-11v</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">Canto</marc:subfield>
+    <marc:subfield code="b">f. 13v-18v</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">Canto di ripieno</marc:subfield>
+    <marc:subfield code="b">f. 19v-23v</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">Alto</marc:subfield>
+    <marc:subfield code="b">f. 25v-30r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">Alto di ripieno</marc:subfield>
+    <marc:subfield code="b">f. 31v-36r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">Tenore di ripieno</marc:subfield>
+    <marc:subfield code="b">f. 37v-42r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">Basso di ripieno</marc:subfield>
+    <marc:subfield code="b">f. 43v-48r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S rip</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">A</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">A rip</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T rip</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B rip</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">org</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, S rip, A, A rip, T rip, B rip, org</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Sacred songs</marc:subfield>
+    <marc:subfield code="0">25250</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kk</marc:subfield>
+    <marc:subfield code="e">Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej</marc:subfield>
+    <marc:subfield code="x">ks30002080</marc:subfield>
+    <marc:subfield code="c">Kk.I.328</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

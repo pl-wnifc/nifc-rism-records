@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300001522
+@MARC-003:	DE-633
+@MARC-005:	20201029163414.0
+@MARC-008:	160108##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Mazur
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: {8'''DFD}/gD{6.C3''B}{8'''C''A}/{B'''D}{6.C3''B}/8B4A/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Morawski, Józef Bernard
+@MARC-100d: 1809-1859
+@MARC-100j: Ascertained
+@MARC-1000: pe30040596
+@MARC-240a: Mazurs
+@MARC-240m: orch
+@MARC-240r: D
+@MARC-2400: 3903722
+@MARC-245a: [caption title, vl 1:] Morawski | Mazur
+@MARC-260c: 1840-1860 (19.me)
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak fl 2, cor 2]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: vl 1, 2, b, fl 1, cl 1, 2, cor 1, clno
+@MARC-590b: f. 1r, 1r, 1v, 1r, 1r, 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 1
+@MARC-594a: vl (2), b, fl (2), cl (2), cor (2), clno
+@MARC-599b: full
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.943
+@MARC-6910: lit1869
+@MARC-700a: Studziński, Marcin
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30040493
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300001521
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 18
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-15
+@@END:		MARC21
+

@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001088414
+@MARC-003:	DE-633
+@MARC-005:	20211027135217.0
+@MARC-008:	191001##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: No. 8 b:)
+@MARC-031d: Largo
+@MARC-031g: F-4
+@MARC-031m: V 3
+@MARC-031o: c
+@MARC-031p: 4-/2-//:4-8.,A6F/2'C4,A8FA/'2D
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: No. 9 Aria
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2-4-{(6''CDE)}/8F-8.{C6C}4C8'{BA}/4''D'D-{(6''DEF)}/8G
+@MARC-031q: Without vocal part.
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Jawnuta
+@MARC-240k: Excerpts
+@MARC-240m: V (4), orch
+@MARC-2400: 4282258
+@MARC-245a: [caption title:] Tercet na męzkie głosy [space] Jawnuta.
+@MARC-260c: ca. 1852
+@MARC-2608: 01
+@MARC-300a: 1 score: 16 p.
+@MARC-300c: 27 x 32 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Poprawki niebieską i czerwoną kredką.]
+@MARC-500a: [pl-text: Brak tekstu słownego.]
+@MARC-591a: Inw. 877
+@MARC-591a: 64 c)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 4
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 1
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: V (4), vl (2), vla, vlc, cb, fl.picc, fl, ob (2), cl, fag (2), cor (4), timp
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 457/M
+@@END:		MARC21
+

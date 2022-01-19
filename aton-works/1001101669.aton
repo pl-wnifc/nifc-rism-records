@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001101669
+@MARC-003:	DE-633
+@MARC-005:	20211027135238.0
+@MARC-008:	200122##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato maestoso
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: =3/2-4-8CE/4.A8B4GA/B{''8CD}4C'B/
+@MARC-031r: A|b
+@MARC-031t: Majesté les Français habitant votre Empire
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: ''248.6E'E''{EE}/''248.6E'E''{EE}/''248.6E'E{FF}/4GFE{8CE}/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: fre
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Majesté les Français
+@MARC-240m: V, pf
+@MARC-240r: A|b
+@MARC-2400: 50223631
+@MARC-245a: [title page, in pencil:] Noskowski
+@MARC-260c: 19.sc.
+@MARC-2608: 01
+@MARC-300a: 1 piano score: 4 p.
+@MARC-300c: 33 x 25 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stempel "BIBLJOTEKA | WARSZAWSKIEGO | TOW. MUZYCZNEGO".]
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: Inw. 1249
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 110/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

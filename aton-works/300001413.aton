@@ -1,0 +1,140 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001413
+@MARC-003:	DE-633
+@MARC-005:	20201029163411.0
+@MARC-008:	151211##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tarde
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 6,A/8'D6-F8A6-G8F6-F/8D6-F8A6-G8F6-E/8D6-A8''D
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 6-/=4/2.''F/2G8GF/4ED-/=2/4GG-/=1/4GGF/4.E8E4D/
+@MARC-031r: d
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Wański, Jan
+@MARC-100d: 1762-1821p
+@MARC-100j: Ascertained
+@MARC-1000: pe30003295
+@MARC-240a: Salve regina
+@MARC-240m: Coro, orch, org
+@MARC-240r: d
+@MARC-2400: 3021988
+@MARC-245a: [cover title:] Offertorium ex Dmol | a | Canto, Alto, Tenore, Basso, | Violino I=|m|o et Secundo | Corno Primo et Secundo | et | Organo | [aligned to left:] Auth: Wański | [centered:] Pro Choro Cla: M: Czensto: | 1834.
+@MARC-260c: 1821
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 17 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Głosy przechowywane w białej papierowej okładce (obwolucie) o wymiarach 21,5 x 18,5 cm, bez znaku wodnego; karta tytułowa na f. 1r]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na głosach Coro A, T, B, cor 1 and 2 org and vlc fragmenty znaku wodnego "[male portrait (in profile) in oval cartouche]"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na głosach S, vl 1, 2 fragmenty znaku wodnego "G F"
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze po prawej ręką F. Maletza "N 775/76"; późniejsza z lewej ołówkiem ręką W. Świerczka "38" w kółku]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki oraz f. 1v wszystkich głosów z wyjątkiem vl 1]
+@MARC-500a: [pl-text: Tytuł na f. 1r okładki przekreślony czerwonym ołówkiem i opatrzony parafą; linie skreślenia zamazane ołówkiem]
+@MARC-500a: [pl-text: Na wszystkich głosach w prawym górnym rogu nazwisko kompozytora: "Wański"]
+@MARC-500a: [pl-text: Na głosach Coro S, T, B, org and vlc f. 1r w prawym dolnym rogu miejsce i data: "w Gostyniu D 15 kwietnia | 1821]
+@MARC-500a: [pl-text: Na głosie vl 1 f. 1r w prawym dolnym rogu miejsce i data: "w Gostyniu | D 15 kw[ietnia] | 1821]
+@MARC-500a: [pl-text: Na głosie vl 2 f. 1r w prawym dolnym rogu miejsce i data: "D 15 kwietnia 1821 | w Gostyniu]
+@MARC-500a: [pl-text: Na głosie cor 1 and 2 f. 1r w prawym dolnym rogu miejsce i data: "w Gostyniu kwietnia D 15 | 1821]
+@MARC-500a: [pl-text: Na kartach głosów ślady dawnej, błędnej numeracji ołówkiem; na lub obok dawnych numerów kart ołówkiem dopisane aktualne numery 1-8]
+@MARC-561a: Chorus Gostinensis, Gostyń
+@MARC-561a: [title page bottom:] Pro Choro Cla: M: Czensto: | 1834.
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org and vlc (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1 and 2 in F
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-592a: [partial:] [male portrait (in profile) in oval cartouche]
+@MARC-5928: 01
+@MARC-592a: [partial:] G F
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cor in F
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), vlc, cor in F (2), org
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1532
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 19
+@MARC-6910: lit1887
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Białaszewski, Franciszek
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30040674
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Chorus Gostinensis
+@MARC-710g: Ascertained
+@MARC-7100: ks30077257
+@MARC-7104: fmo
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N 775/76
+@MARC-852d: 38
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-122
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

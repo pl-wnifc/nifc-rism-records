@@ -1,0 +1,89 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147628
+@MARC-003:	DE-633
+@MARC-005:	20210923120941.0
+@MARC-008:	210223##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: V (1)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2GGGG/1.B2A/A2.B4AGF/2GB1F/2.G4A2BG/
+@MARC-031t: Simile est regnum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V (2)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =8/2''DD/DD1.bE2D/D'2.B4''CDE/1F2C2
+@MARC-031t: Simile est regnum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: V (3)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =16/2D4D2DD/b1.E2D/D2.F4EDC/2.,B4A2B'C/
+@MARC-031t: Simile est regnum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-3
+@MARC-031m: V (4)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =3/2.D4D2DD/gD1.E2D/D2.,B4AGF/2GB'1C2.G4G9D/
+@MARC-031t: Simile est regnum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-3
+@MARC-031m: V (5)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =11/2.,G4G2GG/1.B2A/A2.B4AGF/1GC/2.G4G9D/
+@MARC-031t: Simile est regnum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Simile est regnum
+@MARC-240m: V (5)
+@MARC-2400: 4233500
+@MARC-245a: [subject headings:] De V. et M/ et De S. Margaritha
+@MARC-260c: 18th century, 1st half
+@MARC-2608: 01
+@MARC-300a: 5 parts, 5 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: W tekście nutowym pojawiają się miejscowe poprawki sporządzone innym atramentem.]
+@MARC-590a: V (1), V (2), V (3), V (4), V (5)
+@MARC-590b: f. 1v, 2v, 3v, 4v, 5v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 5
+@MARC-594a: V (5)
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-773w: 1001147619
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.286
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

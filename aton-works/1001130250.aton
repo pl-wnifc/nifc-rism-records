@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001130250
+@MARC-003:	DE-633
+@MARC-005:	20210720131619.0
+@MARC-008:	200928##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: {3''qCqDqE}4FxCtD'G/2-4-'''8C(-)//=2/8-4''F6{ED}4C-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Nouveau Divertissement
+@MARC-240m: orch
+@MARC-240r: F
+@MARC-2400: 50239513
+@MARC-245a: [title page:] Augustus. 1868 | Nouveau Divertisment [!] | pour le danse | Musique Compose | par | Joseph Stefani
+@MARC-260c: 1868-08
+@MARC-2608: 01
+@MARC-300a: 1 score: 60 p.
+@MARC-300c: 31,7 × 23,1 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | WARSZAWSKIEGO | TOW. MUZYCZNEGO" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1773
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: banda
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl.picc, fl, ob (2), cl (2), fag (2), cor (4), tr (2), trb (3), timp, banda
+@MARC-599b: full
+@MARC-650a: Dances
+@MARC-6500: 25178
+@MARC-852a: PL-Wtm
+@MARC-852d: 10861
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1738
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

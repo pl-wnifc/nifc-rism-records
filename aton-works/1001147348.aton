@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001147348
+@MARC-003:	DE-633
+@MARC-005:	20210923121115.0
+@MARC-008:	210221##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1,C2D1F4ED1C2D1D4D,,B1A/1-/,D,,2A,D1,,A2.,A4G2F
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: b
+@MARC-031o: c/
+@MARC-031p: 1,F2CE1D,,A,D2,,A,DCD1,,A2,D
+@MARC-031t: Benedixisti Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: =2/1,FG2A1F2E9F2-2FFF2.F4F1F
+@MARC-031t: Gloria patri et filio
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1,C2D2.F4F2E1DCG2.C4D
+@MARC-031t: Tollite portas principes
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =2/1,F2CC,,F-,F1F2F4ED2CC2.F4F
+@MARC-031t: Alleluia ave Maria
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Missa Rorate caeli desuper
+@MARC-240m: B
+@MARC-2400: 3997823
+@MARC-245a: [without title]
+@MARC-260c: 18th century
+@MARC-2608: 01
+@MARC-300a: 1 part, 2 f.
+@MARC-300c: 16 x 20 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” umieszczona na f. 1r oraz 2r., w górnym brzegu kart.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: W lewym górnym rogu f. 1r sporządzona ołówkiem sygnatura. Pod nią widoczne ślady innego zapisu, nie do końca czytelne (prawdopodobnie "M. 162" również spisane ołówkiem.]
+@MARC-500a: [pl-text: Nad ołówkowym numerem folio 1 atramentowa inskrypcja "ex. Byk.".]
+@MARC-500a: [pl-text: Część "Rorate caeli" posiada konkordację z RISM ID no.: 300258056.]
+@MARC-590a: B
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.274
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

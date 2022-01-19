@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033231
+@MARC-003:	DE-633
+@MARC-005:	20201029163416.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bBEADG
+@MARC-031o: 12/8
+@MARC-031p: 2-/=3/2-4-8-4A8A/2A4.B''C/EED'A/2bbB
+@MARC-031q: [pl-text: w przedtakcie rozbieżność rytmiczna między partią głosu a partią organów]
+@MARC-031r: D|b
+@MARC-031t: U nóg świętych ołtarzów Twych
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEADG
+@MARC-031o: 12/8
+@MARC-031p: 4'A8A/2A4B''C/DnDEnE/8{FBA}{FD'B}{ABA}{GEC}//{D,A'F}
+@MARC-031q: [pl-text: brak kropek przy ćwierćnutach; najprawdopodobniej błąd kopisty]
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Krogulski, Józef Władysław
+@MARC-100d: 1815-1842
+@MARC-100j: Ascertained
+@MARC-1000: pe30001797
+@MARC-240a: Masses
+@MARC-240k: Excerpts
+@MARC-240m: S, org
+@MARC-240r: C
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Offertorium | Na Sopran Solo [space] utworu Krogulskiego
+@MARC-300a: 1 vocal score: f. 23r-v
+@MARC-3008: 01
+@MARC-500a: [pl-text: Utwór zapisany na 3 pięcioliniach w systemie; głos S z podpisanym tekstem w najwyższej linii; brak oznaczenia nazwy instrumentu, dookreślona na podstawie porównania z innymi utworami w kolekcji oraz rękopisem mszy Krogulskiego o sygnaturze PL-CZ III-370 (RISM ID no. 300000646)]
+@MARC-500a: cfr. PodejkoK 1992, no. 757
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: PodejkoK 1992
+@MARC-691n: Zbiory: XV,8
+@MARC-6910: lit1869
+@MARC-773w: 300033223
+@MARC-852a: PL-CZ
+@MARC-852d: 110
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-87
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063767
+@MARC-003:	DE-633
+@MARC-005:	20211027135138.0
+@MARC-008:	190227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031p: '8.G6F8EG/8.B6A8GB/''8.E6D8CE/D'4G8-/
+@MARC-031q: time signature: missing
+@MARC-031r: e
+@MARC-031t: Jeśli puścisz się na wody
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031p: 8.{G^,B^G6'F^,B^G8'E^,B^G'G^E^,B}/8.{'B^E^,B6'A^E^,B8'G^E^,B'B^E}/8.{''E^'G^E6''D^'G^E8''C^'G^E''E^'G^E}/8''D^'G^D4G^D8-/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Groźna Dziewczyna
+@MARC-240m: V, pf
+@MARC-240r: e
+@MARC-2400: 5191837
+@MARC-245a: [caption title, by different hand:] Groźna Dziewczyna.
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 1 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-691a: KmBN
+@MARC-691n: 1828
+@MARC-6910: lit41001694
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 233
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,84 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001136768
+@MARC-003:	DE-633
+@MARC-005:	20210923121037.0
+@MARC-008:	201123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: ''1E/2FE/2.D4D/1E/
+@MARC-031r: C
+@MARC-031t: Da pacem Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: '1G/2GG/2.G4G/1G/
+@MARC-031r: C
+@MARC-031t: Da pacem Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1'C/2DC/C,B/1'C/
+@MARC-031r: C
+@MARC-031t: Da pacem Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,1C/2,,B,C/2.G4G/1,C/
+@MARC-031r: C
+@MARC-031t: Da pacem Domine
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Da pacem Domine
+@MARC-240m: V (4)
+@MARC-2400: 34037
+@MARC-245a: [caption title:] Antiph 2.
+@MARC-260c: [1750-1899]
+@MARC-2608: 01
+@MARC-300a: 4 parts: 4 f.
+@MARC-3008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 2r, 5r, 8r, 11r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-773w: 1001136760
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.493
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,112 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258148
+@MARC-003:	DE-633
+@MARC-005:	20210923120905.0
+@MARC-008:	130717##################################
+@MARC-031a: 71
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-/2,G2.'G4G2F/2.bE8{DC}1D/2-1A2G/2.A4GFEDE/4.F8F2E
+@MARC-031t: Nativitas tua, Dei genitrix virgo
+@MARC-031t: Conceptio tua Dei genitrix
+@MARC-0312: pe
+@MARC-031a: 71
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T (1)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/,G2.B4B/2A1'D2C/,BA1G/2-G4.B8B2A/
+@MARC-031t: Nativitas tua, Dei genitrix virgo
+@MARC-031t: Conceptio tua Dei genitrix
+@MARC-0312: pe
+@MARC-031a: 71
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T (2)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-1-/2,D2.'D4D1C4,B'C/DE2.F4E1D2xC1D/
+@MARC-031t: Nativitas tua, Dei genitrix virgo
+@MARC-031t: Conceptio tua Dei genitrix
+@MARC-0312: pe
+@MARC-031a: 71
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1,D/2.bE4E/2D1G2F/9bED1,,G/2G2.,G4G2F/1BA/
+@MARC-031t: Nativitas tua, Dei genitrix virgo
+@MARC-031t: Conceptio tua Dei genitrix
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Pękiel, Bartłomiej
+@MARC-100d: 1670c+
+@MARC-100j: Ascertained
+@MARC-1000: pe30105642
+@MARC-240a: Nativitas tua Dei Genitrix
+@MARC-240m: V (4)
+@MARC-2400: 4239309
+@MARC-245a: [caption title, B partbook:] Eiusd[em] Auth[oris] de | Immaculata Concept[ione] et | Nativitate B[eatae] M[ariae] V[irginis] Anno eod[em] | 1663.
+@MARC-260c: 1663
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: Final inscriptions: A[d] M[aiorem[ D[ei] G[loriam].
+@MARC-500a: [pl-text: Numer 50 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-500a: Copy of the bass: Mus. I. 7f/1 (olim Ch. 70) "Pro Festis Conceptionis et Nativitatis BMV"
+@MARC-590a: A, T 1, 2, B
+@MARC-590b: p. 121-122, 121-122, 117-118, 114-116
+@MARC-5908: 01
+@MARC-591a: Kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-657a: Mariae (B.V.) Conceptio Immaculata
+@MARC-6570: 24303
+@MARC-657a: Mariae (B.V.) Nativitas
+@MARC-6570: 24304
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-691a: FeichtS 1966
+@MARC-6910: lit370
+@MARC-691a: MMPa/P
+@MARC-6910: lit2377
+@MARC-700a: Miskiewicz, Maciej Arnulf
+@MARC-700d: 1685c+
+@MARC-700j: Ascertained
+@MARC-7000: pe30105639
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-730a: Conceptio tua Dei genitrix
+@MARC-730g: RISM
+@MARC-7300: 3905413
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

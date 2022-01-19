@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001099299
+@MARC-003:	DE-633
+@MARC-005:	20211027135305.0
+@MARC-008:	191222##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: Bariton
+@MARC-031n: bBE
+@MARC-031o: 12/8
+@MARC-031p: 2.-4-8-4.,F/2.'D4.,BxF/4.A+4A8G4F8-4-8F/4.F4G8A4.BnB/4.'C+4C{6{DC},4B8A4G8F/
+@MARC-031r: B|b
+@MARC-031t: Sub tuum praesidium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 12/8
+@MARC-031p: 8{'F^,F'F^,F'F^,F}4.'F^,F4.'F^,F4.'F^,F/2.'F^D^,B'xF^D^,B/4.b'G^E^,A'nG^E^,B2.'F^D^,B/'2.F^C^^,A4.'F^,B'F^D^,nB/4.''F^'F8''G^'G''A^'A4.''B^'B'''C^''C/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Sub tuum praesidium
+@MARC-240m: V, pf
+@MARC-240r: B|b
+@MARC-2400: 3904628
+@MARC-245a: [title page:] [crossed out:] Antoniemu Edwardowi Odyńcowi | [underlined:] Pod Twoją obronę!.. | „Sub tuum prasidium" [!] | na jeden głos | (: mezzo soprano albo baryton :) | z towarzyszeniem fortepianowego z orkiestry wyciągu | muzyka | Stanisława Moniuszki. | Własność [illegible]
+@MARC-260c: 1857
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 4 p.
+@MARC-300c: 26.0 x 29.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: karty ponumerowane są od 57 do 59.]
+@MARC-500a: [pl-text: na karcie tytułowej znajduje się pieczątka Towarzystwa Muzycznego, sekcji im. St. Moniuszki oraz zapis: "Rękopis Moniuszki | 29/X 96. | Zahorowski".]
+@MARC-500a: [pl-text: na 6 stronie znajduje się zapis: "koniec na str. 58".]
+@MARC-591a: inw 150
+@MARC-591a: 11. a)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Mezzo-S (Bariton)
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: Mezzo-S (Bariton), pf
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Odyniec, Antoni Edward
+@MARC-700d: 1804-1885
+@MARC-700j: Ascertained
+@MARC-7000: pe41021346
+@MARC-7004: dte
+@MARC-700a: Zahorowski, Władysław
+@MARC-700d: 1832-1916
+@MARC-700j: Ascertained
+@MARC-7000: pe41023100
+@MARC-7004: oth
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 278
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

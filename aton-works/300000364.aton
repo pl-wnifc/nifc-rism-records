@@ -1,0 +1,97 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000364
+@MARC-003:	DE-633
+@MARC-005:	20201029163337.0
+@MARC-008:	110106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: {6.''C3D}{8.E6F}/{6.E3xD}{8EA}/{6.C3D}{8.E6F}/{6.Ex3D}{8EC}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: vlne
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: 8,,A--/A--/A--/A--//,E--/,,A--/,E--/,,A--/{,EGE}/,,{A,C,,A}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Gostowski
+@MARC-100d: 19.sc
+@MARC-100j: Verified
+@MARC-1000: pe30096425
+@MARC-240a: Mazurkas
+@MARC-240m: orch
+@MARC-240r: A
+@MARC-2400: 3903079
+@MARC-245a: [caption title:] Mazurek
+@MARC-260c: 1851-1900
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Odcinki solowe w głosach fl i cl 1]
+@MARC-590a: vl 1, 2, vlne, fl, cl 1, 2, cor 1 and 2, tr, timp
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vlne
+@MARC-590b: f. 1r, 1r, 1r,
+@MARC-5908: 01
+@MARC-590a: fl, cl 1, 2 in C
+@MARC-590b: f. 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: cor 1 and 2 in A, tr in A
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: timp in A and E
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl in C
+@MARC-594c: 2
+@MARC-594b: cor in A
+@MARC-594c: 2
+@MARC-594b: tr in A
+@MARC-594c: 1
+@MARC-594b: timp in A and E
+@MARC-594c: 1
+@MARC-594a: vl 1, vl 2, vlne, fl, cl in C (2), cor in A (2), tr in A, timp in A and E
+@MARC-599b: full
+@MARC-650a: Mazurkas
+@MARC-6500: 25480
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 471
+@MARC-6910: lit1869
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-773w: 300000363
+@MARC-852a: PL-CZ
+@MARC-852d: N-|o 21
+@MARC-852d: 241
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-24
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

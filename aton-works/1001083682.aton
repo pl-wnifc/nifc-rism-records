@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001083682
+@MARC-003:	DE-633
+@MARC-005:	20211027135142.0
+@MARC-008:	190828##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino cantabile
+@MARC-031g: G-2
+@MARC-031m: Coro V 1
+@MARC-031n: bBEADG
+@MARC-031o: 3/4
+@MARC-031p: 4''D8FED'A/4''D8FED'A/''DC{DE}FG/4E2A/
+@MARC-031r: D|b
+@MARC-031t: Wezmę ja skrzypki z zielonej lipki
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino cantabile
+@MARC-031g: F-4
+@MARC-031m: Coro V 4
+@MARC-031n: bBEADG
+@MARC-031o: 3/4
+@MARC-031p: 4,D8DDDC/4,,B8AA,DE/FE{DG}FE/{8AG}2F/
+@MARC-031r: D|b
+@MARC-031t: Wezmę ja skrzypki z zielonej lipki
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Komorowski, Ignacy Marceli
+@MARC-100d: 1824-1858
+@MARC-100j: Ascertained
+@MARC-1000: pe30023354
+@MARC-240a: Skrzypki
+@MARC-240m: Coro maschile
+@MARC-240r: D|b
+@MARC-2400: 5214000
+@MARC-245a: [caption title:] Skrzypki (J. Komorowski) &lt;&lt;&gt;&gt; Układ Z. Noskowskiego
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 choral score: 1 p.
+@MARC-300c: 32,5 x 25 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na stronie znajdują się dwie pieczęcie: "BIBLJOTEKA Warszawskiego Tow. Muzycznego" oraz "9289". W lewym górnym rogu znajduje się sygnatura oraz numer inwentaryzacyjny. Na dole strony zapisany jest numer "A-20.182".]
+@MARC-500a: On the page there are two stamps: "BIBLJOTEKA Warszawskiego Tow. Muzycznego" and "9289". In the top left corner there is shelfmark and inventory number. At the bottom of the page is written a number "A-20.182".
+@MARC-591a: inw. 2013
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 4
+@MARC-594a: V (4)
+@MARC-599b: full
+@MARC-650a: Partsongs
+@MARC-6500: 25460
+@MARC-700a: Noskowski, Zygmunt
+@MARC-700d: 1846-1909
+@MARC-700j: Ascertained
+@MARC-7000: pe106604
+@MARC-7004: arr
+@MARC-773w: 1001147365
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 250/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,123 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000640
+@MARC-003:	DE-633
+@MARC-005:	20201029163350.0
+@MARC-008:	120124##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: {8''D6C'B}{8AG}q8G4xF{6''DGAB}/{AEGD}4Ctq8C{8'B6'''DC}{''BGD'B}/{8A''D}-D({8DC'nB})({BAG})/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: Coro A
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =6/2-8.'B6B8BB/FGABGGGG/
+@MARC-031q: [pl-text: Partia Coro A rozpoczyna się od tekstu: "Ego dixi in excessu meo omnis homo mandax"]
+@MARC-031r: g
+@MARC-031t: Credidi, propter quod locutus sum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kraus, Józef
+@MARC-100d: 1736p+
+@MARC-100j: Ascertained
+@MARC-1000: pe30099477
+@MARC-240a: Credidi
+@MARC-240m: V (X), Coro, strings, org
+@MARC-240r: g
+@MARC-2400: 3020698
+@MARC-245a: [cover title:] Psal: Credidi. [with later hand:] in B. | â | 4. Voc: | Violin: 2. | Violone Con Organo. | Procuravit ac descripsit Pr: Paulus Weisgärber, | pro Choro C: M: C: | Anno Dni 1747. [year underlined] | Autho: D: Kraus
+@MARC-260c: 1747
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 23 x 18 cm
+@MARC-3008: 01
+@MARC-500a: other parts missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: okładka, Coro A, T, B bez znaków wodnych]
+@MARC-5008: 01
+@MARC-500a: [pl-text na głosach vl 1, 2 fragmenty nieczytelnych znaków wodnych]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: Na górze po prawej wyblakłym atramentem "Num. 26" skreślona i zamazana; po prawej wyblakłym atramentem "2" skreślona; późniejsza niżej czarnym wyblakłym atramentem "N-|r|o 19."; późniejsza po lewej ołówkiem ręką nieznanego Paulina "N-|o 197"; późniejsza niżej z prawej czerwonym atramentem ręką F. Maletza "931/232."]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki oraz f. 1v każdego głosu]
+@MARC-500a: [pl-text: Odcinki solowe w głosach Coro A, B]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-5]
+@MARC-561a: [on cover f. 1r in title:] pro choro C: M: C:
+@MARC-563a: [pl-text: głosy przechowywane luzem w białej papierowej okładce; wzdłuż grzbietu pasek papieru z brązowo-niebieskim marmurkowym wzorem]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: A, T, B
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-592a: [partial: illegible]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: A, B, Coro S, Coro A, Coro T, Coro B, vl (2), vlne, org
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 745
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 22
+@MARC-6910: lit1887
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Weisgärber, Paweł
+@MARC-700d: 1690-1765
+@MARC-700j: Ascertained
+@MARC-7000: pe30040668
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: Num. 26
+@MARC-852d: 2
+@MARC-852d: N-|r|o 19
+@MARC-852d: N-|o 197
+@MARC-852d: 931/232
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-69
+@@END:		MARC21
+

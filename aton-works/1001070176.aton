@@ -1,0 +1,256 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001070176
+@MARC-003:	DE-633
+@MARC-005:	20210707082605.0
+@MARC-008:	190504##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4.''E8E4C{8'B''C}/4'BAG8-{6''EC}/4'BAG-/=2/4.''E8E4C{8'B''C}/
+@MARC-031r: E|b
+@MARC-031t: Requiem, aeternam dona eis Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8{''E'GGG}{AAGG}/{BBBB}4B--/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Ada[gio]
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8''E'B4B8-6-''C/{8'BA}4G8-6-G/4FED/2E4-/=4/8-'B4A8GG/
+@MARC-031r: E|b
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8{''E'B}4B8-6-''C/{8'BA}4G8-6-G/8qG4F8qF4E8qE4D/2E4-/{8E,BBBBB}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Recitativo
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2-4-8,BB/'E,BGBBE4-/2-4-8-6AF/8D,,B8-6B,A8GG4-/
+@MARC-031r: E|b
+@MARC-031t: Judex ergo cum sedebit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Dies irae. Recitativo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8{''EEEE}4E-/=1/{8'AAAA}4A-/=1/{8GGGG}4nA-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Offertorium. Recitativo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8-'FB''DC'B4-/8-''8C'AF6FF8-6-FFF/8FE4-6EFED4-/
+@MARC-031r: E|b
+@MARC-031t: Responde mihi, quantas habeo iniquitates
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Offertorium. Recitativo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8{'B-B}-{''C'B}4-/{8'F-''C}-{'G-F}-/{E-E}-{ED}--/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2.''E/4EE-/2F4'A+/AG-/2''F4'A+/AG-/4.''E8E4E/
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8-{'GAGAB}/4''C'B-/2''F4'A/AG-/2''F4'A/GG-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =5/2-8.'C6,G{GF}{ED}/8.C6G{GF}ED{CD}{DE}{EF}{FG}/
+@MARC-031r: E|b
+@MARC-031t: Benedictus, qui venit in nomine Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 6{'C,G}-6'E{EDC,nB}{'C,G}-'E{EDC,B}/{'CDDE}{EFFG}{8.G3FG}{6AFDC}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =3/2-8''GGG6GG/8FF8-6-6F4FF/EE'EE/FF4.F8F/
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei, qui tollis peccata mundi dona eis requiem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 6-3-{3'B6DE}6-3-{B6DE}6-3-{B6'DE}6-3-{B6DE}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Recitativo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4-8'FnA''C'AG6FF/8F''ED6DD2-/6-FDC8'BB4-8-6AB/
+@MARC-031r: E|b
+@MARC-031t: Lux aeterna, luceat eis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031d: Recitativo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8{'A-F}-{''C-'G}-/{F-''D}-2-/8{'B^D-B}-{A-A}-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kraus, Lambert
+@MARC-100d: 1728-1790
+@MARC-100j: Ascertained
+@MARC-1000: pe30001779
+@MARC-240a: Requiem
+@MARC-240m: V (4), orch, b
+@MARC-240r: E|b
+@MARC-2400: 3022363
+@MARC-245a: [cover title:] REQUIEM | Ex Dis | Canto | Alto | Tenore | Basso | Violino 1mo | Violino 2do | Cornu 1mo | Cornu 2do | et | Fundamento | A[uto]re Pergolesso [!]
+@MARC-260c: 1750-1799
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 33 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: Inscription "Ja [?] rachunk" on the title page with other hand.
+@MARC-500a: Composer identified on the basis of RISM ID 456000560, 301050950, 300000643 and many others.
+@MARC-590a: S, A, T, B
+@MARC-590b: 3, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: clno in Eb 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), clno (2), b
+@MARC-599b: full
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 259-260, 263
+@MARC-6910: lit1891
+@MARC-700a: Pergolesi, Giovanni Battista
+@MARC-700d: 1710-1736
+@MARC-700j: Misattributed
+@MARC-7000: pe30002483
+@MARC-7004: cmp
+@MARC-700a: Brixi
+@MARC-700j: Misattributed
+@MARC-7000: pe30000490
+@MARC-7004: cmp
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 78/A II 18
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

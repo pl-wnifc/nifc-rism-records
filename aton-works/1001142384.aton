@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001142384
+@MARC-003:	DE-633
+@MARC-005:	20210720131519.0
+@MARC-008:	210112##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato cantabile.
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: 8,A/4.'F48GE/4.A+{8AGF}/4.''D{8C{6qDqC}'8B''C}/4.D'F/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Każdy po swojemu
+@MARC-240m: vl (2), vla, vlc
+@MARC-240r: D
+@MARC-2400: 50245197
+@MARC-245a: [caption title, vl 1:] Violino I|o | Każdy po swojemu | Kwartet humorystyczny | Zygmunt Noskowski
+@MARC-300a: 4 parts
+@MARC-300c: 31,5 x 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple: "BIBLIOTEKA | WARSZAWSKIEGO | TOW. MUZYCZNEGO", "WARSZAWSKIE TOWARZYSTWO MUZYCZNE" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-590a: vl 1,2, vla, vlc
+@MARC-590b: 4, 4, 4, 4 p.
+@MARC-5908: 01
+@MARC-591a: inw. 1170
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc
+@MARC-599b: full
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-852a: PL-Wtm
+@MARC-852d: 9085
+@MARC-852d: R 1847
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 45/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

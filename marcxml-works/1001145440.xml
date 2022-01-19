@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001145440</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210923121101.0</marc:controlfield>
+  <marc:controlfield tag="008">210206##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">3/2</marc:subfield>
+    <marc:subfield code="p">''1. C / 2CCC / '1B ''2C / '1A 2A /</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="t">O sola magnarum urbium</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="o">3/2</marc:subfield>
+    <marc:subfield code="p">1.E / 2EEE / EEE / 1D 2D /</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="t">O sola magnarum urbium</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T</marc:subfield>
+    <marc:subfield code="o">3/2</marc:subfield>
+    <marc:subfield code="p">,1.A /2AAA / 1G 2A / 1F 2F /</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="t">O sola magnarum urbium</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="o">3/2</marc:subfield>
+    <marc:subfield code="p">,,1.A / 2A ,CD / 1E ,,2A / ,1D2D /</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="t">O sola magnarum urbium</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Gorczycki, Grzegorz Gerwazy</marc:subfield>
+    <marc:subfield code="d">1665p-1734</marc:subfield>
+    <marc:subfield code="0">pe30009207</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">O sola magnarum urbium</marc:subfield>
+    <marc:subfield code="m">SATB</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="0">32182</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[page title:] [w prawym górnym rogu:] ex A [kasownik] | [centralnie:] Hymnus | O sola magnarum | a 4 voci. | [poniżej, w prawym dolnym rogu:] Auth. G.G. Gorczycki.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">Cracow</marc:subfield>
+    <marc:subfield code="c">1700-1750</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score: 10 f.</marc:subfield>
+    <marc:subfield code="a">4 parts</marc:subfield>
+    <marc:subfield code="c">21,7 x 17,7 cm; 17,8 x 21,8 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: na wewnętrznej stronie obwoluty okrągła pieczęć: „ARCHIWUM I BIBLIOTEKA * Krakowskiej Kapituły Katedralnej”]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: na kartach 1r, 2r, 3r, 4r, 5r, 6r, 7r, 8r, 9r, 10v okrągła pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: u dołu karty 3r adnotacja: "Pro Epiphania Domini Hymnus | O Sola. a 4 Voci C. A. T. B a. RR[everendissimo] D[omino] G.[rzegorz] G.[erwazy] G.[orczycki] Ex A[kasownik]"]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: karta 10v zapisana fragmentem partii instrumentalnej nieznanego utworu (być może partii skrzypiec)]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: autorem rękopisu jest sześciu anonimowych skryptorów. Skryptor A sporządził w XIX wieku obwolutę, skryptor B jest autorem zasadniczej części rękopisu (partie SATB). Skryptor C spisał kopię głosu A (karta 3r-v), natomiast skryptor D (anonim) spisał kopię głosu B (karta 10r). Skryptor E sporządził inskrypcję na karcie 3r.. Skryptor F jest autorem zapisu obcego fragmentu utworu na karcie 10v.]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">S</marc:subfield>
+    <marc:subfield code="b">f. 1r-2r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">A</marc:subfield>
+    <marc:subfield code="b">f. 3r-3v</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">A doublet</marc:subfield>
+    <marc:subfield code="b">f. 4r-5r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">T</marc:subfield>
+    <marc:subfield code="b">f. 6r-7r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">B</marc:subfield>
+    <marc:subfield code="b">f. 8r-9r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">B doublet</marc:subfield>
+    <marc:subfield code="b">f. 10r</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">A</marc:subfield>
+    <marc:subfield code="c">1 + doublet</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">1 + doublet</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, A, T, B</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Hymns</marc:subfield>
+    <marc:subfield code="0">25238</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kk</marc:subfield>
+    <marc:subfield code="e">Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej</marc:subfield>
+    <marc:subfield code="x">ks30002080</marc:subfield>
+    <marc:subfield code="c">Kk.I.345</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

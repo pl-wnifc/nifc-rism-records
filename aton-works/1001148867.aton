@@ -1,0 +1,88 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001148867
+@MARC-003:	DE-633
+@MARC-005:	20210923121121.0
+@MARC-008:	210303##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A coro
+@MARC-031o: 3/1
+@MARC-031p: 1EExF/1.E2DCD/1E1.E2D/
+@MARC-031t: Aeterna Christi munera apostolorum gloriam
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T1 coro
+@MARC-031o: 3/1
+@MARC-031p: 1,nBBB/9B1'C/9,B'C2.,B4B/
+@MARC-031t: Aeterna Christi munera apostolorum gloriam
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T2 coro
+@MARC-031o: 3/1
+@MARC-031p: 1,GxFF/9G1A/1GAxF/9.xG/
+@MARC-031t: Aeterna Christi munera apostolorum gloriam
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031o: 3/1
+@MARC-031p: 1,ExDD/2EDC,,B1A/',E,,A2.B4B/
+@MARC-031t: Aeterna Christi munera apostolorum gloriam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Różycki, Jacek
+@MARC-100d: 1625p-1704c
+@MARC-100j: Alleged
+@MARC-1000: pe30020620
+@MARC-240a: Aeterna Christi munera apostolorum gloriam
+@MARC-240m: Coro: A, T1, T2, B
+@MARC-240r: E
+@MARC-2400: 50201014
+@MARC-245a: [without title]
+@MARC-260c: [1600-1750]
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 21 x 16.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: pod kluczem w partii głosowej B, pojawia się napis atramentem: "HR"]
+@MARC-5008: 01
+@MARC-500a: [pl text: nad zapis nutowy, na początku utworu w partii głosowej A,T1, T2, pojawia się napis atramentem: "HR"]
+@MARC-5008: 01
+@MARC-590a: Coro: A, T1, T2, B
+@MARC-590b: 2, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: A
+@MARC-594c: 1
+@MARC-594b: Coro: T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: A, Coro: T1, Coro: T2, Coro: B
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001148105
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.8
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

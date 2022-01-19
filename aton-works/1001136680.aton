@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001136680
+@MARC-003:	DE-633
+@MARC-005:	20210923121037.0
+@MARC-008:	201123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 2-'4EE/EEEE/2E4A8{GF}/4G8{FE}4FE/2ExF/E4E8EE/
+@MARC-031r: a
+@MARC-031t: Miserere mei Deus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Miserere
+@MARC-240m: V (4)
+@MARC-240r: a
+@MARC-2400: 3017562
+@MARC-245a: [without title]
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 4 parts: 4 f.
+@MARC-300c: 33.5 x 21 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach verso wszystkich kart pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” z sygnaturą oraz pieczęć: "CATH. CRAC. * ARCH. CAPIT."]
+@MARC-5008: 01
+@MARC-590a: A, T 1, T 2, B
+@MARC-590b: f. 1, 2, 3, 4
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.492
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

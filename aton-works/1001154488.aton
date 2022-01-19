@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001154488
+@MARC-003:	DE-633
+@MARC-005:	20210923120934.0
+@MARC-008:	210426##################################
+@MARC-031a: 2
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F+3
+@MARC-031m: B rip
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-2-1'D2,D/GGb2.E4D/1C4,,B,CDE/FDb2E1D/
+@MARC-031r: 2tt
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Monte, Philippe de
+@MARC-100d: 1521-1603
+@MARC-100j: Ascertained
+@MARC-1000: pe30005218
+@MARC-240a: Missa II
+@MARC-240m: V (1)
+@MARC-240r: 2tt
+@MARC-2400: 4248601
+@MARC-245a: Missa II. Philippi de Monte
+@MARC-260c: [17th c.]
+@MARC-2608: 01
+@MARC-300a: 1 part; 2 f.
+@MARC-300c: 17,5 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: "CATH. CRAC. * ARCH. CAPIT." na pierwszej i ostatniej stronie rękopisu.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Na pierwszej stronie rękopisu wpisana ołówkiem sygnatura.]
+@MARC-500a: [pl-text: Na ostatniej stronie rękopisu inskrypcja "O ad M.D.G.".]
+@MARC-590a: B rip
+@MARC-590b: 2v-3r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: B rip
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773w: 1001154484
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.40
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

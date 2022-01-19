@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147652
+@MARC-003:	DE-633
+@MARC-005:	20210923120941.0
+@MARC-008:	210223##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2''D'bB4''DC/'2BAG/n1A2B/1B2A/1.B/
+@MARC-031t: Christo profusum sanguinem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2GGA/GxFG/n1F2F/G2.F4F/1.F/=1/
+@MARC-031t: Christo profusum sanguinem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2,BBA/'DD,B/1'C2D/b4ED2.C4C/1.D/2D4DC,BA/
+@MARC-031t: Christo profusum sanguinem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2,GBxF/GDbE/1E2D/CF,,F/1.B/=1/,2B4BbAGE/
+@MARC-031t: Christo profusum sanguinem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Christo profusum sanguinem
+@MARC-240m: Coro
+@MARC-2400: 3925105
+@MARC-245a: [subject headings:] II
+@MARC-260c: 18th century
+@MARC-2608: 01
+@MARC-300a: 5 parts, 5 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: W partii B pojawia się cyfrowanie.]
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 1v, 2v, 3v, 4v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001147649
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.284
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

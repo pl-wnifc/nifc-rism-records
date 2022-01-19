@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">301050718</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20201029164700.0</marc:controlfield>
+  <marc:controlfield tag="008">160319##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Adagio</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">org</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">,,CG,C,,G/{8,CGEC}4,,G-/8{,,G,GDG}{CGCG}/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">''CDED/C8{EC}4'G-/B''D2C/i/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Kyrie, eleison Christe eleison Kyrie eleison</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1=" " ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Rodowski, Aleksander</marc:subfield>
+    <marc:subfield code="d">18/19</marc:subfield>
+    <marc:subfield code="j">Verified</marc:subfield>
+    <marc:subfield code="0">pe30009627</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Masses</marc:subfield>
+    <marc:subfield code="m">V (2), org</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="0">3900051</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[cover title, short score:] MISSA | Pastorales | a | Canto Basso | et | Organo | Autore Alexander Rodowski | [underneath right:] per script Walenty Czajkowski | in Stajniątki[!] d: 19 Decembris 1850</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">18501219</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">2 parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">short score: f.1v-3v and 9r-10r</marc:subfield>
+    <marc:subfield code="8">02</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">at f.10r: „Fine d: 19 Grud: 1850 r | fine Walen: Czajkowski”</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">B part missing</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, org</marc:subfield>
+    <marc:subfield code="b"/>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">02</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">org</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, B, org</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="0">
+    <marc:subfield code="a">Masses</marc:subfield>
+    <marc:subfield code="0">25133</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2=" ">
+    <marc:subfield code="a">MaciejewskiP 1984</marc:subfield>
+    <marc:subfield code="n">p.106, no.99</marc:subfield>
+    <marc:subfield code="0">lit30022863</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Czajkowski, Walenty</marc:subfield>
+    <marc:subfield code="d">19.sc</marc:subfield>
+    <marc:subfield code="j">Verified</marc:subfield>
+    <marc:subfield code="0">pe30109237</marc:subfield>
+    <marc:subfield code="4">scr</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="730" ind1="0" ind2=" ">
+    <marc:subfield code="a">Missa pastorale</marc:subfield>
+    <marc:subfield code="g">RISM</marc:subfield>
+    <marc:subfield code="0">3914679</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-STAb</marc:subfield>
+    <marc:subfield code="e">Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha</marc:subfield>
+    <marc:subfield code="x">ks30006288</marc:subfield>
+    <marc:subfield code="c">75a</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+</marc:record>

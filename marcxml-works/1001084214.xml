@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ncc a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001084214</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210601132524.0</marc:controlfield>
+  <marc:controlfield tag="008">190903##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Mazur</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">pf</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">3/8</marc:subfield>
+    <marc:subfield code="p">g8''A6{G3-xF}{{G6-8B/g'''8F{6E3-D}{6E6-8''nA}/({6B'''CD})({''FGnA})6B6-/</marc:subfield>
+    <marc:subfield code="r">E|b</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">pol</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Stefani, Jan</marc:subfield>
+    <marc:subfield code="d">1746c-1829</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30012827</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Mazurs</marc:subfield>
+    <marc:subfield code="m">pf</marc:subfield>
+    <marc:subfield code="r">E|b</marc:subfield>
+    <marc:subfield code="0">3918103</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">MAZUR | Grany w Teatrze Rozmaitości | ułożony na | Piano Forte | prze | J. Stefaniego | u G. Sennewalda.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">Warszawa</marc:subfield>
+    <marc:subfield code="b">G. Sennewald</marc:subfield>
+    <marc:subfield code="c">[s.d.]</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score: 3 p.</marc:subfield>
+    <marc:subfield code="c">25 x 32,4 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Print</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">pf</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">pf</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Instrumental pieces</marc:subfield>
+    <marc:subfield code="0">25243</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">G. Sennewald</marc:subfield>
+    <marc:subfield code="g">Ascertained</marc:subfield>
+    <marc:subfield code="0">ks51000015</marc:subfield>
+    <marc:subfield code="4">pbl</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-KOZmzk</marc:subfield>
+    <marc:subfield code="e">Muzeum Zamoyskich w Kozłówce</marc:subfield>
+    <marc:subfield code="x">ks51000446</marc:subfield>
+    <marc:subfield code="3">51006631</marc:subfield>
+    <marc:subfield code="c">mzk/m/151</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+</marc:record>

@@ -1,0 +1,143 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001135345
+@MARC-003:	DE-633
+@MARC-005:	20211109090320.0
+@MARC-008:	201112##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C 1
+@MARC-031n: bB
+@MARC-031o: 3/1
+@MARC-031p: 1''C'A''C/9C1D/1.C2C1C/1'BB''C/9'B2''C'B/
+@MARC-031q: [pl-text: tekst wpisany inną ręką. Możliwe że; klucz, metrum, kreski taktowe i znaki przykluczowe też.]
+@MARC-031r: F
+@MARC-031t: Gaude Mater Polonia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: C 2
+@MARC-031n: bB
+@MARC-031o: 3/1
+@MARC-031p: 1''C'A''C/9C1D/1.C2C1C/1'BB''C/9'B2''C'B/
+@MARC-031q: [pl-text: tekst wpisany inną ręką. Możliwe że; klucz, metrum, kreski taktowe i znaki przykluczowe też.]
+@MARC-031q: [pl-text: poprawiona nazwa głosu na "Canto 2do".]
+@MARC-031r: F
+@MARC-031t: Gaude Mater Polonia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: A 1
+@MARC-031n: bB
+@MARC-031o: 3/1
+@MARC-031p: 1FFC/9F1F/9.F2C1F/FFF/9D1bE/
+@MARC-031q: [pl-text: tekst wpisany inną ręką. Możliwe że; klucz, metrum, kreski taktowe i znaki przykluczowe też.]
+@MARC-031r: F
+@MARC-031t: Gaude Mater Polonia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031n: bB
+@MARC-031o: 3/1
+@MARC-031p: 1CCC/9C1D/1.C2C1C/2DDC/9,B'2D,B/
+@MARC-031q: [pl-text: tekst wpisany inną ręką. Możliwe że; klucz, metrum, kreski taktowe i znaki przykluczowe też.]
+@MARC-031r: F
+@MARC-031t: Gaude Mater Polonia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031n: bB
+@MARC-031o: 3/1
+@MARC-031p: 1CCC/9C1D/1.C2C1C/2DDC/9,B'2D,B/
+@MARC-031q: [pl-text: tekst wpisany inną ręką. Możliwe że; klucz, metrum, kreski taktowe i znaki przykluczowe też.]
+@MARC-031r: F
+@MARC-031t: Gaude Mater Polonia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B 1
+@MARC-031n: bB
+@MARC-031o: 3/1
+@MARC-031p: 1,FFF/9F,,1B/1.F2F1F/BBF/9G1,C/
+@MARC-031q: [pl-text: f. 10 r. – tekst wpisany inną ręką. Możliwe że; klucz, metrum, kreski taktowe i znaki przykluczowe też.]
+@MARC-031q: [pl-text: f. 11 r. – tekst wpisany inną ręką. Możliwe że; klucz, metrum, kreski taktowe i znaki przykluczowe też.]
+@MARC-031q: [pl-text: jedynie na karcie f. 11 r. głos został podpisany "Imō Basso". W pozostałych partiach brak nazwy głosu.]
+@MARC-031r: F
+@MARC-031t: Gaude Mater Polonia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-130a: Gaude Mater Polonia
+@MARC-130m: Coro
+@MARC-130r: F
+@MARC-1300: 3971928
+@MARC-245a: [from part [B1], f. 9 v.:] Himni duo | 1 Gaude Mater Polonia ded.Han | 2 Deus tuorum militum deMart
+@MARC-260c: ca. 1700
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 31 x 19,5 cm
+@MARC-3008: 01
+@MARC-590a: C 1
+@MARC-590b: f. 1 r.
+@MARC-5908: 01
+@MARC-590a: C 2
+@MARC-590b: f. 2 r., 3 r.
+@MARC-5908: 01
+@MARC-590a: A 1
+@MARC-590b: f. 4 r., 5 r.
+@MARC-5908: 01
+@MARC-590a: T 1
+@MARC-590b: f. 7 r.
+@MARC-5908: 01
+@MARC-590a: [T 2 + T 1]
+@MARC-590b: f. 6 r.
+@MARC-5908: 01
+@MARC-590a: T 2
+@MARC-590b: f. 8 r.
+@MARC-5908: 01
+@MARC-590a: B 1
+@MARC-590b: f. 9 r., 10 r., 11 r.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C1
+@MARC-594c: 1
+@MARC-594b: Coro C2
+@MARC-594c: 2
+@MARC-594b: Coro A2
+@MARC-594c: 2
+@MARC-594b: Coro T1, 2
+@MARC-594c: 1
+@MARC-594b: Coro T1
+@MARC-594c: 1
+@MARC-594b: Coro T 2
+@MARC-594c: 1
+@MARC-594b: Coro B 1
+@MARC-594c: 3
+@MARC-594a: Coro C1, Coro C2 (2), Coro A2 (2), Coro T1, 2, Coro T1, Coro T 2, Coro B 1 (3)
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001135342
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.380
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

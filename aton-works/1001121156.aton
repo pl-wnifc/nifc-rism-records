@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001121156
+@MARC-003:	DE-633
+@MARC-005:	20210720131924.0
+@MARC-008:	200701##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =8/4A8.6nB''C/{'G''C}4C/D8.6C'B/4''C'8A-/
+@MARC-031r: d
+@MARC-031t: Inaczej gołąb ranny od strzały
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8-{BA}{6.3''EG}/4F{6'''qEqDqxC}4D/8-{8b'AG}{6.3''DF}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Śpiew o kościółku św. Salomei w Grodzisku
+@MARC-240m: V, pf
+@MARC-240r: d
+@MARC-2400: 50234657
+@MARC-245a: [caption title:] Śpiew o Kościółku Ś|tej Salomei | w Grodzisku pod Ojcowem, | Wiersz N. N. muzyka Stefaniego.
+@MARC-300a: 1 score: 3 p.
+@MARC-300b: p. 6-8
+@MARC-300c: 35,8 × 26,3 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Por. RISM. ID. 1001120223.]
+@MARC-591a: inw. 1563
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-773w: 1001121152
+@MARC-852a: PL-Wtm
+@MARC-852d: 10711
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1473
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

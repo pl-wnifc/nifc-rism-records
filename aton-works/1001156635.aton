@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001156635
+@MARC-003:	DE-633
+@MARC-005:	20211012181849.0
+@MARC-008:	210519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro vivace
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: D{8EFGB}/{6AB8A}{8EFD''D}/gD'4D{8EFGB}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Mazurkas
+@MARC-240m: pf
+@MARC-240n: 9/1a
+@MARC-240r: G
+@MARC-2400: 3903079
+@MARC-245a: [caption title:] 1 Cahier. Nr 1 J. J. Paderewski Op. 9.
+@MARC-260c: [after 1860]
+@MARC-2608: 01
+@MARC-300a: 1 part: 2 f.
+@MARC-3008: 01
+@MARC-383b: 9/1a
+@MARC-500a: [pl-text: f. 1r: sygnatura "R 261" zapisana ołówkiem; pieczęć "CIM.".]
+@MARC-500a: [pl-text: f. 1v: numer "65.D.91" zapisany ołówkiem.]
+@MARC-500a: [pl-text: f. 1v i 2v: pieczęć "BIBLIOTEKA GŁ. | AM m. Fr Chopina | w Warszawie".]
+@MARC-506a: Magazyn Biblioteki
+@MARC-590a: pf
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Mazurkas
+@MARC-6500: 25480
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R261
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

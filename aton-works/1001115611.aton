@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115611
+@MARC-003:	DE-633
+@MARC-005:	20210720131941.0
+@MARC-008:	200519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: Coro S1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: -/=7/2-4-4A/2B8AA8.6GA/2B8AA''xCD/
+@MARC-031r: d
+@MARC-031t: Jak goniec leci przede mną
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: {8.6BA}/2''F4xCD/4.nC8'B4AG/1F/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Jak goniec leci przede mną
+@MARC-240m: Coro, org
+@MARC-240r: d
+@MARC-2400: 50232054
+@MARC-245a: [caption title:] Józef Stefani | Autograf | Pieśń
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 36,6 × 26,2 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1675
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S (2), Coro T, Coro B, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852d: 10655
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1590
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

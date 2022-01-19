@@ -1,0 +1,133 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001159512
+@MARC-003:	DE-633
+@MARC-005:	20211004084914.0
+@MARC-008:	210618##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro risoluto
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031n: bB
+@MARC-031p: C8.6AF4.8''C'C/8''C'AFA4.8''CC/
+@MARC-031r: F
+@MARC-031t: Hej orle biały
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro risoluto
+@MARC-031g: G-2
+@MARC-031m: cor in F
+@MARC-031n: bB
+@MARC-031p: 2-4-8.6{FG}/8A-4-4-{8.6FG}/8A-4-8-{CFA}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Hej orle biały
+@MARC-240m: Coro, orch
+@MARC-240r: F
+@MARC-2400: 50253300
+@MARC-245a: Hej orle Biały | Słowa i muzyka " I. J. Paderewskiego (instr. dęte blaszane | H. O.
+@MARC-260c: [after 1860]
+@MARC-2608: 01
+@MARC-300a: 1 score: 10 p.
+@MARC-3008: 01
+@MARC-500a: p. 1: [pl-text: sygnatura "R 302" zapisana ołówkiem; pieczęć "CIM.".]
+@MARC-500a: p. 2: [pl-text: prostokątna pieczęć "BIBLIOTEKA GŁ. | AM m. Fr. Chopina | w Warszawie"; numer "65.D.91" zapisany ołówkiem.]
+@MARC-500a: p. 10: [pl-text: prostokątna pieczęć "BIBLIOTEKA GŁ. | AM m. Fr. Chopina | w Warszawie".]
+@MARC-506a: Magazyn Biblioteki
+@MARC-590a: fl picc
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: fl
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: ob
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: cl in B|b
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: fag
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: cor in F
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: tr
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: trb
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: tb
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: timp
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: tamburino
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: Coro S
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: Coro T
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-590a: Coro B
+@MARC-590b: 10 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: fl picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 4
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: tb
+@MARC-594c: 1
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: tamburino
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: fl picc, fl, ob (2), cl in B|b (2), fag (2), cor in F (4), tr (4), trb (3), tb, timp, tamburino, Coro S, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-700a: Paderewski, Ignacy Jan
+@MARC-700d: 1860-1941
+@MARC-7000: pe30029943
+@MARC-7004: lyr
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R302
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

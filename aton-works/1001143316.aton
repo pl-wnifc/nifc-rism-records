@@ -1,0 +1,116 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143316
+@MARC-003:	DE-633
+@MARC-005:	20210923121057.0
+@MARC-008:	210120##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A1
+@MARC-031o: c/
+@MARC-031p: '1G 9F / 2EF 1G / 2- 2F / FD / 1EE / 2- 2F /
+@MARC-031t: Rorate coeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A2
+@MARC-031o: c/
+@MARC-031p: '1FE / 1.D 2D / 2.C 4D / 4EF 2E / 9D /
+@MARC-031t: Rorate coeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031o: c/
+@MARC-031p: ,9CD DA '1C ,A / A 9B'C ,1A 9AG /
+@MARC-031t: Rorate coeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T2
+@MARC-031o: c/
+@MARC-031p: '2.C ,4B / 4AG 2A / 1A / 2- 2A / 1G 2F 4DE / FG 1A 1xG / 1A / 1.- 2F /
+@MARC-031t: Rorate coeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B1
+@MARC-031o: c/
+@MARC-031p: ,9CD 2DF / 1E / ,,2A ,2.A 4GFE /
+@MARC-031t: Rorate coeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 6
+@MARC-031g: F-4
+@MARC-031m: B rip
+@MARC-031o: c/
+@MARC-031p: ,9CD 2DF / 1E ,,2A
+@MARC-031t: Rorate coeli
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Paligonius, Marcin
+@MARC-100d: 16/17
+@MARC-1000: pe30096218
+@MARC-240a: Rorate coeli
+@MARC-240m: Coro: AATTB(B)
+@MARC-2400: 4032275
+@MARC-245a: Rorate coeli
+@MARC-300a: 1 score
+@MARC-300a: 6 parts
+@MARC-300c: 20,4 x 16,4 cm
+@MARC-3008: 01
+@MARC-520a: 1 score
+@MARC-590a: A1
+@MARC-590b: 1r-1v
+@MARC-5908: 01
+@MARC-590a: A2
+@MARC-590b: 3r-3v
+@MARC-5908: 01
+@MARC-590a: T1
+@MARC-590b: 5r-5v
+@MARC-5908: 01
+@MARC-590a: T2
+@MARC-590b: 7r-7v
+@MARC-5908: 01
+@MARC-590a: B1
+@MARC-590b: 9r-9v
+@MARC-5908: 01
+@MARC-590a: B2
+@MARC-590b: 11r-11v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: A (2), T (2), B, B rip
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001143308
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.360
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

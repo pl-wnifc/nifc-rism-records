@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">301050557</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20211030131537.0</marc:controlfield>
+  <marc:controlfield tag="008">140828##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">2.''E{8F6EF}/4GEAG/FE4.D{6CD}/{8E'EG''C}</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="z">A, Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">2.E4F/GEAG/FE4.D8D/2E4-</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Domine ad adjuvandum, me festina</marc:subfield>
+    <marc:subfield code="z">A, Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S coro</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">=3/2-4-''E/ED2-/2.'B4''C/D'B''ED/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Festine domine, ad adjuvandum me</marc:subfield>
+    <marc:subfield code="z">A, Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">4.''E8F{GAB'''C}/4.''G{6AGF}4EE/4.F{6GF}4DD/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S coro</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">2''EE/4.E8D4CC/DD'2B/4''C{8CD}{FEDC}/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Dixit Dominus, Domino meo sede a dextris meis</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">3</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">All[ege]o Moderato</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">2A{8BA}/2xG4A/4.B{6''DC}{EDC'B}/{8BA}4A8-</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="z">S, Coro, vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">3</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegro moderato</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">2A{8BA}/2xG4A/4.B{6''DC}{ED}{C'B}/8BA4A8-</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Confitebor, tibi Domine in toto corde meo in consilio justorum et congregatione</marc:subfield>
+    <marc:subfield code="z">S, Coro, vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">4</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro ma non troppo</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">6/8</marc:subfield>
+    <marc:subfield code="p">{8FAA}{E''CC}/{DFF}{6EDC'BAG}/{8FAA}</marc:subfield>
+    <marc:subfield code="r">D</marc:subfield>
+    <marc:subfield code="z">V (2), Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">4</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegro ma non tanto</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S coro</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">6/8</marc:subfield>
+    <marc:subfield code="p">4.''D{8.E6D}8E/4F8---E/4D8D{8.E6D}8E/4F8---</marc:subfield>
+    <marc:subfield code="r">D</marc:subfield>
+    <marc:subfield code="t">Beatus vir, qui timet Dominum</marc:subfield>
+    <marc:subfield code="z">V (2), Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">5</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">2/4</marc:subfield>
+    <marc:subfield code="p">8F/{6DFDF}{EFEF}/i/</marc:subfield>
+    <marc:subfield code="r">b</marc:subfield>
+    <marc:subfield code="z">V (2), Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">5</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegretto</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">2/4</marc:subfield>
+    <marc:subfield code="p">8,F/4B'C/D{6EC}{,BxA}/8BB'CC/</marc:subfield>
+    <marc:subfield code="r">b</marc:subfield>
+    <marc:subfield code="t">Laudate pueri, Dominum laudate nomen Domini</marc:subfield>
+    <marc:subfield code="z">V (2), Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">5</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="d">Alegretto</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="n">xFC</marc:subfield>
+    <marc:subfield code="o">2/4</marc:subfield>
+    <marc:subfield code="p">8-/=7/4-8-''C/4.F8E/D{6ED}8CC/</marc:subfield>
+    <marc:subfield code="r">b</marc:subfield>
+    <marc:subfield code="t">Sit nomen Domini sit benedictum</marc:subfield>
+    <marc:subfield code="z">V (2), Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">6</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">xFCGD</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">4.B8G4.''E8nD/4.C{6xDE}4'B-/4.B8G4''EnD/</marc:subfield>
+    <marc:subfield code="r">E</marc:subfield>
+    <marc:subfield code="z">S, Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">6</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="n">xFCGD</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">4.B8G4''EnD/4.C{6xDE}4'B-/4.B8G4''EnD/</marc:subfield>
+    <marc:subfield code="r">E</marc:subfield>
+    <marc:subfield code="t">Laudate Dominum, omnes gentes laudate eum omnes populi</marc:subfield>
+    <marc:subfield code="z">S, Coro, orch, org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">7</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegretto</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">xF</marc:subfield>
+    <marc:subfield code="o">3/8</marc:subfield>
+    <marc:subfield code="p">{6EG}/4B{6''ED}/{DC'B''C'B''C}/{8xD6DEFD}/</marc:subfield>
+    <marc:subfield code="r">G</marc:subfield>
+    <marc:subfield code="z">Coro, vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">7</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegretto</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S coro</marc:subfield>
+    <marc:subfield code="n">xF</marc:subfield>
+    <marc:subfield code="o">3/8</marc:subfield>
+    <marc:subfield code="p">8B/BBB/8.''C6C8C/4xD8D/8EEE/FFF/</marc:subfield>
+    <marc:subfield code="r">G</marc:subfield>
+    <marc:subfield code="t">Confitebor, tibi Domine in toto corde meo in consilio justorum et congregatione</marc:subfield>
+    <marc:subfield code="t">In exitu Israel, de Aegypto domus Jacob</marc:subfield>
+    <marc:subfield code="z">Coro, vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">8</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">{8C,B'C,B'C,B}/{'C''C'B''C}{'GE}/{8C,B'C,B'C,B}/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">8</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegro</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S coro</marc:subfield>
+    <marc:subfield code="p">''EEE/E--/FFF/F--/EEE/E--/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Magnificat, anima mea Dominum</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">9</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Andante</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">2/4</marc:subfield>
+    <marc:subfield code="p">4''C{6CDEF}/{6ED8.D}{6EFD}/{8C6'BA}{''C'BAG}/</marc:subfield>
+    <marc:subfield code="r">F</marc:subfield>
+    <marc:subfield code="z">S, vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">9</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Andante</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S</marc:subfield>
+    <marc:subfield code="n">bB</marc:subfield>
+    <marc:subfield code="o">2/4</marc:subfield>
+    <marc:subfield code="p">=8/{8.''C3DC}8'A-/{8.''C3DC'B}8'A-/8.''C6'A''{FC}{'BA}/</marc:subfield>
+    <marc:subfield code="r">F</marc:subfield>
+    <marc:subfield code="t">Quia fecit, mihi magna qui potens est</marc:subfield>
+    <marc:subfield code="z">S, vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">10</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">bBE</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">{8.''F6G}{8FDBA}/{8.G3FG}{8FD}{6DxCDE}/</marc:subfield>
+    <marc:subfield code="r">B|b</marc:subfield>
+    <marc:subfield code="z">V (2), vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">10</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A</marc:subfield>
+    <marc:subfield code="n">bBE</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">=8/{8.F6G}{8FD}BA/8.G{3FG}4F-/</marc:subfield>
+    <marc:subfield code="r">b|b</marc:subfield>
+    <marc:subfield code="t">Fecit potentiam, in brachio suo</marc:subfield>
+    <marc:subfield code="z">V (2), vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">11</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro Molto</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">4.E8''E4.'B8''E/4.'G8B{E''EDbD}/{'nB''C}4.C8D{8.D3CD}/</marc:subfield>
+    <marc:subfield code="r">E|b</marc:subfield>
+    <marc:subfield code="z">B, vl (2), cor (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">11</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">c</marc:subfield>
+    <marc:subfield code="p">=55/4.,E8'E,4.B8'E/4.,G8BE{8'EDbD}/n,B'C4.C8nD8.D3{CD}/</marc:subfield>
+    <marc:subfield code="r">E</marc:subfield>
+    <marc:subfield code="t">Suscepit Israel, puerum suum</marc:subfield>
+    <marc:subfield code="z">B, vl (2), cor (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">12</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Adagio</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">8-{CEG''C'B}/{BA}-{AAA}/{nBDGB}{''D'B}/</marc:subfield>
+    <marc:subfield code="r">E|b</marc:subfield>
+    <marc:subfield code="z">Coro, vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">12</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Adagio</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S coro</marc:subfield>
+    <marc:subfield code="n">bBEA</marc:subfield>
+    <marc:subfield code="o">3/4</marc:subfield>
+    <marc:subfield code="p">4.''E8EE/2F4F/DDD/4.''E8E4E/</marc:subfield>
+    <marc:subfield code="q">Fehler bei der Aufzeichnung des Rhythmus in der ersten Bar.</marc:subfield>
+    <marc:subfield code="r">E|b</marc:subfield>
+    <marc:subfield code="t">Gloria patri, et filio et spiritui sancto</marc:subfield>
+    <marc:subfield code="z">Coro, vl (2), org</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">13</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Allegro. Alla breve</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">vl 1</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">2''CC/2.C4C/C{8DC}4'BB/2.''C4C/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">13</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Allegro. Alla breve</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">S coro</marc:subfield>
+    <marc:subfield code="o">c/</marc:subfield>
+    <marc:subfield code="p">2''CC/2.C4C/C{8DC}4'BB/2.''C4C/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Sicut erat, in principio et nunc et semper</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Dankowski, Adalbert</marc:subfield>
+    <marc:subfield code="d">1760c-1814c</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe30000793</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Vespers</marc:subfield>
+    <marc:subfield code="m">Coro, orch, org</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="0">3900116</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[cover title:] [top left:] sztuk — 7. | Arkuszy - 45. | [middle:] N=|ro 5 [later with pencil:] a | VESPERE ex C. | De CONFESSORIbus. | â Vocibus. 9. | Canto. Alto. | Tenore. Basso. | Violino I=|m|o. &amp; II=|d|o. | Cornu I=|m|o. &amp; II=|d|o. | et | ORGANO | [at left:] Del Sige Dankowski. | [at right:] N=|r|o 5.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1780-1810</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">9 parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N 5"]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Na f. 10v S notatka: "Per Scripsit F Rybicki"; na f. 10v B "F. Rybicki"]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Na końcu wszystkich głosów wokalnych oraz cor 2 notatka: "ad MDG ad Finem"]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: F. 1r głosu org przekreślone ołówkiem]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Foliacja ołówkiem (f. 1-79)]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Brak konkordancji]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">Solo and Coro: S, A, T, B</marc:subfield>
+    <marc:subfield code="b">10, 10, 9, 10 f.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">vl 1, 2</marc:subfield>
+    <marc:subfield code="b">12, 11 f.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">cor 1, 2</marc:subfield>
+    <marc:subfield code="b">3, 3 f.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">org (= bc)</marc:subfield>
+    <marc:subfield code="b">10 f.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">A</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">T</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro S</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro A</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro T</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro B</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vl</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">cor in C</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">org</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl (2), cor in C (2), org</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Vespers</marc:subfield>
+    <marc:subfield code="0">25149</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">MaciejewskiP 1984</marc:subfield>
+    <marc:subfield code="n">p.61-62, no.23</marc:subfield>
+    <marc:subfield code="0">lit30022863</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2="7">
+    <marc:subfield code="a">KonikM 2016</marc:subfield>
+    <marc:subfield code="n">p. 314</marc:subfield>
+    <marc:subfield code="0">lit41001126</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Rybicki, Franciszek</marc:subfield>
+    <marc:subfield code="d">1876*</marc:subfield>
+    <marc:subfield code="j">Ascertained</marc:subfield>
+    <marc:subfield code="0">pe50047996</marc:subfield>
+    <marc:subfield code="4">scr</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="730" ind1="0" ind2=" ">
+    <marc:subfield code="a">Vesperae de Confessore</marc:subfield>
+    <marc:subfield code="g">RISM</marc:subfield>
+    <marc:subfield code="0">3903916</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-STAb</marc:subfield>
+    <marc:subfield code="d">N=|r|o 5</marc:subfield>
+    <marc:subfield code="e">Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha</marc:subfield>
+    <marc:subfield code="x">ks30006288</marc:subfield>
+    <marc:subfield code="c">5a</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

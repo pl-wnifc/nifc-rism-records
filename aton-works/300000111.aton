@@ -1,0 +1,309 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000111
+@MARC-003:	DE-633
+@MARC-005:	20201029163330.0
+@MARC-008:	090123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Moderatto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: {8.''E6F}({6GFE}){6GE}{8ExD}{6DCC'B}/4B({6''ExDC})({'BAG}){8GF}{6''DCC'B}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8.''E6F8EEExD4-/8-{6EF}8EEExD4-/
+@MARC-031r: e
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031d: all[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: '''8{D''FE'''D''E'''C}/{D''FGAB'''C}/{D''FE'''D''E'''C}/{D''DEFGE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 2''D4C/D--/2D4C/D--/2F4F/2G4G/8FF4FD/DC-/
+@MARC-031r: D
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Patrem
+@MARC-031d: moderatto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: {8.''F6D}{EGCE}8F4D8C/{6D'FGA}{B''CDE}{8F6DF}{FEED}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''D8EEDD{DC}/4D-8-FED'/C6CC4'B''C-/
+@MARC-031r: D
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''FF6-{FAG}{FEDnC}/4GG6-{xGBA}{GFED}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''DD2-/4DD2-/4CCCC/C8CC4FE/
+@MARC-031r: D
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031d: andan[te]
+@MARC-031g: G-2
+@MARC-031m: vl 1 solo
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 4'G6{GBAG}/''{DCDE}4D/8.{G6D}{D'BBG}/8.{A3B''C}{8'B6GG}/
+@MARC-031q: [pl-text: przy dźwięku c dwukreślnym w drugim takcie ołówkiem dopisany krzyżyk, w czwartym takcie - kasownik]
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =16/4'G6{GB}{AG}/''{DCDE}4D/8.{G6D}{D'BBG}/8.{A3B''C}8'B
+@MARC-031r: G
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Osanna
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =12/1''D/2C4FE/D'B''ED/C'AB''C/D
+@MARC-031q: [pl-text: Wejście poszczególnych głosów w imitacji, począwszy od Coro B z towarzyszeniem organów]
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: Coro B
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 1,A/2F4BA/GEAG/FDFxG/A
+@MARC-031r: D
+@MARC-031t: Hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031d: andan[te]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''D{8A6GF}/{8.E3FG}{8FA}/8.{B3AB}{6'''C''AB'''C}/8{D''D}
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4'D8A6{GF}/{8.E3FG}8FA/4B6{''C'A}{B''C}/8''D'D
+@MARC-031q: [pl-text: pozostałe głosy wokalne rozpoczynają od "Miserere": S solo od taktu 8., Coro T i B od taktu 9.]
+@MARC-031r: D
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Dona
+@MARC-031d: all[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4.''F6{GF}4EG/FAGE/FDEC/D'AAA/1A/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: ''2FG/FE/DC/4D-2-/4-FEG/F
+@MARC-031r: D
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Dankowski, Adalbert
+@MARC-100d: 1760c-1814c
+@MARC-100j: Verified
+@MARC-1000: pe30000793
+@MARC-240a: Masses
+@MARC-240m: V (X), Coro, orch, org
+@MARC-240r: e
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] MISSA E Minor. a Voce 9. | Canto Alto. Tenore. Basso. | Violino Primo. et. Secondo. | Cornu Primo. et. Secondo. | et | Organo. | Authore, Adalberto Dankowski, pro cho: C. M. C.
+@MARC-300a: 9 parts
+@MARC-300c: 35 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: karty zszyte razem w obrębie jednego głosu]
+@MARC-5008: 01
+@MARC-500a: [pl-text: clno 1, 2 zamiast wskazanych na karcie tytułowej głosów cor 1, 2]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze pośrodku czerwonym atramentem sygnatura z katalogu M. Zabłockiego "N=|r|o 44" skreślona; późniejsza po prawej czarnym atramentem "111." skreślona; późniejsza po prawej ołówkiem ręką nieznanego Paulina "N-|o 74" skreślona; późniejsza niżej z prawej czerwonym atramentem ręką F. Maletza "N 188"; późniejsza niżej ołówkiem ręką W. Świerczka "208" w kółku]
+@MARC-500a: [pl-text: Okrągły stempel "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki oraz ostatniej stronie każdego głosu]
+@MARC-500a: [pl-text: Odcinki solowe w głosach Coro S, A, T, B oraz vl 1, 2, org]
+@MARC-500a: [pl-text: Na głosie Coro S f. 2r na dole po prawej ołówkiem nazwisko "Sophie | Maletz"; na f. 3v na dole nieczytelna zamazana adnotacja ołówkiem; na f. 4r na dole po prawej ołówkiem nieczytelne zapiski, niżej po lewej nazwisko i data: "Zofia Maletz 13/12 [illegible]"]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-34]
+@MARC-561a: [cover f. 1r bottom:] Authore, Adalberto Dankowski, pro cho: C. M. C.
+@MARC-563a: [pl-text: głosy przechowywane w papierowej okładce o wymiarach 35 x 24 cm; znak wodny niewidoczny; wzdłuż grzbietu po zewnętrznej stronie pasek ozdobnego papieru w czarno-biały geometryczny wzór; wnętrze okładki usztywnione fragmentami kart rękopisów muzycznych oraz kartami z dwóch druków: na jednym widoczny tytuł "MODLITWA DO PIĘCI[!] RAN CHRYSTA PANA" oraz tekst modlitwy; na drugim widoczny wykaz papieży]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 5, 4, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2,
+@MARC-590b: 6, 5 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc),
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2 in D
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-592a: W (crowned) / BRESLAV
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl 1, vl 2, cor (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 227
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. [8]
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 5
+@MARC-6910: lit1887
+@MARC-700a: Maletz, Zofia
+@MARC-700d: 19.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30040569
+@MARC-7004: prf
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Conjectural
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N=|r|o 44
+@MARC-852d: 111
+@MARC-852d: N-|o 74
+@MARC-852d: N 188
+@MARC-852d: 208
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-106
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

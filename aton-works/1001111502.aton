@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001111502
+@MARC-003:	DE-633
+@MARC-005:	20210720131857.0
+@MARC-008:	200409##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: F-4
+@MARC-031m: pf 2
+@MARC-031o: c
+@MARC-031p: 8,,B4,G8GG48GG/G4xFnFbE/8D4,G8GG48GG/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Śmietański, Emil Władysław
+@MARC-100d: 1845-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe50041781
+@MARC-240a: Allegro
+@MARC-240m: pf (2)
+@MARC-240r: C
+@MARC-2400: 3901850
+@MARC-245a: [title page:] Allegro [in pencil: ?] für 2 Klaviere | Komponirt v. Emil Śmietański
+@MARC-260c: ca. 1870
+@MARC-2608: 01
+@MARC-300a: 1 score: 24 p.
+@MARC-300c: 32,8 x 25,8 cm
+@MARC-3008: 01
+@MARC-300a: 1 part
+@MARC-300c: 32,8 x 25,8 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Strona 18 zalana.]
+@MARC-500a: [pl-text: Strony numerowane ołówkiem.]
+@MARC-500a: [pl-text: Poprawki ołówkiem.]
+@MARC-590a: pf 2
+@MARC-590b: 12 p.
+@MARC-5908: 01
+@MARC-591a: inw. 994
+@MARC-591a: mf. 24119
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 2
+@MARC-594a: pf (2)
+@MARC-599b: full
+@MARC-650a: Piano music
+@MARC-6500: 3902024
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2051
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

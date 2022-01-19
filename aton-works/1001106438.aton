@@ -1,0 +1,49 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001106438
+@MARC-003:	DE-633
+@MARC-005:	20210527014718.0
+@MARC-008:	200303##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: '2DF/AF/AB/4.''C'8B2A/2B''4C'B/x2A4BB/2AF/G2-/
+@MARC-031r: G
+@MARC-031t: Chwałę Panu wdzięcznym pieniem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Chwałę Panu wdzięcznym pieniem
+@MARC-240m: V
+@MARC-240r: G
+@MARC-2400: 4284261
+@MARC-245a: [without title]
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-590a: V
+@MARC-590b: p. 13
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594a: V
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001106393
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 381/A VIII 21
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

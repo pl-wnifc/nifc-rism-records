@@ -1,0 +1,98 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001137139
+@MARC-003:	DE-633
+@MARC-005:	20210923121038.0
+@MARC-008:	201125##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''4DD8-4F8F/8-{EGE}FD{DC}/44D-8-4'A8A/
+@MARC-031r: D
+@MARC-031t: Salve Regina
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''8{D6FED}8{AA}6{A'''D}''4F8A/6{GB}4E8G{6FA'AA}{B''DCE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Salve regina
+@MARC-240m: V (4), vl (2), clno (2), org (= bc)
+@MARC-240r: D
+@MARC-2400: 3021988
+@MARC-245a: [title page:] Salve Regina | [added later:] Veni Creator | [continuation of the original title:] a | Canto Alto | Tenore Basso. | Violino Primo. | Violino Secundo | Clarinis 2bus. | con | Organo. | Del Segn [faded letters] | [on the left:] descriptorum | Anno a partu Virginis | 1784. [in the middle:] 7. [on the right:] Fs Cyrilli Reising[er] | Ordinis B. Virginischari[a] | de Monte Carmelo.
+@MARC-260c: 1784
+@MARC-2608: 01
+@MARC-300a: 9 parts: 11 f.
+@MARC-300c: 33.5 (19) x 22 (21.5) cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Głos Organo jako okładka, pozostałe głosy w formie luźnych kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r strona tytułowa.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Głosy Clarino Primo i Secundo ex D na mniejszych kartach o wymiarach 19 x 21.5 cm.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Tekst "Veni Creator Spiritus" dopisany w głosach pod tekstem "Salve Regina".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Karty 7v, 11v puste.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” z sygnaturą.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na kartach 2r, 3r, 4r, 5r, 6r, 7v, 8r, 9r, 10r, 11r mała okrągła pieczęć "CATH. CRAC. * ARCH. CAPIT."]
+@MARC-5008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 2, 3, 4, 5
+@MARC-5908: 01
+@MARC-590a: vl 1, vl 2, clno 1 in D, clno 2 in D, org (= bc)
+@MARC-590b: f. 6-7, 8, 9, 10, 1 and 11
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno in D
+@MARC-594c: 2
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), clno in D (2), org (= bc)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Reisinger, Cyrill
+@MARC-700d: 18.sc
+@MARC-700j: Alleged
+@MARC-7000: pe50045463
+@MARC-7004: scr
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.499
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

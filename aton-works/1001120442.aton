@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001120442
+@MARC-003:	DE-633
+@MARC-005:	20210720131905.0
+@MARC-008:	200625##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEADG
+@MARC-031o: 3/4
+@MARC-031p: =10//=4/8.6488FGA{''CD}/FED4C/
+@MARC-031r: D|b
+@MARC-031t: Niech kto jak chce o tem powie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEADG
+@MARC-031o: 3/4
+@MARC-031p: =2/'''{8.6D''F}{8.A3BA}{8.6GF}/{GB}n4GA/{8.6'''D''F}{8.A3BA}{8.6GF}/{EG}4FD/
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Wspomnienie Ojcowa
+@MARC-240m: V, orch
+@MARC-240r: D|b
+@MARC-2400: 50234776
+@MARC-245a: [caption title, p. 3:] Wspomnienie Ojcowa | śpiew z orkiestrą. Komozycja [!] i układ | Józefa Stefaniego.
+@MARC-246a: [caption title, in pencil, p.1:] Autograf
+@MARC-300a: 1 score: 16 p.
+@MARC-300c: 34,3 × 26,3 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Rękopis przycięty od dołu.]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 7/VII/47 | [parafka Chromińskiego]."]
+@MARC-591a: inw. 1610
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594a: V, vl (2), vla, vlc, cb, fl, ob (2), cl (2), fag (2), cor (2), tr (2)
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-852a: PL-Wtm
+@MARC-852d: 10787
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1523
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

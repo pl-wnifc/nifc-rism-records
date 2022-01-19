@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001154532
+@MARC-003:	DE-633
+@MARC-005:	20210923120935.0
+@MARC-008:	210427##################################
+@MARC-031a: 10
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F+4
+@MARC-031m: B rip
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0--9-/1,,G2.B,4C2DbE1D/0-/1,,G2.B,4C2DbE1D/
+@MARC-031r: 1tt
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Massaino, Tiburzio
+@MARC-100d: 1550a-1609p
+@MARC-100j: Ascertained
+@MARC-1000: pe30005207
+@MARC-240a: Missa Sagitta Jonathae
+@MARC-240m: V (1)
+@MARC-240r: 1tt
+@MARC-2400: 4296381
+@MARC-245a: MISSA | Sagitta Ionathe
+@MARC-260c: [17th c.]
+@MARC-2608: 01
+@MARC-300a: 1 part; 2 f.
+@MARC-300c: 17,5 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: "CATH. CRAC. * ARCH. CAPIT." na pierwszej i ostatniej stronie rękopisu.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Na pierwszej stronie rękopisu wpisana ołówkiem sygnatura.]
+@MARC-500a: [pl-text: Na ostatniej stronie rękopisu inskrypcja "O ad M.D.G.".]
+@MARC-590a: B rip
+@MARC-590b: 11r-12r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: B rip
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773w: 1001154484
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.40
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

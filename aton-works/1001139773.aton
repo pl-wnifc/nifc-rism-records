@@ -1,0 +1,147 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001139773
+@MARC-003:	DE-633
+@MARC-005:	20210923121017.0
+@MARC-008:	201216##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 4''EDE-/=/C'B''C-/=/FEF-/8-6DD8DCgC4'B8''C-/8-6DD8DCgC4'B8''C-/8-6DD8DCgC4'B8''CC/
+@MARC-031r: C
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria, Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 4''EEEE/8FFED4E-/8-FFF4E-/8-FFF4E-/
+@MARC-031r: C
+@MARC-031t: Et in terra pax hominibus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo, Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: 4'G8GGGG/4G8GGGG/4AAA/8AAAAA6AA/4G6GG8GGGG/4.G8G4G/
+@MARC-031r: C
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 4-''E2D/4C2C4'B/''C-2-/=4/2-4-'B/2A4G''D/2C'4B''G/GFF8EE/4EDDC/
+@MARC-031r: C
+@MARC-031t: Sanctus Sanctus Sanctus Dominus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =38/4.''D8G/{6GF}8F-{6GE}/{ED}8D-'G/{6FG}BBg''D8.C6C/4'B-/
+@MARC-031r: G
+@MARC-031t: Benedictus qui venit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2''E4E/FE-/--E/FE-/=/8-CCC4C/2.n'B/
+@MARC-031r: g
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/8
+@MARC-031p: 4''C8C/{6C'BAGAB}/8''C--/=/-CC/{6C'BAGAB}/8''C--/
+@MARC-031r: C
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Raszek, Wacław
+@MARC-100d: 1848+
+@MARC-100j: Conjectural
+@MARC-1000: pe30020314
+@MARC-240a: Missa in C
+@MARC-240m: Coro, orch, org
+@MARC-240r: C
+@MARC-2400: 4000386
+@MARC-245a: MISSA Toni C. | a | Canto Alto | Tenore Basso | Violinis 2|bus| | Obois 2|bus| | {obligatis | Vornuis 2|bus| | Clarinis 2|bus| | {ad Libitum | Tympana | Viola di Alto obligata | con | Organo et Violone. | Composita par Wencejlaum | Raschek Ao 1789|no| Mense Aprili
+@MARC-260c: 18th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 13 parts; 131 p.
+@MARC-300c: 24,5 (22) x 37 (35) cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na odwrocie karty tytułowej. Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” pojawia się 61 razy, w dolnym brzegu kart.]
+@MARC-500a: [pl-text: Okładka podklejona nutami pochodzącymi z innych rękopisów.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem z wliczeniem okładki.]
+@MARC-500a: [pl-text: Na karcie tytułowej nad tytułem naniesiony niebieskim długopisem napis "435".]
+@MARC-500a: [pl-text: Folio 56-57 (według numeracji zaznaczonej w źródle) to prawdopodobnie niekompletna partia vlne. Brak części "Kyrie" i "Gloria".]
+@MARC-500a: [pl-text: Drugi zestaw partii vl 2 oraz partia vlne spisane inną ręką.]
+@MARC-500a: [pl-text: Na pierwszych stronach wszystkich głosów (poza S) w lewym górnym rogu naniesiona ołówkiem sygnatura: "Kk.I.470".]
+@MARC-590a: Coro: S, A, T, B; vl princ, vl 1, 2 (2), vla, vlne, clno 1, 2, timp, org
+@MARC-590b: 10, 10, 10, 10, 12, 12, 12, 12, 12, 4, 4, 4, 4, 12 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl princ
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: clno in C
+@MARC-594c: 2
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: timp in C
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: S coro, A coro, T coro, B coro, vl princ, vl (2), vla, clno in C (2), vlne, timp in C, org (= bc)
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.470
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

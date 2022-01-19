@@ -1,0 +1,86 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001087661
+@MARC-003:	DE-633
+@MARC-005:	20211027135212.0
+@MARC-008:	190925##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: pf 1
+@MARC-031n: bB
+@MARC-031o: 6/4
+@MARC-031p: 4-AAABA/4-AAABA/4-''bEE2.E/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: pf 2
+@MARC-031n: bB
+@MARC-031o: 6/4
+@MARC-031p: 3{,,qAnqBx,qC}1.D/E^A/bE^n'C/,D^G^'D/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Fuga allegro
+@MARC-031g: G-2
+@MARC-031m: pf 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =1/8-{AnBx''C}{DFED}/{xCDEF}{GA}4B+/B2A4G+G8{FE}8{FAxGnB}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Fuga allegro
+@MARC-031g: F-4
+@MARC-031m: pf 2
+@MARC-031n: bB
+@MARC-031o: 6/4
+@MARC-031p: 4,,A,2A4G/FEDB/2.A4G/8{AG}4F{8GF}4E/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Lessel, Franciszek
+@MARC-100d: 1780c-1838
+@MARC-100j: Ascertained
+@MARC-1000: pe30004332
+@MARC-240a: Adagio et fugue
+@MARC-240m: pf 4 hands
+@MARC-2400: 5216068
+@MARC-245a: [title page:] Adagio et Fugue | Pour le Piano | à 4. mains | Composée | par | Fr: Lèssel. | à Varsovia | [two lines]
+@MARC-260c: ca 1820
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-300c: 23,2 x 31,0 cm
+@MARC-3008: 01
+@MARC-590a: pf 1
+@MARC-590b: 5 p.
+@MARC-5908: 01
+@MARC-590a: pf 2
+@MARC-590b: 5 p.
+@MARC-5908: 01
+@MARC-591a: Inw 925
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf 4 hands
+@MARC-594a: pf 4 hands
+@MARC-599b: full
+@MARC-650a: Chamber music
+@MARC-6500: 3901050
+@MARC-852a: PL-Wtm
+@MARC-852d: 8373
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1184
+@@END:		MARC21
+

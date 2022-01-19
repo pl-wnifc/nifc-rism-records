@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099816
+@MARC-003:	DE-633
+@MARC-005:	20211027135307.0
+@MARC-008:	200104##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCGD
+@MARC-031o: 2/4
+@MARC-031p: =1//:=6/4-8BB/BEBB/BEEE/E''CCC/C'BGB/BAAA/AGGG/GF8.B6A/
+@MARC-031r: E
+@MARC-031t: Czy o deszczu, czy o zimnie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 2/4
+@MARC-031p: 4B^G^E{8B^G^EB^G^E}//:4B^G^E8-B^G^E/{B^G^EB^G^EA^F^EB^G^E}/4''C'^A^E8B^G^E-/4''E^'E8{''D^'E''C^'E}/4B8-8{AG}/8{F^D6B^DA^C}{8G^,B'F^D^,A}/{'E^,G'E^C^,G'E^,B^G'E^,B^G}/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Piosnka Dziada
+@MARC-240m: V, pf
+@MARC-240r: E
+@MARC-2400: 50222697
+@MARC-245a: [caption title:] „Piosnka Dziada!.
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajduje się pieczątka: "ALEKSANDER MONIUSZKO | N|o 769"]
+@MARC-591a: N|o 769
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Witwicki, Stefan
+@MARC-700d: 1801-1847
+@MARC-700j: Alleged
+@MARC-7000: pe30048733
+@MARC-7004: lyr
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|17
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

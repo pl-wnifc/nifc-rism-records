@@ -1,0 +1,105 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050687
+@MARC-003:	DE-633
+@MARC-005:	20210730201517.0
+@MARC-008:	160311##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: {8.E6E}{8.G6G}{8.B6B}/4''E--/=/8.-6'E{8.G6G}{8.B6B}/4''E--/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =18/,EGB/'E,E-/=/E{8.G6G}{8.B6B}/{8.'E6,E}4E
+@MARC-031r: E|b
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Nowakiewicz, Kazimierz
+@MARC-100d: 18/19
+@MARC-100j: Verified
+@MARC-1000: pe30020309
+@MARC-240a: Salve regina
+@MARC-240m: B, och, org
+@MARC-240r: E|b
+@MARC-2400: 3021988
+@MARC-245a: [b:] N=|r|o 19. [later with pencil:] a | Salve Regina [later:] ex Es. | Basso solo | Violini Duobus | Clarinetto Duobus | Cornu Duobus | Et | Organo | [at left:] par Casimir. Nowakiewicz | [bottom middle:] N=|r|o 19.
+@MARC-260c: 1790-1825
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Zamiast partii org podanej na karcie tytułowej, w źródle pojawia się partia b]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N 19"]
+@MARC-500a: [pl-text: Na f. 1r głosów B, vl 1 oraz cl 1 u góry z prawej notatka: "par Casimir Nowakiewicz"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-9)]
+@MARC-500a: [pl-text: Kopista rozpoznany przez M. Konika]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-563a: [pl-text: Okładka zrobiona z głosu b]
+@MARC-5638: 01
+@MARC-590a: Solo B
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, b
+@MARC-590b: 1, 1, 2 f.
+@MARC-5908: 01
+@MARC-590a: cl 1, 2 in B|b
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in E|b
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: cor in E|b
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: B, vl 1, vl 2, cl in B|b (2), cor in E|b (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.92, no.74
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 332
+@MARC-6910: lit41001126
+@MARC-700a: Cichawski, Józef
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30109125
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-STAb
+@MARC-852d: N=|r|o 19.
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 19a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001082617</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20211027135152.0</marc:controlfield>
+  <marc:controlfield tag="008">190820##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="d">Śpiew greckich kapłanek</marc:subfield>
+    <marc:subfield code="d">Andante</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">Coro: S 1</marc:subfield>
+    <marc:subfield code="o">6/8</marc:subfield>
+    <marc:subfield code="p">4.''C4'xG8G/4.BA/''F4xC8C/4.''ED/C4'B8A/x4G8F4E8F/</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="t">W gaju świętym przed sklepieniem</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="d">Śpiew greckich kapłanek</marc:subfield>
+    <marc:subfield code="d">Andante</marc:subfield>
+    <marc:subfield code="g">G-2</marc:subfield>
+    <marc:subfield code="m">pf</marc:subfield>
+    <marc:subfield code="o">6/8</marc:subfield>
+    <marc:subfield code="p">4.''C^'A^E4xG^E8G^E/8{B^E''E^'E''E}{EE'''E}/4.''F^D^'A4''xC^'A8''C^'A/8{''E^'A''A^'A''A}{AA'''A]/4.'''C''^A^C4''B^xG'^B4''A^F^'A/4''xG^E^'xG8''F^D^'F4''E^C'^E8''F^D^'F/</marc:subfield>
+    <marc:subfield code="r">a</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">pol</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Hertz, Michał</marc:subfield>
+    <marc:subfield code="d">1844-1918</marc:subfield>
+    <marc:subfield code="j">Alleged</marc:subfield>
+    <marc:subfield code="0">pe41023359</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Muzyka do sztuki dramatycznej "Semele"</marc:subfield>
+    <marc:subfield code="k">Fragments</marc:subfield>
+    <marc:subfield code="m">Coro, pf</marc:subfield>
+    <marc:subfield code="0">5213746</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[caption title, purple pen, f. 1r:] Śpiew greckich kapłanek (Chór kobiecy)</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1850-1918</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 score: 4 p.</marc:subfield>
+    <marc:subfield code="c">32.0 x 25.3 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">A piece of paper with incomplete musical record is glued to the first and third foglio. Page 4 is empty. The manuscript has annotations with blue crayon.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">[pl-text: Kartki z niekompletnym zapisem muzycznym są przyklejone na pierwszej i trzeciej karcie.. Strona 4 jest pusta. Rękopis zawiera adnotacje zanotowane niebieską kredką.]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="591" ind1=" " ind2=" ">
+    <marc:subfield code="a">inw. 2550</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Autograph manuscript</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro femminile</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">pf</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">Coro femminile, pf</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Incidental music</marc:subfield>
+    <marc:subfield code="0">25188</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Wtm</marc:subfield>
+    <marc:subfield code="e">Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki</marc:subfield>
+    <marc:subfield code="x">ks30000150</marc:subfield>
+    <marc:subfield code="c">R 2535</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+</marc:record>

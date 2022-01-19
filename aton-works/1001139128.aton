@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001139128
+@MARC-003:	DE-633
+@MARC-005:	20210923121031.0
+@MARC-008:	201212##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031p: 1- / 1- / 1- / 1- / 1- / 1- / 1A / 2A / 2xGE / 1B / ''2.C '4B /
+@MARC-031t: Sub tuum praedisium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031p: 1-/ 1-/ 1-/ 1-/ 1E / 2E / 2C,A / '2.F4F /
+@MARC-031t: Sub tuum praedisium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031p: 1-/ 1-/ ,1A / 2A / 2xGE / 2.A 4A /
+@MARC-031t: Sub tuum praedisium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031p: ,1E / 2E / 1C / ,,1A / ,2.E 4E /
+@MARC-031r: a
+@MARC-031t: Sub tuum praedisium
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Gorczycki, Grzegorz Gerwazy
+@MARC-100d: 1665p-1734
+@MARC-100j: Alleged
+@MARC-1000: pe30009207
+@MARC-240a: Sub tuum praesidium
+@MARC-240m: Coro: SATB
+@MARC-2400: 3904628
+@MARC-245a: [text incipit:] Sub tuum praesidium
+@MARC-300a: 1 part of collection
+@MARC-300c: 32 x 22,3 cm
+@MARC-3008: 01
+@MARC-500a: Title of the parts: "Offertorium"
+@MARC-5008: 01
+@MARC-500a: At top of each part (f. 4v, 10v, 16v, 22v): "Gre: Gorczycki z Ro: 1700."
+@MARC-5008: 01
+@MARC-500a: At top of each part (f. 4v, 10v, 16v, 22v): "in A. mol."
+@MARC-5008: 01
+@MARC-520a: 1 sacred song
+@MARC-590a: S, A, T, B
+@MARC-590b: 4v, 10v, 16v, 22v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-773w: 1001138080
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.387
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

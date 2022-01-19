@@ -1,0 +1,102 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147283
+@MARC-003:	DE-633
+@MARC-005:	20210923121112.0
+@MARC-008:	210220##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: Coro: S
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2-GG/GGG@c 4GG2F/
+@MARC-031t: Exultate gaudete
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: Coro: A
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2-bEE/DDD@c 4bEE2D/
+@MARC-031t: Exultate gaudete
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: Coro: T
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2-bCC/,BBB@c 4b'CC2,F/
+@MARC-031t: Exultate gaudete
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-1
+@MARC-031m: Coro: B
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2-b''C,'G/BB''D@c 4bCC2b,'A/
+@MARC-031q: [pl text: ten utwór w partii głosowej B jest napisany w klucz C1]
+@MARC-031t: Exultate gaudete
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Exultate gaudete
+@MARC-240m: Coro: S, A, T, B
+@MARC-2400: 50247071
+@MARC-245a: [without title]
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 19 x 16 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: na końcu utworu, w partii głosowej S, pojawia się napis: "Exultate ut supra | allegro si placet"]
+@MARC-5008: 01
+@MARC-500a: [pl text: na końcu utworu, w partii głosowej A, pojawia się napis: "Exultate ut supra | allegro si placet"]
+@MARC-5008: 01
+@MARC-500a: [pl text: na końcu utworu, w partii głosowej T, pojawia się napis: "Exultate ut supra | allegro si placet"]
+@MARC-5008: 01
+@MARC-500a: [pl text: na końcu utworu, w partii głosowej B, pojawia się napis: "Exultate ut supra | allegro si placet"]
+@MARC-5008: 01
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 2, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S
+@MARC-594c: 1
+@MARC-594b: Coro: A
+@MARC-594c: 1
+@MARC-594b: Coro: T
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: S, Coro: A, Coro: T, Coro: B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-691a: JaisńskiM 2013
+@MARC-691n: p. 77-111
+@MARC-6910: lit50006448
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-773w: 1001146379
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.15
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

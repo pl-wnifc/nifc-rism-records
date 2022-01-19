@@ -1,0 +1,69 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000814
+@MARC-003:	DE-633
+@MARC-005:	20201029163355.0
+@MARC-008:	130313##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: cl 2 in B|b
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: q8''D\{6C'nB8''C}q8D{6C'B'8''C}/q8E{8F'F}q8'G{6'FE8F}/q8''D{6Cn'B8''C}{6''E'G8bB}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Malik, Jan
+@MARC-100d: 1800c-1866
+@MARC-100j: Ascertained
+@MARC-1000: pe30023932
+@MARC-240a: Polkas
+@MARC-240m: winds, gran cassa
+@MARC-240r: F
+@MARC-2400: 3900802
+@MARC-245a: [caption title, cor 2:] Schmolis Polka
+@MARC-260c: 1840-1860 (19.me)
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-3008: 01
+@MARC-500a: tr 1 and gran cassa missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: cl 1, 2, tr 2, cor 1, 2, bombardone
+@MARC-590b: f. 1v, 1v, 1v, 1v, 1v, 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: bombardone
+@MARC-594c: 1
+@MARC-594b: gran cassa
+@MARC-594c: 1
+@MARC-594a: cl (2), tr (2), cor (2), bombardone, gran cassa
+@MARC-599b: full
+@MARC-650a: Polkas
+@MARC-6500: 25411
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.906
+@MARC-6910: lit1869
+@MARC-730a: Schmolis Polka
+@MARC-730g: RISM
+@MARC-7300: 4307514
+@MARC-773w: 300000812
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 4
+@MARC-852d: N|o 41
+@MARC-852d: 440
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-49
+@@END:		MARC21
+

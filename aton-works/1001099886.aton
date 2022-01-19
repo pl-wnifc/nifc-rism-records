@@ -1,0 +1,69 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099886
+@MARC-003:	DE-633
+@MARC-005:	20211027135308.0
+@MARC-008:	200106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: N|o XXIII
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: 6DGGFGA/BBBAGB/A''DDEDC/'BAGFGB/A''E8EF/4D8'A/6'A''E8E6{FE}/4(D)6{'AB}/
+@MARC-031r: G
+@MARC-031t: Gdybym miał co ranek miodu spory dzbanek
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: N|o XXIII
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: 8{G'^D^,B'G'^D^,B'G'^D^,B}/4.'G'^D^,B/4.'A^D^C/4.'G'^D^,B/8-{'G^CG^C}/-{F^DF^D}/-{E^C^,G'E^C^,G}/4'(D)^,A^F8-/4.'F^C^,A/8{'G^,B^G'G^,B'G^D^,G}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Gdybym miał co ranek miodu spory dzbanek
+@MARC-240m: V, pf
+@MARC-240r: G
+@MARC-2400: 50222733
+@MARC-245a: [without title]
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajduje się pieczątka: "ALEKSANDER MONIUSZKO | N|o 786"]
+@MARC-591a: N|o 786
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|40
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

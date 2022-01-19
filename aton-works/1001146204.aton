@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001146204
+@MARC-003:	DE-633
+@MARC-005:	20210923121107.0
+@MARC-008:	210213##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031p: '9D 1A 9B 1G 1.A 4B''C 1D
+@MARC-031t: Ave maris stella
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031p: '9F 1D 9D 1E 9.F 1EFE
+@MARC-031t: Ave maris stella
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031p: ,2AGFE 1xF / + 1F G 1E 2ABAG FG 9A
+@MARC-031t: Ave maris stella
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031p: ,9D 2DC ,,1BG ,C 2FGFE 1D A
+@MARC-031t: Ave maris stella
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Ave maris stella
+@MARC-240m: SATB
+@MARC-2400: 3008705
+@MARC-245a: [text incipit:] Ave maris stella
+@MARC-260a: Cracow
+@MARC-260c: 1650-1700
+@MARC-2608: 01
+@MARC-300a: 1 score
+@MARC-300a: 4 parts
+@MARC-300c: 19,7 x 14,1 cm
+@MARC-3008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 4r
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 3r
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: MrowiecT 1981
+@MARC-6910: lit30000110
+@MARC-691a: KonikL 2012
+@MARC-6910: lit50006599
+@MARC-773w: 1001146202
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.319
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

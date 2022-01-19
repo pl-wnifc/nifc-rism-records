@@ -1,0 +1,91 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001139096
+@MARC-003:	DE-633
+@MARC-005:	20210923121030.0
+@MARC-008:	201212##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S/ T 1 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 1A/2AG/AG/A''D/
+@MARC-031r: F
+@MARC-031t: Allelluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 2 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 1C/2CC/CC/Cn,B/
+@MARC-031r: F
+@MARC-031t: Allelluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: A/B 1 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 1F/2FG/FC/2.F4F/
+@MARC-031r: F
+@MARC-031t: Allelluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B 2 coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1,F/2FE/FE/2.D4D/
+@MARC-031r: F
+@MARC-031t: Allelluia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Alleluia
+@MARC-240m: Coro: S/T 1, T 2, A/B 1, B 2
+@MARC-240r: F
+@MARC-2400: 33425
+@MARC-245a: IV | Graduale
+@MARC-246a: Graduale | in F
+@MARC-260c: [1850-1899]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks
+@MARC-300c: 24 x 23 cm
+@MARC-3008: 01
+@MARC-590a: Coro: S/T 1, T 2, A/B 2, B 2
+@MARC-590b: 2, 1, 2, 2, f
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S/T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: A/B1
+@MARC-594c: 1
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: S/T1 , Coro: T2, Coro: A/B1, Coro: B2
+@MARC-599b: full
+@MARC-650a: Graduals
+@MARC-6500: 25239
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

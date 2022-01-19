@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001113834
+@MARC-003:	DE-633
+@MARC-005:	20210720131935.0
+@MARC-008:	200430##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante maestoso
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =12/48.644AAAGF/A''CCF'A/
+@MARC-031r: F
+@MARC-031t: Przedwieczny Boże, potężny Panie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2''F4CC/2.'G4A/2B+{8BAB''C}/'4BA2G/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Modlitwa
+@MARC-240m: V, pf (org)
+@MARC-240r: F
+@MARC-2400: 4323187
+@MARC-245a: [title page:] Hymn | [crossed out: Modlitwa] | Śpiew Kościelny | na głos Mezzosopranowy lub Barytonowy | [crossed out: z towarzyszeniem Fortepianu lub Organu.] | słowa | Muzyka | Wilhelm Troschel | [crossed out:Na Sopran lub Tenor.] [space] [crossed out: Mezzo-Sopran | Na [illegible] lub Baryton] | Główne melodje mogą | pozostać ale całość trzeba | koniecznie przerobić
+@MARC-246a: [caption title:] Modlitwa | Wilhelm Troschel
+@MARC-260c: before 1887
+@MARC-2608: 01
+@MARC-300a: 1 score: 12 p.
+@MARC-300c: 36 x 28 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Strony rękopisu numerowane.]
+@MARC-500a: [pl-text: Poprawki ołówkiem.]
+@MARC-591a: inw. 2268
+@MARC-591a: A-21.304
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2296
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

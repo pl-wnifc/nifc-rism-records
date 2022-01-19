@@ -1,0 +1,107 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258080
+@MARC-003:	DE-633
+@MARC-005:	20210923120907.0
+@MARC-008:	130725##################################
+@MARC-031a: 3
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 9-/1D,9B'C1DE/2DGFE/2.F4E2D
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 3
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1-/C,A2B1G4FE/1G2.G4A/B'C1D2E/1D2,(A)
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 3
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1,G/9CD2,,GnB1A/2GG4,CDEF/2G,,G
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 3
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 9DE1D/2-GDE/F1DG2F/GG
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1-/C,A2B1'C4,B'C/1D2-1D2D/DD1,A/
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 9,,G,C1D/2,,G4,CD/EF2.G4F2F/1GD/
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Alleluia ave Maria
+@MARC-240m: V (4)
+@MARC-2400: 3911891
+@MARC-245a: [without title]
+@MARC-260c: 1660-1682
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Numer 1c według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-590a: A, T, T (2), B
+@MARC-590b: p.3-4, 3-4, 2-3, 3-4
+@MARC-5908: 01
+@MARC-591a: Kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Versus alleluiatici
+@MARC-6500: 3005779
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-700a: Miskiewicz, Maciej Arnulf
+@MARC-700d: 1685c+
+@MARC-700j: Ascertained
+@MARC-7000: pe30105639
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

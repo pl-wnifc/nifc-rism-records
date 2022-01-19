@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001145771
+@MARC-003:	DE-633
+@MARC-005:	20210923121106.0
+@MARC-008:	210210##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/2
+@MARC-031p: ''2CC'B / ''1D 2C / 2DC'B /
+@MARC-031t: Alleluia assumpta est Maria
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: 3/2
+@MARC-031p: '2EED / 1D 2C / 2C,BA /
+@MARC-031t: Alleluia assumpta est Maria
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: 3/2
+@MARC-031p: ,1GGG / BGG / 2A 1G /
+@MARC-031t: Alleluia assumpta est Maria
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/2
+@MARC-031p: ,2CEG / GB'C / ,FG,,G /
+@MARC-031t: Alleluia assumpta est Maria
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Alleluia assumpta est Maria
+@MARC-240m: S A T B rip
+@MARC-2400: 36668
+@MARC-245a: Alleluia assumpta est Maria
+@MARC-260a: Cracow
+@MARC-260c: 1700-1799
+@MARC-2608: 01
+@MARC-300a: 1 score
+@MARC-300a: 4 parts
+@MARC-300c: 22,3 x 14,9 cm
+@MARC-3008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 5r
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 9r
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 13r
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 17r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: S, A, T, B rip
+@MARC-599b: full
+@MARC-650a: Graduals
+@MARC-6500: 25239
+@MARC-773w: 1001145638
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.350
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

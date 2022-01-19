@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258033
+@MARC-003:	DE-633
+@MARC-005:	20210923120900.0
+@MARC-008:	121101##################################
+@MARC-031a: 17
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+1
+@MARC-031m: Discantus
+@MARC-031o: c/
+@MARC-031p: 9'A1AA9AG2.A4GAB2.''C4'B2BA2.E4F2G1C
+@MARC-031r: 4t
+@MARC-031t: Et exsultavit spiritus meus
+@MARC-0312: pe
+@MARC-031a: 17
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 09--/1.E2DC,BA1'E2D1C,B2-'DFE
+@MARC-031r: 4t
+@MARC-031t: Et exsultavit spiritus meus
+@MARC-0312: pe
+@MARC-031a: 17
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1-1.,A2GFED2.'D4C,2AB2.'C8,{BA}2BAEF2.A4E2G1AE
+@MARC-031r: 4t
+@MARC-031t: Et exsultavit spiritus meus
+@MARC-0312: pe
+@MARC-031a: 17
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1.,A2GFED1A2G1F9E-1-2-1A2G
+@MARC-031r: 4t
+@MARC-031t: Et exsultavit spiritus meus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Jacotin
+@MARC-100d: 15/16
+@MARC-100j: Ascertained
+@MARC-1000: pe30016657
+@MARC-240a: Magnificat quarti toni
+@MARC-240m: V (4)
+@MARC-240r: 4t
+@MARC-2400: 3910073
+@MARC-245a: [A:] Quarti Toni Jacotin
+@MARC-300a: 4 partbooks
+@MARC-300c: 21 cm x 27,5 cm
+@MARC-3008: 01
+@MARC-590a: Discantus, A, T, B
+@MARC-590b: f.38v-39v, 40v-42r, 39r-40r, 38v-39v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: Głuszcz-ZwolińskaW 1972
+@MARC-6910: lit2816
+@MARC-700a: Copyist G
+@MARC-700j: Ascertained
+@MARC-7000: pe30096997
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258016
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

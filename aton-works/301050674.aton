@@ -1,0 +1,231 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050674
+@MARC-003:	DE-633
+@MARC-005:	20211030200935.0
+@MARC-008:	160308##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8''G{'B''C'B''CD/{6EGFE}4D-/{8.D6C}{8.C6'B}{8.''D6'B/{''C'BAB}4A-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: B{8''C'B}''CD/4ED-/{8.D6C}{8.C6'B}{8.''D6'B/{''C'BAB}4A-/
+@MARC-031r: G
+@MARC-031t: Kyrie eleison Christe eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Christe. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: B''CDE/D-2-/4'B8''CC4DE/D-2-/
+@MARC-031r: G
+@MARC-031t: Christe audi nos Christe exaudi nos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Pater. Adagio
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =25/6{,DG}4G6{AB/3{'C,BAB}8A6-A'CE/{ED}C
+@MARC-031r: G
+@MARC-031t: Pater de caelis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sancta Maria
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: =19/4.G8''CEG/{GxF}4nF-/4.G{6FA}{GE}{FD}/8{DC}4C-/
+@MARC-031r: C
+@MARC-031t: Sancta Maria ora pro nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Mater Christi. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c
+@MARC-031p: =4/2''C4C-/2'B4B-/2''C4C-/2''E8D'B''C
+@MARC-031r: C
+@MARC-031t: Mater Christi mater divinae gratiae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Mater Amabilis. Allegro
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: =32/4.'D8C4,BB/4.B8'C2'D/'4CC
+@MARC-031r: G
+@MARC-031t: Mater amabilis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Virgo. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 2/4
+@MARC-031p: =6/8''EEEE/8.F6F8F-/DDDD/EE4-/
+@MARC-031r: C
+@MARC-031t: Virgo prudentissima
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Rosa. Adagio
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =17/4.C,8A'C,A/8.'C6,A4'C-/{6,EG}{B'D}
+@MARC-031r: F
+@MARC-031t: Rosa mistica
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Salus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: A''xC/8DFED/DxC4-/2E/8D6DD8DD/DxC4-/
+@MARC-031r: F
+@MARC-031t: Salus infirmorum Refugium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Regina. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''FFF/2F4F/GG-/=/EEE/
+@MARC-031r: D
+@MARC-031t: Regina angelorum regina patriarcharum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: Agnus. Adagio
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =16/{6,GD8.B}{6'C,AF/{8A6qBAGAB}8G6-
+@MARC-031q: [pl-text: Po tej części uwaga: "Da Capo Christe | audinos"
+@MARC-031r: G
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rodowski, Aleksander
+@MARC-100d: 18/19
+@MARC-100j: Verified
+@MARC-1000: pe30009627
+@MARC-240a: Litanies
+@MARC-240m: V (3), Coro, orch, org
+@MARC-240r: G
+@MARC-2400: 3900164
+@MARC-245a: [cover title:] N 10. a | 1=|m|e Classis | LITANIE LAUretane | De B. V. M. | Canto Tenore | Basso | Violino Primo | Violino Secundo | Cornu Primo | Cornu Secundo | et | ORGANO | [at left:] Autor | Alexander Rodowski | [at right:] J. Cichaski mpp | 18[illegible] | [bottom middle:] N 10.
+@MARC-260c: 19th century, 1st quarter
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Ucięte folio 5. głosu vl 2
+@MARC-5008: 01
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona ołówkiem]
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N 10"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-26)]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: Solo and Coro S, T, B
+@MARC-590b: 2, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 5, 5 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: cor in G
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, T, B, Coro S, Coro T, Coro B, vl 1, vl 2, cor in G (2), org
+@MARC-599b: full
+@MARC-650a: Litanies
+@MARC-6500: 25137
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.104, no.96
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 340
+@MARC-6910: lit41001126
+@MARC-700a: Cichawski, Józef
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30109125
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-730a: Litaniae Lauretanae
+@MARC-730g: RISM
+@MARC-7300: 3900952
+@MARC-852a: PL-STAb
+@MARC-852d: N 10.
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 10a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

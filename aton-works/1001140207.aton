@@ -1,0 +1,131 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001140207
+@MARC-003:	DE-633
+@MARC-005:	20210923121018.0
+@MARC-008:	201218##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Recitativo, Vivace
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031o: c
+@MARC-031p: =16/8-''DD'AGxFAB/6''DC8C-CCC'BA/''DDCDC'B4-/
+@MARC-031r: C
+@MARC-031t: Quid hostem times
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Recitativo, Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 4'''C^''E^'G''B^D^'G8-6{'''DC''B}{AGF}{FED}/4'''C^''E^'G''B^D^'G8-6{'''DC''B}{AGF}{FED}/{EGGG}{8.Gt3FG}{6ACCC}{8.Ct3'B''C}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Aria, Allegro spirituoso
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: =20/2.'G4B/''D'D2-/2''C8D'A/g''C{8.'B6A}4G2-/2''E'E/4DGB''D/2DCt/'4B-2-/
+@MARC-031r: G
+@MARC-031t: Foris bella intus timores
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Aria
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: 4''G^'B^D^,G{8.''Gt3FG}{6B8.G}/{6A8.F6E8.D}{x6C8.D6C8.D}/4A^D^'D{8.''At3GA}{'''6C8.''A}/{6B8.D6C8.'B}{6A8.G6F8.G}/{8.''E6'C}{8EG''C}
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Chorus, Allegro
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031o: c
+@MARC-031p: =9/4''C'B8''C{6'B''C}8DF/ED4-DE/8F{6EF}8GFFE8.E6E/8DD8.D6D4D8.D6D/8DDDDDxC8.C6C/n8C
+@MARC-031r: C
+@MARC-031t: O supremum caeli numen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Chorus
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 4''C^'E^,G6{''(EDE)}{(FEF)}{(GFG)8A}4-/6{(DCD)}{(EDE)}{FDC'B}{''C'G(GAG)}{''FDC'B}/{''GEDC}
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Hoffmann, Leopold
+@MARC-100d: 18.sc
+@MARC-100j: Conjectural
+@MARC-1000: pe30113655
+@MARC-240a: Quid hostem times
+@MARC-240m: S solo, Coro, orch, org
+@MARC-2400: 4131694
+@MARC-245a: Motetto. | a | Soprano con|to| | 4 Voci Rip:|ni| | 2 Violini | 2 Oboe | 2 Clarini e Tympano. | Organo, con Violone | Del Sig:|re| Leopoldo Hofmann.
+@MARC-260c: 18th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 13 parts; 84 p.
+@MARC-300c: 23 x 30 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na odwrocie karty tytułowej. Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” pojawia się 30 razy, w dolnym lub górnym brzegu kart.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Karta tytułowa podklejona drukowanymi szablonami biurowymi. Z takich samych arkuszy zrobiona reszta okładki.]
+@MARC-500a: [pl-text: Na karcie tytułowej ponad tytułem nieczytelny napis sporządzony czerwonym ołówkiem.]
+@MARC-500a: [pl-text: Całość źródła sporządzona przez trzech kopistów. Dodatkowe partie vl 1, 2 oraz org spisane inną ręką; głos S solo również sporządzony inną ręką niż pozostałe partie.]
+@MARC-500a: [pl-text: Recytatyw w głosie S solo zapisany wraz z akompaniamentem.]
+@MARC-500a: [pl-text: Partia vlne podpisana "Violone. | Alto Viola". Recytatyw w partii vlne rozpisany z melodią głosu i podpisanym tekstem.]
+@MARC-500a: [pl-text: W jednej z partii org recytatyw rozpisany z melodią i podpisanym tekstem.]
+@MARC-590a: S solo; Coro: S, A, T, B; vl 1 (2), 2 (2), vlne, ob 1, 2, clno 1, 2, org (2)
+@MARC-590b: 8, 2, 2, 2, 2, 8, 8, 8, 8, 8, 4, 4, 2, 2, 8, 8 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: clno in C
+@MARC-594c: 2
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: S solo, S coro, A coro, T coro, B coro, vl (2), vlne, ob (2), clno in C (2), org (= bc)
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.515
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

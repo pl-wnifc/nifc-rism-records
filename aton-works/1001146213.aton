@@ -1,0 +1,111 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001146213
+@MARC-003:	DE-633
+@MARC-005:	20211011181043.0
+@MARC-008:	210213##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: '2G1A/2x''C1.D/n2EDxC/D1'A/
+@MARC-031t: Boże wieczny Boże żywy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 'bB1A/2G1F/1A2A/4AG1A/
+@MARC-031t: Boże wieczny Boże żywy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: '2D1D/2E1,A/x2'CFE/4FDx1C/
+@MARC-031t: Boże wieczny Boże żywy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2,G1F/n2E1D/x2CD,,A/bB1A/
+@MARC-031t: Boże wieczny Boże żywy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: b2''B1A/2Gn1F/A2A/4AG1A/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Boże wieczny Boże żywy
+@MARC-240m: V (4), vl (2), bc
+@MARC-240r: d
+@MARC-2400: 4207170
+@MARC-245a: [without title]
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 8 parts: 8 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Partia "Canto 2do" pokrywa się z partią "Canto 1mo".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 8 partia "Organo e Violone" z basem cyfrowanym.]
+@MARC-5008: 01
+@MARC-590a: S (2x), A, T, B
+@MARC-590b: f. 1v, 2v, 3v, 4v, 5v
+@MARC-5908: 01
+@MARC-590a: vl 1, vl 2, bc
+@MARC-590b: f. 6r, 7r, 8r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), bc
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-773w: 1001146206
+@MARC-852a: PL-Kk
+@MARC-852d: Ch.29
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.316
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001143203
+@MARC-003:	DE-633
+@MARC-005:	20210720131720.0
+@MARC-008:	210119##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Alleretto vivo e amabile
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 4-{q6CqD2}C+4/C{q6CqD2}C+4/C{q6CqD}4C{8FG}/{AG}4F{8AB}/
+@MARC-031r: f|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Mazurs
+@MARC-240m: orch
+@MARC-240n: Op. 38 No. 1
+@MARC-240r: f|x
+@MARC-2400: 3903722
+@MARC-245a: [title page:] Zygmunt Noskowski | Mazur | (Op. 38 № 1) | na orkiestrę. | Wydanie na 4 ręce – Londyn Augener et Comp.
+@MARC-300a: 1 score: 28 p.
+@MARC-300c: 36 x 26,5 cm
+@MARC-3008: 01
+@MARC-383b: Op. 38 No. 1
+@MARC-500a: [pl-text: Stemple: "BIBLIOTEKA | WARSZAWSKIEGO | TOW. MUZYCZNEGO" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Poprawki niebieską kredką.]
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 1158
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 2
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594b: triangolo
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc (2), cb, fl (2), ob (2), cl (2), fag (2), cor (4), tr (2), trb (3), timp, tamb, triangolo
+@MARC-599b: full
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-852a: PL-Wtm
+@MARC-852d: 9134
+@MARC-852d: R 1805
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 35/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

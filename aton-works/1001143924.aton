@@ -1,0 +1,106 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143924
+@MARC-003:	DE-633
+@MARC-005:	20210923121054.0
+@MARC-008:	210126##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: '1C 2D 1F 2E / 2.F 4E / 2DG / 2F 4EF / 2GG 1GA/
+@MARC-031t: Per merita sancti Adalberti
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: A2
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,1F / 2G 1B 2A / 2B 'D 2.C ,4B / 1A /
+@MARC-031t: Per merita sancti Adalberti
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1- ,1C / 2D 1F 2E/ 2FA 1G / 2C '1C 2F / 2DD 9ED {8C,B} /
+@MARC-031t: Per merita sancti Adalberti
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T2
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.- / ,1G 2A '1C ,2B / '4C ,4bB AG / 9FG / 2C 'C/ ,2bBA / 4FGAB /
+@MARC-031t: Per merita sancti Adalberti
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,1C / 9DF 1FF / 9EF 1GE / 1F 9FE
+@MARC-031t: Per merita sancti Adalberti
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Per merita sancti Adalberti
+@MARC-240m: Coro: AATTB
+@MARC-2400: 3018619
+@MARC-245a: [text incipit:] Per merita sancti Adalberti
+@MARC-300a: 1 score
+@MARC-300a: 5 parts
+@MARC-300c: 20,4 x 16,4 cm
+@MARC-3008: 01
+@MARC-520a: 1 score
+@MARC-590a: A1
+@MARC-590b: 2v
+@MARC-5908: 01
+@MARC-590a: A2
+@MARC-590b: 4v
+@MARC-5908: 01
+@MARC-590a: T1
+@MARC-590b: 6v
+@MARC-5908: 01
+@MARC-590a: T2
+@MARC-590b: 8v
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: 10v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A (2), T (2), B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001143308
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.360
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

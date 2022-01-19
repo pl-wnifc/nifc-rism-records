@@ -1,0 +1,145 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001069393
+@MARC-003:	DE-633
+@MARC-005:	20210613224105.0
+@MARC-008:	190425##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =14/8''D4D8D'D4-8A/{6''DEFE}8DCD'A4-/{6''DEFE}8DC{DC'BA}/
+@MARC-031r: D
+@MARC-031t: Eia gentes
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4''DD{6DAAG}{GFFE}/4FF{6FAAG}{GFFE}/{FGAG}{8FE}{DC'BA}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Recitativo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4-8.'B6B4B8BB/''EE-'BB6BB8B''C/4D8DC8.C6C4C/-C8E'G6-GGF/
+@MARC-031r: D
+@MARC-031t: Oritur ecce dies
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 1,xG/G/2GA/GC/4DG2A/D-//
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: =20/8{''(EFE)}4FE/{8DC}4D-/{(8DED)}4ED/{8C'B}4''C-/{(8CDC)}4DC/
+@MARC-031r: A
+@MARC-031t: Esto mihi sancta dies
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Aria
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 8-{''EDC'BA}/4''FDE/8-{EDC'BA}/4''EDC/Ct'B-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =12/8-''DE{6DC}/{D'AB''C}{DEFE}/{D'AB''C}{DEFE}/4D8-D/{C'BAG}/
+@MARC-031r: D
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 8-''D{E6DC}/{8DF}{G6FE}/8F4D8C/{D'F}{G6FE}/{8FDE,A}/{'DDE,A}
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Eia gentes
+@MARC-240m: S, strings, b
+@MARC-240r: D
+@MARC-2400: 4117044
+@MARC-245a: [cover title:] Concerto Eia gentes | Violino 1 | Violino 2 | AltViola | Fundamento
+@MARC-260c: 1700-1749
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 20 x 17 cm
+@MARC-3008: 01
+@MARC-590a: S solo
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 2, 2, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, vl (2), a-vla, b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 273
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 498/A VIII 138
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

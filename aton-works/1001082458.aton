@@ -1,0 +1,102 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001082458
+@MARC-003:	DE-633
+@MARC-005:	20211027135155.0
+@MARC-008:	190819##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: No. 1.
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: Coro: V 1
+@MARC-031n: bBEADG
+@MARC-031o: 3/4
+@MARC-031p: 8.''D6'A4..F6A/8.''D6E4FD/8.E6F4..G6E/4''AF-/8.''D6'A4..F6A/8.''D6E4FD/
+@MARC-031q: Text illegible.
+@MARC-031q: [pl-text: nieczytelny tekst]
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: No. 1.
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: Coro: V 3
+@MARC-031n: bBEADG
+@MARC-031o: 3/4
+@MARC-031p: 8.,D6,,A4..F6A/8.,D6E4FD/8.A6A4..A6A/4AA-/8.,D6,,A4..F6A/8.,D6E4FD/
+@MARC-031q: Text illegible.
+@MARC-031q: [pl-text: nieczytelny tekst]
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: No. 2.
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: Coro: V 1
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: 2E4..A6''C/2Cn'B/bB4..''D6F/2FnE/2bE4..F6E/
+@MARC-031r: A|b
+@MARC-031t: Czysta miłości
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: No. 2.
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: Coro: V 4
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: 2,,A4..,C6E/2nDD/bD4..F6B/2AA/2G4..A6G/
+@MARC-031r: A|b
+@MARC-031t: Czysta miłości
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Komandor
+@MARC-240k: Excerpts
+@MARC-240m: Coro
+@MARC-2400: 5214042
+@MARC-245a: [caption title, purple pen:] Komandor | St. Kozłowskiego | akt 3|c|i | śpiew wolnomularski
+@MARC-260c: 1850-1918
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 32.0 x 25.2 cm
+@MARC-3008: 01
+@MARC-500a: The manuscript contains two pieces for choir.
+@MARC-500a: [pl-text: Rękopis zawiera dwa utwory na chór.]
+@MARC-520a: Muzyka do sztuki dramatycznej "Komandor"
+@MARC-591a: inw. 2556
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro
+@MARC-594c: 1
+@MARC-594a: Coro
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-650a: Choruses
+@MARC-6500: 3000136
+@MARC-700a: Kozłowski, Stanisław
+@MARC-700d: 1860-1922
+@MARC-700j: Ascertained
+@MARC-7000: pe41023380
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2541
+@@END:		MARC21
+

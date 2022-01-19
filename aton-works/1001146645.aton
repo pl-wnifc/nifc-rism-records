@@ -1,0 +1,100 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001146645
+@MARC-003:	DE-633
+@MARC-005:	20210923121109.0
+@MARC-008:	210216##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: Coro: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-9-1-/1C1.F2E/1DC/1-F/1.A2G/
+@MARC-031r: 5t
+@MARC-031t: O altitudo divitiarum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: Coro: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2C1.F2E/1D2CF/2.FE2F2.C2.,4B2G/
+@MARC-031r: 5t
+@MARC-031t: O altitudo divitiarum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: Coro: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/1,F1.'C2,B/AG1A/-/1F1.'C2,B/
+@MARC-031r: 5t
+@MARC-031t: O altitudo divitiarum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-3
+@MARC-031m: Coro: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-1-/1,C1.F2E/1DC/-/1,F1.bB2A1GF/
+@MARC-031r: 5t
+@MARC-031t: O altitudo divitiarum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Asola, Giovanni Matteo
+@MARC-100d: 1532c-1609
+@MARC-100j: Ascertained
+@MARC-1000: pe20000387
+@MARC-240a: O altitudo divitiarum
+@MARC-240m: Coro: S, A, T, B
+@MARC-240r: 5t
+@MARC-2400: 3929114
+@MARC-245a: [without title]
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 19 x 16 cm
+@MARC-3008: 01
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 1, 2, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S
+@MARC-594c: 1
+@MARC-594b: Coro: A
+@MARC-594c: 1
+@MARC-594b: Coro: T
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: S, Coro: A, Coro: T, Coro: B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-773w: 1001146379
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.15
+@MARC-856u: https://pbc.gda.pl/dlibra/publication/86123/edition/78093/content
+@MARC-856x: Digitalization
+@MARC-856z: Concordant source
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

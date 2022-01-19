@@ -1,0 +1,143 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001086252
+@MARC-003:	DE-633
+@MARC-005:	20211027135204.0
+@MARC-008:	190916##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Psalmus 109, andante
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: 2B4B/2''C4'B/4''EDC/2'B4-/
+@MARC-031r: E
+@MARC-031t: Dixit Dominus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Psalmus 110, allegro moderato
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4''DC/'2B''4CD/2.E4D/2D+8{DC'}{B''C/
+@MARC-031r: B
+@MARC-031t: Confitebor tibi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Psalmus 111, allegro moderato
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: -/=/2-4-''C/2.E4E/2C4-'A/
+@MARC-031r: A
+@MARC-031t: Beatus vir
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Psalmus 112, andante
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4G/2G4G/4.B8A4G/FGA/
+@MARC-031r: e|b
+@MARC-031t: Laudate pueri
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Psalmus 116, Allegretto
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 8{AB/4''C'A''D/2C4'A/4.B8''C'{AB/
+@MARC-031r: F
+@MARC-031t: Laudate Dominum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Magnificat, andante maestoso
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: xFCGD
+@MARC-031o: c
+@MARC-031p: 2E4GE/4.B8G4E-/2E4GB/''2E8+{E'B}{GE/
+@MARC-031r: E
+@MARC-031t: Magnificat anima mea
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Salve Regina, allegro moderato
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 2''E4C8{ED}/4.C8D4'B-/''8{CDxDE}xEFnEnD/4.C8D'4B-/
+@MARC-031r: A
+@MARC-031t: Salve regina
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Krogulski, Józef Władysław
+@MARC-100d: 1815-1842
+@MARC-100j: Ascertained
+@MARC-1000: pe30001797
+@MARC-240a: Nieszpory
+@MARC-240m: V (4), org
+@MARC-2400: 4037544
+@MARC-245a: [tittle page:] Nieszpory. | Utozone [!] dla | Chóru Pyarskiego | przez | Józefa Krogulskiego. | 1836. roku
+@MARC-260c: 1836
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 17 p.
+@MARC-300c: 27,5 x 43,5 cm
+@MARC-3008: 01
+@MARC-590a: S
+@MARC-590b: 17 p.
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: 17 p.
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: 17 p.
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: 17 p.
+@MARC-5908: 01
+@MARC-590a: org
+@MARC-590b: 17 p.
+@MARC-5908: 01
+@MARC-591a: 8324
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, org
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 996-1
+@@END:		MARC21
+

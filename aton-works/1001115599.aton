@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115599
+@MARC-003:	DE-633
+@MARC-005:	20210720131940.0
+@MARC-008:	200519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =9/(1-)/8.6AA4FG/4.C{6DE}4F/
+@MARC-031r: F
+@MARC-031t: Zdrowaś panno Marya łaskiś pełna
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl solo
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: gA''8.6{AA}4FG/4.Ct{6DE}4F/4G
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Ave Maria
+@MARC-240m: V (3), Coro, org
+@MARC-240o: Arr
+@MARC-240r: F
+@MARC-2400: 5184717
+@MARC-245a: [title page:] Ave Maria | Zdrowaś Marya | na Śpiew Alto. Solo Violino | z towarzyszeniem Chóru i Organu | Kompozycyj | Józefa Stefaniego
+@MARC-300a: 1 score: 12 p.
+@MARC-300c: 34,2 × 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Grzbiet rękopisu podklejony paskiem papieru.]
+@MARC-500a: [pl-text: Brzegi rękopisu porwane i zniszczone, ostatnia strona przedziurawiona.]
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1671
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl solo
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S (2), T, Coro S, Coro A, Coro T, Coro B, vl solo, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852d: 10651
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1586
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

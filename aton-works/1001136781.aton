@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001136781
+@MARC-003:	DE-633
+@MARC-005:	20210923121037.0
+@MARC-008:	201123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031o: c
+@MARC-031p: ,4-A'C,B/A8{GA}4.F8F/2E4-E/FE'D8{CD}/,4.B8B2A/
+@MARC-031r: a
+@MARC-031t: O salutaris hostia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: O salutaris hostia
+@MARC-240m: B solo, org.fig
+@MARC-2400: 3900683
+@MARC-245a: [title page:] Organo | O Salutaris hostia a Voce di Basso | Solo
+@MARC-246a: [caption title f. 1v:] Organo | O Salutaris hostia | A Basso Solo
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 2 parts: 3 f.
+@MARC-300c: 37 x 23.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Karty 1-2 stanowią okładkę: na 1r strona tytułowa, na 1v-2r zapisana partia Organo. Partia Basso Solo zapisana na luźnej karcie 3.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na kartach 2v i 3v puste pięciolinie.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1v pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” z sygnaturą.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na kartach 2r, 3r pieczęć: "CATH. CRAC. * ARCH. CAPIT."]
+@MARC-5008: 01
+@MARC-590a: B solo
+@MARC-590b: f. 3
+@MARC-5908: 01
+@MARC-590a: org.fig
+@MARC-590b: f. 1-2
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: org.fig
+@MARC-594c: 1
+@MARC-594a: B solo, org.fig
+@MARC-599b: full
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.495
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

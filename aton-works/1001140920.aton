@@ -1,0 +1,88 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001140920
+@MARC-003:	DE-633
+@MARC-005:	20210923121022.0
+@MARC-008:	201227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: S/T1 coro
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 8''DD/2D4Dq8FE/2D4CC/
+@MARC-031r: B|b
+@MARC-031t: Czego chcesz od nas Panie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Maestoso
+@MARC-031g: F-4
+@MARC-031m: A/B1 coro
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 8,FF/2x',F4GG/2nF4,F',F/
+@MARC-031r: B|b
+@MARC-031t: Czego chcesz od nas Panie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Maestoso
+@MARC-031g: F-4
+@MARC-031m: B2 coro
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 8,,BB/2,D4GE/2nF4,,F',F/
+@MARC-031r: B|b
+@MARC-031t: Czego chcesz od nas Panie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Rudkowski, Mateusz
+@MARC-100d: 1809c-1887c
+@MARC-100j: Conjectural
+@MARC-1000: pe41024148
+@MARC-240a: Czego chcesz od nas Panie
+@MARC-240m: Coro: S/T1, A/B1, B2
+@MARC-240r: B|b
+@MARC-2400: 50244534
+@MARC-245a: Czego chcesz od nas Panie
+@MARC-260c: [1800-1899]
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 24.0 x 23.0 cms
+@MARC-3008: 01
+@MARC-500a: [pl text: partie T2 brak]
+@MARC-5008: 01
+@MARC-590a: Coro: S/T1, A/B1, B2
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S/T1
+@MARC-594c: 1
+@MARC-594b: Coro: A/B1
+@MARC-594c: 1
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: S/T1 , Coro: A/B1, Coro: B2
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Kochanowski, Jan
+@MARC-700d: 1530-1584
+@MARC-7000: pe50040774
+@MARC-7004: lyr
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

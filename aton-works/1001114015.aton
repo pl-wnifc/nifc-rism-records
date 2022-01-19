@@ -1,0 +1,56 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114015
+@MARC-003:	DE-633
+@MARC-005:	20210720131945.0
+@MARC-008:	200504##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: Coro T1
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: 2.B4B/2.4nAA/2B''D/(2.C)4-/
+@MARC-031r: b|b
+@MARC-031t: Requeim aeternam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Requiem aeternam
+@MARC-240m: Coro maschile
+@MARC-240r: b|b
+@MARC-2400: 3017608
+@MARC-245a: [title page:] Requiem | na 4 męskie głosy | napisał | Wilhelm Troschel
+@MARC-246a: [caption title:] Requiem | na 4 męskie głosy [space] Troschel
+@MARC-260c: before 1887
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 35,5 x 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na końcu rękopisu notatki nutowe ołówkiem.]
+@MARC-591a: inw. 2270
+@MARC-591a: A-21.306
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 2
+@MARC-594a: Coro T (2), Coro B (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2298
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

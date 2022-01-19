@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001142984
+@MARC-003:	DE-633
+@MARC-005:	20210923121057.0
+@MARC-008:	210117##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B2 coro
+@MARC-031n: bBEA
+@MARC-031o: 12/8
+@MARC-031p: =4/4.,G4G8F4.FE/'E4D8C4.C,B/
+@MARC-031r: E|b
+@MARC-031t: Święta Dziewico Bogarodzico
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Święta Dziewico Bogarodzico
+@MARC-240m: Coro: B2
+@MARC-240r: E|b
+@MARC-2400: 50245386
+@MARC-245a: Święta Dziewico Bogarodzico
+@MARC-260c: [1850-1899]
+@MARC-2608: 01
+@MARC-300a: 1 partbook
+@MARC-300c: 24 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: ten utwór jest notowany z ołówkiem w f 34v]
+@MARC-5008: 01
+@MARC-590a: Coro: B2
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: B2
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

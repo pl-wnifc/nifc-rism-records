@@ -1,0 +1,137 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001091649
+@MARC-003:	DE-633
+@MARC-005:	20211027135223.0
+@MARC-008:	191026##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: Coro T
+@MARC-031o: c
+@MARC-031p: =1/4..''C6'B4..B8-/4..B6A4.A/4AB''CD/4..E6C4C-/4..G6D4.F8-/4..E6D4.D8-/4C'BAD/2.G8G-/
+@MARC-031r: C
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: =1/4..C,6B2B/4..B6A2A/4AB^G'C,^A'D,^B/'2E^C4CE^C/4..G6D2F/4..E6D2D/4C,B2A/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: 4.G8G4.''C6'B/2.B/=2/4.G8G4.''E6D/2.D/=2/4'G8AB''CD/2bE8D-/
+@MARC-031r: C
+@MARC-031t: Christe audi nos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/4
+@MARC-031p: =8/4G{8AB''CD}/2bE^x'F8''D^'G-/{8.G6A}8{B''CDE}/2F^x'G8''E^'A-/''4G^E2F^D/4F^D4.E^C8C/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 4''E8.E6E4.C8'B/4A--D//G8.F6A4GA/B8.A6''C4'B''D/4.D8C4'BA/GBA-/
+@MARC-031r: C
+@MARC-031t: Ora pro nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: =2/4G{8.F6A}4GA/B{8.A6''C}4'B''D/4..''D6C4'BA/GB2A/4B{8.B6B}4..B6B/4''D{8.xC6'B}4BB/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031o: c/
+@MARC-031p: =12/''2.C4C/2CC/2.D4D/2DD/b2.E4E/2bEE/1G/4bE-2G/
+@MARC-031r: C
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Vivace
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: c/
+@MARC-031p: ,2.G^D,,^B4,A^G^C/2.B^G^D4A^G^C/2.B^G^D4'C^,A^G/'2.D^,B^G4'C^,A^G'/2.D,^B4'E^C/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Litania ostrobramska
+@MARC-240m: V (4), coro, pf
+@MARC-240o: Arr
+@MARC-2400: 5217499
+@MARC-245a: [caption title, in black ink:] [doubly underlined:] Litania Ostrobramska. /: Czwarta :/ | St: Moniuszki.
+@MARC-260c: 1855
+@MARC-2608: 01
+@MARC-300a: 1 short score: 48 p.
+@MARC-300c: 36.0 x 27.0 cm
+@MARC-3008: 01
+@MARC-591a: 1605
+@MARC-591a: G. 4343. W.
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, pf
+@MARC-599b: full
+@MARC-650a: Litanies
+@MARC-6500: 25137
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 910/M
+@@END:		MARC21
+

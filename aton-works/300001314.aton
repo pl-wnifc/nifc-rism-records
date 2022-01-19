@@ -1,0 +1,361 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001314
+@MARC-003:	DE-633
+@MARC-005:	20201029163408.0
+@MARC-008:	150730##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Andante non molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: {8'F(6''AFC)}{8'AFFF}/{FE}4F-/{8''C(6BGE)}{8C'BBB}/{BA}4A-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =10/4-'AB/A''DC/C'BA/{8AB}4B-/
+@MARC-031r: F
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031d: All[egr]o molto
+@MARC-031g: G-2
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 8-6{''B'''C}4D8-''6{FG}4A/{6B'''C8D}{6''B'''C8D}4''B-/8-{6FG}4A8-6{B'''C}4D/{6''AB8'''C}{6''AB8'''C}4''A-/
+@MARC-031q: [pl-text: oznaczenie metrum w vl 1, 2, vla: c]
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 4''D8DD4CC/2'B4B-/4.8''CCDD/2D4C-/
+@MARC-031r: B|b
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 2''B4F/{8D'B}{B6''CD}{EFGA}/{B'''D''FF}{FBDD}{DCF'A}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =2/4''DDC/'BB-/''DDC/'BB-/
+@MARC-031r: B|b
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 4.,B6{'DF}4BB/1''D/4E-2-/4.'C6{nEG}4''CC/1nE/4F-2-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: =/1''D/4E-2-/=/1nE/4F-2-/=/1C/2DD/D4C
+@MARC-031r: B|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 6{FA}/4''C{6n'B''CDE}/{FC}4C{6C'A}/{FACC}{,nB'CDE}/{FEFG}{AGAB}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8-/=22/4-8-6'{FA}/4''C6{n'B''CDE}/{FC}4C8-/4FG/F
+@MARC-031r: F
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8'{BBBB}''{DD}/{EEFFGG}/{FFEEDD}/4EE-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2'B4''D/EFG/FED/EE-/
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Dona [nobis]
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: 8-{''DF}-{B'''D}/-{''A'''C}{EC''A}/-{B'''D}{''BAG}/{FA'''C}4F8-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: 4''D8D4D8D/4F8E4.C/4D8D4nE8E/4.F4F8-/
+@MARC-031r: B|b
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Ścigalski, Franciszek
+@MARC-100d: 1782-1846
+@MARC-100j: Ascertained
+@MARC-1000: pe30002948
+@MARC-240a: Masses
+@MARC-240m: V (4), Coro, orch, org
+@MARC-240n: op. 8
+@MARC-240r: B|b
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] Missa in B à vocibus | Canto, Alto, Tenore, Basso. | Violini I=|m|o et II=|d|o in B Flauto, et Fa | goto Oblig: Cornu I=|m|o et II=|d|o Clarino | Principali in B. Tympano. Alto= | Viola con= Organo. | [later added in pencil:] auth. Ścigalski.
+@MARC-246a: [sticker on a spin:] [in red ink:] M[issa] | in | a [illegible] ocib. | [in black ink:] Aut[h]oris | Sciga[l]ski | [in red ink:] C.[M.C.]
+@MARC-260c: 1820-1822
+@MARC-2608: 01
+@MARC-300a: 16 parts
+@MARC-300c: 30,5 (25) x 21,5 (20,5) cm
+@MARC-3008: 01
+@MARC-383b: op. 8
+@MARC-500a: [pl-text: f. 1 głosu clno princ i głos timp sporządzone na innym rodzaju papieru; w pozostałych głosach papier jednorodny; znaki wodne występują na kartach naprzemiennie; nie na wszystkich wyraźnie widoczne]
+@MARC-5008: 01
+@MARC-500a: [pl-text: głos timp w mniejszym formacie]
+@MARC-5008: 01
+@MARC-500a: [pl-text: karty w obrębie poszczególnych głosów zszyte razem; linia szycia wzmocniona paskiem brunatnego papieru]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze naklejki pod stemplem z obecną sygnaturą niebieskim ołówkiem "75"; późniejsza niżej po prawej czerwonym atramentem ręką F. Maletza "N 278"; późniejsza po prawej ołówkiem ręką W. Świerczka "238" w kółku]
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r głosu org: na górze po lewej niebieskim ołówkiem "75" skreślona; późniejsza z lewej ołówkiem ręką nieznanego Paulina "N-|o 173"]
+@MARC-500a: [pl-text: Dawna sygnatura na naklejce na dole grzbietu czarnym atramentem "194"]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na głosie timp f. 1r oraz na ostatniej stronie pozostałych głosów, z wyjątkiem vl 1, cor 1, clno princ]
+@MARC-500a: [pl-text: Tytuł na f. 1r okładki przekreślony czerwonym ołówkiem i opatrzony parafą]
+@MARC-500a: [pl-text: Na głosie Coro S f. 4r pod ostatnią pięciolinią z prawej adnotacja: "Jozef Kuligowski | Dnia 5 Roku 1822."]
+@MARC-500a: [pl-text: Na głosie Coro A f. 4v na dole adnotacja: "Finis 1821 Die 24= 10=|b|r|i|s | L: Mężnicki"]
+@MARC-500a: [pl-text: Na głosie Coro B f. 4v w prawym dolnym rogu inicjały i data: "T: N[owak] | 1822"]
+@MARC-500a: [pl-text: Na głosie vla f. 4v w prawym dolnym rogu ołówkiem nazwisko: "Mączyński"]
+@MARC-500a: [pl-text: Na głosie fl obl f. 3v na dole adnotacja: po lewej "Clarenberg.| Regens Chori | Herr H. Michael Zabłocki. Joseph Merz. [manu propria]"; po prawej: "Finis. Ende. | Wie froh sind meine Hände. | Den 18. Decembris 1821."
+@MARC-500a: [pl-text: Na głosie cl 1 f. 3v na dole adnotacja: "Finis Ende wie froh sind | meine Hände | Den 17 December 1821 | Joseph Merz [manu propria]"
+@MARC-500a: [pl-text: Na głosie clno princ f. 2v na górze adnotacja: "Pan Sobalski Ociec Sładik [?] | na dole po lewej: "Pan Sobolosky / Żona iego Marycia / Ociec Sładik[?]" po prawej "Finis Coniec[?] | alt Stoywa[?] | ostaltok Kincu połna [?]]
+@MARC-500a: [pl-text: Na głosie timp f. 2v na dole po prawej ołówkiem nazwisko "L: Wodzyński"; z lewej ołówkiem: "Scripsit"]
+@MARC-500a: [pl-text: Na f. 1r głosu Coro S w prawym górnym rogu adnotacja: "Par Scigalski op."]
+@MARC-500a: [pl-text: Na f. 1r głosów: Coro A, org w prawym górnym rogu adnotacja: "Par Scigalski op: VIII"]
+@MARC-500a: [pl-text: Na f. 1r głosu vl 1 w prawym górnym rogu adnotacja: "Par. Scigalski"]
+@MARC-500a: [pl-text: Na f. 1r głosów fl obl, cl 1 w prawym górnym rogu adnotacja: "P: M: Ścigalski. VIII"]
+@MARC-500a: [pl-text: Na f. 1r głosu timp w prawym górnym rogu adnotacja: "Par Ścigalski Op. 7[!]"
+@MARC-500a: [pl-text: Odcinki solowe w głosach chóralnych oraz fl obl, cl 1, 2, fag obl, org; w głosie cor 1 odcinek solowy zaznaczony ołówkiem]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-71]
+@MARC-561a: [sticker on a spin bottom:] C.[M.C.]
+@MARC-561a: [fl obl f. 3v bottom left:] Clarenberg.| Regens Chori | Herr H. Michael Zabłocki. Joseph Merz. [manu propria]
+@MARC-563a: [pl-text: głosy przechowywane w twardej okładce (teczce introligatorskiej) powlekanej papierem w marmurkowy wzór; wnętrze białe; grzbiet i rogi pokryte brązową skórą; na brzegach pozostałości sznurków do związywania; na f. 1r biała owalna papierowa naklejka z tytułem dzieła; na grzbiecie dwie prostokątne naklejki: górna z tytułem, dolna z sygnaturą "194"]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 4, 4, 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: 6, 6, 4 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 5 f.
+@MARC-5908: 01
+@MARC-590a: fl obl, cl 1, 2 in B|b, fag obl
+@MARC-590b: 3, 3, 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in F or B|b or E|b, clno princ in B|b
+@MARC-590b: 3, 3, 2 f.
+@MARC-5908: 01
+@MARC-590a: timp in B|b and F
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-592a: [crescent]
+@MARC-5928: 01
+@MARC-592a: D A F | 8
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: fl obl
+@MARC-594c: 1
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: fag obl
+@MARC-594c: 1
+@MARC-594b: cor in F
+@MARC-594c: 2
+@MARC-594b: cor in B|b
+@MARC-594c: 2
+@MARC-594b: cor in E|b
+@MARC-594c: 2
+@MARC-594b: clno princ in B|b
+@MARC-594c: 1
+@MARC-594b: timp in B|b and F
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl (2), vla, fl obl, cl in B|b (2), fag obl, cor in F (2), cor in B|b (2), cor in E|b (2), clno princ in B|b, timp in B|b and F, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1428
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 8
+@MARC-6910: lit1887
+@MARC-700a: Mączyński, K.
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30096387
+@MARC-7004: prf
+@MARC-700a: Sobolewski
+@MARC-700j: Ascertained
+@MARC-7000: pe30112029
+@MARC-7004: prf
+@MARC-700a: Mężnicki, Leopold
+@MARC-700d: 1799-1854p
+@MARC-700j: Ascertained
+@MARC-7000: pe30040497
+@MARC-7004: oth
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Verified
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Kuligowski, Józef
+@MARC-700d: 1807-1871
+@MARC-700j: Ascertained
+@MARC-7000: pe30085820
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Merz, Józef
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30086097
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Nowak, Tomasz
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30040514
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Wodzyński, Leon
+@MARC-700d: 19.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30020348
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 194
+@MARC-852d: 75
+@MARC-852d: N-|o 173
+@MARC-852d: N 278
+@MARC-852d: 238
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-669
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

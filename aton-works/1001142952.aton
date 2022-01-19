@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001142952
+@MARC-003:	DE-633
+@MARC-005:	20210923121056.0
+@MARC-008:	210115##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031o: c/
+@MARC-031p: '1C / 1C / 2D 2xC / 1D / 1xC / 2D xC /
+@MARC-031r: 1t
+@MARC-031t: Christus factus est pro nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-4
+@MARC-031m: T2
+@MARC-031o: c/
+@MARC-031p: '1EE / 2FE 1D / 1E ,1A / 1A
+@MARC-031r: 1t
+@MARC-031t: Christus factus est pro nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,1F / F / 2FF 1bB / 1A FA/
+@MARC-031r: 1t
+@MARC-031t: Christus factus est pro nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Pitoni, Giuseppe Ottavio
+@MARC-100d: 1657-1743
+@MARC-100j: Conjectural
+@MARC-1000: pe20503
+@MARC-240a: 2 Sacred songs
+@MARC-240m: Coro: TTB
+@MARC-240r: 1t
+@MARC-2400: 3901348
+@MARC-245a: [text incipits:] Christus factus est pro nobis, Miserere Mei Deus
+@MARC-300a: 3 vocal parts
+@MARC-300a: 2 scores: 7f
+@MARC-300c: music: 17,6 x 21,7 cm; folio: 4,5 x 15,4 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na kartach 7r i 8r, stanowiących uzupełnienie rękopisu, adnotacja: "Allocutio Christi Dni ad ingratum hominem, per os cujus dam Patris ascetici. | Vide o homo! qualia a te, et in te, et pro te passus sum, et tamen ingratus omnia comtemposisti."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na kartach 1r, 2r, 3r, 4r, 5r, 6r, 7r, 8r owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text;w górnym prawym rogu karty 5r adnotacja: "Del Sign. Pitoni."]
+@MARC-5008: 01
+@MARC-520a: 2 scores
+@MARC-590a: T1
+@MARC-590b: 1r-2v
+@MARC-5908: 01
+@MARC-590a: T2
+@MARC-590b: 3r-4v
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: 5r-6v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T 1 coro
+@MARC-594c: 1
+@MARC-594b: T 2 coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594a: T 1 coro, T 2 coro, B coro
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: StellaP 2009
+@MARC-6910: lit50006415
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.367
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

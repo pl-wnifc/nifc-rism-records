@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001144592
+@MARC-003:	DE-633
+@MARC-005:	20210923121100.0
+@MARC-008:	210201##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ,4GGBB/FFGxC/2D
+@MARC-031t: Stabat mater, dolorosa juxta crucem lacrimosa
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Stabat mater
+@MARC-240m: V (4)
+@MARC-2400: 3900847
+@MARC-245a: [without title]
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 1 part: 1 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Podpisany tekst wersów 1-4 i 9-10 sekwencji "Stabat Mater".]
+@MARC-500a: [pl-text: Utwór zachowany w czterech głosach w rękopisie PL-Kk Kk.I.7 (RISM ID no. 300258183).]
+@MARC-500a: [pl-text: Fragment "Eia Mater" zachowany w rękopisie PL-Kk Kk.I.6 (głosy S, T, B), tam skryptorem Grzegorz Gerwazy Gorczycki (RISM ID no. 300257950).]
+@MARC-500a: [pl-text: W "Grzegorz Gerwazy Gorczycki Studia I. katalog tematyczny", oprac. Alicja Wardęcka-Gościńska, Kraków 1986, s. 116, utwór zaliczony do kompozycji przypisywanych Gorczyckiemu.]
+@MARC-590a: B
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: WarG
+@MARC-691n: p. 116
+@MARC-6910: lit30020149
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-773w: 1001144588
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.290
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

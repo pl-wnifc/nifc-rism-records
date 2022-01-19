@@ -1,0 +1,52 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001137571
+@MARC-003:	DE-633
+@MARC-005:	20210720131721.0
+@MARC-008:	201130##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: {''6qA3qB'''qC}6D-''A-8B/{6.3AGFE8D}/{6(CDE)}{8'A6B''C}/{6.3''DFAB8A}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Mazurs
+@MARC-240m: vl (2)
+@MARC-240r: D
+@MARC-2400: 3903722
+@MARC-245a: [title page:] Mazur | grany na Balu w Zamku w dniu 1. Stycznia r. 1840. w. K. G. | danym przez S. O. X. F. P. N. K. | układu Stefaniego | Violon Repetiteur
+@MARC-260c: before 1840-01-01
+@MARC-2608: 01
+@MARC-300a: 1 score: 16 p.
+@MARC-300c: 37,3 × 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Rękopis poddany konserwacji w 2015 r.]
+@MARC-563a: Binded into a hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 1730
+@MARC-591a: KD 2029
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594a: vl (2)
+@MARC-599b: full
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1700|1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

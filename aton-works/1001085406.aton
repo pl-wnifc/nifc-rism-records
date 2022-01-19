@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001085406
+@MARC-003:	DE-633
+@MARC-005:	20211027135257.0
+@MARC-008:	190910##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Nie za prędko
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: =4//4A8F4B8A/4A8F4B8A/{AG}A{BG}''D/4.D8xC--/4E8D4D8xC/{FE}D{DxC}D/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Nie za prędko
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: 4.A4G8D/4.F4E8,B'/4.D+{8DxCD}/4.F+8{FE,B}/4.BA//8-'{D^,A'F^,A}-x'{C^,G'D^,A}/8-'{D^,A'F^,A}-x'{C^,G'D^,A}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Słyszysz
+@MARC-240m: V, pf
+@MARC-240n: op. 2
+@MARC-240r: d
+@MARC-2400: 5214903
+@MARC-245a: [caption title, in purple ink:] „Słyszysz, słyszysz". | W. Wolskiego.
+@MARC-260c: 1850-1918
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 2 p.
+@MARC-300c: 34.0 x 24.5 cm
+@MARC-3008: 01
+@MARC-383b: op. 2
+@MARC-500a: The text under the vocal part is underwritten only on the second page.
+@MARC-5008: 01
+@MARC-500a: [pl-text: Tekst pod partią wokalną jest napisany tylko na drugiej stronie.]
+@MARC-5008: 01
+@MARC-591a: inw. 2462
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Wolski, Włodzimierz
+@MARC-700d: 1824-1882
+@MARC-700j: Alleged
+@MARC-7000: pe41021349
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2447
+@@END:		MARC21
+

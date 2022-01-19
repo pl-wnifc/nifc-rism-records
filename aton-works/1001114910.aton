@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001114910
+@MARC-003:	DE-633
+@MARC-005:	20210720131937.0
+@MARC-008:	200513##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: V1
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: 4-8-AAG/4B8A{6AG}8DE/
+@MARC-031r: F
+@MARC-031t: O przenajświętsza Mateczko Boża
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: 6-{CDEFG}{8AAG/4B8A{6AG}8{DE/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: O przenajświętsza Mateczko Boża
+@MARC-240m: V (2), pf
+@MARC-240r: F
+@MARC-2400: 50231676
+@MARC-245a: [caption title:] № 18.
+@MARC-300a: 1 score: 2 p.
+@MARC-300b: p. 24-25
+@MARC-300c: 36 x 26,4 cm
+@MARC-3008: 01
+@MARC-591a: inw. 1706
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 2
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V (2), pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Duets (voc.)
+@MARC-6500: 25167
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001114855
+@MARC-852a: PL-Wtm
+@MARC-852d: 10769
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1661
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

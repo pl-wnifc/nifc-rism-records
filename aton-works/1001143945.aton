@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143945
+@MARC-003:	DE-633
+@MARC-005:	20210923121054.0
+@MARC-008:	210127##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-3
+@MARC-031m: B coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0--9-/1.C2,AA2.'D4C,BA2.G4A/
+@MARC-031r: 5t
+@MARC-031t: Hodie Christus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Gabrieli, Andrea
+@MARC-100d: 1532c-1585
+@MARC-100j: Ascertained
+@MARC-1000: pe30001185
+@MARC-240a: Hodie Christus
+@MARC-240m: Coro: B
+@MARC-240r: 5t
+@MARC-2400: 4131187
+@MARC-245a: à. 7. Voc. Fol. 6.
+@MARC-260c: [1600-1700]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 23 x 18.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: autorstwo ustalony z porównania z odpis z druku z 1588 (jak utwór nr 1), na str. 6 starodruku. odpis głosu basowego innych utworów z tych samych druków znajduje się w Kk.I.356 (być może jest to odpis dla akompaniującego organisty?)]
+@MARC-5008: 01
+@MARC-500a: [pl text: na początku utworu, pojawia się napis: "à. 7. Voc. Fol. 6."]
+@MARC-5008: 01
+@MARC-590a: Coro: B
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001143908
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.134
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

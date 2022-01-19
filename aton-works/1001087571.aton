@@ -1,0 +1,104 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001087571
+@MARC-003:	DE-633
+@MARC-005:	20211027135212.0
+@MARC-008:	190924##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Recit.
+@MARC-031e: Zosia
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 4-8''CC4bD8'GbA/''C6b'B-8BB4.''C8'G/bA
+@MARC-031q: Text in red ink.
+@MARC-031r: C
+@MARC-031t: Któż mnie biedną pocieszy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Recit.
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 1bB/+B/2.bA4G/8G-
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041e: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Flis
+@MARC-240k: Excerpts
+@MARC-240m: V (2), orch
+@MARC-2400: 5215005
+@MARC-245a: [caption title:] Duet do opery Flis (: No 3 :) | [in red ink:] NB Co pisane czerwonym atramentem nie jest autografem Moniuszki. [in black ink:] pismo czerwone | Adama Minchaj-|mera [Władysław Zahorowski's signature]
+@MARC-260c: [1858]
+@MARC-2608: 01
+@MARC-300a: 1 score: 26 p.
+@MARC-300c: 35 x 28 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "Towarzystwo Muzyczne | Sekcja imienia | S. Moniuszki"]
+@MARC-500a: [pl-text: Adnotacja na końcu utworu: "9/VIII 98 r. | [Władysław Zahorowski's signature]".]
+@MARC-500a: [pl-text: Poprawki niebieską kredką i czerwonym atramentem.]
+@MARC-591a: 65 d)
+@MARC-591a: Inw. 854
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594a: S, B, vl (2), vla, vlc, b, fl.picc, fl, ob (2), cl (2), fag (2), cor (4), tr (2), timp, tamb
+@MARC-595a: Zosia
+@MARC-595a: Szóstak
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-700a: Münchheimer, Adam
+@MARC-700d: 1830-1904
+@MARC-700j: Conjectural
+@MARC-7000: pe30035835
+@MARC-7004: scr
+@MARC-700a: Bogusławski, Stanisław
+@MARC-700d: 1804-1870
+@MARC-700j: Conjectural
+@MARC-7000: pe41023959
+@MARC-7004: lbt
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 435/M
+@@END:		MARC21
+

@@ -1,0 +1,88 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001091555
+@MARC-003:	DE-633
+@MARC-005:	20211027135216.0
+@MARC-008:	191025##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: =8/{8.C6,B}{8'CDExF}/{8.G6xF}{8GxGAB}/{8.''C'6B}{8''C''CDxF/G6-'G^,G'8G^,G6{'GA}{B''CDE}/{8.E6F}{8ED'BA}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: cb
+@MARC-031o: 3/4
+@MARC-031p: 2.,C/2.,C/2.,C/2.,C/2.,C/2.,C/2C4,,F/2.G/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Kantata dla Leopolda Matuszyńskiego
+@MARC-240m: orch
+@MARC-2400: 5218047
+@MARC-245a: [caption title:] Kantata (dla Matuszyńskiego ?) | na chór i orkiestrę. St. Moniuszki.
+@MARC-260c: ca. 1866
+@MARC-2608: 01
+@MARC-300a: 1 score: 20 p.
+@MARC-300c: 36.0 x 29.0 cm
+@MARC-3008: 01
+@MARC-591a: Inw 1009
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: clar
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl, fl.picc, ob (2), clar (2), fag (2), cor (4), trb (3), timp
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-700a: Jasiński, Jan Tomasz Seweryn
+@MARC-700d: 1806-1879
+@MARC-700j: Ascertained
+@MARC-7000: pe30027055
+@MARC-7004: lyr
+@MARC-700a: Matuszyński, Leopold
+@MARC-700d: 1820-1893
+@MARC-700j: Ascertained
+@MARC-7000: pe41023818
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 587/M
+@@END:		MARC21
+

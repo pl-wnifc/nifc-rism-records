@@ -1,0 +1,101 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258193
+@MARC-003:	DE-633
+@MARC-005:	20210923120857.0
+@MARC-008:	130901##################################
+@MARC-031a: 116
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A 1
+@MARC-031o: c/
+@MARC-031p: 2-G/GD/1G/2GD4FEDC/1D2DG/GG/
+@MARC-031t: Nicolai solemnia sua prece familia
+@MARC-0312: pe
+@MARC-031a: 116
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A 2
+@MARC-031o: c/
+@MARC-031p: 2-,G'D,B1'E/2D1C2,B/1A2G'D/EED1G4nFE/2D
+@MARC-031t: Nicolai solemnia sua prece familia
+@MARC-0312: pe
+@MARC-031a: 116
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 2-,GB'D/1C2,B1AG2xF/GB'CC/,B
+@MARC-031t: Nicolai solemnia sua prece familia
+@MARC-0312: pe
+@MARC-031a: 116
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-3
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 2-,G/GG/4CDEF/2G1F2G/1D2G
+@MARC-031t: Nicolai solemnia sua prece familia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Nicolai solemnia
+@MARC-240m: V (4)
+@MARC-2400: 4172506
+@MARC-245a: [caption title, S and B partbook:] Pro Solemnitate S[ancti] Nicolai Epi[scopi] et Confe[ssori] AD 1664 ultima 9bris.
+@MARC-246a: [caption title, A partbook:] Pro Solemnitate S[ancti] Nicolai Epi[scopi] et Conf[essori] 1664 Ultima Nov [embris] canscr[iptum]
+@MARC-246a: [caption title, T partbook:] Pro Solemnitate S[anci] Nicolai. 1664 Ultima 9bris
+@MARC-260c: 1664
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: W księdze C dopisek przy tytule utworu (ręką kopisty B. Pękalskiego) innym atramentem: "Alto 1mo". W księdze A tą samą ręką i atramentem dopisek "Tenore-alto 2do.".]
+@MARC-500a: [pl-text: W księdze A na końcu partii adnotacja: "A. M. D. G.".]
+@MARC-500a: [pl-text: Numer 94 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-590a: A 1, A, T, B
+@MARC-590b: p. 162, 146, 166, 158
+@MARC-5908: 01
+@MARC-591a: Kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A (2), T, B
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-657a: Nicolai Episcopi et Confessoris
+@MARC-6570: 3016878
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Miskiewicz, Maciej Arnulf
+@MARC-700d: 1685c+
+@MARC-700j: Ascertained
+@MARC-7000: pe30105639
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

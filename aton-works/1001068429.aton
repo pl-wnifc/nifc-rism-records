@@ -1,0 +1,63 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001068429
+@MARC-003:	DE-633
+@MARC-005:	20210613230226.0
+@MARC-008:	190415##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8{GF^AG^BA^''C}/{'B^''D'xA^''xCnC^E'B^''D}/i/i/i//:{6xCDED}{8'A^''nC'A}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Krakowiak
+@MARC-240m: keyb
+@MARC-240o: Arr
+@MARC-240r: G
+@MARC-2400: 5197247
+@MARC-245a: [caption title:] Krakowiak
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Keyboard arrangement of folk song used by Stefani in his opera "Krakowiacy i Górale" (1794) with the lyrisc "Albośmy to jacy-tacy". Concordances of this melody also with other texts: RISM ID 300041944, 1001037175, 1001039675.
+@MARC-590a: keyb
+@MARC-590b: p. 12
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Krakowiaks
+@MARC-6500: 25539
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 233
+@MARC-6910: lit1891
+@MARC-700a: Stefani, Jan
+@MARC-700d: 1746c-1829
+@MARC-700j: Ascertained
+@MARC-7000: pe30012827
+@MARC-7004: ctb
+@MARC-730a: Alboż my to jacy
+@MARC-730g: RISM
+@MARC-730o: Arr
+@MARC-7300: 5031904
+@MARC-773w: 1001068286
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 549/A IX 29
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

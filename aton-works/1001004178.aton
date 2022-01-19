@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001004178
+@MARC-003:	DE-633
+@MARC-005:	20191107105648.0
+@MARC-008:	170106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/1
+@MARC-031p: 1''EED/1.C2D1C/1.C2C1'B/1.''C2C1C/
+@MARC-031r: C
+@MARC-031t: Nam quod corruerit proditor angelus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Nam quod corruerit proditor angelus
+@MARC-240m: Coro, org
+@MARC-2400: 41435
+@MARC-245a: [cover title:] Hymnus | de | Angelis
+@MARC-260c: 1600-1649
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 17 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Podejko uważa, że powinien być jeszcze T i w katalogu ma uwagę, że zaginął]
+@MARC-5008: 01
+@MARC-500a: Zweite Strophe von Custodes hominum psallimus angelos.
+@MARC-563a: [pl-text: Okładka zrobiona z innego papieru, wzmocniona na grzbiecie papierem ozdobnym, wymiary: 22 x 17 cm]
+@MARC-5638: 01
+@MARC-590a: S, A, B
+@MARC-590b: 1, 1, 1f.
+@MARC-5908: 01
+@MARC-590a: org
+@MARC-590b: 1f.
+@MARC-5908: 01
+@MARC-592a: On S- and A-parts: [partial:] W (crowned)
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro B, org
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-657a: De Angelis
+@MARC-6570: 24672
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1789
+@MARC-6910: lit1869
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-128
+@@END:		MARC21
+

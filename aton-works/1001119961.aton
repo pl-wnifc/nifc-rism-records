@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001119961
+@MARC-003:	DE-633
+@MARC-005:	20210720131903.0
+@MARC-008:	200622##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 2/4
+@MARC-031p: =8/8-6''CC'8BA/2''E/8-6C'A8B''C/4'E-/
+@MARC-031r: a
+@MARC-031t: Leć ptaszyno leć Gdyby twój lot mieć
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 2/4
+@MARC-031p: 6{ExFxGA}{Bx''CxDE}/6'{ExFxGA}{Bx''CxDE}/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Leć ptaszyno, leć
+@MARC-240m: V, pf
+@MARC-240r: a
+@MARC-2400: 50234521
+@MARC-245a: [caption title:] Śpiew | z Fortepianem | Wiersz H. L. | muzyka | Józefa Stefaniego
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 36 × 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1584
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: H. L.
+@MARC-7000: pe30051786
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852d: 10735
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1493
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

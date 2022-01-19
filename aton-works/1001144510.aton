@@ -1,0 +1,96 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001144510
+@MARC-003:	DE-633
+@MARC-005:	20210923121059.0
+@MARC-008:	210201##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: '1A / ''2.C 4D / 2EE /
+@MARC-031t: Adoro te devote
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1E 2.F 4F / 2GEF 4ED / 2CE 2.F 4F 1E/
+@MARC-031t: Adoro te devote
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: '2.C ,4B / 2.A 4A/ 2G'C /
+@MARC-031t: Adoro te devote
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,2A 4AG / 2.F 4F / 2EC /
+@MARC-031t: Adoro te devote
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Fierszewicz, Daniel
+@MARC-100d: 1702+
+@MARC-100j: Ascertained
+@MARC-1000: pe30021418
+@MARC-240a: Adoro te devote
+@MARC-240m: Coro: SATB
+@MARC-2400: 3019610
+@MARC-245a: Adoro Te devote
+@MARC-260a: Cracow
+@MARC-260c: XVII-XVIII
+@MARC-2608: 01
+@MARC-300a: 1 score
+@MARC-300a: 4 parts
+@MARC-300c: 20 x 16,9 cm
+@MARC-3008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 2v
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 3v
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 4v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001144507
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.376
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

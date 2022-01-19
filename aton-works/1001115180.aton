@@ -1,0 +1,139 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115180
+@MARC-003:	DE-633
+@MARC-005:	20210720131939.0
+@MARC-008:	200515##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031n: xFCG
+@MARC-031o: c/
+@MARC-031p: =3/2-4-//:E/2AB/''C'A/FG/A
+@MARC-031r: A
+@MARC-031t: Z odgłosem wdzięcznych pieni
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c/
+@MARC-031p: 2-''E+/4ED'2B/''4CC-C/4EDC'B/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Graduale
+@MARC-031d: Andantino
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031d: All[egr]o mod[era]to
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Offertorium
+@MARC-031m: Andantino
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Adagio
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Benedictus.
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Agnus Dei
+@MARC-031d: Adagio
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Masses
+@MARC-240m: V (4), coro, strings, org
+@MARC-240r: A
+@MARC-2400: 3900051
+@MARC-245a: [title page:] Msza ś. № XIII | 4|ro głosowa, na Sopran, Alt, Tenor i Baſ. | wraz z akompaniamentem Kwartetu smyczkowego i | Organu | z Komponowana i ofiarowana na użytek Instytutu | muzycznego w Warszawie | przez | Józefa Stefaniego. | b. Dyrek:[tora] Mu:[zycznego] T.[eatru] W.[ielkiego] b.[yłego] Insp:[ektora] Insty:[tutu] Mu:[zycznego] i b.[yłego] Prof:[esora] Śpiewu | obecnie 51. Jubilata w zawodzie Muzycznym.
+@MARC-300a: 1 score: 60 p.
+@MARC-300c: 35,3 × 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | WARSZAWSKIEGO | TOW. MUZYCZNEGO" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 27/VI/47 | [podpis Chromińskiego]."]
+@MARC-500a: [pl-text: Na wewnętrznej stronie oprawy ołówkiem wypisano nazwiska członków chóru, prawdopodobnie z czasów Instytutu Muzycznego Warszawskiego, wykreślono.]
+@MARC-563a: Binded into a hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 1635
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S (2), T, B, Coro S (2), Coro T, Coro B, vl (2), vla, vlc, cb, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-710a: Instytut Muzyczny Warszawski
+@MARC-710g: Ascertained
+@MARC-7100: ks51003956
+@MARC-7104: dte
+@MARC-852a: PL-Wtm
+@MARC-852d: 10469
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1552
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

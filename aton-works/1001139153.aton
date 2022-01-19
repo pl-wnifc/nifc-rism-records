@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001139153
+@MARC-003:	DE-633
+@MARC-005:	20210923121032.0
+@MARC-008:	201213##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S/ T 1 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.''F8C4CC/CC-8CE/4F8CC2C/
+@MARC-031r: F
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 2 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.,A8G8{F,A}{'C,A}/4AG-8{AB}/8{BA}GF{AG}{FE}/
+@MARC-031r: F
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: A/B 1 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.C8,B8{A'F}{'A,'F}/4FE-8{FD}/8{DC},BA{'C,B}{AG}/
+@MARC-031r: F
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B 2 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.,F8F4AF/4'C,C-F/F,,BB',C/
+@MARC-031r: F
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Kyrie
+@MARC-240m: Coro: S/T1, T2, A/B1, B2
+@MARC-240r: F
+@MARC-2400: 3019058
+@MARC-245a: Nro. 9 Kyrie
+@MARC-260c: [1850-1899]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks
+@MARC-300c: 24 x 23 cm
+@MARC-3008: 01
+@MARC-590a: Coro: S/T1, T2, A/B1, B2
+@MARC-590b: 1, 2, 1, 2, f
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S/T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: A/B1
+@MARC-594c: 1
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: S/T1 , Coro: T2 , Coro: A/B1, Coro: B2
+@MARC-599b: full
+@MARC-650a: Kyriale
+@MARC-6500: 50001328
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

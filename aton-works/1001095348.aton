@@ -1,0 +1,248 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001095348
+@MARC-003:	DE-633
+@MARC-005:	20211027135245.0
+@MARC-008:	191123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Largo, molto tranquillo
+@MARC-031g: G-2
+@MARC-031m: T
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: 2''D4DD/2CC/'B4''CD/4.''C8'B4A-/2''F8{ED}{CD}/2.D4'A/F8-F4.A8G/2F-/
+@MARC-031r: D|b
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie
+@MARC-031d: Largo, molto tranquillo
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: 1F^C+/A^F^C/2.G^E4B^G/2.A4A/AB{''8CDED^'B/2''F^'A4''D8{'AF}/2F^D^,A'E^C/
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =2/4.F8F4B''C/2D+8D-4D/4.F8ED-4'B/4.''D8C'B-4B/GB''ED/1C/
+@MARC-031r: E|b
+@MARC-031t: Et in terra pax hominibus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 1F+/F/2F4B''C/2.''D^'B^F4''D/4.''F^D8E^CD^'B-4B/4.''D^'B8''C4'BB/GB''ED/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Graduale
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =2/4B8''CC8.E6E/2E4'A/8.A6A8GA8.B6F/2G4-/4B8{''CD}{EF}/2F4E/
+@MARC-031r: E|b
+@MARC-031t: Domine Jesu Christe
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Graduale
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4G8{FE,GA}/4BnA{8'FB}/{E,B'EBGE}/-{,A'EACD}/{D,B'ECDF}/{E,B'GE,B'G}/{F,B'B^F,B'F,B}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =1/2B4G-/2''E4'B-/4G8.G6G4AF/2.B8B-/4..B8.B6B4''C8n'AA/2''D8C-4C/
+@MARC-031r: E|b
+@MARC-031t: Credo in unum Deum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Credo
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2-4E^,B^G'G^E^,B/2'B^G^,B8{'GEGB}/2''E8{'B^GEG,B}/2'G4AF/1B/2B4''C'nA/8{''C^'GBGD}''{C'AEG}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Offertorium
+@MARC-031d: Non troppo lento
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: =3/2-4-{8AB}/4''CCE{8DC}/2'B4''C-/4.'F8G4AA/2''C4-C/C8{'FG}4A{8B''C}/
+@MARC-031r: f|x
+@MARC-031t: Ne in furore tuo arguas me
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Offertorium
+@MARC-031d: Non troppo lento
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 8-'C^,A^F8-'C^,A^F8-'C^,A^F8-'C^,B^G/-'C^,A-'C^,A^F{'F^C^,A'C^,A^F}-'C^,B^xE/
+@MARC-031r: f|x
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031o: c/
+@MARC-031p: 2xGxA/2.B4B/4.xG8G4.nA8xF/1x(F)/2xF4.F8G/2.A4A/4.F8F4.G8bE/1bE/
+@MARC-031r: C
+@MARC-031t: Sanctus Dominus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Sanctus
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031o: c/
+@MARC-031p: 2xG^xDxA^xF/1B^xF^xD/2xG^E4.A^E^xC8xF^D/1(xF)^D/2xF^DG^E/2.A^F^C+4F^C/2F^D4.G^bE8E^C/1bE^C/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: 8''C'B4A8GA/2B4E/''8ED4C8'B''C/2D8'F6-F/4A8GA''8.C6'B/2.B/8BB4B8''C'B/2A4E/
+@MARC-031r: A|b
+@MARC-031t: Benedictus qui venit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Benedictus
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: =6/2B8''{C'B}/2.A/2''D8{ED}/2C8.-6'A/8.{''F^'A^F6''E^'A^E}4''E^'A^E8-8''C'^A^E/8.{''E^'B^E6''D^'B^E}4''C'^A^E8-''8C/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =3/2G4xF/nFF-/''2D4C/C8'nB-4G/4''C8'GFEF/2.G/2G4-/
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031d: Agnus
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8-{GAGnEF}/{''DC'nB''DFE}/{DCn'B''D'FA}/2G4xF/4nF--/2''D4C/C'nBG/''C8{'GFEF^C}/2.G/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Masses
+@MARC-240m: V (4), coro, org
+@MARC-2400: 3900051
+@MARC-245a: [without title]
+@MARC-260c: 1870-11-12
+@MARC-2608: 01
+@MARC-300a: 1 score: 48 p.
+@MARC-300c: 26.5 x 33.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Adnotacja na karcie tytułowej: "własność chóru Wizytkowskiego". Pod napisem znajduje się pieczątka Towarzystwa Muzycznego. Sekcji im. S. Moniuszki.]
+@MARC-500a: [pl-text: Niezapisane strony: 48.]
+@MARC-591a: inw 126
+@MARC-591a: N. 6 a)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 258
+@@END:		MARC21
+

@@ -1,0 +1,59 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001101568
+@MARC-003:	DE-633
+@MARC-005:	20211027135219.0
+@MARC-008:	200121##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso.
+@MARC-031g: G-2
+@MARC-031m: T 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: ''4E8{DCn'}B''C/8.''F6E4E8DC/
+@MARC-031r: E|b
+@MARC-031t: Krew, która do serca zbiega
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Krew, która do serca zbiega
+@MARC-240m: Coro maschile
+@MARC-240r: E|b
+@MARC-2400: 50223587
+@MARC-245a: [caption title:] Zygmunt Noskowski Na cześć Słowackiego. Wiersz | J Kościelskiego
+@MARC-260c: 19.sc.
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 35 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]
+@MARC-500a: [pl-text: Na dole s. 1: notatki nutowe ołówkiem.]
+@MARC-591a: inw. 2006
+@MARC-591a: A-20.175
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro maschile
+@MARC-594c: 1
+@MARC-594a: Coro maschile
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Kościelski, Józef
+@MARC-700d: 1845-1911
+@MARC-700j: Ascertained
+@MARC-7000: pe50040967
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852d: 9284
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 243/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

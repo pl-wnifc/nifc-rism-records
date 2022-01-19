@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001144201
+@MARC-003:	DE-633
+@MARC-005:	20210923121055.0
+@MARC-008:	210128##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1''C/b,'B/2'A''C/DC/+CD/+DC/
+@MARC-031r: F
+@MARC-031t: Benedicam Domino
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1'A/G/'F+/2FE/1F/G/
+@MARC-031r: F
+@MARC-031t: Benedicam Domino
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1,F/G/A/G/A/bB/
+@MARC-031r: F
+@MARC-031t: Benedicam Domino
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1,F+/2FE/FA/BC/FD/GE/
+@MARC-031q: [pl text: nad zapisem nutowym głosu są zanotowane cyfry]
+@MARC-031r: F
+@MARC-031t: Benedicam Domino
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Benedicam Domino
+@MARC-240m: Coro: S, A, T, B
+@MARC-240r: F
+@MARC-2400: 3926983
+@MARC-245a: De Passione Domini
+@MARC-246a: 1.
+@MARC-260c: [1600-1700]
+@MARC-2608: 01
+@MARC-300a: 1 chorus score
+@MARC-300c: 20 x 16.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: tekst jest napisany wyłącznie głosem Bassus]
+@MARC-5008: 01
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S
+@MARC-594c: 1
+@MARC-594b: Coro: A
+@MARC-594c: 1
+@MARC-594b: Coro: T
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: S, Coro: A, Coro: T, Coro: B
+@MARC-599b: full
+@MARC-650a: Responsories
+@MARC-6500: 25248
+@MARC-773w: 1001144197
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.133
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

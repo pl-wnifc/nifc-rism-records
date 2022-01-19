@@ -1,0 +1,64 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001154156
+@MARC-003:	DE-633
+@MARC-005:	20210923121000.0
+@MARC-008:	210421##################################
+@MARC-031a: 6
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1,G9AGx1F9GA1G9AB1'C
+@MARC-031t: O salutaris hostia
+@MARC-0312: pe
+@MARC-031a: 5
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: =1/1,DE2D4DC1,,B2A,4DC,,2B4,C,,B2/A4A2G
+@MARC-031t: O salutaris hostia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Fierszewicz, Daniel
+@MARC-100d: 1702+
+@MARC-100j: Conjectural
+@MARC-1000: pe30021418
+@MARC-240a: O salutaris hostia
+@MARC-240m: V (2)
+@MARC-2400: 3900683
+@MARC-245a: [without title]
+@MARC-260c: 17th century, 1st half
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Ponad nutami adnotacja atramentem "D. Fierszewicz".]
+@MARC-500a: [pl-text: Utwór zapisany w orientacji horyzontalnej.]
+@MARC-500a: [pl-text: Pod zapisem nutowym podpisany tekst "O salutaris hostia" oraz 8 zwrotek "Gaude Mater Polonia".]
+@MARC-500a: [pl-text: Incipit tekstu "Gaude Mater Polonia" podkreślony niebieskim ołówkiem.]
+@MARC-590a: T, B
+@MARC-590b: f. 15v;17r, 14v;16r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: T, B
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001154115
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.11
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

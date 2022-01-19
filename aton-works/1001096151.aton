@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001096151
+@MARC-003:	DE-633
+@MARC-005:	20211027135236.0
+@MARC-008:	191127##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Molto agitato
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: =23/4-8--GG/''2.E/8'B--4-8-/=/4-8--AA/''2.F/8'B--4-8-/
+@MARC-031r: e
+@MARC-031t: Zdarto żagle ster prysnął
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Burza
+@MARC-240m: coro
+@MARC-2400: 5220693
+@MARC-245a: [caption title:] № 4. Burza. [in red pencil:] Tempesta [in violet ink:] Sturm.
+@MARC-260c: after 1867
+@MARC-2608: 01
+@MARC-300a: 1 score: 14 p.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Tekst włoski wpisany czerwoną kredką, tekst niemiecki - fioletowym atramentem.]
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-700a: Gumplowicz, Władysław
+@MARC-700d: 1869-1942
+@MARC-700j: Ascertained
+@MARC-7000: pe41025309
+@MARC-7004: trl
+@MARC-700a: Adaïewsky, Ella
+@MARC-700d: 1846-1926
+@MARC-700j: Ascertained
+@MARC-7000: pe30016232
+@MARC-7004: trl
+@MARC-773w: 1001096146
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 693/M
+@@END:		MARC21
+

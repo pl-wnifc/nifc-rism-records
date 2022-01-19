@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099883
+@MARC-003:	DE-633
+@MARC-005:	20211027135308.0
+@MARC-008:	200106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCGDA
+@MARC-031o: c
+@MARC-031p: =1/2-4-8-F/8.F6F{GA}{B''C}4D8ED/8D6{C'B}8B6{AG}4G8FF/8.F6F{GA}{B''C}4D8C'B/8A6{GA}8BxEGF4-/8.''C6C'{BA}GF{xE''D}4C/
+@MARC-031r: B
+@MARC-031t: Już wstążkę pawilonu wiatr zaledwie muśnie;
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGDA
+@MARC-031o: c
+@MARC-031p: 8-6{q''DqF}{8B6{qGqE}8C{6'qA''qC}8F}6{qDq'B}8'F6{qDqF}8{B6{qGqE}8C{,6qxA'qC}8F}/=13/8{''F^C'^A^FF^C,^,A}4-{''8D^'A^F^DD}4-/6{'E^,A'CAC}{,A'C,A'C}{,B'AGC}{,B'C,B'C}/
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Cisza morska
+@MARC-240m: V, pf
+@MARC-240r: B
+@MARC-2400: 5220689
+@MARC-245a: [caption title:] Sonet krymski - Cisza morska
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Alleged
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|37
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

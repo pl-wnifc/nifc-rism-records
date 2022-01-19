@@ -1,0 +1,48 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001077388
+@MARC-003:	DE-633
+@MARC-005:	20200319160658.0
+@MARC-008:	190715##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 4''E8DE4C'B/4.A8B{''CD}4E/2DC/8-'GAB4''C'B/4.A8G4FE/
+@MARC-031t: Nieba krolowa Marya wybrana
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Nieba królowa Maryja wybrana
+@MARC-240m: S
+@MARC-2400: 5210117
+@MARC-245a: [without title]
+@MARC-300a: 2 parts
+@MARC-3008: 01
+@MARC-500a: Five stanzas under the staves.
+@MARC-500a: Concordance to PL-SA L 1644 (RISM ID 1001072385).
+@MARC-590a: S (2x)
+@MARC-590b: f. 4r, 4r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594a: S
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001077369
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 377/A VIII 17
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

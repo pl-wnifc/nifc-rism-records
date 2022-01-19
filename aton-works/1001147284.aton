@@ -1,0 +1,91 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147284
+@MARC-003:	DE-633
+@MARC-005:	20210923121112.0
+@MARC-008:	210220##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 0-2.'D4EFG2.A4G1G2F1G2-ABGbBB1F
+@MARC-031t: Spiritus Domini replevit orbem terrarum alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c
+@MARC-031p: 1-,A'C4D2E4DC,1B2A'1D2C2.D4C,2B4AG1A
+@MARC-031t: Spiritus Domini replevit orbem terrarum alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031o: c
+@MARC-031p: 9-1-2-,1DG2F1G2-'DCC1.D2DDb1,B2BA
+@MARC-031t: Spiritus Domini replevit orbem terrarum alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031o: c/
+@MARC-031p: 1,DFAGGAGAGFGGFFA'CDC
+@MARC-031q: [pl-text: W głosach tenorowym i basowym zapisane inne metrum niż w pozostałych głosach.]
+@MARC-031t: Spiritus Domini replevit orbem terrarum alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 9-1-9,,G,1DEDED,,G-bB,DFFC
+@MARC-031t: Spiritus Domini replevit orbem terrarum alleluia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Spiritus Domini replevit orbem terrarum alleluia
+@MARC-240m: V (5)
+@MARC-240r: 8t
+@MARC-2400: 3919270
+@MARC-245a: [without title]
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 5 parts: 8 p.
+@MARC-3008: 01
+@MARC-590a: S, A, T 1, T 2, B
+@MARC-590b: f. 1r-1v, 3r-3v, 5r-5v, 7r, 9r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T (2), B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001147282
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.288
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

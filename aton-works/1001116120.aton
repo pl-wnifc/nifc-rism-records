@@ -1,0 +1,54 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001116120
+@MARC-003:	DE-633
+@MARC-005:	20210720131907.0
+@MARC-008:	200523##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: '''8E-4.''B8-/'''C-4.''A8-/884.8'''D-''A-/B-G-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Suites
+@MARC-240m: strings, pf
+@MARC-240r: C
+@MARC-2400: 3900138
+@MARC-245a: [caption title, in pencil:] Zbiór utworów | na skrzypce i fortepian | Józef Stefani | Autograf
+@MARC-260c: 1855-02-02
+@MARC-2608: 01
+@MARC-300a: 1 score: 16 p.
+@MARC-300c: 34,5 × 27,4 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na końcu rękopisu adnotacja: "Dnia 2. Lutego 1855 roku JS.".]
+@MARC-591a: inw. 1515
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl (2), vlc, pf
+@MARC-599b: full
+@MARC-650a: Suites
+@MARC-6500: 25214
+@MARC-650a: Quartets (inst.)
+@MARC-6500: 25205
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1421
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

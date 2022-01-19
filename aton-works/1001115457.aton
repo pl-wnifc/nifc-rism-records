@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115457
+@MARC-003:	DE-633
+@MARC-005:	20210720131934.0
+@MARC-008:	200518##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: Coro S1
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: -/=9/4.B''6{C'B}{8GE}/''2E4'B/
+@MARC-031r: E
+@MARC-031t: Przyjmij Boże tę ofiarę
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: {8B6-nB/4''D8C-{8x'A6-A/4''C'8B-4-/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Przyjmij Boże tę ofiarę
+@MARC-240m: Coro, orch, org
+@MARC-240r: E
+@MARC-2400: 4284262
+@MARC-245a: [title page:] Offertorium | głosy Orkiestrowe
+@MARC-246a: [caption title:] Offertorium. | p. JStefani
+@MARC-300a: 1 score: 16 p.
+@MARC-300c: 34,3 × 26,2 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 27/VI/47 | [podpis Chromińskiego]."]
+@MARC-591a: inw. 1661
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: Coro S (2), Coro T, Coro B, vl (2), vla, vlc, cb, org, fl, cl (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Brodziński, Kazimierz Maciej Józef
+@MARC-700d: 1791-1835
+@MARC-700j: Ascertained
+@MARC-7000: pe301196
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852d: 10498
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1578
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

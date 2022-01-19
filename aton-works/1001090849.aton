@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001090849
+@MARC-003:	DE-633
+@MARC-005:	20211027135244.0
+@MARC-008:	191020##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Akt 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: bB
+@MARC-031o: v
+@MARC-031p: 8''A^'A-''F^'A-''D^'D-''C^'E-/2A^F4-8''F^D^'D-/''8E^'nB^E-''C^'E-A^D-''D^'D/2G^,G4-8.{'A'6B}/2G4-8.{''E6D}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Akt 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ''8F^C^'A-''C^'F^C-B^F^D-G^E^C-/2A^F4-8nB^A^F^D-/8nB^xG^E^D-A^E^C-F^D-bB^F^D-/2G^E-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Libella albo Zemsta owadu
+@MARC-240k: Excerpts
+@MARC-240m: strings, pf
+@MARC-240o: Arr
+@MARC-2400: 5217656
+@MARC-245a: [caption title, underlined:] Akt 2. [space] Libella.
+@MARC-260c: 1871
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 25.0 x 33.5 cm
+@MARC-3008: 01
+@MARC-591a: Inw. 1031
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl, pf
+@MARC-599b: full
+@MARC-650a: Ballets
+@MARC-6500: 25172
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 609-a/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,69 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063791
+@MARC-003:	DE-633
+@MARC-005:	20211027135139.0
+@MARC-008:	190227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: =4/8-''D'G''C'8EF/4G8G''4.G+/8GDE{DC}'B/4.A6{B''C}4D/
+@MARC-031r: G
+@MARC-031t: Naprzód ciebie wspomina
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: 2.G^,B/i/8'G6{FGEF}4.D+/8{D6FGEF}4.D+/8'D^,B8{''D^'BG^E}{''C^'AE^CF^D^C}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Duettinos
+@MARC-240k: Sketches
+@MARC-240m: V (2), pf
+@MARC-240r: G
+@MARC-2400: 4192297
+@MARC-245a: [caption title:] 35. Duettino.
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 7 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 2
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V (2), pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-650a: Duets (voc.)
+@MARC-6500: 25167
+@MARC-691a: KmBN
+@MARC-691n: 1790
+@MARC-6910: lit41001694
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 253.
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

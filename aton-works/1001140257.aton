@@ -1,0 +1,142 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001140257
+@MARC-003:	DE-633
+@MARC-005:	20210923121019.0
+@MARC-008:	201219##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031g: G-2
+@MARC-031m: T 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.'F8F4GF/2GA/4.''C8C4DD/2CC/4.D8D4CD/2E4FE/DCC'nB/1''C//
+@MARC-031r: F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie
+@MARC-031g: G-2
+@MARC-031m: T 2
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.'F8F4GF/2GA/4.A8A4BB/2GA/4.A8A4AnB/1''C/2'AG/1G//
+@MARC-031r: F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Kyrie
+@MARC-031g: F-4
+@MARC-031m: B 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ,4.F8F4GF/FE2F/4.F8F4FF/FE2F/4.F8F4EG/2G4AG/FE2D/1E//
+@MARC-031r: F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Kyrie
+@MARC-031g: F-4
+@MARC-031m: B 2
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ,4.F8F4GF/2CF/4.F8F4,,BB/,2CF/4.D8D4,,AG/,C,,nBA,C/,,2FG/,1C//
+@MARC-031r: F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031g: G-2
+@MARC-031m: T 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.A8A4BA/2''C4DE/4.F8F4C'B/''DC'AB/2GF/
+@MARC-031r: F
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Gloria
+@MARC-031g: G-2
+@MARC-031m: T 2
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.F8F4FF/GABB/4.''C8C4C'B+/BGFF/FE2F/
+@MARC-031r: F
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031d: Gloria
+@MARC-031g: F-4
+@MARC-031m: B 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ,4.F8F4FF/G2F4B/BAGF+/FEDD/2C4F
+@MARC-031r: F
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 4
+@MARC-031d: Gloria
+@MARC-031g: F-4
+@MARC-031m: B 2
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ,4.F8F4DF/EF,,B,G/4.F8F4ED/,,B,CD,,B/,2C4F
+@MARC-031r: F
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Wiltberger, August
+@MARC-100d: 1850-1928
+@MARC-1000: pe327522
+@MARC-240a: Missa
+@MARC-240m: Coro
+@MARC-240r: F
+@MARC-2400: 3921633
+@MARC-245a: [no title]
+@MARC-260c: [19th-20th c.]
+@MARC-2608: 01
+@MARC-300a: Score, 4 parts; 10 f.
+@MARC-300c: 24 cm x 30 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć okrągła: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na drugiej stronie okładki każdej partii.]
+@MARC-500a: [pl-text: Pieczęć "CATH. CRAC. * ARCH. CAPIT." na dole ostatnich stron wszystkich partii.]
+@MARC-500a: [pl-text: W prawym górnym roku pierwszej strony głosów, ołówkiem: "W [?] Abeyer [?].]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-590a: Score, T 1, T 2, B 1, B 2
+@MARC-590b: 4, 3, 3, 4, 4 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 2
+@MARC-594a: T (2), B (2)
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.480
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

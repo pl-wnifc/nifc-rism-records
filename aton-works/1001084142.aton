@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001084142
+@MARC-003:	DE-633
+@MARC-005:	20211027135243.0
+@MARC-008:	190903##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino con moto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 9/8
+@MARC-031p: =4/4-8-4A8B''C'B''C/4.E+4E8D4C
+@MARC-031r: a
+@MARC-031t: Póki gonił zające, póki kaczki znosił
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino con moto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 9/8
+@MARC-031p: 4-8-4.xD+4D8-/4-8-4.xD+4D8-/4-8-4E8D{EFG}/{FEC}4.E+4(E)8-/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Stary pies i stary sługa
+@MARC-240m: V, pf
+@MARC-240r: a
+@MARC-2400: 5214333
+@MARC-245a: [caption title:] Stary Pies i Stary Sługa.
+@MARC-260c: 1875-01-02
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300b: p. 2-3
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Krasicki, Ignacy
+@MARC-700d: 1735-1801
+@MARC-700j: Ascertained
+@MARC-7000: pe41023793
+@MARC-7004: lyr
+@MARC-773w: 1001084137
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 91/N
+@@END:		MARC21
+

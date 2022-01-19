@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033235
+@MARC-003:	DE-633
+@MARC-005:	20201029163416.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Recit[ativ]
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: ''4.D'8AB{6A''D}8D-/'4B''gD{8C'B}4B8B-/''2E{8FE}{C'A}/''4D'8AB4A-/
+@MARC-031q: [pl-text: Brak podpisanego tekstu słownego]
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: 1A/B/A/A/F/F/2FD/2.F
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Astorga, Emanuele d'
+@MARC-100d: 1680-1757c
+@MARC-100j: Ascertained
+@MARC-1000: pe30000157
+@MARC-240a: Inviolata
+@MARC-240m: V (4), org
+@MARC-240r: D|b
+@MARC-2400: 4040032
+@MARC-245a: [caption title:] Inviollata a 4 voix: Astorg
+@MARC-300a: 1 vocal score: f. 37v-42v
+@MARC-3008: 01
+@MARC-500a: [pl-text: Utwór zapisany na 6 pięcioliniach w systemie, na 4 górnych głosy wokalne w kluczu wiolinowym; brak podpisanych słów, podanych nazw głosów i instrumentu, nazwa instrumentu (org) dookreśona na podstawie porównania z innymi utworami w kolekcji]
+@MARC-500a: [pl-text: Na f. 42v na dole strony ołówkiem i czarnym tuszem rozpisane dwa szkice kilkutaktowych fragmentów utworów na dwóch pięcioliniach w systemie]
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 4
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V (4), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 12
+@MARC-6910: lit1869
+@MARC-773w: 300033223
+@MARC-852a: PL-CZ
+@MARC-852d: 110
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-87
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,299 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033580
+@MARC-003:	DE-633
+@MARC-005:	20210116175341.0
+@MARC-008:	121204##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Dixit Dominus
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: ''4.D{6FE}{8DFA'''D}/''4.A8xG{AnGFE}/{ED}4D8
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Dixit Dominus
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =18/''2FF/E4EE/2D4DD/2EC/D
+@MARC-031r: D
+@MARC-031t: Dixit Dominus, Domino meo sede a dextris meis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Laudate pueri
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2B{8''C'6B''C}/{8DE}{D6'B''C}{DEFG}/{8D'B''EC'BA}/4B8
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Laudate pueri
+@MARC-031d: Moderato
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031o: 3/4
+@MARC-031p: =8/4''DDD/2C{8DC}/4'B''DD/2C{8DC}/'4B
+@MARC-031r: G
+@MARC-031t: Laudate pueri, Dominum laudate nomen Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Laetetus
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: 8G/''{CCDD}/{8.E3FE}8{D'G}/''{DDEE}/{8.F3GF}8{E'G}/4.''C
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Laetatus sum
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: 8G/''CCDD/{8.E3FE}8D'G/''DDEE/{8.F3GF}8E'G/4.''C
+@MARC-031r: C
+@MARC-031t: Laetatus sum, in his quae dicta sunt mihi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Nisi Dominus
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: {3''C'B''CD}/8E-{6C3'B''C}/8D-{'6B3AB}/{8''C6ECFD}/{8.'B3AB8''C}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Nisi Dominus
+@MARC-031d: Allegretto
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: 8-/8-''EC/-D'B/-'B''D/8.'B6B8''C/CCC
+@MARC-031r: A
+@MARC-031t: Nisi Dominus, aedificaverit domum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Lauda Jerusalem
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: {6.''F3G}{6AFBA}/{8.A6G}4F/{8.B6G}{6GFFE}/{8F3FEFG}{6ABAG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Lauda Jerusalem
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: {8.''D6E}8FF/{8.F6E}4C/E8DC/4D-/
+@MARC-031r: D
+@MARC-031t: Lauda Jerusalem, Dominum lauda Deum tuum Sion
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Magnificat
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''F4.G{6FG}/4.A8F4DD/4.E{6GF}4EE/4E{6EEFG}4AD/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Magnificat
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''D4EE/2DD/EC/DD/EC/D2-/
+@MARC-031r: D
+@MARC-031t: Magnificat, anima mea Dominum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Et misericordia
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2''D{6'BAB''C}/2D{8EF}/4.G{6FG}{AGFE}/{8.E3DE}{8D6BA}{6GFED}
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Et misericordia
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =12/2''D{6'BA}{{B''C}/2''D{8EF}/4.G{6FG}{AG}{FE}/{8.E3DE}4D/
+@MARC-031r: G
+@MARC-031t: et misericordia eius a progenie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: {''8.A6F}{8DDDD}/{8.D3CD}{8C6CD}{6EDEF}/{8.G6F}{8EEEE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031d: Gloria
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''DDD/DC-/EEE/8EE4D
+@MARC-031r: D
+@MARC-031t: Gloria patri gloria filio
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Dankowski, Adalbert
+@MARC-100d: 1760c-1814c
+@MARC-100j: Ascertained
+@MARC-1000: pe30000793
+@MARC-240a: Vespers
+@MARC-240m: Coro, orch, org
+@MARC-240r: D
+@MARC-2400: 3900116
+@MARC-245a: [cover title:] VESPERAE | a | Canto Alto. | Tenore Basso | Violino. Primo | Violino Secondo | Cornu Primo. | Cornu Secondo | et | Organo | Dal Sigre A: Dankowski
+@MARC-300a: 9 parts
+@MARC-300c: 35 x 22,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na obwolucie dawne sygnatury: u góry z prawej strony tuszem "Nro 14", skreślone ołówkiem tuszem, prawdopodobnie sporządzona przez kopistę; czarnym tuszem ręką M. Zabłockiego "N|ro 4"; u góry w środku ołówkiem ręką nieznanego Paulina "N|o 13"; poniżej czerwonym tuszem ręką F. Maletza "N 1324/621."]
+@MARC-500a: [pl-text: Na środku po prawej stronie na środku obwoluty okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Obwoluta przekreślona niebieską kredką - obok litera "M"]
+@MARC-500a: [pl-text: U góry na środku na obowlucie org "Ark. 21. 1/2."]
+@MARC-500a: [pl-text: Paginacja w prawym górnym rogu, ołówkiem na każdym folio]
+@MARC-500a: [pl-text: Konkordancja RISM ID: 300257248 (PL-Kd 154)]
+@MARC-563a: [pl-text: Krawędzie obwoluty wyklejone zielonym papierem; Lewy górny róg obwoluty uszkodzony]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 5, 6, 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 7, 7 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 6 f.
+@MARC-5908: 01
+@MARC-592a: cover: [illegible]
+@MARC-5928: 01
+@MARC-592a: W (crowned) / BRESLAV
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org (=bc)
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl (2), cor (2), org (=bc)
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.229
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 32
+@MARC-6910: lit1887
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 37
+@MARC-6910: lit1886
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-852a: PL-CZ
+@MARC-852d: Nro 14
+@MARC-852d: N|o 13
+@MARC-852d: N|r|o 4
+@MARC-852d: N 1321/621.
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-111
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

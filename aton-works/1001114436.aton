@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114436
+@MARC-003:	DE-633
+@MARC-005:	20210720131946.0
+@MARC-008:	200507##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 8.6FE/2F8,FFGA/2B4.8'DD/2.,G4'C/
+@MARC-031r: F
+@MARC-031t: Dyrektorze posłuchać chciej i w pamięci miej
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 8.6''FE/2F8'F{FGA/2B4.8''DD/2.'G4''C/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Dyrektorze, posłuchać chciej i w pamięci miej
+@MARC-240m: V (3), choro maschile, pf
+@MARC-240r: F
+@MARC-2400: 50231451
+@MARC-245a: [title page:] p. JStefani
+@MARC-246a: [caption title:] dnia 24. Czerwca | 1852 r.
+@MARC-260c: 1852-06-24
+@MARC-2608: 01
+@MARC-300a: 1 score: 10 p.
+@MARC-300c: 34 x 26 cm
+@MARC-3008: 01
+@MARC-300a: 6 parts
+@MARC-300c: 33,5 x 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Dawna sygnatura wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]
+@MARC-590a: T1, T2, B, coro T1, coro T2, coro B
+@MARC-590b: 4, 4, 4, 2, 2, 2 p.
+@MARC-5908: 01
+@MARC-591a: Inw. 1700-1701
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 2
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: T (2), B, T coro (2), B coro, pf
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-700a: Jasiński, Jan Tomasz Seweryn
+@MARC-700d: 1806-1879
+@MARC-700j: Ascertained
+@MARC-7000: pe30027055
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852d: 10990
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1647 (1-2)
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

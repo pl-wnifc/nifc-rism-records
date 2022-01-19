@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114439
+@MARC-003:	DE-633
+@MARC-005:	20210720131946.0
+@MARC-008:	200507##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031o: 3/4
+@MARC-031p: 2C+{8.6C,G}/4(G)-(-)/2'E+{8.6EC}/4C-(-)/2G4D/E--/
+@MARC-031r: C
+@MARC-031t: Janie! Janie! Janie!
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: =/4-{8.6''C'G}4(G)/=/4-{8.6''EC}4(E)/=/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Janie! Janie! Janie!
+@MARC-240m: V (3), choro maschile, orch
+@MARC-240r: C
+@MARC-2400: 50231455
+@MARC-245a: [caption title:] Humorystyczna Kantata na dzień 25. Lutego 1855. w dzień | obchodu srebrnego wesela J.[ana Tomasza] Jasińskiego D.[yrektora] T.[eatrów] wykonana | i jemu ofiarowana f przez J. Stefaniego | przyjaciela Jego.
+@MARC-260c: 1855-02-25
+@MARC-2608: 01
+@MARC-300a: 1 score: 16 p.
+@MARC-300c: 34 x 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Dawna sygnatura wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 27/VI/47 | [podpis Chromińskiego]."]
+@MARC-591a: Inw. 1702
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 2
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594a: T (2), B, T coro (2), B coro, vl (2), vla, cb, cl (2), tr (2)
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-700a: Jasiński, Jan Tomasz Seweryn
+@MARC-700d: 1806-1879
+@MARC-700j: Ascertained
+@MARC-7000: pe30027055
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852d: 10991
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1648
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

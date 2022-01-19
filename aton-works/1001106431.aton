@@ -1,0 +1,114 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001106431
+@MARC-003:	DE-633
+@MARC-005:	20210527014739.0
+@MARC-008:	200303##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c/
+@MARC-031p: ''2C4'GG/2AG/4A''D'BB/2''C4CE/2C4C'B/''CDEC/'2BA/4G
+@MARC-031r: C
+@MARC-031s: + Clef written on 4th line probably by mistake
+@MARC-031t: Rozsądź mię Boże
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031g: G-2
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: 2''D4DD/'B''CD4-/EEGE/ED2D/2D'4BB/2BG/FGAB/2A4G4-/
+@MARC-031r: G
+@MARC-031s: + Clef and key signature written in wrong places
+@MARC-031t: Chwała ci Boże na wysokim niebie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo. Moderato
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c/
+@MARC-031p: 2''CC/E4DD/2EC/FD/EC/'4B''CD8{(FED)}/2CC/2D4DD/
+@MARC-031r: C
+@MARC-031t: Wierze w Boga jednego Stwórcę Nieba ziemi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus. Adagio
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c/
+@MARC-031p: 2''C{8''EDCD/4''E'EG''D/2E8{GFEF/4G'G''CE/2GE/C4CC/2EC/
+@MARC-031r: C
+@MARC-031t: Święty władca zastępów
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Agnus. Largo
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c/
+@MARC-031p: 2'B''4CD/DC2C/'4AAB''C/DC2C/2G4DD/2D4EC/'B''CD'B/1''C/
+@MARC-031r: C
+@MARC-031t: Baranku Boży coś wyrwał od zguby
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Dona nobis pacem. Allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c/
+@MARC-031p: 4''EDEF/2GE/4DCDE/2F4DD/2EE/4DC'BA/2xGA/4BE
+@MARC-031r: C
+@MARC-031s: + clef and time signature missing
+@MARC-031t: Dość długo nieszczęść dźwigaliśmy brzemię
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Mass
+@MARC-240m: V (1)
+@MARC-240r: C
+@MARC-2400: 5211939
+@MARC-245a: [caption title:] Kyrye [!]
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-590a: V
+@MARC-590b: p. 3-4, 6, 8-9
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594a: V
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Wężyk, Franciszek
+@MARC-700d: 1785-1862
+@MARC-700j: Ascertained
+@MARC-7000: pe30085910
+@MARC-7004: lyr
+@MARC-730a: Msza polska "Rozsądź mię Boże"
+@MARC-730g: RISM
+@MARC-7300: 50225851
+@MARC-773w: 1001106393
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 381/A VIII 21
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

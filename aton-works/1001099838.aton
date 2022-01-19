@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099838
+@MARC-003:	DE-633
+@MARC-005:	20211027135230.0
+@MARC-008:	200105##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8-//:=7/4.8-6.D3E/8FDFB/{8.''D6C}8'B6AB/8''C'FFF/8{G6FD}8,B6.'F3E/8DFB''C/8.{D6C}8'B6AB/''8C6{'FG}8.A6G/4F-6(AAB}/
+@MARC-031r: B|b
+@MARC-031t: Moi qui même auprès des belles pourrait vivre
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 6{'''xCE}//:8{D6''A'''C}8{''A6{nEG}/{8F6xCE}{8D6CD}/8{FECD}/{EFGA}/{B^D6nEG}{8F6xCE}/{8D6'A''C}{8'B6'nEG}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: fre
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Moi qui même auprès des belles pourrait vivre
+@MARC-240m: V, pf
+@MARC-240r: B|b
+@MARC-2400: 50222711
+@MARC-245a: [without title]
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajduje się pieczątka: "ALEKSANDER MONIUSZKO | N|o 778"]
+@MARC-591a: N|o 778
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|26
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

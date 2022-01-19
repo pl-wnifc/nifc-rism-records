@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143667
+@MARC-003:	DE-633
+@MARC-005:	20211110172926.0
+@MARC-008:	210123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C
+@MARC-031n: bBE
+@MARC-031o: 3/2
+@MARC-031p: 2''CCn'B/2.''C4D2bE/
+@MARC-031t: Rex gloriose Martyrum corona confitentium
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Gorczycki, Grzegorz Gerwazy
+@MARC-100d: 1665p-1734
+@MARC-100j: Doubtful
+@MARC-1000: pe30009207
+@MARC-240a: Rex gloriose martyrum
+@MARC-240m: Coro
+@MARC-2400: 3919661
+@MARC-245a: [without title]
+@MARC-260c: ca. 1700
+@MARC-2608: 01
+@MARC-300a: 4 partbooks: f. 1–4
+@MARC-300c: 17 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-590a: Coro: C, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro A, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-6910: lit41000579
+@MARC-773w: 1001143665
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.338
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

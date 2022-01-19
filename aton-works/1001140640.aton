@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001140640
+@MARC-003:	DE-633
+@MARC-005:	20210923121020.0
+@MARC-008:	201222##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S/T1 coro
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 2B4''C,'B/2''D,'A/4''CC4.,'B8A/2'A4G-/
+@MARC-031r: e
+@MARC-031t: O Christe za zasłona czarna
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031m: T2 coro
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 2G4'GG/2'AxF/4'AG4.,'xF8F/2'xF4E-/
+@MARC-031r: e
+@MARC-031t: O Christe za zasłona czarna
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: A/B1 coro
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 2,E4EE/2xFD/4,EE4.xD8D/2',D4E-/
+@MARC-031r: e
+@MARC-031t: O Christe za zasłona czarna
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B2 coro
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 2,E4EE/2DD/4,,AA4.B8B/2',C4C-/
+@MARC-031r: e
+@MARC-031t: O Christe za zasłona czarna
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Rychling, Wincenty Wacław
+@MARC-100d: 1841-1896
+@MARC-1000: pe50046026
+@MARC-240a: Pieśń
+@MARC-240m: Coro: S/T1, T2, A/B1, B2
+@MARC-240r: e
+@MARC-2400: 50239261
+@MARC-245a: Do Pana Jezusa / na Wawelu p. W. Richlinga
+@MARC-246a: Pieśń do P. Jezusa ukrzyżowanego w katedrze krakows. | harm. Richling
+@MARC-260c: [1800-1899]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks
+@MARC-300c: 24.0 x 23.0 cms
+@MARC-3008: 01
+@MARC-500a: [pl text: na końcu utworu,w partii B2 pojawia się napis: "ciężki trud."]
+@MARC-5008: 01
+@MARC-590a: Coro: S/T1, T2, A/B1, B2
+@MARC-590b: 1,2,1,1 f
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S/T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: A/B1
+@MARC-594c: 1
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: S/T1 , Coro: T2, Coro: A/B1, Coro: B2
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

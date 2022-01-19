@@ -1,0 +1,235 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033224
+@MARC-003:	DE-633
+@MARC-005:	20201029163416.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: [senza tempo]
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031o: 3/4
+@MARC-031p: (4-)/8-'E4F''C/2'E4A/2G86{DD}/4--4G/G''ED/4.C8xC
+@MARC-031q: [pl-text: błędy kopisty: brak kropki przy ósemce w trzecim takcie (nie licząc przedtaktu); następująca szesnatska powinna być na dźwięku e razkreślnym]
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 3/4
+@MARC-031p: (4-)/=3/4--'G+/G''E8DD/4.C8xCDE/4.F8EDC/'4B8B
+@MARC-031r: C
+@MARC-031t: Przy świętych tajemnic
+@MARC-031t: Niech nasze westchnienia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria. Allegro con spirito
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2.''C4E/2FD/C4'BG/2A8{FEFG}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031p: 2.''C4E/2FD/C4'BG/2A4F-/
+@MARC-031r: F
+@MARC-031t: Chwała Panu na Syjonie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Graduale
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4''DxCD/2E4D/4.C8'A''{DC}/4'B8-{FB''D}/''2F4'B/B8''E{'G''CE}/2G4C/CF
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4''DxCD/2E4D/4.C8'A''DC/4'B-''D/2F4'B/B8''E-4E/2G4C/CF
+@MARC-031r: B
+@MARC-031t: Powstańmy z cześcią
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''4GG8{GxF}{GA}2/B{8GEDC}/'4.B8A4GxF/2G4G
+@MARC-031q: [pl-text: część rozpoczyna się w g-moll, następnie moduluje do Es-dur]
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: '4GG8{GxF}{GA}2/B4G-/4.B8A4GxF/2G4G
+@MARC-031r: g
+@MARC-031t: Wierzymy w Boga
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Offertorium
+@MARC-031d: Moderato assai
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8{'GA}/4BG''E8{DC}/+2C8'B-4B/AF''C8{'BA}/2A8G-
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8{'GA}/4BG''E8DC/2C8'B-4B/AF''C8'BA/2A4G
+@MARC-031r: E|b
+@MARC-031t: Niech z ręki twojej kapłanie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Andantino
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: bBE
+@MARC-031p: 2.'D4C%G-2/4-2D8-''F/4E8{CE}4D8{'B''D}/4.C8F4nE8{DC}/2C8F
+@MARC-031q: [pl-text: w rękopisie brak oznaczenia metrycznego dla części]
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031p: 8{'B''C}2D4C/6{'B''CDE}2F8D-/4E8{CE}4D8{'B''D}/4.C8F4nE8DC/2C8F
+@MARC-031r: B|b
+@MARC-031t: Święty Boże któż podoła Cię zmierzyć
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 4G8.6{BG}/4''C'A/F6{F''C'BA/8{GG}-G//
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: =4//4'G8.6BG/4''C'A/F6F''C6.'B3A/4A8G
+@MARC-031r: E|b
+@MARC-031t: Gdy nami wstrząsa boleść
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 3/4
+@MARC-031p: 4''DE'A/2''C'4xD/4E8''C'{BxG}/4AA
+@MARC-031q: [pl-text: w trzecim takcie brak kropki przy ćwierćnucie (błąd kopisty)]
+@MARC-031q: [pl-text: tekst słowny w czwartym takcie z błędem ręki ("tworży" oraz w drugiej linii "jestecie"), podpisany pod niewłaściwymi wartościami rytmicznymi]
+@MARC-031q: [pl-text: brak osobnej pięciolinii dla głosu wokalnego; linia melodyczna zdwojona w górnej partii org, zanotowana z uwzględnieniem drobnych różnic rytmicznych (powtórzenie dźwięku)]
+@MARC-031r: a
+@MARC-031t: Niech się na sercu nie trwoży
+@MARC-031t: Wy którzy czyści jesteście
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Benedictio. Allegro risoluto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c/
+@MARC-031p: 4'C2E4C/2G4EC/1A/2G-/''C4'BA/GED/1A/2G
+@MARC-031q: [pl-text: brak osobnej pięciolinii dla głosu wokalnego; linia melodyczna zdwojona w górnej partii org]
+@MARC-031q: [pl-text: błąd kopisty w takcie 6; pominięta ćwierćnuta oraz niepoprawny dźwięk d razkreślne zamiast dźwięków c i e razkreślnych]
+@MARC-031r: C
+@MARC-031t: Powstańmy wszyscy gromadnie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Zientarski, Romuald Teodor
+@MARC-100d: 1829-1874
+@MARC-100j: Ascertained
+@MARC-1000: pe30001080
+@MARC-240a: Masses
+@MARC-240m: V (X), org
+@MARC-240r: C
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Msza Święta. | Słowa Władysława Syrokomli. Muzyka R. Zientarskiego. [space] Op [opus number missing]
+@MARC-300a: 1 vocal score: f. 1r-4v
+@MARC-3008: 01
+@MARC-500a: [pl-text: Utwór zanotowany na trzech pięcioliniach, najwyższa z podpisanym tekstem zawiera najwyższy głos utworu (brak pozostałych dwóch głosów wokalnych), dwie niższe głos org; części "Agnus Dei" oraz "Benedictio" zapisane na dwóch pięcioliniach, głos S na jednej pięciolinii razem z najwyższym głosem org; tekst słowny zapisany pomiędzy pięcioliniami w systemie]
+@MARC-500a: [pl-text: brak nazwy głosu/instrumentu przy pięciolinii - ustalone na podstawie drukowanej partytury utworu: Warszawa: Gebethner i Wolff [s.d.] oraz podpisanego instrumentu w kolejnych utworach w kolekcji]
+@MARC-500a: Musikincipit der S-Stimme der gedruckten Partitur (Signatur D II-60) entnommen, siehe PodejkoK 1992 p.837, no.1579a
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: X
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1579
+@MARC-6910: lit1869
+@MARC-700a: Syrokomla, Władysław
+@MARC-700d: 1823-1862
+@MARC-700j: Ascertained
+@MARC-7000: pe30040492
+@MARC-7004: lyr
+@MARC-773w: 300033223
+@MARC-852a: PL-CZ
+@MARC-852d: 110
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-87
+@@END:		MARC21
+

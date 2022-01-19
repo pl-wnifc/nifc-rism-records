@@ -1,0 +1,192 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050677
+@MARC-003:	DE-633
+@MARC-005:	20211030210233.0
+@MARC-008:	160310##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introduccio. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: '''DDD8-'D/{8EDEF}{GFGA/{BAB''C}{DCDE/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: '''D6-{''DCD}{CDBA/{8xGE}4.nG8F/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Kyrie. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 8.''F6F4F-/-8-FCD/{6EFGE}{8.D'6A}{6''FEDC/4ED-/
+@MARC-031r: D
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Kyrie. Andante
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =6/8.''D6D{ED}{CD}/{8EF}G-/
+@MARC-031r: D
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Rosa. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =15/2''D{6EF6.G3E/8.E6D4D-/2D8xCnC/8.C6'B4B-/
+@MARC-031r: G
+@MARC-031t: Rosa mistica
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Regina. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''D{8FD}4A-/8GE{'B''C}D--
+@MARC-031r: D|b
+@MARC-031t: Regina angelorum patriarcharum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Agnus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 2''A6{GFED}/4GGG/ED{8EF/{8.G6E}4C-/
+@MARC-031r: D
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Christe. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: ''DDEF/GA2B/E4AG/FE2D/
+@MARC-031r: D
+@MARC-031t: Christe audinos
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rodowski, Aleksander
+@MARC-100d: 18/19
+@MARC-100j: Verified
+@MARC-1000: pe30009627
+@MARC-240a: Litanies
+@MARC-240m: Coro, orch, org
+@MARC-240r: D
+@MARC-2400: 3900164
+@MARC-245a: [cover title:] N 11. [later with pencil:] a | 1=|m|e Classis. | LITANIA de | B: V: M: | Canto Alto | Tenore Basso | Violino Primo | Violino Secundo | Cornu Primo | Cornu Secundo | et | Organo | [at left:] Sign A: Rodowski | [at right:] J. Cichaski mpp 1801 | [bottom middle:] N 11.
+@MARC-260c: 1801
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Głosy cor 1 i 2 o mniejszym wymiarze]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na f. 1r każdego głosu pisanego przez J. Cichawskiego u góry z lewej czarnym tuszem: "N 11”]
+@MARC-500a: [pl-text: Na f. 3r trzeciego egzemplarza głosu S u dołu notatka kopisty: "do p: Rozalij Lipieńskiej | pisałem d: 21 Maja 1850 r: Walenty Czajkowski"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-25)]
+@MARC-500a: [pl-text: Rękopis sporządzony przez co najmniej dwóch kopistów]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: Solo and Coro: S (3x), A, T, B (2x)
+@MARC-590b: 2, 3, 3, 1, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl 1, vl 2 (2), cor in D (2), org
+@MARC-599b: full
+@MARC-650a: Litanies
+@MARC-6500: 25137
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.104, no.95
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 240
+@MARC-6910: lit41001126
+@MARC-700a: Cichawski, Józef
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30109125
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Czajkowski, Walenty
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30109237
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-STAb
+@MARC-852d: N 11.
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 11a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

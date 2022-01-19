@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001143200
+@MARC-003:	DE-633
+@MARC-005:	20210720131720.0
+@MARC-008:	210119##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEADG
+@MARC-031o: 2/4
+@MARC-031p: 848-FF/848-FF/848-FF/848-FF/
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: fl 1
+@MARC-031n: bBEADG
+@MARC-031o: 2/4
+@MARC-031p: ''8-6{FG}{FA8F}/''8-6{FG}{FA8F}/''8-6{FG}8F-/-6{FnA}8F-/
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Krakowiak ludowy
+@MARC-240m: orch
+@MARC-240r: b|b
+@MARC-2400: 50238006
+@MARC-245a: [title page:] Krakowiak ludowy
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 35,5 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | WARSZAWSKIEGO | TOW. MUZYCZNEGO" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: Inw. 1156
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594a: vl (2), vla, vlc, cb, fl (2), cl (2)
+@MARC-599b: full
+@MARC-650a: Krakowiaks
+@MARC-6500: 25539
+@MARC-852a: PL-Wtm
+@MARC-852d: 9135
+@MARC-852d: R 1808
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 33/N
+@@END:		MARC21
+

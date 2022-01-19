@@ -1,0 +1,82 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001087014
+@MARC-003:	DE-633
+@MARC-005:	20211027135205.0
+@MARC-008:	190920##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: flautini
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 8{''D6-3DD}8{''D6-3DD}8{''D6-3DD}/{8.D6D8.F6F8.A6A}/8{'''D6-3DD}8{'''D6-3DD}8{'''D6-3DD}/4DFA/
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: basso
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4,DDD/DFA/D^'D,D^'D,D^'D/,D^'D,FA/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Taniec polski
+@MARC-240m: strings, woodwinds, brass, percussion
+@MARC-2400: 5212826
+@MARC-245a: [caption title:] Taniec Polski [illegible; underlined] / [illegible; underlined] grany w dniu 9|t|y|m maia r: 1825 na Balu JO: Xcia Namiestnika | iako w doroczną uroczystość Urodzin [illegible]: Cesarzewicza Konstantyna skomponowany p ["p" underlined] Karola | Kurpińskiego
+@MARC-260c: 1825
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 23,5 x 39,0 cm
+@MARC-3008: 01
+@MARC-591a: Inw. 749
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: flautino
+@MARC-594c: 2
+@MARC-594b: cl 1 in C
+@MARC-594c: 2
+@MARC-594b: cl 2 in C
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594b: tr in D
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: contra-fag
+@MARC-594c: 1
+@MARC-594b: trb
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 2
+@MARC-594b: vl 2
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 2
+@MARC-594b: basso
+@MARC-594c: 1
+@MARC-594a: flautino (2), cl 1 in C (2), cl 2 in C (2), cor in D (2), fag, tr in D (2), timp, contra-fag, trb, vl 1 (2), vl 2 (2), vla (2), basso
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-700a: Konstantin, Großfürst von Russland
+@MARC-700d: 1779-1831
+@MARC-700j: Ascertained
+@MARC-7000: pe30101399
+@MARC-7004: oth
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1029|1
+@@END:		MARC21
+

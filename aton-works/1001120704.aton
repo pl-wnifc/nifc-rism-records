@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001120704
+@MARC-003:	DE-633
+@MARC-005:	20210720131903.0
+@MARC-008:	200627##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: --B/24''E'B/{6BAGA}4B''C/2.'B2/G4G/
+@MARC-031r: E|b
+@MARC-031t: Powstańcie światłości syny pokornem uczuciem przejęte
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org or pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: B''CD/{8EEEE}{'GG}/{AA}{BB}{''CC}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Conjectural
+@MARC-1000: pe30024097
+@MARC-240a: Powstańcie światłości syny
+@MARC-240m: V, coro, org
+@MARC-240r: E|b
+@MARC-2400: 4040024
+@MARC-245a: [title page, in pencil:] № 4 | Józef Stefani | Autograf
+@MARC-300a: 1 score: 6 p.
+@MARC-300c: 33,7 × 26,3 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Współczesna karta tytułowa.]
+@MARC-591a: inw. 1547
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V, Coro S (2), Coro T, Coro B, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852d: 10667
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1457
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

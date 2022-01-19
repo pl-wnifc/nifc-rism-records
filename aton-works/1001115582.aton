@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001115582
+@MARC-003:	DE-633
+@MARC-005:	20210720131940.0
+@MARC-008:	200519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: S1
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: =5/24.8AB''C/'ABB/244''CCE/
+@MARC-031r: A|b
+@MARC-031t: Benedeictus qui venit in nomine Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: =4/''4E-2-'/24.8AB''C/'ABB/2.4''CE/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Masses
+@MARC-240k: Excerpts
+@MARC-240m: V (4), Coro, orch
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Benedictus.
+@MARC-300a: 1 score: 16 p.
+@MARC-300b: p. 20-36
+@MARC-300c: 35,7 × 26,5 cm
+@MARC-3008: 01
+@MARC-591a: inw. 1666
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594a: S (2), T, B, Coro S (2), Coro T, Coro B, vl (2), vla, vlc, cb, fl, ob, cl (2), fag (2), cor (2), trb (3)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001115577
+@MARC-852a: PL-Wtm
+@MARC-852d: 10502
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1581
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,112 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001144450
+@MARC-003:	DE-633
+@MARC-005:	20210923121058.0
+@MARC-008:	210130##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ''1-CC'AF2BB2.A4F1F
+@MARC-031t: Stabat mater
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-9-1'CC,2.A4F1F2'CC1C,A
+@MARC-031t: Stabat mater
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: T 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: '9.C1CDD9FF1EE9F1FF9F1FF9GG
+@MARC-031t: Stabat mater
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-1-,B'2C,1A4GF2F'CD1C4,BA1GF
+@MARC-031t: Stabat mater
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: '1CC,AF2.B4A1G0F9C
+@MARC-031t: Stabat mater
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Josquin des Prez
+@MARC-100d: 1450p-1521
+@MARC-100j: Ascertained
+@MARC-1000: pe20000367
+@MARC-240a: Stabat mater
+@MARC-240m: V (5)
+@MARC-2400: 3900847
+@MARC-245a: [without title]
+@MARC-260c: [1550-1699]
+@MARC-2608: 01
+@MARC-300a: 5 parts: 6 f.
+@MARC-300c: 20 x 16 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja dopisana ołówkiem u dołu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Po karcie 5 mały fragment karty o wymiarach 2 x 16 cm, oznaczony w lewym górnym rogu ołówkiem jako "6". Na stronie recto i verso widoczne fragmenty tekstu sekwencji "Stabat Mater" i partii tenorowej zapisanej w kluczu C-3.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W prawym górnym rogu kart widoczne ślady po wymazanej paginacji: na kartach 2r, 3r, 4r, 5r: "1."; na kartach 1v, 2v, 4v, 5v: "2."; na karcie 1r: "3."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Nad wszystkimi partiami: "a 5".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r u dołu ołówkiem sygnatura.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na kartach 1r, 2v, 3r, 4v, 5r u dołu pieczęć: "CATH. CRAC. * ARCH. CAPIT."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Utwór wydany w zbiorze "Secunda pars magni operis musici" (Norymberga, 1559), RISM ID no. 993120221.]
+@MARC-500a: [pl-text: Transkrypcja: https://josquin.stanford.edu/cgi-bin/jrp?a=notationNoEditText&amp;f=Jos2509]
+@MARC-590a: S, A, T 1, T 2, B
+@MARC-590b: f. 5, 4, 3, 2, 1
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T (2), B
+@MARC-596a: B/I
+@MARC-596b: 1559/1
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.291
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

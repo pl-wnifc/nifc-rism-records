@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001039227
+@MARC-003:	DE-633
+@MARC-005:	20210628131341.0
+@MARC-008:	180522##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: 107., Allegro
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: ''8DGGG/GGFD/EG{6AGF}E/8DD'BG/
+@MARC-031r: G
+@MARC-031t: A kto chocze Hańdziu znaty
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: ukr
+@MARC-100a: Anonymus
+@MARC-100j: Ascertained
+@MARC-1000: pe30004985
+@MARC-240a: A kto chocze Hańdziu znaty
+@MARC-240m: V, pf
+@MARC-240o: Arr
+@MARC-240r: G
+@MARC-2400: 5033748
+@MARC-245a: 107.
+@MARC-246a: E.130.
+@MARC-300a: score: 1 p.
+@MARC-300c: 20 x 12,5 cm
+@MARC-3008: 01
+@MARC-506a: Treasury of the Library
+@MARC-5063: 51032423
+@MARC-546a: Ukrainian transcribed to latin alphabet.
+@MARC-561a: [pl text: Na wyklejce przedniej strony oprawy wklejony ekslibris hr. Branickich z Suchej].
+@MARC-5613: 51034971
+@MARC-590a: V
+@MARC-590b: p. 122.
+@MARC-5908: 01
+@MARC-590a: pf
+@MARC-590b: p. 122.
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Folk songs
+@MARC-6500: 25313
+@MARC-700a: Lipiński, Karol Józef
+@MARC-700d: 1790-1861
+@MARC-700j: Ascertained
+@MARC-7000: pe105004
+@MARC-7004: arr
+@MARC-700a: Zaleski, Wacław Michał
+@MARC-700d: 1799-1849
+@MARC-700j: Ascertained
+@MARC-7000: pe41011659
+@MARC-7004: edt
+@MARC-700a: Piller, Franciszek
+@MARC-700d: 1798c-1871
+@MARC-700j: Ascertained
+@MARC-7000: pe41011660
+@MARC-7004: pbl
+@MARC-710a: Biblioteka hrabiów Branickich z Suchej Beskidzkiej
+@MARC-710g: Ascertained
+@MARC-7100: ks51005548
+@MARC-7103: 51034971
+@MARC-7104: fmo
+@MARC-773w: 1001036701
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-8523: 51034971
+@MARC-852c: Su II 22139
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 51032423
+@MARC-852c: 13846
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001068931
+@MARC-003:	DE-633
+@MARC-005:	20210707082113.0
+@MARC-008:	190418##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031o: 3/4
+@MARC-031p: {3q''CqEqG}{8C^E^'''C6''CE}{8GGEC}/{AFD'B}4''C/{8CE}4.C^E8E^G/{E^GxD^xF}4.nD^nF8C^E/{'B^''D'B^''D}'4B^''D{6EF}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kościuszko, Tadeusz
+@MARC-100d: 1746-1817
+@MARC-100j: Conjectural
+@MARC-1000: pe30014456
+@MARC-240a: Polonez Kościuszki
+@MARC-240m: keyb
+@MARC-240n: BurhardtP 1976 nr 1293
+@MARC-240r: C
+@MARC-2400: 5216436
+@MARC-245a: [caption title:] Polonez | Kościuszki
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Concordance to RISM ID 1001069377 (PL-SA 551/A IX 31, entitled "Polonez Kościuszko", in B Major, embellished in another way), 1001123666 (PL-SA 566.3/A IX 46).
+@MARC-500a: Many concordances, anonymous or with Tadeusz Kościuszko as composer, also with lyrics: "Patrz Kościuszko na nas z nieba", "Sehr macht uns den Abschied traurig" or "Auf zur Rache Brüder euch beseele Mut".
+@MARC-590a: keyb
+@MARC-590b: p. 28-29
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-690a: BurhardtP 1976
+@MARC-690n: nr 1293
+@MARC-6900: lit1004
+@MARC-691a: BurhardtP 1976
+@MARC-691n: p. 23
+@MARC-6910: lit1004
+@MARC-691a: Nowak-RomanowiczK 1995
+@MARC-691n: p. 93
+@MARC-6910: lit41002416
+@MARC-730a: Patrz Kościuszko na nas z nieba
+@MARC-730g: RISM
+@MARC-7300: 4325186
+@MARC-773w: 1001068286
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 549/A IX 29
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

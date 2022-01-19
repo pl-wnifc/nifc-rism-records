@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001136540
+@MARC-003:	DE-633
+@MARC-005:	20210923121035.0
+@MARC-008:	201122##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: C coro
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: 2,EGA1B2',A2.G4G2AGx1F1.E/
+@MARC-031r: e
+@MARC-031t: Insignis mater incarnati Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T Coro
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: 2,BB'D1D2D2.,B4B2'C,B1B
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B Coro
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: 2,EED4,,GAB',C2D2.E4E
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Gorczycki, Grzegorz Gerwazy
+@MARC-100d: 1665p-1734
+@MARC-100j: Ascertained
+@MARC-1000: pe30009207
+@MARC-240a: Insignis mater incarnati Dei
+@MARC-240m: Coro: C, T, B
+@MARC-240r: e
+@MARC-2400: 59176
+@MARC-245a: [without title]
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 20 x 165 cm
+@MARC-3008: 01
+@MARC-590a: Coro: C, T, B
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Sequences
+@MARC-6500: 25249
+@MARC-773w: 1001135513
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

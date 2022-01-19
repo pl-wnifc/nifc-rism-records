@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114434
+@MARC-003:	DE-633
+@MARC-005:	20210720131946.0
+@MARC-008:	200507##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Mazur
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: '''8{D''A'''D}{6.3/''ABAG8F}/gF{6.3E'A}{8.6''CE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Mazur
+@MARC-031g: G-2
+@MARC-031m: S1
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: 6.3B''C8.6DxC/6.3DxC8D'B/
+@MARC-031r: G
+@MARC-031t: Hołd swej czci niosą rodacy
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Hołd swej czci niosą rodacy
+@MARC-240m: V (2), pf
+@MARC-240r: D
+@MARC-2400: 50231448
+@MARC-245a: [title page:] Mazur /: z chórem :/ | ofiarowany | z powodu Jubileuszu pięćdziesięcioletniej służby Rządowej | Jaśnie Wielmożnemu Tajnemu Radcy | Łaszczyńskiemu | Gubernatorowi Cywilnemu Gubernii | Warſzawskiéj | Prezesowi Dyrekcyi Ubezpieczeń | Kawalerowi wysokich orderów | przez | Józefa Stefaniego | Dyrektora Orkiestry Wielkiego Teatru | w dowód czci i uwielbienia.
+@MARC-260c: [1857]
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 34 x 27,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]
+@MARC-500a: [pl-text: Dawna sygnatura wykreślona ołówkiem.]
+@MARC-591a: inw. 1699
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 2
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V (2), pf
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-700a: Halpert, Borys
+@MARC-700d: 1805-1861
+@MARC-700j: Ascertained
+@MARC-7000: pe50042477
+@MARC-7004: lyr
+@MARC-700a: Łaszczyński, Jakub Ignacy
+@MARC-700d: 1791-1865
+@MARC-700j: Ascertained
+@MARC-7000: pe50042498
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852d: 10989
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1646
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

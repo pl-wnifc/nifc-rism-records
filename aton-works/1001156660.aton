@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001156660
+@MARC-003:	DE-633
+@MARC-005:	20211004084912.0
+@MARC-008:	210519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro ma non troppo
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: 2/4
+@MARC-031p: =/-8-,G/{'DEF6ED}/848EGE/8{DC,A'C}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro ma non troppo
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: 2/4
+@MARC-031p: 8-,G%G-2'4G/%F-48-,G%G-2'4G/%F-48-,G%G-2''4G/%F-48-,G%G-2''4G/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Krakowiak
+@MARC-240m: vl, pf
+@MARC-240n: 9/5
+@MARC-240r: C
+@MARC-2400: 5197247
+@MARC-245a: J.J. Paderewski | Danse Polonaise | (Krakowiak) | finée de l'oeuvre 9|e " pour Violon | avec Piano | 13046. | [illegible] Paris [illegible] 19/8. 85.
+@MARC-260c: 1885-8-19
+@MARC-2608: 01
+@MARC-300a: 1 part: 10 p.
+@MARC-3008: 01
+@MARC-383b: 9/5
+@MARC-500a: p. I: [pl-text: sygnatura "R 262" zapisana ołówkiem.]
+@MARC-500a: p. II: [pl-text: pieczęć "Akademia Muzyczna im. Fr. Chopina | BIBLIOTEKA GŁÓWNA" z sygnaturą "R 262" zapisaną ołówkiem w środku pieczęci, ta sama pieczęć na s. [8]; także pieczęć "CIM." poniżej.]
+@MARC-506a: Magazyn Biblioteki
+@MARC-590a: vl
+@MARC-590b: 7 p.
+@MARC-5908: 01
+@MARC-590a: pf
+@MARC-590b: 5 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl, pf
+@MARC-599b: full
+@MARC-650a: Krakowiaks
+@MARC-6500: 25539
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R262
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

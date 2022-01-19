@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001143664
+@MARC-003:	DE-633
+@MARC-005:	20211110171639.0
+@MARC-008:	210123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C
+@MARC-031n: bB
+@MARC-031p: 2-1F2G/1A2F1bB2A1G/
+@MARC-031t: Ave virgo speciosa
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Gorczycki, Grzegorz Gerwazy
+@MARC-100d: 1665p-1734
+@MARC-100j: Doubtful
+@MARC-1000: pe30009207
+@MARC-240a: Ave virgo speciosa
+@MARC-240m: Coro
+@MARC-2400: 50611
+@MARC-245a: [without title]
+@MARC-260c: 1698
+@MARC-2608: 01
+@MARC-300a: 4 parbooks: f. 1–4
+@MARC-300c: 21 x 17,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro A, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Motette
+@MARC-6500: 3900143
+@MARC-6910: lit41000579
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.337
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

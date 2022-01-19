@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115811
+@MARC-003:	DE-633
+@MARC-005:	20210720131940.0
+@MARC-008:	200520##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: V1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =4/2-8.6-''CDC/4F8.6'A''D{8C'B}{GA}/4.F{6GA}4G8-
+@MARC-031r: F
+@MARC-031t: Radości pełne zabłysło święto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 88.6{'''CDC}/2C+8C''{8CgE8.6DC}/2C'''8C{88.6''ABnB}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Radości pełne zabłysło święto
+@MARC-240m: V (2), pf
+@MARC-240r: F
+@MARC-2400: 50232120
+@MARC-245a: [without title]
+@MARC-260c: 1854-11-09
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 p.
+@MARC-300c: 34,7 × 27,4 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu zapisu nutowego adnotacja: "dnia 9. Listopada 1854 roku | p. JStefani".]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński".]
+@MARC-591a: inw. 1685
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 2
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V (2), pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-650a: Duets (voc.)
+@MARC-6500: 25167
+@MARC-852a: PL-Wtm
+@MARC-852d: 10771
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1634
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001093344
+@MARC-003:	DE-633
+@MARC-005:	20211027135225.0
+@MARC-008:	191111##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEA
+@MARC-031o: 12/8
+@MARC-031p: 2-4-8-4-8A/8qA4A8qA8B{''C'B}A4.''F8E--/4q'A8AAB''C'BA4.''F8E-'E/A''CE4A8G4.F4C8D/b4E8E{ED}C4.'B8--''D/
+@MARC-031r: c
+@MARC-031t: W poświstach wichrów losu
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEA
+@MARC-031o: 12/8
+@MARC-031p: 8{E^CE^CE^C}4.E^C2.E^C/E^C4.D^C8{E^CD^,nB'F^,B/2.'E^C4.D^C{8D^CD,^nB'F^,B/2.'E^C''C^'E^C/2.nAB^F^D/2.nB4.''C^'G^CbB^G^C/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Modlitwa
+@MARC-240m: V, org
+@MARC-240r: c
+@MARC-2400: 4323187
+@MARC-245a: [title page:] Modlitwa
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 3 p.
+@MARC-300c: 36.0 x 26.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na karcie tytułowej znajdują się następujące zapisy: "Pieśń ta wydana w zbiorze: Sześć pieśni N. 3. Modlitwa do słów Wasilewskiego | w Poznaniu u J.K. Żupańskiego | [nieczytelny podpis]"; "(od p. T. Mikulskiego)"]
+@MARC-591a: 610
+@MARC-591a: 5/6 99
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Wasilewski, Edmund
+@MARC-700d: 1814-1846
+@MARC-700j: Ascertained
+@MARC-7000: pe30041368
+@MARC-7004: lyr
+@MARC-700a: Chodowiecki, Antoni
+@MARC-700d: 1837c-1920
+@MARC-700j: Alleged
+@MARC-7000: pe41024905
+@MARC-7004: oth
+@MARC-700a: Mikulski, T.
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe41024906
+@MARC-7004: fmo
+@MARC-700a: Żupański, Jan Konstanty
+@MARC-700d: 1804-1883
+@MARC-700j: Ascertained
+@MARC-7000: pe41024907
+@MARC-7004: pbl
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 954
+@@END:		MARC21
+

@@ -1,0 +1,52 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001086068
+@MARC-003:	DE-633
+@MARC-005:	20211207144344.0
+@MARC-008:	190914##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: 4''CEC'B/AB''C'A/''DFDC/'B''CD'B/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Lessel, Franciszek
+@MARC-100d: 1780c-1838
+@MARC-100j: Ascertained
+@MARC-1000: pe30004332
+@MARC-240a: Studia kontrapunktyczne
+@MARC-240m: pf
+@MARC-2400: 5215335
+@MARC-245a: [title page:] Franciszek Lessel | Studia kontrapunktyczne | Autograf z domniemanymi poprawkami Josepha Haydna, [ok. 1805].
+@MARC-246a: [caption title:] Studia "kontrapunktyczne" własnoręczne Fr. Leslla | zapewne z poprawkami oryginalnymi Józefa Haydna.
+@MARC-260c: ca. 1805
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 p.
+@MARC-300c: 26 x 34,5 cm
+@MARC-3008: 01
+@MARC-591a: 8377
+@MARC-591a: inw. 926
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Contrapuntal studies (inst./voc.)
+@MARC-6500: 25212
+@MARC-700a: Haydn, Joseph
+@MARC-700d: 1732-1809
+@MARC-700j: Ascertained
+@MARC-7000: pe55803
+@MARC-7004: oth
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1185
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

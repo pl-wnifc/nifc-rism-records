@@ -1,0 +1,62 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147317
+@MARC-003:	DE-633
+@MARC-005:	20210923121114.0
+@MARC-008:	210221##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9.,G1GD/GFBF/2-1D2D2.D4EFG2A/'DD2.D4C,BAGA/b2.B4A1G'9D/
+@MARC-031q: [pl-text: Pisownia incypitu w źródle: "Pueri Hebraorum portantes".]
+@MARC-031t: Pueri Hebraeorum portantes
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Ingegneri, Marc'Antonio
+@MARC-100d: 1535c-1592
+@MARC-100j: Ascertained
+@MARC-1000: pe30005043
+@MARC-240a: Pueri Hebraeorum portantes
+@MARC-240m: V (5)
+@MARC-2400: 3900872
+@MARC-245a: [at the beginning, on the staff:] Dominica | Palmarum
+@MARC-260c: [1590-1799]
+@MARC-2608: 01
+@MARC-300a: 1 part: 2 p.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Głos basowy z pięciogłosowego utworu opublikowanego w zbiorze "Corollarium cantionum sacrarum" (Norymberga, 1590) (RISM ID no. 1001122489).]
+@MARC-590a: B
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S (2), A, T, B
+@MARC-596a: B/I
+@MARC-596b: 1590/5
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Dominica Palmarum
+@MARC-6570: 3005614
+@MARC-773w: 1001147312
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.176
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

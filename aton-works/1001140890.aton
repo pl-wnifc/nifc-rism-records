@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001140890
+@MARC-003:	DE-633
+@MARC-005:	20210923121022.0
+@MARC-008:	201227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEAD
+@MARC-031o: 4/4
+@MARC-031p: ''2C 4DC / 4. C '8B 4A 4- / ''4E {8.C '6A} ''4.F 8D / 4C '4B 4- B /
+@MARC-031r: A|b
+@MARC-031t: Oycze nasz Któryś iest w Niebie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBEAD
+@MARC-031o: 4/4
+@MARC-031p: '2E 4FE / 4.D 8D 4C 4- / CEDF / EE 4- E /
+@MARC-031r: A|b
+@MARC-031t: Oycze nasz Któryś iest w Niebie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEAD
+@MARC-031o: 4/4
+@MARC-031p: ,2.A 4A / 4.G 8G 4A 4- / 2A {8A nA} 4B / AG 4- 4E /
+@MARC-031r: A|b
+@MARC-031t: Oycze nasz Któryś iest w Niebie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEAD
+@MARC-031o: 4/4
+@MARC-031p: ,,2.A 4A / 4.A 8A 4A 4- / A ,C DD / EE 4- E /
+@MARC-031r: A|b
+@MARC-031t: Oycze nasz Któryś iest w Niebie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Ojcze nasz któryś jest w niebie
+@MARC-240m: Coro: SATB
+@MARC-240r: A|b
+@MARC-2400: 4041477
+@MARC-245a: [text incipit:] Oycze nasz któryś iest w niebie
+@MARC-246a: Offertorium
+@MARC-300a: 4 parts
+@MARC-300c: 32,1 x 23,2 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Nad partią Soprano, Alto i Tenore adnotacja: "in As."]
+@MARC-520a: 1 sacred song
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 6v, 14v, 22v, 30v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594a: S coro, A coro, T coro, B coro
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-773w: 1001140238
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.388
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

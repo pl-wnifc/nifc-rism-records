@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001143617
+@MARC-003:	DE-633
+@MARC-005:	20211110152736.0
+@MARC-008:	210123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: F-4
+@MARC-031m: bc
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ,BEDC/8{,,B,DEF}{,,B,BBB}/
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato
+@MARC-031g: C-1
+@MARC-031m: C
+@MARC-031n: bBE
+@MARC-031p: 8''D6{C'B}8BB6.{B6''D}4E/
+@MARC-031t: Alma redempetoris
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Costanzi, Giovanni Battista
+@MARC-100d: 1704-1778
+@MARC-100j: Doubtful
+@MARC-1000: pe20000434
+@MARC-240a: Alma redempotoris mater
+@MARC-240m: Coro, org
+@MARC-2400: 5065820
+@MARC-245a: [title page:] Alma Redemptoris Mater | a 3 | Canto, Alto, e Basso | con ripieni | Organo | Del sig. Gio: Batt'a Costanzi | Mro' di capella diS. Pietro in Roma
+@MARC-260c: 18th c.
+@MARC-2608: 01
+@MARC-300a: partbooks: f. 1–8
+@MARC-300c: 24,5 x 18 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro A, Coro T, Coro B, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-6910: lit41000579
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.327
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

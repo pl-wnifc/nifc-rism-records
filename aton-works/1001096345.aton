@@ -1,0 +1,64 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001096345
+@MARC-003:	DE-633
+@MARC-005:	20211027135247.0
+@MARC-008:	191128##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: =/6682.1{EFE}+E/+E/{EFE}+E/+2E{6EFEF}4E/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro non troppo presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: =/6682.1{EFE}+E/+2E+8E-A/6{EF8E}+2E/+4E-
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Żegluga
+@MARC-240m: vl (2), vla, vlc, cb, physharmonica, pf 4hands
+@MARC-240o: Arr
+@MARC-2400: 5220690
+@MARC-245a: [caption title:] № 3. [space] Żegluga.
+@MARC-260c: ca. 1867
+@MARC-2608: 01
+@MARC-300a: 1 score: 24 p.
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: physharmonica
+@MARC-594b: pf 4hands
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, physharmonica, pf 4hands
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-773w: 1001096340
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1740/M
+@@END:		MARC21
+

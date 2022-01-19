@@ -1,0 +1,80 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001114907
+@MARC-003:	DE-633
+@MARC-005:	20210720131938.0
+@MARC-008:	200513##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o mod[erat]o
+@MARC-031g: G-2
+@MARC-031m: V1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 6{''C'B}AB''8CD/C4F'8A/
+@MARC-031r: F
+@MARC-031t: Pełen nadziei radosnej Sieiesz w uprawnym zagonie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: All[egr]o mod[erat]o
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 6{''C'B}{AB}{''8CD/C4F'8A/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Siewacz
+@MARC-240m: V (2), pf
+@MARC-240r: F
+@MARC-2400: 50231674
+@MARC-245a: [caption title:] № 16. [space] Siewacz /: myśl z Szylera :/ | przekład Kamińskiego
+@MARC-300a: 1 score: 4 p.
+@MARC-300b: p. 18-21
+@MARC-300c: 36 x 26,4 cm
+@MARC-3008: 01
+@MARC-591a: inw. 1706
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 2
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V (2), pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-650a: Duets (voc.)
+@MARC-6500: 25167
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Schiller, Friedrich von
+@MARC-700d: 1759-1805
+@MARC-700j: Ascertained
+@MARC-7000: pe127603
+@MARC-7004: lyr
+@MARC-700a: Kamiński, Jan Nepomucen
+@MARC-700d: 1777-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe41021978
+@MARC-7004: lyr
+@MARC-7004: trl
+@MARC-773w: 1001114855
+@MARC-852a: PL-Wtm
+@MARC-852d: 10767
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1659
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

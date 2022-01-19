@@ -1,0 +1,112 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001147330
+@MARC-003:	DE-633
+@MARC-005:	20210923121115.0
+@MARC-008:	210221##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 0- / '1DGE / 2E 9nFG 1G /
+@MARC-031t: Verbum caro
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: ,1G'C / ,1A 9B / '9C 1D /
+@MARC-031t: Verbum caro
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: ,1DG / 9EF 9G / 1- /
+@MARC-031t: Verbum caro
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 0-9- / ,,1G,C / ,,A / ,D 9C /
+@MARC-031t: Verbum caro
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B rip
+@MARC-031o: c/
+@MARC-031p: 0-9- / ,,1G,C,,A / ,1D 9C /
+@MARC-031t: Verbum caro
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Verbum caro factus est
+@MARC-240m: SATB Brip
+@MARC-2400: 5153048
+@MARC-245a: [text incipit:] Verbum caro factus est
+@MARC-260a: Cracow
+@MARC-260c: XVII-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score: 5 f.
+@MARC-300a: 5 parts
+@MARC-300c: 16 x 18 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na kartach 1r, 2r, 3r, 4r, 5r owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na kartach 1v, 3v, 4v, 5v zapisany obcy materiał nutowy, na karcie 4v adnotacja "Ave coro V.V." oraz początek zapisanej partii basowej "Laudamus te"]
+@MARC-5008: 01
+@MARC-500a: ,
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 3r-3v
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 4r
+@MARC-5908: 01
+@MARC-590a: B rip
+@MARC-590b: f. 5r-5v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, B rip
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.306
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

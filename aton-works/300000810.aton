@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000810
+@MARC-003:	DE-633
+@MARC-005:	20201029163354.0
+@MARC-008:	121212##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: cl 2l
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4.'E8,B4.'G8D/4EG''C'B/2GG/4AAA-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Malik, Jan
+@MARC-100d: 1800c-1866
+@MARC-100j: Ascertained
+@MARC-1000: pe30023932
+@MARC-240a: Marches
+@MARC-240m: winds, stck
+@MARC-240r: E|b
+@MARC-2400: 3900043
+@MARC-245a: [without title]
+@MARC-260c: 1857
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-3008: 01
+@MARC-500a: Comment on scoring: cl 1, 2 in B|b
+@MARC-590a: cl 1, 2, cor 1 and 2 in E|b, tr 1, 2, bombardone, gran cassa
+@MARC-590b: f. 1r, 1r, 1r, 1r, 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: bombardone
+@MARC-594c: 1
+@MARC-594b: gran cassa
+@MARC-594c: 1
+@MARC-594a: cl (2), cor (2), tr (2), bombardone, gran cassa
+@MARC-599b: full
+@MARC-650a: Marches
+@MARC-6500: 25189
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.903
+@MARC-6910: lit1869
+@MARC-700a: Dziwlikiewicz, Daniel
+@MARC-700d: 1803-1875
+@MARC-700j: Verified
+@MARC-7000: pe30040502
+@MARC-7004: oth
+@MARC-773w: 300000809
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 11
+@MARC-852d: N|o 63
+@MARC-852d: 177
+@MARC-852d: 7
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-156
+@@END:		MARC21
+

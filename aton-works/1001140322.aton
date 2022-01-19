@@ -1,0 +1,139 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001140322
+@MARC-003:	DE-633
+@MARC-005:	20210923121019.0
+@MARC-008:	201220##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: =4/2.''E4E/'2.A4B/''2CD/1'B/4AB2''C/4C8'{BA}4GA/2B4E
+@MARC-031r: a
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: =2/2.41EE/,A/B'C/D/2ED/1D/2'CE+/EC/DE/FD/C4EF/1E/2E-/
+@MARC-031r: a
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Kyrie
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: =8/2.4,AA/EF/2GA/1F/2EA/+AxG/2.'C4D/E,A'FE/DC2D/1C/
+@MARC-031r: a
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Kyrie
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 2.4,AA/EF/2GA/1F/4ExFGE/xFDFxG/AnGxF8{EF}/42xGAG/A
+@MARC-031r: a
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 1''E/2'A''C+/4C8'{BA}4B''C/2DD/4C'B''CD/2E'A/EG/4G8{xFE}4FG/2.A4A/2G
+@MARC-031r: a
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Gloria
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: =5/1E/2,A4'DE/2FF/1E/2-xF/GE/,2.B4B/1B/
+@MARC-031r: a
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031d: Gloria
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: =/1,A/2EG/+4G8x{FE}4FG/AGAB/2.'C4D/2ED/D
+@MARC-031r: a
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 4
+@MARC-031d: Gloria
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: =4/1,A/2,,A,C/+4C8,,{BA}4B,C/1D/,,A/2,ED/1C/,,2.B4B/,1E/
+@MARC-031r: a
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Zieleniewicz, Mathias
+@MARC-100d: 18.sc
+@MARC-1000: pe50045913
+@MARC-240a: Msza Isza
+@MARC-240m: Coro
+@MARC-240r: a
+@MARC-2400: 50244299
+@MARC-245a: [on score:] Msza I|s|z|a przez Xiędza Zieleniewicza Pro: Kapel: Ro: roku 1724 | in A mol
+@MARC-260c: 1724
+@MARC-2608: 01
+@MARC-300a: score, 7 parts, 24 f.
+@MARC-300c: 33 cm x 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć "CATH. CRAC. * ARCH. CAPIT." na dole ostatniej strony partytury i partii Basso oraz na stronach recto drugich egzemplarzy partii S, A, T.]
+@MARC-500a: [pl-text: Sygnatura Kk.I.482 ołówkiem na początku drugich egzemplarzy partii S, A, T.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Arkusze papieru w partyturze ponumerowane w lewym górnym rogu.]
+@MARC-590a: score, S (x2), A (x2), T (x2), B
+@MARC-590b: 19, 4, 4 ,4 ,4 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773w: 1001140268
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.482
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

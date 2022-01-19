@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001112988
+@MARC-003:	DE-633
+@MARC-005:	20211029154836.0
+@MARC-008:	200424##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8{FF}/4F,,,B'{8GG/2.G4/E,,,B{'8GG/2.G4/D
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Śmietański, Emil Władysław
+@MARC-100d: 1845-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe50041781
+@MARC-240a: Waltzes
+@MARC-240m: pf
+@MARC-240n: Op. 1 No. 3
+@MARC-240r: E|b
+@MARC-2400: 3900012
+@MARC-245a: [caption title:] Valse de Concert № 3. | E. Śmietański.
+@MARC-260c: ca. 1866
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 33 x 26 cm
+@MARC-3008: 01
+@MARC-383b: Op. 1 No. 3
+@MARC-500a: [pl-text: Grzbiet rękopisu częściowo podklejony paskiem papieru.]
+@MARC-500a: [pl-text: Na końcu rękopisu adnotacja: "(Stadtpark.)" oraz szkic innego utworu ołówkiem]
+@MARC-500a: [pl-text: Poprawki ołówkiem.]
+@MARC-590a: pf
+@MARC-590b: 4 p.
+@MARC-5908: 01
+@MARC-591a: inw. 961
+@MARC-591a: mf. 24078
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Waltzes
+@MARC-6500: 25220
+@MARC-773w: 1001112982
+@MARC-787n: Op. 1 No 1
+@MARC-787w: 1001112881
+@MARC-7874: rdau:P60191
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2018
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

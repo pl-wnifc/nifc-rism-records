@@ -1,0 +1,62 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001142091
+@MARC-003:	DE-633
+@MARC-005:	20210923120951.0
+@MARC-008:	210108##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-3
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,1.F 2F 2D ,,B ,1FGF /
+@MARC-031t: Non turbetur cor vestrum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Mel, Rinaldo del
+@MARC-100d: 1554c-1598c
+@MARC-100j: Conjectural
+@MARC-1000: pe327026
+@MARC-240a: Non turbetur cor vestrum
+@MARC-240m: B
+@MARC-2400: 3021389
+@MARC-245a: [text incipit:] Non tur betur
+@MARC-260c: after 1588
+@MARC-2608: 01
+@MARC-300a: 1 item
+@MARC-300a: 1 part
+@MARC-300a: 1f
+@MARC-300c: 25,4 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na karcie 4r okrągła pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Rękopiśmienna kopia partii basowej pięciogłosowego motetu R. del Mel, zamieszczonego pierwotnie w druku "Continuatio Cantionum sacrarum 4, 5, 6, 7, 8 et plurium voc. ... studio &amp; opera Friderici Lindneri" (Norymberga 1588)]
+@MARC-520a: Bass part from the motet
+@MARC-590a: B
+@MARC-590b: 4r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-657a: Ascensio Domini
+@MARC-6570: 24320
+@MARC-773w: 1001141440
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.356
+@MARC-856u: https://ks.imslp.net/files/imglnks/usimg/2/23/IMSLP502306-PMLP813792-lindner_var_continuatio_cantionum_sacrarum_C.pdf
+@MARC-856x: Digitalization
+@MARC-856z: Link to digitized, related printed source
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

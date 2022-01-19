@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001141054
+@MARC-003:	DE-633
+@MARC-005:	20210923121024.0
+@MARC-008:	201228##################################
+@MARC-031a: 8
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4EFGA/4.B8''C4'B-/GA4.B8A/4GFE-/
+@MARC-031r: E|b
+@MARC-031t: Posyła do panny
+@MARC-0312: pe
+@MARC-031a: 8
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4,BB'EE/2E4E-/EE4.E8F/4EDE-/
+@MARC-031r: E|b
+@MARC-031t: Posyła do panny
+@MARC-0312: pe
+@MARC-031a: 8
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4,GBB'C/4.,G8A4G-/BA4.G8'C/4,BAG-/
+@MARC-031r: E|b
+@MARC-031t: Posyła do panny
+@MARC-0312: pe
+@MARC-031a: 8
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4,EDEE/2E4E-/8{EbD}4C4.,,B8A/2B4,E-/
+@MARC-031r: E|b
+@MARC-031t: Posyła do panny
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Posyła do panny
+@MARC-240m: Coro
+@MARC-240r: E|b
+@MARC-2400: 50244577
+@MARC-245a: 8.
+@MARC-260c: [19th c.]
+@MARC-2608: 01
+@MARC-300a: 4 parts; 4 p.
+@MARC-300c: 33 cm x 25,5 cm
+@MARC-3008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: 4r; 5r; 6r; 7r;
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001141040
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.487
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

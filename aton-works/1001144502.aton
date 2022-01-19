@@ -1,0 +1,80 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001144502
+@MARC-003:	DE-633
+@MARC-005:	20210923121058.0
+@MARC-008:	210201##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,1F 2D 2.F 4EDC / ,,2BG ,9C ,,2F ,1F 2E /
+@MARC-031t: Ave Hierarchia
+@MARC-0312: pe
+@MARC-031a: 2
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9- / ,1D ,,2GB / 1A 2G ,G /
+@MARC-031t: Ave Maria
+@MARC-0312: pe
+@MARC-031a: 3
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,1F 2D ,,B ,1C ,,2F ,F D ,,B /
+@MARC-031t: Sactus sanctus
+@MARC-0312: pe
+@MARC-031a: 4
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,1FCD 1.C ,,4BAG 4.A 8G 2F ,F nEC /
+@MARC-031t: Pleni sunt caeli
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: 4 Sacred songs
+@MARC-240m: B
+@MARC-2400: 3912146
+@MARC-245a: [caption title:] Pro Offertorio
+@MARC-246a: Pro Offertorio
+@MARC-260a: Cracow
+@MARC-260c: XVII-XIX
+@MARC-2608: 01
+@MARC-300a: 4 scores: 1f.
+@MARC-300c: 21,5 x 15 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: k. 1v: owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-520a: 4 scores
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.362
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

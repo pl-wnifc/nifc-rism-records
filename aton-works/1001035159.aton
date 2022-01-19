@@ -1,0 +1,107 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035159
+@MARC-003:	DE-633
+@MARC-005:	20210627213129.0
+@MARC-008:	180313##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 1'B^'D^,B/8'D-E-F--F/G-A-B-{6''E8.C}/8D-{6E8.C}8D-{6E8.C}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4.G8A4G/8.B{8''bDC'B}/{BAAGGF}/{6FEGF}4E-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/8
+@MARC-031p: {'6DFBFBF}/{FB''D'B''D'B}/{B''DFDFD}/{DFBFBF}/{G'B''B'B''G'B}/{''F'B''B'B''G'B}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Bach, Johann Christian
+@MARC-100d: 1735-1782
+@MARC-100j: Ascertained
+@MARC-1000: pe2530
+@MARC-240a: Symphony
+@MARC-240m: orch, b
+@MARC-240n: TerB 280/16
+@MARC-240n: WarB C Inc 1
+@MARC-240r: B|b
+@MARC-2400: 3993700
+@MARC-245a: [cover title:] Sinfonia ex B: | A | Vocibus 5 | Violino 1mo | Violino 2do | Cornu 1mo | Cornu 2do | Alto Viola | Basso | ex Rebus | Stawisz
+@MARC-260c: 1770-1773
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 37,5 x 25 cm
+@MARC-3008: 01
+@MARC-500a: cor 1 and 2 parts missing
+@MARC-5008: 01
+@MARC-500a: Composer identified on the basis of RISM ID 240001010, 190009615, 850002017 and many others.
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 2, 2, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc/incpl)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: a-vla
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), a-vla, cor (2), b
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-690a: WarB
+@MARC-690n: C Inc 1
+@MARC-6900: lit3490
+@MARC-690a: TerB
+@MARC-690n: 280/16
+@MARC-6900: lit103
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 274
+@MARC-6910: lit1891
+@MARC-700a: Stawisz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41020337
+@MARC-7004: fmo
+@MARC-7004: scr
+@MARC-710a: Kolegiata w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51001537
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 234/A VI 38
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

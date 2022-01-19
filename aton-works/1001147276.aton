@@ -1,0 +1,62 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147276
+@MARC-003:	DE-633
+@MARC-005:	20210923121112.0
+@MARC-008:	210220##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 9CDEDDE1D/9DE1F9GEFDCDEF(E)//
+@MARC-031t: Alleluia post partum virgo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 2,CE2.F4G/AGFE/1D+/2.D{8C,,B}4AB2,C/n9,,B1A,D/2C
+@MARC-031t: Alleluia post partum virgo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Alleluia. Post partum virgo
+@MARC-240m: Coro
+@MARC-2400: 4340217
+@MARC-245a: [subject heading:] A Nativitate Dni | usq ad Punificationem
+@MARC-260c: 18th century
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-590a: S, A, T, B, B (2)
+@MARC-590b: f. 2v, 4v, 6v, 8v, 10r-v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 2
+@MARC-594a: S, A, T, B (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001147273
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.272
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,153 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001140245
+@MARC-003:	DE-633
+@MARC-005:	20210923121019.0
+@MARC-008:	201219##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie, Moderato
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =3/4.''C8C4C4C/2C4FE/ED2C/4C'nB'bBA/AG2-/4-GBA/AG2-/
+@MARC-031r: F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie, Moderato
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =2/4.F8F4FF/FE-8EE/2FF/FF/4GGGF/FE2-/4-EGF/FE2-/
+@MARC-031r: F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Kyrie, Moderato
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =1/4.C8C4CC/2,A4nBB/nB'C-8CC/4C,AbB'C/2,BA/4.G8'C4CC/CC4.C8C/1C+/4C-4.C8C/1C/
+@MARC-031r: F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Kyrie, Moderato
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.,F8F4FF/2F4EbE/2DG/4C-4.B8B/4AFGA/2BF/4ECFA/'C,C4.C8C/1C+/4C-4.C8C/1C/
+@MARC-031r: F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria, Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.F8F2F/4.B8A2A/4AFB''D/1F/4F-CC/1C+/2CC4/C-2-/
+@MARC-031r: F
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Gloria, Allegro moderato
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.F8F2F/4.F8F2F/4FCDD/2CD/4C-2-/
+@MARC-031r: F
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031d: Gloria, Allegro moderato
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.,F8F2F/4.'D8C2C/4C,ABB/2AB/4A-'CC/1C+/2CC/4C-2-/
+@MARC-031r: F
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 4
+@MARC-031d: Gloria, Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4.,F8F2F/4.F8F2F/4FFD,,B/2FB/4F-2-/
+@MARC-031r: F
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Studziński, Wincenty
+@MARC-100d: 1815-1854
+@MARC-1000: pe41023091
+@MARC-240a: Msza
+@MARC-240m: Coro, org
+@MARC-240r: F
+@MARC-2400: 50243883
+@MARC-245a: Msza na | Cztery głosy przez | Wincentego Studzińskiego i Piotra (bracia)
+@MARC-260c: 19th c.
+@MARC-2608: 01
+@MARC-300a: Parts; 19 f.
+@MARC-300c: 32 cm x 25 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć okrągła: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na pierwszej stronie S.]
+@MARC-500a: [pl-text: Pieczęć "CATH. CRAC. * ARCH. CAPIT." na dole pierwszych i ostatnich stron partii.]
+@MARC-500a: [pl-text: Sygnatura Kk.I.476 ołówkiem na początku każdej partii.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-590a: S, A, T, B, Org
+@MARC-590b: 9, 10, 7, 7, 9 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Studziński, Piotr
+@MARC-700d: 1826-1869
+@MARC-700j: Ascertained
+@MARC-7000: pe50044409
+@MARC-7004: ctb
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.476
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

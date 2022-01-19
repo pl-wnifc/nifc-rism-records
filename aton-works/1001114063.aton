@@ -1,0 +1,59 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114063
+@MARC-003:	DE-633
+@MARC-005:	20210720131935.0
+@MARC-008:	200504##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introduction. Moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEADG
+@MARC-031o: 12/8
+@MARC-031p: gE{8DCD}{EFE}{D''C'B}4.A/b''gC{8bb'BAB}gbF{EDE}{AnbBE4.}A/
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Waltzes
+@MARC-240m: pf
+@MARC-240r: D|b
+@MARC-2400: 3900012
+@MARC-245a: [title page:] [view of Edinburgh] | Walec Oryginalny | ofiarowany | J[aśnie]P[annie] Wilhelminie Sennewald | przez | Wilhelma Troschel
+@MARC-260c: before 1887
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 28 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Rękopis sporządzony na papierze z wydrukowanymi pięcioliniami i akoladami, obramowaniem stron oraz informacją: "J. &amp; F. HARDWOOD LONDON." Na pierwszej i ostatniej stronie znajdują się wydrukowane widoki Edynburga]
+@MARC-590a: pf
+@MARC-590b: 8 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2276
+@MARC-591a: A-21.312
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Waltzes
+@MARC-6500: 25220
+@MARC-700a: Sennewald, Wilhelmina
+@MARC-700d: 1830-1915
+@MARC-700j: Ascertained
+@MARC-7000: pe50042435
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2304
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

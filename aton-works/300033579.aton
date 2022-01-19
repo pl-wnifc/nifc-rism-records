@@ -1,0 +1,228 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033579
+@MARC-003:	DE-633
+@MARC-005:	20201029163431.0
+@MARC-008:	121204##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''{8F6AF}8{D'DE''C}/{6D'FGA}{B''CDE}{FGFE}/{8D6AF}{8D'DE''C}/{6D'AB''C}{DEFG}{ABAG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''2D4C/8DD4D-/DDC/CD-/
+@MARC-031r: D
+@MARC-031t: Dixit Dominus, Domino meo sede a dextris meis
+@MARC-031t: Cum invocarem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: {8.B3AB}{8.''C3'B''C}/{8.''D6E}{8D'B}/{A6A''C}{8'B6B''D}/4''C{8'B6B''D}/{DC8'A}
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =18/{8.B3AB}8.''C{3'B''C}/8.''D6E8D'B/{8A6A''C}8'B{6B''D}/4C8'B{6B''D}/{DC}8'A-
+@MARC-031r: G
+@MARC-031t: Tecum principium in die virtutis tuae, in splendoribus sanctorum
+@MARC-031t: In te Domine speravi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Gloria. Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: {6''D'BBB}{BG''D'B}{3AGAB}{6''CC}{C'BBA}/{A''CCC}{C'A''DC}{'3BAAB}{6''DD}{DCC'B}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Gloria Patri. Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: 4B8BB4AA/''C8CC8.'B6B4B/BB8.''C6C4D/2D4C
+@MARC-031r: G
+@MARC-031t: Gloria patri, et filio et spiritui sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Nunc dimittis
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''FC8C{6D'FGA}{B''CDE}/{8FF}{8.E3DE}{6FDEF}{GAB'''C}/{8'''D33''ABAG}{6AB'''CD}{8.''B3AB}{6A'''D''FA}/
+@MARC-031q: [pl-text: Skreślono "Magnificat", później dopisano "Nunc dimittis"]
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''D8DC4D-/D8DC4D-/8FFFF4G8FF/4ED6CDC
+@MARC-031r: D
+@MARC-031t: Magnificat, anima mea Dominum
+@MARC-031t: Nunc dimitis servum tuum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Et misericordia. Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: ''2E{8FD}/4.C{6'B''C}{8D6CD}/2E{8FD}/{D6CD}{6C'B''CD}{8E6DC}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: =8/2''E{8FD}/4.C{6'B''C}{8D6C''D}/2E8FD{D6CD}4C8E{6DC}/
+@MARC-031r: A
+@MARC-031t: Et misericordia
+@MARC-031t: Gloria patri
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Gloria. Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: {8.''F6D}{6FDAF}/{(EFG}){FA}{(AGF}){(EDC})/{DFFA}{GFED}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''F8FF/8E8F4-/F8DD/6CC8D-/4FE/
+@MARC-031r: D
+@MARC-031t: Gloria patri
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Dankowski, Adalbert
+@MARC-100d: 1760c-1814c
+@MARC-100j: Ascertained
+@MARC-1000: pe30000793
+@MARC-240a: Vespers
+@MARC-240m: Coro, vl (2), clno (2), bc
+@MARC-240r: D
+@MARC-2400: 3900116
+@MARC-245a: [dust cover title:] Dixit. et Magnificat. [by other hand with pencil:] D | Canto Alto. | Tenore Basso.| Violino Primo. | Violino Secondo. | [in brace from the right side: Cornu. Primo. | Cornu. Secondo] [behind brace: ex D] | et | Organo. | Composes. par Dankowski | pro Choro C: M: Częstohoviens.
+@MARC-300a: 9 parts
+@MARC-300c: 36 x 22,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Zachowana jest tylko jedna karta f. 1r okładki]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: w prawym górnym rogu tuszem "4."; u góry na środku ręką nieznanego Paulina "N|o 44"; poniżej z prawej strony czerwonym tuszem ręką F. Maletza "N1325/625."; w prawym górnym rogu ołówkiem ręką W. Świerczka "290[?]" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona niebieską kredką oraz parafowana]
+@MARC-500a: [pl-text: Na okładce f. 1v ołówkiem ręką P. Podejki: "Sygnatura wyblakła [czerwony | kolor =1325/625 | p Cath[alog] notarum | 182"]
+@MARC-590a: S, A, T, B, vl 1, 2, org (= bc), clno 1, 2
+@MARC-590b: 4, 3, 2, 3, 5, 5, 4, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: W (crowned) / BRESLAV
+@MARC-5928: 01
+@MARC-592a: cover, clno 2: [partial:] CAMMERPAPIER | [crowned eagle with sceptre and apple] | CZENSTOCHOW
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl 1, vl 2, clno (2), org
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 32
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.230
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 4
+@MARC-852d: N|o 44
+@MARC-852d: N 1325/625
+@MARC-852d: 290
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-112
+@@END:		MARC21
+

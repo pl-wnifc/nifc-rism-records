@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099847
+@MARC-003:	DE-633
+@MARC-005:	20211027135308.0
+@MARC-008:	200105##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: =2/4.F4B8''C/4.'B4A8G/4.xF4''E8D/4.D+4D8-/4.D4C8'B/4.A4G8A/4.B4G8nE/4.F+8F-F/4.bG4B8G/
+@MARC-031r: B|b
+@MARC-031t: La brigantine qui va tourner
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: =2/8-{F^DF^D}4.B^F^D/8-{A^EA^E}4.A^E/8-{A^xF^DA^F^D}4.A^F^D/8-{B^G^DB^G^D}4.B^G^D/8-{G^CG^C}4.''C'^G^C/8-{A^E^CA^E^C}4.A^E^C/8-{B^D^,B'B^D^,B}-{'G^nE^xCG^E^C}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: fre
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: La brigantine qui va tourner
+@MARC-240m: V, pf
+@MARC-240r: B
+@MARC-2400: 3942914
+@MARC-245a: [without title]
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 1 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Delavigne, Casimir
+@MARC-700d: 1793-1843
+@MARC-700j: Alleged
+@MARC-7000: pe30083386
+@MARC-7004: lyr
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|35
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

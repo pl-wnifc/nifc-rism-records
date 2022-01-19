@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001146906
+@MARC-003:	DE-633
+@MARC-005:	20210720131516.0
+@MARC-008:	210218##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 6/8
+@MARC-031p: (1-)/ 48''DCDD/DCDD/{8DE}D48FE/{8D'B}4''C(4.D)/
+@MARC-031q: Without key signature.
+@MARC-031r: B|b
+@MARC-031t: Wznoś się duszo nad gwar ziemi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: cor 1 in F
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: (2.D)/4.D+4D8-/4.D+4D8-/{8DED}4F8E/{D,B'C}4D8(-)/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Wznoś się duszo nad gwar ziemi
+@MARC-240m: coro, cor (2), trb (2)
+@MARC-240r: B|b
+@MARC-2400: 5221013
+@MARC-245a: [caption title:] Pieśń na pogrzeb ś. p. I. F. Dobrzyńskiego
+@MARC-260c: after 1867-10-10
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 35 x 27,5 cm
+@MARC-3008: 01
+@MARC-591a: inw. 1046
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 2
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, cor (2), trb (2)
+@MARC-599b: full
+@MARC-650a: Funeral music
+@MARC-6500: 25159
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-700a: Dobrzyński, Ignacy Feliks
+@MARC-700d: 1807-1867
+@MARC-700j: Ascertained
+@MARC-7000: pe30020642
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852d: 38d)
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 326/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

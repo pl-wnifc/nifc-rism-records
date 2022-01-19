@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033234
+@MARC-003:	DE-633
+@MARC-005:	20201029163416.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: =7/2-4-'8-G/''4CC+C8CC/4.E8D4C8-'G/''4EEE8EE/4.G8FE
+@MARC-031r: C
+@MARC-031t: Regina caeli, laetare alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031o: c
+@MARC-031p: ''4C{8.C6C}4C{6DC'B''C}/4.E8D4C8-'G/''4E{8.E6E}4E{6FEDE}/4.G8F{6ECDE}{FGAB}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kuci, Mateusz
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30017582
+@MARC-240a: Regina caeli
+@MARC-240m: V (X), Coro, org
+@MARC-240r: C
+@MARC-2400: 3027923
+@MARC-245a: [caption title: Regina Coeli. [space] per. Kuci]
+@MARC-300a: vocal score: f. 33r-37r
+@MARC-3008: 01
+@MARC-500a: [pl-text: Utwór zapisany na czterech pięcioliniach w systemie; Na pierwszej głosy S, A z podpisanym tekstem, nazwy głosów podpisane na początku tekstu słownego; na drugiej pięciolinii w kluczu basowym bez określenia nazwy głosu T i B z podpisanymi słowami; dwie najniższe pięciolinie spięte akoladą, brak nazwy instrumentu; dookreślona na podstawie porównania z obsadą pozostałych utworów w kolekcji]
+@MARC-500a: [pl-text: Od drugiego systemu na f. 35r niepodpisany tekst słowny]
+@MARC-500a: [pl-text: Odcinki solowe w partii Coro S i A]
+@MARC-500a: [pl-text: Od f. 36r nowa część "Maestosso", rozpoczynająca się głosem solowym w kluczu basowym z akompaniamentem organów; brak podpisanego tekstu słownego]
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: V
+@MARC-594c: X
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, V, Coro S, Coro A, Coro T, Coro B, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 772
+@MARC-6910: lit1869
+@MARC-773w: 300033223
+@MARC-852a: PL-CZ
+@MARC-852d: 110
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-87
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

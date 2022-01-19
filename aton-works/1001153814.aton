@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001153814
+@MARC-003:	DE-633
+@MARC-005:	20210923121004.0
+@MARC-008:	210419##################################
+@MARC-031a: 7
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9,G'D4C,BABG2AF2.G4G9D
+@MARC-031t: O adoranda trinitas
+@MARC-0312: pe
+@MARC-031a: 7
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T (2)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =1/1,DG2FDEGx4FD2.A4A2B
+@MARC-031t: O adoranda trinitas
+@MARC-0312: pe
+@MARC-031a: 7
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =6/9,DG2GFb1E2DC1.,,G2G,C
+@MARC-031t: O adoranda trinitas
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Pękiel, Bartłomiej
+@MARC-100d: 1670c+
+@MARC-100j: Ascertained
+@MARC-1000: pe30105642
+@MARC-240a: O adoranda trinitas
+@MARC-240m: V (3)
+@MARC-2400: 56391
+@MARC-245a: [without title]
+@MARC-260c: 17th century
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Konkordancja z Kk.I.7, nr 48 według katalogu "Musicalia vetera". RISM ID 300258146.]
+@MARC-590a: T, T (2), B
+@MARC-590b: f. 11r-v, 10r, 11r-v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: T (2), B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-773w: 1001151827
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.10
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

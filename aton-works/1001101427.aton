@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001101427
+@MARC-003:	DE-633
+@MARC-005:	20211027135310.0
+@MARC-008:	200120##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo di Polacca Maestoso
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =7/4--8BB/2.b''C/4E-8'BB2./b''C/4E-8'BB/
+@MARC-031r: E|b
+@MARC-031t: Sława Tobie, sława
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Tempo di Polacca Maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4.''E{8CCD}/{ECGFEG}/{B'''C''AFEC}/{DE}{F(6'BBB)}8B-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Kantata na 40. rocznicę panowania cesarza Franciszka Józefa
+@MARC-240m: Coro, pf
+@MARC-2400: 50223515
+@MARC-245a: [title page:] Kantata | na obchód | czterdziestoletniej rocznicy | panowania | Cesarza Franciszka Józefa | (dla uczniów gimnazjum w Tarnowie) | na chór mieszany | z towarzyszeniem fortepianu | Muzykę utworzył | Zygmunt Noskowski | Warszawa 1888 | w Listopadzie
+@MARC-260c: 1888-11
+@MARC-2608: 01
+@MARC-300a: 1 piano score: 6 p.
+@MARC-300c: 34 x 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: Inw. 1176
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, pf
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-852a: PL-Wtm
+@MARC-852d: R 1878
+@MARC-852d: 9229
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 65/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

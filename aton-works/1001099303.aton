@@ -1,0 +1,54 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001099303
+@MARC-003:	DE-633
+@MARC-005:	20211027135258.0
+@MARC-008:	191222##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Vilanella
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEADG
+@MARC-031o: 3/4
+@MARC-031p: {8.A6''D}{8.D6E}{8.E6F}/8.{F6A}2A+/4.A8{FgFED}/6{E8.'A}2A+/{8.A6''D}{8.D6E}{8.E6F}/8{FnG}gB2A+/8{AG}-FgF8.{E6D}/2.(D)/
+@MARC-031r: D|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Vilanella
+@MARC-240m: pf
+@MARC-240r: D|b
+@MARC-2400: 4260603
+@MARC-245a: [title page:] Vilanella. | pour le piano | par | S. Moniuszko.
+@MARC-260c: ca. 1865
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 27.5 x 35.0 cm
+@MARC-3008: 01
+@MARC-590a: pf
+@MARC-590b: 3 p.
+@MARC-5908: 01
+@MARC-591a: inw 111
+@MARC-591a: N. 12
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Villanelle
+@MARC-6500: 3006405
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 143
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

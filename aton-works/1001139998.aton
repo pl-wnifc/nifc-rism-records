@@ -1,0 +1,128 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001139998
+@MARC-003:	DE-633
+@MARC-005:	20211018130550.0
+@MARC-008:	201217##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante Maestoso
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =12/2.''G/F/b2E4D/2Dx4C/D--/=11/2.G/F/2bE4D/2bE4D/
+@MARC-031r: d
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 8-/=5/4''D8DD4DD/2D'4A/''FFFF/2F4D-/2.G4G/2G-/
+@MARC-031r: D
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =9/'F8FFFF/2G4G/4G8GGGG/2F4F/AAA/BBG/2F4E/2D-/
+@MARC-031r: D
+@MARC-031t: Credo in unum Deum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: C/
+@MARC-031p: 1''D/2.D4-/=/1F/2.F4-/=/1G/G/2G4GG/2FF/2.D4D/C-2-/
+@MARC-031r: D
+@MARC-031t: Sanctus Sanctus Sanctus Dominus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Agnus, Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4'D2D4D/{8DAAA}{GFED}/4xC2C4C/{8CBBB}{AGFE}/4D--''C/'B--B/A--A/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Righini, Vincenzo
+@MARC-100d: 1756-1812
+@MARC-100j: Ascertained
+@MARC-1000: pe333493
+@MARC-240a: Missa solemnis
+@MARC-240m: Coro, orch, org
+@MARC-2400: 3900743
+@MARC-245a: N: 610 | Missa in D. Solennis. | del Vincenzo Righini eseqvita | nel Domodi Franchfurt li 14. | Julius Anno domi 1792. per il | giorno del Elezione di sua Sacra | Cesarea Maestra l'Imperatore. | Francisco II|do| | Canto Alto | Tenore Basso. | Violino Primo. | Violino Secundo. | Obois vel Clarinetti due | Corno Primo | Corno Secundo [further detached part of the card]
+@MARC-260c: 18th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 11 parts; 112 p.
+@MARC-300c: 21 (23) x 35 (37) cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na odwrocie karty tytułowej oraz na pierwszej stornie partii S (w prawym górnym rogu). Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” pojawia się 28 razy (w dolnym brzegu kart). Na pierwszej stornie partti B oraz org nieczytelna pieczęć.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem. W prawym górnym rogu karty tytułowej ołówkiem zapisana rzymska cyfra "I".]
+@MARC-500a: [pl-text: Na karcie ponad tytułem czerwonym ołówkiem naniesiony napis "N. 19".]
+@MARC-500a: [pl-text: W lewym górnym rogu pierwszej strony każdej partii naniesiony atramentem numer "610".]
+@MARC-500a: [pl-text: We wszystkich partiach poprawki nanoszone czerwonym lub zwykłym ołówkiem. Niektóre karty reperowane.]
+@MARC-500a: [pl-text: W lewym górnym rogu na pierwszej stronie wszystkich partii (poza S) naniesiona ołówkiem sygnatura: "Kk.I.472".]
+@MARC-500a: [pl-text: Wszystkie partie pod koniec zapisu nutowego podpisane: "Jan Libak" (prawdopodobnie).]
+@MARC-500a: [pl-text: W źródle brak partii cor 2.]
+@MARC-590a: Coro: S, A, T, B; vl 1, 2, vla, cl 1, 2, cor 1, org
+@MARC-590b: 10, 12, 12, 12, 12, 12, 8, 8, 8, 6, 12 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cl in C
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: S coro, A coro, T coro, B coro, vl (2), vla, cl in C (2), cor in D, org (= bc)
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Franz I., Kaiser von Österreich
+@MARC-700d: 1768-1835
+@MARC-700j: Ascertained
+@MARC-7000: pe210978
+@MARC-7004: asn
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.472
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

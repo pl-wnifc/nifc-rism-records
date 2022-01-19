@@ -1,0 +1,50 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001136569
+@MARC-003:	DE-633
+@MARC-005:	20210923121036.0
+@MARC-008:	201122##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Powoli
+@MARC-031g: G-2
+@MARC-031m: keyb with text
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: ,4B^'EE^GF^A/4.G^B8A^''C4'G^B/G^B8''C^E'B^''D'A^''C'G^B/4G^BF^AE^G/
+@MARC-031r: E|b
+@MARC-031t: Justorum animae in manu Dei sunt
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Justorum animae in manu Dei sunt
+@MARC-240m: keyb
+@MARC-240r: E|b
+@MARC-2400: 5076121
+@MARC-245a: [caption title:] Ner 1|s|z|y
+@MARC-260c: [1800-1899]
+@MARC-2608: 01
+@MARC-300a: 1 keyboard score: f. 1r-1v
+@MARC-3008: 01
+@MARC-500a: [pl-text: Zapis czterech głosów w formie partytury na instrument klawiszowy, pod najniższym głosem podpisany tekst.]
+@MARC-5008: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001136558
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.489
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

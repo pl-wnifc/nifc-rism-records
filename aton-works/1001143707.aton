@@ -1,0 +1,83 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143707
+@MARC-003:	DE-633
+@MARC-005:	20210923121051.0
+@MARC-008:	210124##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S1 coro
+@MARC-031o: c
+@MARC-031p: 2.''D4D2D1D2D2.C4xC2D/-C1.E2F1DxC/
+@MARC-031r: 7t
+@MARC-031t: Caligaverunt oculi à fletu meo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: T coro
+@MARC-031o: c/
+@MARC-031p: 2.'F4F2F1G2F2.E4xE1D/-E1.G2C1DE/
+@MARC-031r: 7t
+@MARC-031t: Caligaverunt oculi à fletu meo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: B coro
+@MARC-031o: c/
+@MARC-031p: 2.'D4D2D1,G2'D2.,A4A1D/-A1.G2F1bBA/
+@MARC-031r: 7t
+@MARC-031t: Caligaverunt oculi à fletu meo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: B coro
+@MARC-031o: c/
+@MARC-031p: 2.'D4D2D1,G2'D2.,A4A1D/-2A1.G2F1bBA/
+@MARC-031r: 7t
+@MARC-031t: Caligaverunt oculi à fletu meo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Caligaverunt oculi à fletu meo
+@MARC-240m: Coro: S1, T, B, B
+@MARC-240r: 7t
+@MARC-2400: 50245684
+@MARC-245a: [without title]
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-590a: Coro: S1, T, B, B
+@MARC-590b: 1, 1, 1,1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S1
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S1, T, B, B
+@MARC-599b: full
+@MARC-650a: Responsories
+@MARC-6500: 25248
+@MARC-773w: 1001143561
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.136
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

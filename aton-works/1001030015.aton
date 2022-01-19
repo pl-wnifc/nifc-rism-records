@@ -1,0 +1,179 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001030015
+@MARC-003:	DE-633
+@MARC-005:	20210711165118.0
+@MARC-008:	171229##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante molto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =5/''D36.{EC'BA}q8G4FG/8-''EDCq6D8C'B4-/
+@MARC-031r: G
+@MARC-031t: Salve regina
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4''D36.{EC'BA}q8G4FG/8-{''EDC}6qD{8C'B}-''D/4E+{(6EFG)}{(AB'''C)}''4D+{(6DEF)}{(GAB)}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 4'G8B''D/G4D8E/6qE8D{6C'B}''qD8C{6'BA}/q''C{'BA}8G4-/=2/4G8B''D/G4D8E/
+@MARC-031r: G
+@MARC-031t: Vita dulcedo et spes nostra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =3/4'G{8B''D}/8G4D8E/6qE{8D6C'B}6q''D{8C6'BA}/6q''C{6'BA8G}4-/=2/8-{''DDD}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: =7/8'B''EE/{ExD}'G/4.''C+/8C'B''E/4.'A+/8A6GA8B+/6{B''C}8q'B4At/
+@MARC-031r: e
+@MARC-031t: Ad te clamamus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: 8{'B''EE+}/{ExD'B}/4.''C+/{8C'BG}/4.A+/8A4G/8FqG4Ft/8{E''EE}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =6/4''C+6{CE}{DC}{'B''C}4.D/36.{EC}{FD}{GE}{DC}{'BA}4G8-/8''E4.D6qD8C4'B8G/
+@MARC-031r: G
+@MARC-031t: Eia ergo advocata nostra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4''C+{6CEDC}{'B''C}4.D/36.{''ECFD}{GEDC}{6'BA8G}-G/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4-8-''D6qC8'BAGG/6qA8G4xF8-{6AB}{''CD}{EC}{'BA}/6q''C6{'BA}8G-''DEEEE/
+@MARC-031r: g
+@MARC-031t: Et Jesum benedictum fructum ventris tui
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 1''D/C/2'B''E+/4ED2C/1D+/4D2.C/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Pichler, Johann Melchior
+@MARC-100d: 1695*
+@MARC-100j: Alleged
+@MARC-1000: pe41011479
+@MARC-240a: Salve regina
+@MARC-240m: S, vl (2), org
+@MARC-240r: G
+@MARC-2400: 3021988
+@MARC-245a: [without title]
+@MARC-260c: 1730-1770
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 33,5 x 20 cm and two other
+@MARC-3008: 01
+@MARC-500a: The second copy of vl 1 with another hand than the remaining parts.
+@MARC-5008: 01
+@MARC-500a: The edges of f. 2 of S part reinforced with waste paper (i.a. from a printed liturgical book).
+@MARC-5008: 01
+@MARC-500a: Inscription "Del Mel. Pichler" at the top of S and vl 1.
+@MARC-590a: S solo
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1 (2x), vl 2
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), org
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 260
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 217/A VI 21
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,89 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001137226
+@MARC-003:	DE-633
+@MARC-005:	20210923121039.0
+@MARC-008:	201126##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/2
+@MARC-031p: ''1C2C/'1B2B/2-''C'xG/1.A/2xGnGB/1.''C/
+@MARC-031r: C
+@MARC-031t: Pange lingua
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: 3/2
+@MARC-031p: '1G2G/1G2G/-EE/1E4DxD/2EEF/4E2G4F2G/
+@MARC-031r: C
+@MARC-031t: Pange lingua
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: 3/2
+@MARC-031p: '1E2E/1D2D/-C,B/1.A/2BBG/4G'2E4D2C/
+@MARC-031r: C
+@MARC-031t: Pange lingua
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/2
+@MARC-031p: ,1C2C/1G2G/-AE/1.F/2EED/2.C4D2E/
+@MARC-031r: C
+@MARC-031t: Pange lingua
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Pange lingua
+@MARC-240m: V (4)
+@MARC-240r: C
+@MARC-2400: 3900050
+@MARC-245a: [title pages of the parts:] Pangelingua
+@MARC-246a: [caption title on f. 20r, 22r, 24r, 26r:] Pange Lingua.
+@MARC-260c: [1800-1899]
+@MARC-2608: 01
+@MARC-300a: 13 parts: 26 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na karcie 5r nagłówek "Pangelingua" i poniżej zapis partii bez tekstu przekreślony ołówkiem. W połowie partii na pięciolinii przekreślony nagłówek "Soprano". Na górnym marginesie karty dopisane ołówkiem: "Soprano."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W zestawie głosów na kartach 1-4 zapisane dwie strofy z takim samym opracowaniem muzycznym. W głosach na pozostałych kartach rozpisane sześć strof.]
+@MARC-590a: S (3x), A (3x), T (3x), B (4x)
+@MARC-590b: f. 1r, 5v-7r, 20r-21r, 2r, 8r-10r, 22r-23r, 3r, 11r-13r, 24r-25r, 4r, 14r-16r, 18r-19v, 26r-27r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001137215
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.497
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001098988
+@MARC-003:	DE-633
+@MARC-005:	20211027135252.0
+@MARC-008:	191218##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031p: 4FB''CF/2.D4'B/G{8GA}4''C'A/1F+/2FA/4B''C2D+/4D8{C'B}4A''C/2.'B4-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031p: 4FB''CF/2.D4'B/G{8GA}4''C'A/1F+/2FA/4B''C2D+/4D8{C'B}4A''C/2.'B4-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: U naszego Pana
+@MARC-240m: Coro, orch
+@MARC-240r: B|b
+@MARC-2400: 50211065
+@MARC-245a: [caption title:] „U naszego Pana". | (chór mieszany)
+@MARC-260b: Hertz, Michał
+@MARC-260c: 1844-1918
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 32.0 x 25.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na pierwszej stronie w prawym górnym rogu znajduje się zapis: "Moniuszki | instr. M. Hertz".]
+@MARC-591a: inw. 1994
+@MARC-591a: A-20.162
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 1
+@MARC-594b: cl in B|b
+@MARC-594c: 1
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 2
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), vla, vlc, cb, fl, ob, cl in B|b, fag (2), cor in F (2)
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Hertz, Michał
+@MARC-700d: 1844-1918
+@MARC-700j: Ascertained
+@MARC-7000: pe41023359
+@MARC-7004: arr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1230
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

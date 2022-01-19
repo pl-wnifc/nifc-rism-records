@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001068375
+@MARC-003:	DE-633
+@MARC-005:	20210515204708.0
+@MARC-008:	190415##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: bBE
+@MARC-031o: 3/8
+@MARC-031p: {6F''D}{8.D'6B}/{6B''F}4F/{6DE}{8.C6'A}/{B''D}4D{6'F''D}{8.D6'B}/{''GF}4F/{6DE}{8.C'6A}/{6''CD}4'B//
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Zabobon, czyli Krakowiacy i Górale
+@MARC-240k: Excerpts
+@MARC-240m: keyb
+@MARC-240o: Arr
+@MARC-240r: B|b
+@MARC-2400: 5199407
+@MARC-245a: [caption title:] Mazur serce | nie sługa
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Lyrics of "Serce nie sługa" below the right hand part.
+@MARC-590a: keyb
+@MARC-590b: p. 10
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-650a: Vaudevilles
+@MARC-6500: 25368
+@MARC-700a: Kamiński, Jan Nepomucen
+@MARC-700d: 1777-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe41021978
+@MARC-7004: lbt
+@MARC-730a: Nowe Krakowiaki
+@MARC-730g: RISM
+@MARC-730k: Excerpts
+@MARC-730o: Arr
+@MARC-7300: 5199408
+@MARC-730a: Serce nie sługa, nie zna co to pany
+@MARC-730g: RISM
+@MARC-7300: 50251285
+@MARC-773w: 1001068286
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 549/A IX 29
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

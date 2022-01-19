@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001112760
+@MARC-003:	DE-633
+@MARC-005:	20210720131859.0
+@MARC-008:	200421##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: fl
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: {8.6''GG}/2'''C''At{6qGqA/4.G8F4E-/=/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Marche funèbre
+@MARC-240m: winds, timp
+@MARC-240r: c
+@MARC-2400: 50119750
+@MARC-245a: [title page:] Marsz żałobny | napisany dnia 28. Sierpnia 1842 roku | przez Józefa Stefaniego
+@MARC-246a: [caption title:] Marche Funebre [space] dnia 28. Sierpnia 184[2] | napisany przez Stefaniego
+@MARC-260c: 1842-08-28
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 28 x 44 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Adnotacja na końcu rękopisu: "10504".]
+@MARC-500a: [pl-text: Rękopis poddany konserwacji w 2012 r.]
+@MARC-500a: [pl-text: W rękopisie odnotowane fragmenty tekstu słownego "Requiem aeternam".]
+@MARC-563a: Binded into a hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 1714
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in F
+@MARC-594c: 1
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 1
+@MARC-594b: tr in C
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: fl.picc, fl, ob (2), cl in F, cl in B|b (2), fag (2), cor (2), trb, tr in C (2), timp
+@MARC-599b: full
+@MARC-650a: Funeral music
+@MARC-6500: 25159
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1672
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

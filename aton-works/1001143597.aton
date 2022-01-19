@@ -1,0 +1,101 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001143597
+@MARC-003:	DE-633
+@MARC-005:	20211110114725.0
+@MARC-008:	210123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Offertorium
+@MARC-031g: C-1
+@MARC-031m: C
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4bB''D'B/2''F4F/4.D8C'4B/
+@MARC-031r: B|b
+@MARC-031t: Ave Maria gratia plaena
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Offertorium
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =/FAF/2B4B/4.A8G4F/
+@MARC-031r: B|b
+@MARC-031t: Ave Maria
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Offertorium
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =8/,B'D,B/'2F4F/4.D8C,4B/
+@MARC-031r: B|b
+@MARC-031t: Ave Maria
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Offertorium
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =9/,FAF/2B4B/4.A8G4F/
+@MARC-031r: B|b
+@MARC-031t: Ave Maria
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Scholenberger
+@MARC-100j: Doubtful
+@MARC-1000: pe50046368
+@MARC-240a: Offertorium
+@MARC-240m: Coro
+@MARC-2400: 3007049
+@MARC-245a: [title page:] Scholenberger: Offertorium | [with pencil:] Ave Maria. gr. plena
+@MARC-260c: ca. 1700
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 f.
+@MARC-300c: 16 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wewnątrz okładki pieczęć „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej”. Wewnątrz wpisana ołówkiem sygnatura „KK.I | 378”]
+@MARC-5008: 01
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-590a: Coro: C, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-591a: ch. 150
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro A, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-6910: lit41000579
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.378
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

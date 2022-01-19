@@ -1,0 +1,177 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001136502
+@MARC-003:	DE-633
+@MARC-005:	20210923121034.0
+@MARC-008:	201121##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C coro
+@MARC-031o: 3/2
+@MARC-031p: 1''D2,'B1'G2,'B1''D2E1.D1D2C1,'B
+@MARC-031r: 8t
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T Coro
+@MARC-031o: 3/2
+@MARC-031p: 1'D2D1,B2,G1B2'C1.,B1B2'C1D
+@MARC-031r: 8t
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B Coro
+@MARC-031o: 3/2
+@MARC-031p: 1,G2G1G2G1G2,C1.G1G2A1G
+@MARC-031r: 8t
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C Coro
+@MARC-031o: 3/2
+@MARC-031p: 1''D2D1C2,'A1'B2B2.B4B2B2.A
+@MARC-031r: 8t
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T Coro
+@MARC-031o: 3/2
+@MARC-031p: 1,B2B1A2A1'D2D2.D4D2D2.D
+@MARC-031r: 8t
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B Coro
+@MARC-031o: 3/2
+@MARC-031p: 1,,G2B1',C2D1,,G2G2.',G4G2G2.D
+@MARC-031r: 8t
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C Coro
+@MARC-031o: c/
+@MARC-031p: 2.G4A/B''C2.2.D/{8C,'B}2.A/
+@MARC-031r: 8t
+@MARC-031t: Sanctus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T Coro
+@MARC-031o: c/
+@MARC-031p: 2.,G4AB','C,2.2.'D{8C,B}1A2-2'C/
+@MARC-031r: 8t
+@MARC-031t: Sanctus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B Coro
+@MARC-031o: c/
+@MARC-031p: 1-2.,,G4AB',C2.D{8C,,B}4AB2.',C4D
+@MARC-031r: 8t
+@MARC-031t: Sanctus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C Coro
+@MARC-031o: 3/2
+@MARC-031p: 1''D2,'B1''D2,'B1B2''D2.,'B4''C2D1,'G
+@MARC-031q: [pl text: Na koniec części pojawia sie napis: A.D. 1688 Scri[illegible] nieczytelny podpis]
+@MARC-031r: 8t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T Coro
+@MARC-031o: 3/2
+@MARC-031p: 1,B2,'D2.',B4'C2D1D2,B1'D2,B1B
+@MARC-031q: [pl text: Na koniec części pojawia sie napis: 1688 [illegible] nieczytelny podpis]
+@MARC-031r: 8t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B Coro
+@MARC-031o: 3/2
+@MARC-031p: 1,G2G1G2,,G1G2G1',G2,,G1',G
+@MARC-031q: [pl text: Na koniec części pojawia sie napis: A.D. 1688 [illegible] mpg (podpis)]
+@MARC-031r: 8t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Missa supra Resonet
+@MARC-240m: Coro: C, T, B
+@MARC-240r: 8t
+@MARC-2400: 4041495
+@MARC-245a: Missa Nativitatis [illegible] Resonet A 4 [illegible]
+@MARC-246a: Missa supra Resonet A 4 Vox Tenore
+@MARC-246a: Missa supra Resonet A 4 Vox Basso
+@MARC-260c: 1688
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 20 x 16.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: cześć Credo brak]
+@MARC-5008: 01
+@MARC-590a: Coro:C
+@MARC-590b: 5 f.
+@MARC-5908: 01
+@MARC-590a: Coro:T
+@MARC-590b: 5 f.
+@MARC-5908: 01
+@MARC-590a: Coro:B
+@MARC-590b: 5 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773w: 1001135513
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

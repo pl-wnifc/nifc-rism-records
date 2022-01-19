@@ -1,0 +1,69 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001165274
+@MARC-003:	DE-633
+@MARC-005:	20210804180842.0
+@MARC-008:	210804##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: ,8C4C8C/{,,nB,CDC/{,,nB,CDC/8,,F4,F8F/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Nowakiewicz, Kazimierz
+@MARC-100d: 18/19
+@MARC-100j: Ascertained
+@MARC-1000: pe30020309
+@MARC-240a: Hej bracia czy spicie
+@MARC-240m: org
+@MARC-240r: F
+@MARC-2400: 4026577
+@MARC-245a: [without title]
+@MARC-260c: 1866-12-19
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na f. 1r głosu org u góry z lewej ołówkiem: "24(d)”]
+@MARC-500a: [pl-text: Na f. 1r głosu org u dołu z prawej czarnym tuszem notatka: "Staniatki d[nia] 19 Grudnia 1866. r. | Wincenty Leszczyński"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1)]
+@MARC-500a: [pl-text: Konkordancja RISM ID no.: 300000922 (PL-CZ); konkordancje wewnętrzne: 301050703, 1001165270]
+@MARC-563a: [pl-text: Brak okładki]
+@MARC-5638: 01
+@MARC-590a: org
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: org
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p. 90
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 331
+@MARC-6910: lit41001126
+@MARC-700a: Leszczyński, Wincenty
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30109371
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-STAb
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 24d
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

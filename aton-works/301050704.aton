@@ -1,0 +1,247 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050704
+@MARC-003:	DE-633
+@MARC-005:	20211031211433.0
+@MARC-008:	160316##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 2
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4.''D6'{DC}8{DDFC}+/D4-2-/4-8.-6,A{'CEA''C}{'EA''CE}/4G-2-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =1/4.''D8D4DD/{xDE}4E2-/4.G8G4GG/{8GF}4F2-/
+@MARC-031r: D
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Kyrie. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 2A''4D/D--/'A''DF/D--/''GEC/'A
+@MARC-031r: D
+@MARC-031t: Kyrie eleison Christe eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Gloria.
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =6/{8D6DD}4FA/2''D4F/DD-/
+@MARC-031r: D
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''D8{DD}4DD/FD2-/4E8EE4EE/AE2-/
+@MARC-031r: D
+@MARC-031t: Credo in unum Deum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Et incarnatus. Andante
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =8/4.D8,B{6GB'DG/{8.xD6E}4E-/C{6C,BAG}{E'EDC/
+@MARC-031r: G
+@MARC-031t: Et incarnatus est de Spiritu Sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Et resurrexit. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2''D4'AF/DDF8AA/4''FD8FDDF/{AF}4D4-
+@MARC-031r: D
+@MARC-031t: Et resurrexit tertia die
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Sanctus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =2/2''D4EF/GFE-/2E4FG/AGF-/
+@MARC-031r: D
+@MARC-031t: Sanctus Sanctus Sanctus Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Benedictus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: =19/4-8-6.''E3E/8A'A6-{A''CE+/{E'B8B}
+@MARC-031r: A
+@MARC-031t: Benedictus qui venit in nomine Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Osanna. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =2/8-{AB''C}DEFG/2A4FD/'A-2-/
+@MARC-031r: D
+@MARC-031t: Osanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Agnus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =7/4.A8A4A8AA/2''D4'A-/D8.D6D4DD/
+@MARC-031r: F
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: Dona. Andante
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2A4FG/2A4B''C/4.D{6ED}4C'B/2A-/
+@MARC-031r: D
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Nowakiewicz, Kazimierz
+@MARC-100d: 18/19
+@MARC-100j: Ascertained
+@MARC-1000: pe30020309
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: D
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] N 26 [later with pencil:] a | MISSA in D. | â | 4. Votibus.[!] | 2. Violiny. | 2. Clarinetti. | 2. Clariny. | 1. Alto viola. | Et | ORGANO | Del Sign Casimiry Nowakiewicz | [later:] B. M. Duwall X. K. S. w R 1810 | [bottom middle:] N 26
+@MARC-260c: 1810
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Partia vl 1 zaginęła]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Zamiast partii cl 1 i 2 podanej na karcie tytułowej, w źródle pojawia się partia ob 1 i 2; zamiast clno 1 i 2, jest clno i cor 1, 2]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona ołówkiem]
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N. 26.”]
+@MARC-500a: [pl-text: Na f. 1r org u góry z prawej: "Comp. Casimiry Nowakie:"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-25)]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: Solo and Coro: S, T, B, Coro A
+@MARC-590b: 2, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 2, vla
+@MARC-590b: 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: clno and cor in D 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, T, B, Coro S, Coro A, Coro T, Coro B, vl 1, vl 2, vla, cl (2), clno (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.91, no.93
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 331
+@MARC-6910: lit41001126
+@MARC-700a: Duwall, Bogumiła Machtylda
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30109855
+@MARC-7004: fmo
+@MARC-700a: Cichawski, Józef
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30109125
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-STAb
+@MARC-852d: N 26
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 26a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

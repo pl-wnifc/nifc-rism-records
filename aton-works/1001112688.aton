@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001112688
+@MARC-003:	DE-633
+@MARC-005:	20210720131859.0
+@MARC-008:	200421##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo moderato
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2F4FF/2EE/D4ED/(C){,3CDA'C}{%G-2{FxA''C}{FCFC}
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Śmietański, Emil Władysław
+@MARC-100d: 1845-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe50041781
+@MARC-240a: Rhapsodie sur de thèmes polonais
+@MARC-240m: pf
+@MARC-240r: D
+@MARC-2400: 50230655
+@MARC-245a: [caption title:] Rhapsodie sur de thêmes polonais | par Emil Śmietański (1872–3)
+@MARC-260c: 1872-1873
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 33,5 x 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Poprawki ołówkiem.]
+@MARC-500a: [pl-text: Alternatywna wersja dwóch fragmentów zapisana ołówkiem na dole karty 3.]
+@MARC-500a: [pl-text: Karty rękopisu numerowane ołówkiem.]
+@MARC-590a: pf
+@MARC-590b: 8 p.
+@MARC-5908: 01
+@MARC-591a: inw. 984
+@MARC-591a: mf. 24111
+@MARC-591a: A-2481
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Rhapsodies (inst.)
+@MARC-6500: 25335
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2041
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

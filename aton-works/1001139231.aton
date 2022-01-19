@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001139231
+@MARC-003:	DE-633
+@MARC-005:	20210923121033.0
+@MARC-008:	201214##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: '8CC/4.A8AAG/{GF}4F8FF/4.''D8'BAG/4GA8AA/4.''F8DCn'B/''4DC8CC/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Lachner, Ignaz
+@MARC-100d: 1807-1895
+@MARC-100j: Conjectural
+@MARC-1000: pe64574
+@MARC-240a: Offertorium
+@MARC-240m: Coro
+@MARC-240r: F
+@MARC-2400: 3007049
+@MARC-245a: No 2. Offertorium w Jezyku polskim. Ign: Lachner.
+@MARC-260c: 19th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 4 parts, 4 p.
+@MARC-300c: 26 x 33 cm
+@MARC-3008: 01
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594a: S coro, A coro, T coro, B coro
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-773w: 1001139222
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.519
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

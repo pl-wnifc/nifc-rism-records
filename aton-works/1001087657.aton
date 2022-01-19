@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001087657
+@MARC-003:	DE-633
+@MARC-005:	20211027135214.0
+@MARC-008:	190925##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andatino
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4,F^DF^D/2D4E^CF^D/G^,,A,D^FG^E^,,A,F^D^,,A/,E^C^,,A,F^D^,,A,G^E^,,A,F^D^,,A/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4FF/.4.F6{GA}4GF/{8FE}4D{6.C3DE}4D/{8.E3FG}{8.F3GA}{8.G6A}{8.F6G}/
+@MARC-031q: The violin part hasn't been indicated and isolated. The incipit has been prepared drawing upon analysis of which notes might belong to the violin part.
+@MARC-031q: [pl-text: Partia skrzypcowa nie została wskazana w źródle. Incipit został stworzony w oparciu o analizę które dźwięki mogą przynależeć do partii skrzypiec.]
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Polonaise
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 8-/=7/4-4-8{FA}/''C4D6{BA}{GFEF}/8C4D{6'''DC}''{BAGF}/8E4B6{AG}{FEGE}/
+@MARC-031q: The violin part hasn't been indicated and isolated. The incipit has been prepared drawing upon analysis of which notes might belong to the violin part.
+@MARC-031r: D
+@MARC-031z: [pl-text: Partia skrzypcowa nie została wskazana w źródle. Incipit został stworzony w oparciu o analizę które dźwięki mogą przynależeć do partii skrzypiec.]
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Polonaise
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 8-/4,D^,,D4-4-,/4D^,,D4-4-/4G4-4-/A4-4-/D^,D4-4-/,,B^,,,B4-4-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Lessel, Franciszek
+@MARC-100d: 1780c-1838
+@MARC-100j: Ascertained
+@MARC-1000: pe30004332
+@MARC-240a: Adagio et Polonaise
+@MARC-240m: vl, pf
+@MARC-240n: Op. 9
+@MARC-2400: 3968638
+@MARC-245a: [title page:] Adagio et Polonoise | Pour le Piano | avec Violon obligg. | arrangées | par. | Fr: Lessel [ornament] | 1807
+@MARC-260c: 1807
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 32,0 x 23,5 cm
+@MARC-3008: 01
+@MARC-383b: Op. 9
+@MARC-591a: Inw 923
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl, pf
+@MARC-599b: full
+@MARC-650a: Chamber music
+@MARC-6500: 3901050
+@MARC-852a: PL-Wtm
+@MARC-852d: 8371
+@MARC-852d: A. 50-
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1183
+@@END:		MARC21
+

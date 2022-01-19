@@ -1,0 +1,222 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033226
+@MARC-003:	DE-633
+@MARC-005:	20201029163416.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kirie
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: '2B''4C'B/2A4G8{GB}/2''DEC/'2B4A
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: '2B''4C'B/2A4G-/''DDEC/'2B4A
+@MARC-031r: G
+@MARC-031t: Nieogarniony całym światem Boże
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031d: Allegro Moderato
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031o: c
+@MARC-031p: 2''C4'GA/2GE/4EG''CE/2D4E
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c
+@MARC-031p: 2''C4'GA/2GE/4EG''CE/2D4E
+@MARC-031r: C
+@MARC-031t: Chwała ci Boże na wysokim niebie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Graduale
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 2G8{BA}/4GF(G)//:8{GA}/2BB/''C4'B8
+@MARC-031q: [pl-text: w pierwszych dwóch taktach w głosie org zapis rytmiczny poszczególnych linii glosu nie jest zgodny w obrębie taktu - najprawdopodobniej błąd kopisty]
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =2//:8{'GA}/4BBB8BB/2''C'4B{8BA}/4GGA8''C'A/2G4F
+@MARC-031r: G
+@MARC-031t: Powstańcie światłości syny pokornem uczuciem przejęte
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031o: c
+@MARC-031p: =1/2-'A/1G+/G/G/''C/D/2EC/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c
+@MARC-031p: =4/4-'GGG/2''C4CC/2D4DD/2EC/4-'G''C'B/2A4AA/2A4''DC/2C'B/
+@MARC-031r: C
+@MARC-031t: Wierzymy w Boga jednego na świecie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Offertorium
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 8{'CEFGAB}//:2.''C+/C+/2C+/(2.C)/4C'AB/8{''DC
+@MARC-031q: [pl-text: błąd kopisty w takcie 4 - brak kropki przy półnucie]
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =5/4''C'AB/8{''DC}4'GA/2B/A4-/
+@MARC-031q: [pl-text: błąd kopisty w takcie 8 - brak kropki przy półnucie]
+@MARC-031r: F
+@MARC-031t: Niech z ręki twojej kapłanie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031o: c
+@MARC-031p: 2''C'B/A''C/'2.F4E/2F(E)/''ED/C'B/4''C'B2A/1G/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c
+@MARC-031p: 2''C'B/A''C/'F4FG/2F(E)/''ED/C'B/4''C'B2A/G-/
+@MARC-031r: C
+@MARC-031t: Święty Bóg wszechmocny niepojęty
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Po Podniesieniu
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 2'D8{xCDGB}/2''D4-8{'BA}/4GABA/2.G({8DGA})//
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =4//2'B4xAB/2''C'B/4AxGAB/2A4G-/
+@MARC-031r: G
+@MARC-031t: Oto Bóg z nieba
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 8-{''DC'BAG}/2D/+4D2G/B4A/G8-{DGB//4''D
+@MARC-031q: [pl-text: W takcie 2. błąd kopisty: brak kropki przy półnucie]
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =5/4''DC'B/2A8AA/4''C'BA/2G4-/
+@MARC-031r: g
+@MARC-031t: Dzieci niegodne tak wielkiej ofiary
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Grim, Józef
+@MARC-100d: 19.sc
+@MARC-1000: pe30003883
+@MARC-240a: Masses
+@MARC-240m: V (X), org
+@MARC-240r: G
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Msza 2=|g|a | Przez Juzefa [!] Grymma.
+@MARC-300a: 1 vocal score: f. 8r-11r
+@MARC-3008: 01
+@MARC-500a: [pl-text: Utwór zapisany na trzech pięcioliniach w systemie, bez określenia głosów przy poszczególnych pięcioliniach. Tekst podpisany pod górną linią, zawierającą zapis dwóch (przy pojedynczych wartościach trzech) głosów. W tytule poprzedniej mszy, odnoszącym się do obydwu kompozycji Grima, informacja o obsadzie: jeden głos z towarzyszeniem organów]
+@MARC-500a: [pl-text: Z prawej strony pierwszego systemu ołówkiem zapisany numer utworu w kolekcji: 3]
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: X
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 504
+@MARC-6910: lit1869
+@MARC-773w: 300033223
+@MARC-852a: PL-CZ
+@MARC-852d: 110
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-87
+@@END:		MARC21
+

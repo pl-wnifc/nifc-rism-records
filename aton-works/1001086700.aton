@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001086700
+@MARC-003:	DE-633
+@MARC-005:	20211027135206.0
+@MARC-008:	190919##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: fl
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 8-6-{6''F3GA}8}{BFBF}/8-'''D+^''B+6'''{D^''B'''C^''AB^GF^A}{E^GD^FC^E'B^''D|/8-6-5{FGAB}8'''{D''F'''D''F/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: bassi
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4,,B8-{8,FBF}/8{B6-F3GA}4B4-/4'C8-{,F'C,F}/8{'C6-5,FGAB}4'C4-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Polonaises
+@MARC-240m: strings, woodwinds, brass, percussion
+@MARC-240r: B|b
+@MARC-2400: 3900011
+@MARC-245a: [caption title:] 4 [empty space] Polonez [a cross] grany na balu u J O: Księcia namiestnika dla R: Cesarza Rosyjskiego | i Króla Polskiego w ["w" underlined] dniu 11. Września r: 1820. [underlined from "11."] | skomponowany [illegible] Karola Kurpińskiego
+@MARC-260c: 1820
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 25,0 x 40,0 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor in B|b
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: tr in B|b
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: basso
+@MARC-594c: 1
+@MARC-594b: timp ad lib
+@MARC-594c: 1
+@MARC-594a: fl (2), cl (2), cor in B|b (2), fag (2), tr in B|b, vl (2), vla, basso, timp ad lib
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1030
+@@END:		MARC21
+

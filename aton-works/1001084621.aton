@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001084621
+@MARC-003:	DE-633
+@MARC-005:	20211027135242.0
+@MARC-008:	190905##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8'''D4DDD8D/4D'DFA/''DFA'''D/8C
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Mars i Flora
+@MARC-240m: orch
+@MARC-2400: 5214538
+@MARC-245a: [title page:] Introduction du Divertissement | de | La Fête a Flora
+@MARC-260c: [1820]
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 23,5 x 39 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple Biblioteki Warszawskiego Towarzystwa Muzycznego.]
+@MARC-500a: [pl-text: Rękopis poddany konserwacji w 2008 r.]
+@MARC-500a: [pl-text: Na karcie tytułowej pod sygnaturą "R 1031" dopisano fioletowym atramentem "/ 3".]
+@MARC-500a: [pl-text: Karty rękopisu zszyte nicią.]
+@MARC-591a: Inw. 717
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594a: vl, vla, b, fl, fag (2)
+@MARC-599b: full
+@MARC-650a: Ballets
+@MARC-6500: 25172
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1031
+@@END:		MARC21
+

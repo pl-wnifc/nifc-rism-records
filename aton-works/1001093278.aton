@@ -1,0 +1,89 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001093278
+@MARC-003:	DE-633
+@MARC-005:	20210601132501.0
+@MARC-008:	191108##################################
+@MARC-028a: R.9 F.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: C
+@MARC-031p: 2-,8{EG%G-2B'E}/8{GB}{''EDC'BAG}/8{FxEFG}F8-4-8{FxEFG}F8-4-/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: C
+@MARC-031p: =7/8B8-B6-B4.B8''C/8'BAGF4F8E8-/''4E8.E6E4.E8E/
+@MARC-031r: e
+@MARC-031t: Któż me westchnienia któż me łzy policzy?
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Lubomirski, Kazimierz
+@MARC-100d: 1813-1871
+@MARC-100j: Ascertained
+@MARC-1000: pe30107516
+@MARC-240a: Pieśń z wieży
+@MARC-240m: V, pf
+@MARC-240n: 15
+@MARC-2400: 5219051
+@MARC-245a: PIEŚŃ Z WIEŻY. | Poezya | z muzyką utworzoną | i Annie z Hołyńskich Branickiej. | przypisaną | przez | KAZIM. LUBOMIRSKIEGO. | DZIEŁO 15. Złp. 4 gr. 15. | Pr. 22 1/2 Ngr. | WARSAWA NAKŁADEM R. FRIEDLEIN | (dawniéj Fr. Speiess &amp; C(o).) | Ulica Senatorska N°. 460. | R.9 F.
+@MARC-260a: Warszawa
+@MARC-260b: R. FRIEDLEIN
+@MARC-260c: [s.d.]
+@MARC-260e: Leipzig
+@MARC-260f: C.G. Röder
+@MARC-2608: 01
+@MARC-300a: 1 score: 13 p.
+@MARC-300c: 33,6 x 26,1 cm
+@MARC-3008: 01
+@MARC-383b: 15
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Branicka, Anna
+@MARC-700d: 1824-1907
+@MARC-700j: Ascertained
+@MARC-7000: pe41024883
+@MARC-7004: dte
+@MARC-700a: Lubomirski, Kazimierz
+@MARC-700d: 1813-1871
+@MARC-700j: Ascertained
+@MARC-7000: pe30107516
+@MARC-7004: lyr
+@MARC-700a: Röder, Carl Gottlieb
+@MARC-700d: 1812-1883
+@MARC-700j: Ascertained
+@MARC-7000: pe30057334
+@MARC-7004: egr
+@MARC-710a: R. Friedlein
+@MARC-710g: Ascertained
+@MARC-7100: ks51000092
+@MARC-7104: pbl
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-8523: 51007976
+@MARC-852c: mzk/m/288
+@@END:		MARC21
+

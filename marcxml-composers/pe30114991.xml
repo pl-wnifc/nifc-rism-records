@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe30114991</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20200713140542.0</marc:controlfield>
+  <marc:controlfield tag="008">161109n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">4965235</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">118777955</marc:subfield>
+    <marc:subfield code="2">DNB</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="043" ind1=" " ind2=" ">
+    <marc:subfield code="c">XA-PL</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Józef Ignacy</marc:subfield>
+    <marc:subfield code="d">1812-1887</marc:subfield>
+    <marc:subfield code="y">28.07.1812-19.03.1887</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Bodhan Boleslawita</marc:subfield>
+    <marc:subfield code="j">da</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Boleslawita, B.</marc:subfield>
+    <marc:subfield code="j">da</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Boleslawita, Bohdan</marc:subfield>
+    <marc:subfield code="j">da</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Ameha, Dr.</marc:subfield>
+    <marc:subfield code="j">da</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Pastarnak, K.</marc:subfield>
+    <marc:subfield code="j">da</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Ignaz</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, J. I.</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, J. J.</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Jósef Ignacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Jósef Ignazy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszẹwski, Jósef Ignacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Josef Ignaz</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Joseph Ignaz</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Józef I.</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraševskis, Juozapas Ignacas</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraševskis, Juzefas Ignacas</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraševs'kyj, Juzef Ihnacij</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krashevskii, Iuzef Ignatsii</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, I. I.</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraşevskij, Iosif Ignatij</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krasevski, J. I.</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszinski, Josef Ignaz</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Joseph Ignace</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krašėŭski, Ju.</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krašėŭski, Juzaf</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krašėŭski, Juzaf Ihnacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krašėŭski, Iosif Ihnat</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraševskij, Juzef Ignacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Józef</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraševskij, Ignacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Josef Ignacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Josef Ignazy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszẹwski, Josef Ignacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Jozef I.</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krasevskis, Juozapas Ignacas</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krasevskis, Juzefas Ignacas</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krasevskyj, Juzef Ihnacij</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krasevskij, Iosif Ignatij</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraseuski, Ju.</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraseuski, Juzaf</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraseuski, Juzaf Ihnacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraseuski, Iosif Ihnat</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krasevskij, Juzef Ignacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Jozef</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Krasevskij, Ignacy</marc:subfield>
+    <marc:subfield code="j">xx</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1="1" ind2=" ">
+    <marc:subfield code="a">Kraszewski, Kajetan</marc:subfield>
+    <marc:subfield code="i">brother of</marc:subfield>
+    <marc:subfield code="0">50043479</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Author</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Historian</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Linguist</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Painter</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Writer</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Warszawa</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Genève</marc:subfield>
+    <marc:subfield code="i">so</marc:subfield>
+  </marc:datafield>
+</marc:record>

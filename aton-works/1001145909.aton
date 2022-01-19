@@ -1,0 +1,128 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001145909
+@MARC-003:	DE-633
+@MARC-005:	20210923121106.0
+@MARC-008:	210210##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: '1.B 2B 1E / 2BBG / 4AB''CDEDC'B /
+@MARC-031t: Isti sunt triumphatores
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-2
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 9-1- / 1.G 2G / 'C ''C / C'G /
+@MARC-031t: Isti sunt triumphatores
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: T1
+@MARC-031o: c/
+@MARC-031p: 0-- 9- / '1.C 2C ,1G / 2- '2GGE /
+@MARC-031t: Isti sunt triumphatores
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-3
+@MARC-031m: T2
+@MARC-031o: c/
+@MARC-031p: 0-0-9-1- / 1.G 2G 1C / 2- 2CC,A /
+@MARC-031t: Isti sunt triumphatores
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: C-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 0-0-0-0-9- / ,1.G 2G / 2C 'C / C,B / '4EDC,BAGFE 9D 1C /
+@MARC-031t: Isti sunt triumphatores
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 6
+@MARC-031g: C-4
+@MARC-031m: B rip
+@MARC-031o: c/
+@MARC-031p: 0-0-0-0-9- / ,1.G 2G / 2C 'C / C,B / '4EDC,BAGFE 9D 1C /
+@MARC-031t: Isti sunt triumphatores
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Ruggiero
+@MARC-1000: pe41017562
+@MARC-240a: Isti sunt triumphatores
+@MARC-240m: S A T T B Brip
+@MARC-2400: 3916886
+@MARC-245a: [text incipit:] Isti sunt Triumphatores
+@MARC-260a: Cracow
+@MARC-260c: XVI-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score: 6f.
+@MARC-300c: 19,3 x 15,6 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na kartach 1r, 2r, 3r4v, 5r, 6r owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na karcie 3v zakreślona dolna połowa strony, zanotowana wcześniej ręką innego skryptora]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na karcie 4v obcy materiał nutowy zanotowany ręką innego skryptora, część zakreślona]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na karcie 6v dalsza część partii Basso ripieno utworu Isti sunt triumphatores naklejona na kartę z obcym materiałem nutowym, zapisanym przez innego skryptora]
+@MARC-5008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-590a: T1
+@MARC-590b: f. 3r-3v
+@MARC-5908: 01
+@MARC-590a: T2
+@MARC-590b: f. 4r-4v
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 5r-5v
+@MARC-5908: 01
+@MARC-590a: B rip
+@MARC-590b: f. 6r-6v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T 1
+@MARC-594c: 1
+@MARC-594b: T 2
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: S, A, T 1, T 2, B, B rip
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.351
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

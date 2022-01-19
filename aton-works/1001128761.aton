@@ -1,0 +1,95 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001128761
+@MARC-003:	DE-633
+@MARC-005:	20210720131635.0
+@MARC-008:	200914##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: {(8FEF)4}A''C/{8.6GF}2D/{(8'GxFG)}4B''D/8CE4F-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =8//8.644AB''CD/C'A2''F/
+@MARC-031r: F
+@MARC-031t: Z dala Tatry widne tam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Na Bielanach
+@MARC-240m: V, orch
+@MARC-240r: F
+@MARC-2400: 50234669
+@MARC-245a: [caption title:] /:Na Bielanach pod | Krakowem :/
+@MARC-300a: 1 score: 28 p.
+@MARC-300c: 36 × 26,3 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował VII-47 | [parafka Chromińskiego]."]
+@MARC-500a: [pl-text: Por. RISM ID. 1001120237.]
+@MARC-591a: inw. 1747
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: triangolo
+@MARC-594c: 1
+@MARC-594b: gran cassa
+@MARC-594c: 1
+@MARC-594a: V, vl (2), vla, vlc, cb, fl.picc, fl, ob (2), cl (2), fag (2), cor (2), tr (2), trb (3), timp, triangolo, gran cassa
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Pol, Wincenty
+@MARC-700j: Ascertained
+@MARC-7000: pe30057233
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1711
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

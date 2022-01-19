@@ -1,0 +1,56 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001143728
+@MARC-003:	DE-633
+@MARC-005:	20210923121052.0
+@MARC-008:	210124##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B coro 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8,DDD6DD4G8GG/F8FG4A8BG/
+@MARC-031r: D
+@MARC-031t: Benedicite omnia opera Domini Domino Laudate
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Benedicite omnia opera Domini Domino Laudate
+@MARC-240m: Coro 1: B
+@MARC-240r: D
+@MARC-2400: 5073752
+@MARC-245a: Primo Choro Basso
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 20.4 x 16 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” oraz sygnatura Kk.I.135 wykonana ołówkiem, na folio 1r na górnym środkowa cześć strony]
+@MARC-5008: 01
+@MARC-500a: [pl text: numeracja stron wykonana ołówkiem, w górnym prawym narożniku w folio 1r i 2r ]
+@MARC-5008: 01
+@MARC-500a: [pl text: ostatni folio (2v) nie ma zapisu nutowego]
+@MARC-5008: 01
+@MARC-590a: Coro 1: B
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro 1: B
+@MARC-594c: 1
+@MARC-594a: Coro 1: B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.135
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

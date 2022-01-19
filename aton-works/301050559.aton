@@ -1,0 +1,189 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050559
+@MARC-003:	DE-633
+@MARC-005:	20210629185857.0
+@MARC-008:	140829##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: {8'''CC''BB}/{6'''C''CDE}{FGAB}/{8'''CC''BB}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Domine. Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 2/4
+@MARC-031p: ''ED/E-/''ED/E-/8-CCC/4C8CC/
+@MARC-031r: C
+@MARC-031t: Domine ad adjuvandum, me festina
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Dixit. Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c
+@MARC-031p: 8-4''C8C4.C8C/CCCC2C/8CC'BA
+@MARC-031r: C
+@MARC-031t: Dixit Dominus Domino meo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Confitebor. Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2''D{8'BG/4.F{6EF}4G/A''DC/{6'BA}{B''C}4D-/
+@MARC-031q: [pl-text: Drugi tekst dopisany później ołówkiem]
+@MARC-031r: G
+@MARC-031t: Confitebor tibi Domine Deus in toto corde meo
+@MARC-031t: Credidi propter quod locutus sum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Beatus. Alla breve
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''D4EE/2DD/4EECC/2D4EE/2DD/
+@MARC-031q: [pl-text: Drugi tekst dopisany później ołówkiem]
+@MARC-031r: D
+@MARC-031t: Beatus vir qui timet Dominum
+@MARC-031t: Domine probasti me
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Laudate Pueri.
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c
+@MARC-031p: 8,E/,,A6,A'C{C,B}{AxG}8.A6B8'C,A/BBxG{6FG}8.A6A8A-/
+@MARC-031r: C
+@MARC-031t: Laudate pueri Dominum laudate nomen Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Laudate Domine. Allegretto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: ''C{6'AG}{AB/{''CD}{C'B}8A-/4''C{6DC}{'BA/4A8G-/
+@MARC-031r: F
+@MARC-031t: Laudate Dominum omners gentes
+@MARC-031t: Beati omnes qui timent Dominum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Magnificat. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 3/4
+@MARC-031p: ''EED/E--/''EED/E--/4.E8E4E/4.F8F
+@MARC-031r: C
+@MARC-031t: Magnificat anima mea Dominum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Dankowski, Adalbert
+@MARC-100d: 1760c-1814c
+@MARC-100j: Ascertained
+@MARC-1000: pe30000793
+@MARC-240a: Vespers
+@MARC-240m: Coro, orch, org
+@MARC-240r: C
+@MARC-2400: 3900116
+@MARC-245a: [cover title:] N. 6 [later with pencil:] a | Vespera de Confes= | ex C. | â | Canto Alto | Tenore Basso | Violino Primo | Violino Secundo | Clarino Primo | Clarino Secundo | Et | ORGANO | Del Sig Dankowski. [space] J. Cichaski | [bottom middle:] N 6.
+@MARC-260c: 1792-1825
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N 6"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-24)]
+@MARC-500a: [pl-text: Konkordancja RISM ID no.: 1001011412 (PL-CZ)]
+@MARC-563a: [pl-text: Okładka oklejona z zwenątrz niebieskim papierem, na f. 1r naklejona została karta tytułowa wycięta w kształt przypominający prostokąt]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 3, 3, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno in C
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl (2), clno in C (2), org
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.61-62, no.22
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 313
+@MARC-6910: lit41001126
+@MARC-700a: Cichawski, Józef
+@MARC-700d: 18/19
+@MARC-700j: Verified
+@MARC-7000: pe30109125
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-730a: Vesperae de Confessore
+@MARC-730g: RISM
+@MARC-7300: 3903916
+@MARC-852a: PL-STAb
+@MARC-852d: N 6.
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 6a
+@MARC-856u: http://biblioteka.benedyktynki.eu/ncn/items/show/989
+@MARC-856x: Digitalization
+@MARC-856z: Digital Library of PL-STAb
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

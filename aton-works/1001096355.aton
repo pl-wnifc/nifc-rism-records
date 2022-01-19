@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001096355
+@MARC-003:	DE-633
+@MARC-005:	20211027135247.0
+@MARC-008:	191128##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: fl.picc
+@MARC-031o: c
+@MARC-031p: =11/4'''D{8''A6-A}4A8F-6-'''D/4D
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Żegluga
+@MARC-240m: winds, timp, arp
+@MARC-240o: Arr
+@MARC-2400: 5220690
+@MARC-245a: [caption title:] № 3. Żegluga.
+@MARC-260c: ca. 1867
+@MARC-2608: 01
+@MARC-300a: 1 score: 12 p.
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: fl.picc, fl, ob (2), cl (2), fag (2), cor (4), tr (2), trb (3), timp
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-773w: 1001096340
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1740/M
+@@END:		MARC21
+

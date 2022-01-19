@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001082603
+@MARC-003:	DE-633
+@MARC-005:	20211027135156.0
+@MARC-008:	190820##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tempo di Marcia
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 4/4
+@MARC-031p: 4.C6{CC}8C-{(CCC}/4.E6{EE}4.EE/E8C,x{GEG'C/{EDExG}''C-4-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-1000: pe41023359
+@MARC-240a: Marches
+@MARC-240m: pf
+@MARC-240o: Arr
+@MARC-240r: C
+@MARC-2400: 3900043
+@MARC-245a: [cover title:] Hertz Michał | Marsz uroczysty na wielką orkiestrę. C-dur. | Wyciąg fortepianowy | Kopia ręką Karola Randekarta z poprawkami kompozytora.
+@MARC-246a: [at left of the accolade:] Marsch.
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 short score: 11 p.
+@MARC-300c: 36 x 26 cm
+@MARC-3008: 01
+@MARC-500a: On the last page is ripped out a little piece of other song.
+@MARC-500a: [pl-text: Na ostatniej stronie znajduje się fragment innej piosenki.]
+@MARC-591a: inw. 2520
+@MARC-593a: Manuscript copy with autograph annotations
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Marches
+@MARC-6500: 25189
+@MARC-700a: Randekart, Karol
+@MARC-700d: 19/20
+@MARC-7000: pe41021070
+@MARC-7004: scr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2506
+@@END:		MARC21
+

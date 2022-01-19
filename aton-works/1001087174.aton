@@ -1,0 +1,49 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001087174
+@MARC-003:	DE-633
+@MARC-005:	20211027135252.0
+@MARC-008:	190922##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: {8''BF}{BA}/{6G3-F6E3-F}{6G3-A6B3-x'''C}/{8D''A}{8.'''Dx6C}/8q''B{6B3-xA6B3-'''C}8q'''E{D3-C6D3-E}/
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Polka Jawnuta
+@MARC-240m: pf
+@MARC-240r: b
+@MARC-2400: 5215752
+@MARC-245a: [caption title:] Polka
+@MARC-260c: 1852a
+@MARC-2608: 01
+@MARC-300a: 1 keyboard score: 3 p.
+@MARC-300c: 35,5 x 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na pierwszej stronie przed zapisem muzycznym znajduje się inskrypcja (w lewym górnym rogu) "Jawnuta - Polka | (na maskaradę w Wilnie 1852 r.)".]
+@MARC-500a: One page before the score there is an inscription (on the left top) "Jawnuta - Polka | (na maskaradę w Wilnie 1852 r.)".
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Polkas
+@MARC-6500: 25411
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 456/M
+@@END:		MARC21
+

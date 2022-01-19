@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033229
+@MARC-003:	DE-633
+@MARC-005:	20201029163416.0
+@MARC-008:	150203##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante religioso
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: =3//:''8C'nBbBAGF/4.E4A8-/FFF''FEC/4.E4D8-/
+@MARC-031r: A|b
+@MARC-031t: Maryjo Bogarodzico
+@MARC-031t: Niebiosów wysokich Pani
+@MARC-031t: Oto kalecy i chorzy
+@MARC-031t: W litości Twojej matczynej
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: ''8{C'AF}{DC,A}/'4.E+4E8D/4.C8C--/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Nowicki, Ludwik
+@MARC-100d: 1830c-1886
+@MARC-1000: pe30020312
+@MARC-240a: Maryjo Bogarodzico
+@MARC-240m: V (X), org
+@MARC-240r: A|b
+@MARC-2400: 50222358
+@MARC-245a: [caption title:] Hymn do Najświętszej Panny w Ostrej Bramie | Muzyka Liudu[!] Nowickiego. | Słowa Władysława Syrokomli.
+@MARC-300a: 1 keyboard score: f.18v-19r
+@MARC-3008: 01
+@MARC-500a: [pl-text: Utwór zanotowany na trzech pięcioliniach w systemie; głos wokalny z podpisanym tekstem na pierwszej pięciolinii, tekst ostatniej zwrotki pod drugą pięciolinią; brak nazw głosów przy pięcioliniach, instrument (org) dookreślony na podstawie porównania z obsadą innych utworów w kolekcji]
+@MARC-500a: [pl-text: Z lewej strony pierwszego systemu ołówkiem zapisany numer utworu w kolekcji: 6]
+@MARC-500a: [pl-text: Na f. 19r, po kresce wyznaczającej koniec utworu, na słowie "Finis" ołówkiem zapisane dwa akordy; poniżej w osobnym systemie czarnym atramentem rozpisany przebieg akordów w 9 taktach]
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1021
+@MARC-6910: lit1869
+@MARC-700a: Syrokomla, Władysław
+@MARC-700d: 1823-1862
+@MARC-700j: Ascertained
+@MARC-7000: pe30040492
+@MARC-7004: lyr
+@MARC-773w: 300033223
+@MARC-852a: PL-CZ
+@MARC-852d: 110
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-87
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

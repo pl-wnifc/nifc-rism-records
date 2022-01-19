@@ -1,0 +1,104 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001082244
+@MARC-003:	DE-633
+@MARC-005:	20211027135154.0
+@MARC-008:	190818##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =3/2-4-8.-{3G^,G'G^,G]/4..''C^'C3{''C^'C''C^'C}4''C^'C8.{''C'^C6''C^'C}/4..''E^C'^E3{''E^C^'E''E^C'^E}4''E^C^'E8.{''E^C^'E6''E^C^'E/8''{E^C'^E''G^E'^G}4''E^C^'E+8..''E^C^'E{3''E^C^'E''E^C^'E/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 8-6qC^,C2'C^,C+8.'{C^,C3GG}/2'C^,C+8'C^,C-4-/8-'6qC^,C2'C^,C+8.'{C^,C3GG}/2'C^,C+8'C^,C-8.-3{GG}//4.,C3{CC}4C{8.C.6C}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Der Kampf
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: 8.-6''C{8.'C6C}2C+/4C3{CDExFxGAB}{8''C^'C6-6''C^'^E^C}{(8''C'^A^F^C''D^'A^F^D''E^C'^A^E}/8''F^C'^A^F-{3FDFDFDFD}{FDFDFDFD}{FDFDFDFD}{3FDFDFDFD}{FDFDFDFD}{FDFDFDFD}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Der Kampf
+@MARC-031d: Allegro
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: 2-8.,{B6B}{8.B^,,B6,B^,,B/8,B^,,B4.,A^,,A+8{,A^,,A6-,G^,,G}8{,F^,,F,E^,,E/,4D^,,D4--,,3{DEFGAnBx,C/4..D^,,D8,E^,,E{,F^,,F,D^,,D/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: ger
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Jak wam się podoba
+@MARC-240m: V (3), Coro, pf
+@MARC-240o: Arr
+@MARC-2400: 5214044
+@MARC-245a: [title page:] Wie es euch gefällt. | Lustspiel von W. Shakspere. [sic!] | Musik. | componirt | von | Michael Hertz. | Clavierauszug mit Text. | Aufgeführt in polnischer Sprache | im Warschauer Regierungs Theater.
+@MARC-260c: 1850-1918
+@MARC-2608: 01
+@MARC-300a: 1 short score: 22 p.
+@MARC-300c: 32.5 x 25.5 cm
+@MARC-3008: 01
+@MARC-500a: The manuscript contains music for Shakespeare's play entitled "As You Like It" [in the source: "Wie es euch gefällt"]. This is a piano transcription. There is no list of dramatis personae. Each part contains stage directions and other annotations.
+@MARC-500a: [pl-text: Rękopis zawiera muzykę do sztuki Szekspira „As You Like It” [w źródle: „Wie es euch gefällt”]. Jest to transkrypcja na fortepian. Nie ma wymienionej listy postaci. Każda część zawiera didaskalia i inne adnotacje.]
+@MARC-520a: Muzyka do sztuki dramatycznej „Jak wam się podoba"
+@MARC-591a: inw. 2563
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 3
+@MARC-594b: Coro
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V (3), Coro, pf
+@MARC-595u: Rosalinde [dramatic role]
+@MARC-595u: Le Beau [dramatic role]
+@MARC-595u: Orlando [dramatic role]
+@MARC-595u: Herzog Friedricko [dramatic role]
+@MARC-595u: Charles [dramatic role]
+@MARC-595u: Celia [dramatic role]
+@MARC-595u: Sylvius [dramatic role]
+@MARC-595u: Amiens [undetermined male voice]
+@MARC-595u: Page 1 [undetermined male voice]
+@MARC-595u: Page 1 [undetermined male voice]
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-700a: Shakespeare, William
+@MARC-700d: 1564-1616
+@MARC-700j: Ascertained
+@MARC-7000: pe381951
+@MARC-7004: ccp
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2548
+@@END:		MARC21
+

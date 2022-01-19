@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063783
+@MARC-003:	DE-633
+@MARC-005:	20211027135330.0
+@MARC-008:	190227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino.
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: =2/'4C8FAGF//:''4.C+4C8C/8.{C6D}8C'BFB/''4.C+4C'8A/
+@MARC-031r: f
+@MARC-031t: Niegdyż serce stęsknione
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: 4A8A{GCG}/{F^,A'CF}{,A'CF}/{,A'CF}{,A'CF}//:
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Śpiewak w obcej stronie
+@MARC-240m: V, pf
+@MARC-240r: f
+@MARC-2400: 5191849
+@MARC-245a: [caption title:] J. B. Zaleskiego. | 29. Spiewak [!] w obcej stronie.
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-691a: KmBN
+@MARC-691n: 2214
+@MARC-6910: lit41001694
+@MARC-700a: Zaleski, Bohdan
+@MARC-700d: 1802-1886
+@MARC-7000: pe30036661
+@MARC-7004: lyr
+@MARC-730a: Śpiewak tęskniący
+@MARC-730g: RISM
+@MARC-730n: KmBN, 2214
+@MARC-7300: 5196370
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 247.
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

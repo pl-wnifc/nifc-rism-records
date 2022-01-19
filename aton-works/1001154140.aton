@@ -1,0 +1,63 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001154140
+@MARC-003:	DE-633
+@MARC-005:	20210923120959.0
+@MARC-008:	210421##################################
+@MARC-031a: 4
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1,F2.C4C2,,F1,F2E4FEDC,,BA2G2.A4B,1C,,F
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 4
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1,,F,C2F,,F2.,C4,,B2AF1G2.A4B,1C9(,,F)
+@MARC-031t: Sanctus Sanctus Sanctus Dominus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Paszkiewicz, Andrzej
+@MARC-100d: 1635c-1685
+@MARC-100j: Conjectural
+@MARC-1000: pe30105867
+@MARC-240a: Missa
+@MARC-240m: org
+@MARC-2400: 3921633
+@MARC-245a: [subject heading:] Missa de Passione Dni. a 4. A.P. Pro Organo vel Viola.
+@MARC-260c: 17th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: [pl-text: Identyfikacja inicjałów "A.P." jako Andrzej Paszkiewicz a nie Asprillo Pacelli na podstawie badań Marka Bebaka.]
+@MARC-590a: org
+@MARC-590b: f. 9r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: BebakF 2018
+@MARC-6910: lit50005860
+@MARC-773w: 1001154115
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.11
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

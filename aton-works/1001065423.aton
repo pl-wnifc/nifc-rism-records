@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001065423
+@MARC-003:	DE-633
+@MARC-005:	20210611000453.0
+@MARC-008:	190317##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: keyb
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: 6{DD}/{8D,A}'6{FF}/{F8.D}{6AA}/{8AF}{6''DD}/{8D'A}{6''FF}/{8FD}{6AA}/
+@MARC-031q: +
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Turowicz, Ksawery
+@MARC-100d: 18/19
+@MARC-100j: Conjectural
+@MARC-1000: pe41021598
+@MARC-240a: Waltz
+@MARC-240m: keyb
+@MARC-240r: D
+@MARC-2400: 3966237
+@MARC-245a: [caption title:] Valce [!] | par | Mr | Turowicz [?]
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-500a: Right hand part only.
+@MARC-5008: 01
+@MARC-590a: keyb
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: keyb
+@MARC-599b: full
+@MARC-650a: Keyboard music
+@MARC-6500: 3900079
+@MARC-650a: Waltzes
+@MARC-6500: 25220
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 235
+@MARC-6910: lit1891
+@MARC-773w: 1001065422
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 559/A IX 39
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

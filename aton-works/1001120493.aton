@@ -1,0 +1,143 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001120493
+@MARC-003:	DE-633
+@MARC-005:	20210720131903.0
+@MARC-008:	200625##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031o: c
+@MARC-031p: =7/2-4-G/G8E-4''C'8G-/4.''E8D4CC/
+@MARC-031r: C
+@MARC-031t: Z odgłosem wdzięcznych pieni
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 3{q,GqAqB}{8'CCCC}{DDEE}/{FFFF}{EEEE}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Graduale
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Offertorium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Adagio
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Dona nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Masses
+@MARC-240m: V (4), coro, orch
+@MARC-240r: C
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Msza № 9. [space] p. JStefani
+@MARC-246a: [cover title:] Msza | napisana | przez Józefa Stefaniego. | na dzień 4 Maja 1846 r.
+@MARC-260c: 1846
+@MARC-2608: 01
+@MARC-300a: 1 score: 86 p.
+@MARC-300c: 31,6 × 24,4 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Rękopis sporządzony na papierze z wydrukowanymi pięcioliniami oraz informacją: "Magazyn A. Zalewskiego w Warszawie № 473."]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 20/VII/47 | [podpis Chromińskiego]."]
+@MARC-500a: [pl-text: Por. z RISM ID. 1001115140.]
+@MARC-563a: Binded into a hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 1627
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: S (2), T, B, Coro S (2), Coro T, Coro B, vl (2), vla, vlc, cb, fl, ob (2), cl (2), fag (2), cor (2), tr (2), timp
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Wtm
+@MARC-852d: 10463
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1544
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

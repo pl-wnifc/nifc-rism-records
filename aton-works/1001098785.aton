@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001098785
+@MARC-003:	DE-633
+@MARC-005:	20211027135219.0
+@MARC-008:	191217##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGD
+@MARC-031o: c/
+@MARC-031p: =/2-4-E/2EF+4/FE2G/+4GF2A/+4A
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Ojcze nasz
+@MARC-240k: Fragments
+@MARC-240m: orch
+@MARC-240r: E
+@MARC-2400: 4290204
+@MARC-245a: [caption title:] Dar p. Gustawa Roguskiego | 17/III 1904 .r | Z.[ahorowski] | „Ojcze nasz” | Muzyka St. Moniuszki. | Introduction.
+@MARC-260c: before 1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 30,5 x 24 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "Towarzystwo Muzyczne | Sekcya imienia | St. Moniuszki".]
+@MARC-500a: [pl-text: Poprawki czerwoną kredką.]
+@MARC-591a: Inw. 819
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 4
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 1
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: ophicleide
+@MARC-594c: 1
+@MARC-594a: vl (4), vla, vlc, cb, fl, ob, cl, fag, cor (2), ophicleide
+@MARC-599b: full
+@MARC-650a: Orchestral pieces
+@MARC-6500: 3901803
+@MARC-700a: Roguski, Gustaw
+@MARC-700d: 1839-1921
+@MARC-700j: Ascertained
+@MARC-7000: pe41024634
+@MARC-7004: fmo
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 400/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114062
+@MARC-003:	DE-633
+@MARC-005:	20210720131935.0
+@MARC-008:	200504##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: =12/4(-)(-)8-C/2.D/4C-C/
+@MARC-031r: A|b
+@MARC-031t: Addio giorni felici
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vlc 1
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: 4.E8{CGF}/4.E%F-4 {8,A'DC}/4.,B{8nAB'nF}/2nD4E/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: ita
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Addio giorni felici
+@MARC-240m: V, vlc (4)
+@MARC-240r: A|b
+@MARC-2400: 50231274
+@MARC-245a: [caption title:] Addio. [space] Muzyka Wilhelma Troschel
+@MARC-260c: before 1887
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 26 x 33,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Poprawki ołówkiem.]
+@MARC-591a: inw. 2275
+@MARC-591a: A-21.311
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 4
+@MARC-594a: V, vlc (4)
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2303
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001148993
+@MARC-003:	DE-633
+@MARC-005:	20210923121122.0
+@MARC-008:	210304##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A coro
+@MARC-031o: 3/2
+@MARC-031p: 2,A'DE/1F2G/1.E4E1E/2E2.E4E/
+@MARC-031r: D
+@MARC-031t: Jesu Corona celsior
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T1 coro
+@MARC-031o: 3/2
+@MARC-031p: 2DFE/1D2D/1.xC4C1C/2,B2.B4B/
+@MARC-031r: D
+@MARC-031t: Jesu Corona celsior
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T2 coro
+@MARC-031o: 3/2
+@MARC-031p: 2,AAA/1A2bB/1.A4A1A/2nB2.B4B/
+@MARC-031r: D
+@MARC-031t: Jesu Corona celsior
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031o: 3/2
+@MARC-031p: 2,DDxC/1D2,,G2.A4A2A/1.x',G4G1G/
+@MARC-031r: D
+@MARC-031t: Jesu Corona celsior
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Jesu corona celsior
+@MARC-240m: Coro: A, T1, T2, B
+@MARC-240r: D
+@MARC-2400: 3920860
+@MARC-245a: De Confessore non Pontifice
+@MARC-260c: [1600-1750]
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 21 x 16.5 cm
+@MARC-3008: 01
+@MARC-500a: concordances: Kk.I.195; Kk.I.198; Kk.I.201
+@MARC-590a: Coro: A, T1, T2, B
+@MARC-590b: 2, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: A
+@MARC-594c: 1
+@MARC-594b: Coro: T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: A, Coro: T1, Coro: T2, Coro: B
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001148105
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.8
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

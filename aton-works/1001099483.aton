@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001099483
+@MARC-003:	DE-633
+@MARC-005:	20210601132530.0
+@MARC-008:	191228##################################
+@MARC-028a: 416
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto.
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: =11/48BB{8.6AB}8A/48GDGB/''DD{8.6ED}8xC/
+@MARC-031r: G
+@MARC-031t: Przestań myśleć o niedoli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 6/8
+@MARC-031p: =2/8.68888''{BAB'''}{DC''A}/{GFE}{DEF}/8{GAB}{'''C''BA}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Pieśń ludowa wenecka
+@MARC-240m: V, pf
+@MARC-240r: G
+@MARC-2400: 50222498
+@MARC-245a: MOJÉJ CÓRCE PAULINIE | Pieśń ludowa Wenecka | „Coi pensieri malinconici”. | POEZJA MIRONA | MUZYKA | WILHELMA TROSCHLA. | WARSZAWA | NAKŁADEM GUSTAWA SENNEWALD. | pr. ul. Miodowéj 481 (4 nowy) | 416 | Cena, Kop. 30. | Inst Lith. de C. G. Röder, Leipsic.
+@MARC-260a: Warsaw
+@MARC-260b: Nakładem Gustawa Sennewald
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 4 p.
+@MARC-300c: 25,5 x 32,5 cm
+@MARC-3008: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Michaux, Aleksander
+@MARC-700d: 1839-1895
+@MARC-700j: Ascertained
+@MARC-7000: pe41023686
+@MARC-7004: lyr
+@MARC-700a: Röder, Carl Gottlieb
+@MARC-700d: 1812-1883
+@MARC-700j: Ascertained
+@MARC-7000: pe30057334
+@MARC-7004: ltg
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-8523: 51014582
+@MARC-852c: mzk/m/313
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

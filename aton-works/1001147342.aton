@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147342
+@MARC-003:	DE-633
+@MARC-005:	20210923121115.0
+@MARC-008:	210221##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 1- / 2- ''2E / 1F / + 2FE / 2.D 4D /
+@MARC-031t: Diffusa est gratia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 2- G / 1G / 1A / G / 2.F 4G /
+@MARC-031t: Diffusa est gratiia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Diffusa est gratia
+@MARC-240m: SA
+@MARC-2400: 3903255
+@MARC-245a: Diffusa est gratia
+@MARC-260a: Cracow
+@MARC-260c: XVII-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score
+@MARC-300a: 2 parts
+@MARC-300c: 22 x 17 cm
+@MARC-3008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 3r-3v
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 5r-5v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594a: S, A
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-773w: 1001147339
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.305
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

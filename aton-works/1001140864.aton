@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001140864
+@MARC-003:	DE-633
+@MARC-005:	20210923121022.0
+@MARC-008:	201226##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 4/4
+@MARC-031p: ''4D / 2.D 4D / 4.D 8D 4D 8DD /
+@MARC-031r: G
+@MARC-031t: Laudate Dominum omnes gentes
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xF
+@MARC-031o: 4/4
+@MARC-031p: '4G / 2.G 4G / 4.G 8G 4G 8GG /
+@MARC-031r: G
+@MARC-031t: Laudate Dominum omnes gentes
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xF
+@MARC-031o: 4/4
+@MARC-031p: '4D / 2.D 4D / 4.D 8D 4D 8DD /
+@MARC-031r: G
+@MARC-031t: Laudate Dominum omnes gentes
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 4/4
+@MARC-031p: ,,4G / 2.G 4G / 4.G 8G 4G 8GG /
+@MARC-031r: G
+@MARC-031t: Laudate Dominum omnes gentes
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Laudate Dominum
+@MARC-240m: Coro: SATB
+@MARC-240r: G
+@MARC-2400: 2000064
+@MARC-245a: [text incipit:] Laudate Dominum
+@MARC-246a: Offertorium
+@MARC-300a: 4 parts
+@MARC-300c: 32,1 x 23,2 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Nad partią Tenore i Basso adnotacja: "in G#"]
+@MARC-500a: [pl-text: W końcowym fragmencie partii Tenore oraz Basso kilka skreślonych taktów]
+@MARC-520a: 1 sacred song
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 4v-5r, 12v-13r, 20v,
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594a: S coro, A, T coro, B coro
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-773w: 1001140238
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.388
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

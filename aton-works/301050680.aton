@@ -1,0 +1,303 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050680
+@MARC-003:	DE-633
+@MARC-005:	20211031171953.0
+@MARC-008:	160310##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 4'''C{6C''GAB}{'''C''GAB}{'''C''GEC}/4AB'''C-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie. Moderato
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c
+@MARC-031p: 2''G4G8GG/2A4G-/2G4G8GG/2F4E-/
+@MARC-031r: C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Christe. Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =10/6{''DAFD}4C6{'G''C'BG}/{BAGF}4F8-6{A''C}/{xCD}4D
+@MARC-031r: F
+@MARC-031t: Christe eleison
+@MARC-031t: Sancta Maria ora pro nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Gloria. Moderato
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c
+@MARC-031p: 4''G8EE4EG/AAAG/FDDF/E{8.6GF}4E-/
+@MARC-031r: C
+@MARC-031t: Gloria in excelsis Deo
+@MARC-031t: Mater Christi mater divinae gratiae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Laudamus te. Adagio
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: ''DC'B/A8-FGA/4B8-6GG8A6BB/4A8-
+@MARC-031r: F
+@MARC-031t: Laudamus te benedicimus te
+@MARC-031t: Speculum juestitiae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Qui tollis. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 3/4
+@MARC-031p: {8.''C6D}8EEEE/4FE-/8.G6F8EEEE/4ED-/
+@MARC-031r: C
+@MARC-031t: Qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Quoniam. Allegro assai
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c
+@MARC-031p: =58/2'CC/4C,CEG/FA4.D8F/4E--
+@MARC-031r: C
+@MARC-031t: Quoniam tu solus sanctus
+@MARC-031t: Virgo prudentissima
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Cum Sancto. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 3/4
+@MARC-031p: ''EEE/4.G8F4D/FGF/4.G8F4D/
+@MARC-031r: c
+@MARC-031t: Cum sancto spiritu
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: In gloria. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c/
+@MARC-031p: 2''CD/EF/4GEAG/FD'AB/''C
+@MARC-031r: C
+@MARC-031t: In gloria Dei Patris amen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: [Credo.] Moderato
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 3/4
+@MARC-031p: ''4E8EEEE/4FD8-D/EEEEEE/4FD-/
+@MARC-031r: C
+@MARC-031t: Patrem omnipotente factore celi et terre
+@MARC-031t: Regina angelorum regina patriarcharum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Et incarnatus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 2/4
+@MARC-031p: 4''G8GG/{8.6AA}4A/8FFFF/EE4-/
+@MARC-031r: C
+@MARC-031t: Et incarnatus est de Spiritu Sancto
+@MARC-031t: Salus infirmorum ora pro nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: Et resurrexit. Moderato
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c
+@MARC-031p: 4''E8GG4GE/F8DD4FD/2E4G8EE/4F8D
+@MARC-031r: C
+@MARC-031t: Et resurrexit tertia die
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 1
+@MARC-031d: Et vitam.
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c/
+@MARC-031p: 2''CD/EF/4GEAG/FD'AB/
+@MARC-031r: C
+@MARC-031t: Et vitam venturi saeculi
+@MARC-031t: Christe audi nos Christe exaudi nos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 13
+@MARC-031c: 1
+@MARC-031d: Sanctus.
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 3/4
+@MARC-031p: =4/2.''G/E/A/F/4EG8GG/
+@MARC-031r: C
+@MARC-031t: Sanctus Dominus Deus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 14
+@MARC-031c: 1
+@MARC-031d: Pleni.
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c/
+@MARC-031p: 2''G4EC/DF'B''D/CGEC/DF
+@MARC-031r: C
+@MARC-031t: Pleni sunt caeli et terra gloria tua
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 15
+@MARC-031c: 1
+@MARC-031d: Benedictus. Adagio
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/4
+@MARC-031p: =10/6{,GEDC}4C6{C'C,BA}/{AB'C,A}4G6{xFG'CE}/4D6{C,BAG}{A'C,B'D/4C--/
+@MARC-031r: C
+@MARC-031t: Benedictus qui venit in nomine Domini
+@MARC-031t: Rosa mistica
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 16
+@MARC-031c: 1
+@MARC-031d: Osanna.
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031o: c/
+@MARC-031p: =5/2'D4,BG/A'C,xFA/G'D,BG/
+@MARC-031r: C
+@MARC-031t: Osanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 17
+@MARC-031c: 1
+@MARC-031d: Agnus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 2/4
+@MARC-031p: =6/''2G/4G-/2A/4A-/86688FFFFF/FFFGF/8ED4-/
+@MARC-031q: [pl-text: Po tej części uwaga: "Dona ut Kyrie"]
+@MARC-031r: C
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rodowski, Aleksander
+@MARC-100d: 18/19
+@MARC-100j: Alleged
+@MARC-1000: pe30009627
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: C
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] [crossed out with blue pencil:] 1-|m|e Classis. | [at left:] N 14 [later with pencil:] a | MISSA. | in C. | a XI=|e|m Vocibus. | [in brace, crossed out with blue pencil:] Canto. Alto. | Tenore. Basso. [after brace with blue pencil:] Litan. | Violin I.=|m|o &amp; II.=|d|o | Clarinetto I.=|m|o &amp; II.=|d|o | Cornu I.=|m|o &amp; II.=|d|o | et | ORGANO. | [at left:] Del Sige Rodowski._ | [bottom middle:] N. 14
+@MARC-260c: 1800-1820
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona ołówkiem]
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N. 14."]
+@MARC-500a: [pl-text: Na f. 4v głosu T zapisano fragment głosu org, utworu w tonacji As, notatka powyżej: "do benedictus dalszy ciąg", f. 4 ucięte od dołu]
+@MARC-500a: [pl-text: Na f. 5v głosu B u góry z lewej notatka dotycząca wykorzystania warstwy muzycznej w litanii, której słowa zostały podpisane pod częściami mszy: "Kyrie z Kyrie | Sancta maria z Christe | Mater Christy z Gloria | Virgo Bas Solo z Quoniam | Speculum alt z sopranem z Laudamus. | Rossa Bas Solo z Benedictus | Salus Infirmorum [powyżej:] alt Dyszkant [w linii:] z Et incarnatus | Regina z Credo | Agnus z Agnus. | Christe audinos z Kyrie-"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (osobna dla głosów S, A i T - od f. 1-11 oraz dla pozostałych f. 1-30)]
+@MARC-500a: [pl-text: Kopista rozpoznany przez M. Konika]
+@MARC-500a: [pl-text: Konkordancja wewnętrzna RISM ID no.: 301050625 (PL-STAb, 76h), pozostałe: 300257133 (PL-Kd); 300001098 (PL-CZ), 570000390 (SK-BRnm), autor: W. A. Mozart]
+@MARC-590a: Solo and Coro: S, B, Coro: A, T
+@MARC-590b: 4, 5, 3, 4 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 5, 5 f.
+@MARC-5908: 01
+@MARC-590a: cl 1, 2
+@MARC-590b: 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor in C
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, B, Coro S, Coro A, Coro T, Coro B, vl 1, vl 2, cl (2), cor in C (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 114, 339
+@MARC-6910: lit41001126
+@MARC-700a: Mozart, Wolfgang Amadeus
+@MARC-700d: 1756-1791
+@MARC-700j: Conjectural
+@MARC-7000: pe115324
+@MARC-7004: cmp
+@MARC-700a: Cichawski, Józef
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30109125
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-STAb
+@MARC-852d: N 14
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 14a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

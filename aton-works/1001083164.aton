@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083164
+@MARC-003:	DE-633
+@MARC-005:	20211027135332.0
+@MARC-008:	190824##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: Coro T 1
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: F/2A4GF/2''C4CC2/DD4./F8CC
+@MARC-031r: f
+@MARC-031t: De terra formasti eam Domine
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Krogulski, Józef Władysław
+@MARC-100d: 1815-1842
+@MARC-100j: Ascertained
+@MARC-1000: pe30001797
+@MARC-240a: Hymn żałobny
+@MARC-240m: coro
+@MARC-240r: f
+@MARC-2400: 5213614
+@MARC-245a: [caption title:] Himn żałobny [space] ułożony wd 19 Stycznia 1840 | p Józefa Wł. Krogulskiego
+@MARC-260c: 1840-01-19
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 33 x 21 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple Biblioteki Warszawskiego Towarzystwa Muzycznego i sygnatura olim (wykreślona).]
+@MARC-591a: inw. 676
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: coro T
+@MARC-594c: 2
+@MARC-594b: coro B
+@MARC-594c: 2
+@MARC-594a: coro T (2), coro B (2)
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-852a: PL-Wtm
+@MARC-852d: 8326
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 998-1
+@@END:		MARC21
+

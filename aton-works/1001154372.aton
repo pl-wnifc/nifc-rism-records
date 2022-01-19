@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001154372
+@MARC-003:	DE-633
+@MARC-005:	20210923121000.0
+@MARC-008:	210424##################################
+@MARC-031a: 5
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F+3
+@MARC-031m: B rip
+@MARC-031o: c/
+@MARC-031p: 0---9-/1,G2G4CD/EF2GFC/4CDEC2GC/
+@MARC-031r: 7t
+@MARC-031t: Confundantur superbi
+@MARC-0312: pe
+@MARC-031a: 5
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: 2da Parte
+@MARC-031g: F+3
+@MARC-031m: B rip
+@MARC-031o: c/
+@MARC-031p: 0---9-/1,G2FE/1D2CCFC1GA/
+@MARC-031r: 7t
+@MARC-031t: Fiat cor meum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Lasso, Orlando di
+@MARC-100d: 1532c-1594
+@MARC-100j: Ascertained
+@MARC-1000: pe506
+@MARC-240a: Confundantur superbi
+@MARC-240m: V (1)
+@MARC-240r: 7t
+@MARC-2400: 3961915
+@MARC-245a: De Sctis Mulieribq. Lib. 1. Fol. 17.
+@MARC-260c: [17th c.]
+@MARC-2608: 01
+@MARC-300a: 1 part; 1 f.
+@MARC-300c: 17,5 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: "CATH. CRAC. * ARCH. CAPIT." na pierwszej i ostatniej stronie rękopisu.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Na pierwszej stronie rękopisu wpisana ołówkiem sygnatura.]
+@MARC-500a: [pl-text: Na ostatniej stronie rękopisu inskrypcja "O ad M.D.G.".]
+@MARC-590a: B rip
+@MARC-590b: 3r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: B rip
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-773w: 1001153210
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.38
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

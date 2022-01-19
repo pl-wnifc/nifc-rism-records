@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001064624
+@MARC-003:	DE-633
+@MARC-005:	20210706140535.0
+@MARC-008:	190308##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: Coro 1: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ''2D4DD2bED2.C4CD2F4F2F4bED2.C4C2'B
+@MARC-031t: Nihil est Annae gremio toti mundo celebrius
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Nihil est Annae gremio toti mundo
+@MARC-240m: V (8)
+@MARC-2400: 5196565
+@MARC-245a: [caption title, Coro 2: B:] Pro Festo | Sanctae An | nae a 8 V
+@MARC-260c: 1620-1640
+@MARC-2608: 01
+@MARC-300a: partbooks
+@MARC-300c: 16,5 x 20 cm
+@MARC-3008: 01
+@MARC-590a: Coro 1: S 1, 2, 3, B, Coro 2: S 1, 2, A, B
+@MARC-590b: p. 74-75, 74-75, 72-73, 69-70, 70-71, 73-74, 71, 71-72
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 8
+@MARC-594a: V (8)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred vocal music
+@MARC-6500: 3901631
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-657a: Annae Matris Beatae Mariae Virginis
+@MARC-6570: 3011516
+@MARC-710a: Klasztor Benedyktynek w Jarosławiu
+@MARC-710g: Conjectural
+@MARC-7100: ks51002683
+@MARC-7104: fmo
+@MARC-773w: 1001063011
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: L 1643
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001100173
+@MARC-003:	DE-633
+@MARC-005:	20211027135220.0
+@MARC-008:	200108##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V 1
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: =/2-4-8''CE/4.F8E{C'A}EF/4.F8EE-4E/
+@MARC-031r: A|b
+@MARC-031t: Ne memineris ne memineris
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: 2A+4AB/2''C8C-4-/2-4-8'EF/4.F8EE-4E/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Psalm „Ne memineris”
+@MARC-240m: V(4), Coro, org, vl (2), vla, vlc, cb
+@MARC-2400: 50222877
+@MARC-245a: [cover title:] Psalm „Ne memineris” | na 4 głosy solowe i chór mieszany z tow. kwintetu smyczkowego i organów | Partytura | [Autograf]
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 12 p.
+@MARC-300c: 34 x 26 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 4
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594a: V (4), Coro S, Coro A, Coro T, Coro B, org, vl (2), vla, vlc, cb
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 783/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

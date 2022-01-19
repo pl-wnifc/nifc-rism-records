@@ -1,0 +1,106 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033544
+@MARC-003:	DE-633
+@MARC-005:	20201029163430.0
+@MARC-008:	121207##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,9GGA'C,BA'CC//
+@MARC-031t: Mandatum novum, do vobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031o: c/
+@MARC-031p: '2B''E+/EE/4EDC'B/1A+/A+/A+/2AE/xFG+/GxF/G/
+@MARC-031r: a
+@MARC-031t: Ut diligatis invicem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Leszczyński, Władysław
+@MARC-100d: 1616-1680
+@MARC-100j: Ascertained
+@MARC-1000: pe30025416
+@MARC-240a: Mandatum novum
+@MARC-240m: V (5), vlne
+@MARC-240r: a
+@MARC-2400: 3919192
+@MARC-245a: [cover title:] Mandatum Novum: [by other hand: in C] | pro Lotione peduum | In Coena Domini. | â | 5. Vocibus | Con | Violone. | Autho: R: P: Vladis:[lao] Leszczyński.
+@MARC-260c: 1722 (1722)
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 21 x 16,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: w prawym górnym rogu tuszem ręką kopisty "Num: 26."; poniżej tuszem "N|ro 26"; pośrodku z lewej strony ołówkiem ręką nieznanego Paulina "N|o 19[7?]", skreślono czerwonym tuszem; wyżej z prawej strony czerwonym tuszem ręką F. Maletza "N 937/238" ]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: In den Stimmen: "1722", "Anno 1772"
+@MARC-500a: Auf p.3 des Umschlags die Titelseite einer anderen Komposition, siehe unter derselben Signatur: "Proza post Votivum | Sacrum Sabativum | A kiedy przyjdzie: | 2. Cantis | Violoncello Con organo | Ex G. Cum Terza Minore | Autho:[re] Ignoto"
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: S 1, 2, A, T, B, vlne
+@MARC-590b: 2, 2, 2, 2, 2, 2f.
+@MARC-5908: 01
+@MARC-592a: [dust cover title:] [probably head of animal in circle]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594a: S (2), A, T, B, vlne
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Cena Domini, Feria V. in
+@MARC-6570: 3006313
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 23
+@MARC-6910: lit1887
+@MARC-691a: MrowiecT 1981
+@MARC-691n: pp. 202-210
+@MARC-6910: lit30000110
+@MARC-691a: MrowiecM 1985
+@MARC-691n: pp. 223-239
+@MARC-6910: lit30000109
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.828
+@MARC-6910: lit1869
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1619
+@MARC-6910: lit1869
+@MARC-700a: Weisgärber, Paweł
+@MARC-700d: 1690-1765
+@MARC-700j: Ascertained
+@MARC-7000: pe30040668
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: Num 26
+@MARC-852d: Nro 26
+@MARC-852d: N 937/238
+@MARC-852d: N|o 19[7?]
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-54
+@@END:		MARC21
+

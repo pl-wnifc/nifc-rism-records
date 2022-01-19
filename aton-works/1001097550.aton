@@ -1,0 +1,130 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001097550
+@MARC-003:	DE-633
+@MARC-005:	20211105131808.0
+@MARC-008:	191209##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 244E,B-'/2B4G-/4.B8''C'4BxA/1B/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGDA
+@MARC-031o: c
+@MARC-031p: 4F{8.6FF}4BB/2''CD4./E8D4C'B/2''D'B-/
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Graduale
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: 4B{8GAB''C/4C'BA/A8{GA8.B6F/4A8G-
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: --/=3/2-488A{AA}/4.A8A4G{8FE}/2E8A-4-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''D4D8{C'B}/2B4x8A-4A/B''DC'B/
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8(-{GB})8(-{GB})8(-{GB})8(-{GB})3/8(-{GA})(-{GA})(-{FA})(-{FA})/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: =4/4B8{BB}/{''8.64CCD}/{8EDCD}/4E8'B-/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Masses
+@MARC-240m: vl (2), vla, vlc, cb, org
+@MARC-240r: e
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] (: Msza Święta Słowa Odyńca :) | na trzy głosy.
+@MARC-260c: ca. 1870
+@MARC-2608: 01
+@MARC-300a: 1 score: 22 p.
+@MARC-300c: 28 x 35 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wewnątrz pusta karta zatytułowana "Offertorium".]
+@MARC-591a: N. 3 b)
+@MARC-591a: inw. 99
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 131
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

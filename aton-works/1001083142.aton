@@ -1,0 +1,123 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083142
+@MARC-003:	DE-633
+@MARC-005:	20211027135142.0
+@MARC-008:	190823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Mazur
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 8-E4''E^'EE/{8nFEFA''nC'F}/{xFxEFxA''xC'F}/{nGF8.G6G}4n''G/8-8'F4''F'F/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Mazur
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 4,E4,,E,E+/4,E4,,E,E+/4,E4,,E,E+/4E{8E,xD}8,E-/4,E4,,E,E+/4,E4.,,E,8E+/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Gwarkowie
+@MARC-240k: Excerpts
+@MARC-240m: orch
+@MARC-2400: 5212657
+@MARC-245a: [title page, vol. 1, purple ink:] Mazur. | z op. Gwarkowie. M. Hertza [caption title, vol. 2, black ink:] Mazur: p: M: Hertza
+@MARC-260c: 1850-1918
+@MARC-2608: 01
+@MARC-260c: 1850-1918
+@MARC-2608: 02
+@MARC-300a: 1 score (1 vol.): 36 p.
+@MARC-300c: 36.0 x 26.0 cm
+@MARC-3008: 01
+@MARC-300a: 22 parts (2 vol.): 218 p.
+@MARC-300c: 32.3 x 27.0 cm
+@MARC-3008: 02
+@MARC-500a: [score, vol. 2:] At the bottom of the first page there is a shelfmark in pencil: A-20.189.
+@MARC-5008: 02
+@MARC-500a: [pl-text: [partytura, t. 2:] Na dole pierwszej strony jest sygnatura zapisana ołówkiem: A-20.189.]
+@MARC-5008: 02
+@MARC-500a: [score, vol 1:] Autograph contains "Mazur" in A major for symphony orchestra from the opera "Gwarkowie". There are annotations in red and blue crayon and in purple ink. [score, vol 2:] This is a manuscript copy, containing orchestral parts. It contains "Mazur" in A major for symphony orchestra from the opera "Gwarkowie".
+@MARC-500a: [pl-text: [partytura, t. 1:] Autograf zawiera „Mazur” A-dur na orkiestrę symfoniczną z opery „Gwarkowie”. Korekty naniesione są czerwoną i niebieską kredką oraz fioletowym atramentem. [partytura, t. 2:] Jest to kopia rękopisu, zawierająca części orkiestrowe. Zawiera „Mazur” A-dur na orkiestrę symfoniczną z opery „Gwarkowie”.]
+@MARC-590a: vl 1, 2, vla, vlc 1, vlc 2 and cb, cb
+@MARC-590b: 10, 9, 9, 10, 15, 9 p.
+@MARC-5908: 02
+@MARC-590a: fl.picc, fl 1, 2, ob, cl, fag 1, 2
+@MARC-590b: 5, 8, 8, 15, 15, 8, 8 p.
+@MARC-5908: 02
+@MARC-590a: cor in F 1, 2, tr in F, trb, tb
+@MARC-590b: 13, 14, 12, 9, 9 p.
+@MARC-5908: 02
+@MARC-590a: gran cassa and piatti, tamb, timp, triangolo
+@MARC-590b: 4, 6, 6, 5 p.
+@MARC-5908: 02
+@MARC-591a: inw. 2373 [R 2086|1]
+@MARC-591a: inw. 2020 [R 2086|2]
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 02
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in A
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 4
+@MARC-594b: tr in F
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: tb
+@MARC-594c: 2
+@MARC-594b: gran cassa
+@MARC-594c: 1
+@MARC-594b: piatti
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594b: timp in A and E
+@MARC-594c: 1
+@MARC-594b: triangolo
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl.picc, fl, ob (2), cl in A (2), fag (2), cor in F (4), tr in F (2), trb (3), tb (2), gran cassa, piatti, tamb, timp in A and E, triangolo
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2086 1-2
+@@END:		MARC21
+

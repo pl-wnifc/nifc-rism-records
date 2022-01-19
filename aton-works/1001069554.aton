@@ -1,0 +1,149 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001069554
+@MARC-003:	DE-633
+@MARC-005:	20210522114738.0
+@MARC-008:	190427##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =16/4,DFD/AAA/DFD/2.A/4DFD/AAA/
+@MARC-031r: D
+@MARC-031t: A cóż się to dzieje
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''DFA/{8DFDF}4A/DFA/A{8AFGE}/4A{8AFGE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4,A8AA4GG/E8EE2F/4DDEE/C,,A,2D/
+@MARC-031r: D
+@MARC-031t: Poczekaj bracie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allabreve [!]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2DE/,A'D/FG/AD/2DE/,A'D/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''FFE/2.D/4FAG/2.F/2F4A/GGF/2F4F/
+@MARC-031r: D
+@MARC-031t: Jak ja pójdę
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''A8{AFGE}/{F'DFA}4''D/A{8AFGE}/{F'DFA}4''D/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Pastorale
+@MARC-240m: V (4), orch, b
+@MARC-240r: D
+@MARC-2400: 3900694
+@MARC-245a: [title page:] PASTORELLA | a Vocibus Novem | Canto. Alto. | Tenore Basso | Violino 1mo. Violino 2do | Tuba pastoralis. | Principale | Con | FUNDAMENTO
+@MARC-260c: 1773
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 33,5 (16,5) x 21 (21) cm
+@MARC-3008: 01
+@MARC-500a: Inscription "Ex Rebus Religiosissimae Virginis | Ordinis S. Patriarchae Benedicti | Marianna Mokranowska Conventus Sandomirien[sis]: 1773" at the bottom of the title page.
+@MARC-500a: "Tuba pastoralis" most probably indicating tromba marina.
+@MARC-590a: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: princ, tb solo
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: princ
+@MARC-594c: 1
+@MARC-594b: tuba pastoralis
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), princ, tuba pastoralis, b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 241
+@MARC-6910: lit1891
+@MARC-691a: Walter-MazurZ 2017
+@MARC-691n: p. 53-54
+@MARC-6910: lit41001853
+@MARC-700a: Mokronowska, Marianna
+@MARC-700d: 1754c-1802
+@MARC-700j: Ascertained
+@MARC-7000: pe41011385
+@MARC-7004: fmo
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 37/A I 37
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

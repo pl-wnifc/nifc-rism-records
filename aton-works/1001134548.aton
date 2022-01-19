@@ -1,0 +1,118 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001134548
+@MARC-003:	DE-633
+@MARC-005:	20211109082257.0
+@MARC-008:	201106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =3/4-BBB/B''D2E/4C8{DE}4FF/E'BG''D/
+@MARC-031r: E|b
+@MARC-031t: Rorate caeli desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =2/4-EEE/2D,A/4'EF2G/2.F4F/
+@MARC-031r: E|b
+@MARC-031t: Rorate caeli desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =1/4,BBB/2GE/4.F8F4FF/4BAGB/
+@MARC-031r: E|b
+@MARC-031t: Rorate caeli desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Lente
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: -4,EEE/2D,,B/4,EFGA/BFBA/
+@MARC-031r: E|b
+@MARC-031t: Rorate caeli desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031d: Lente
+@MARC-031g: F-4
+@MARC-031m: B 2
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: -4,EEE/2D,,B/4,EFGbA/BFBbA/
+@MARC-031r: E|b
+@MARC-031t: Rorate caeli desuper et nubes pluant
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-100j: Ascertained
+@MARC-1000: pe30004985
+@MARC-240a: Rorate caeli
+@MARC-240m: Coro
+@MARC-240r: E|b
+@MARC-2400: 3905164
+@MARC-245a: [begining of text on parts:] Rorate coeli
+@MARC-260c: ?
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 16 x 13 cm
+@MARC-3008: 01
+@MARC-590a: Canto
+@MARC-590b: f. 1r.
+@MARC-5908: 01
+@MARC-590a: Alto
+@MARC-590b: f. 2r.
+@MARC-5908: 01
+@MARC-590a: Tenore
+@MARC-590b: f. 3r.
+@MARC-5908: 01
+@MARC-590a: Basso
+@MARC-590b: f. 4r.
+@MARC-5908: 01
+@MARC-590a: Basso Ripieno
+@MARC-590b: f. 5r.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: Coro B 2
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro A, Coro T, Coro B, Coro B 2
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001134552
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.267
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

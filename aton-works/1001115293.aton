@@ -1,0 +1,188 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115293
+@MARC-003:	DE-633
+@MARC-005:	20210720131933.0
+@MARC-008:	200516##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: № 1. Stabat Mater
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: Coro S1
+@MARC-031n: bBEAD
+@MARC-031o: 4/2
+@MARC-031p: =4//:2AF4nEC''C'B/2AB''C'G/
+@MARC-031r: f
+@MARC-031t: Stabat mater dolorosa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: № 1. Stabat Mater
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEAD
+@MARC-031o: 4/2
+@MARC-031p: 1-4''F-2-/1-4''F-2-/1-4''G-2-/1-4'''C-2-//
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: № 2.
+@MARC-031d: Andantino
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: № 3. Aria
+@MARC-031d: Adagio
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: № 4.
+@MARC-031d: Adagio
+@MARC-031o: c/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: № 5. Aria per il Basso
+@MARC-031d: Allegro
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: № 6.
+@MARC-031d: Adagio
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: № 7.
+@MARC-031d: Larghetto
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: № 8. Aria per il Tenore.
+@MARC-031d: ma non troppo
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: № 9. Deutino per il Soprano e Alto con Choro
+@MARC-031d: Adagio
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: № 10. Arietta per il Alto
+@MARC-031d: Adagio
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: № 10½.
+@MARC-031d: Andantino
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 1
+@MARC-031d: Finale Stabat Mater № 11.
+@MARC-031d: Allegro moderato
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-041a: lat
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Stabat mater
+@MARC-240m: V (8), coro (2), orch
+@MARC-240r: f
+@MARC-2400: 3900847
+@MARC-245a: [caption title:] Stabat Mater
+@MARC-260c: ca. 1856
+@MARC-2608: 01
+@MARC-300a: 1 score: 146 p.
+@MARC-300c: 35,3 × 25,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 6/VII/47 | [podpis Chromińskiego]."]
+@MARC-563a: Binded into a hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 1645
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: A
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 2
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro A
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 2
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 4
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: arp
+@MARC-594c: 1
+@MARC-594a: S (2), A (2), T (2), B (2), Coro S (2), Coro A (2), Coro T (2), Coro B (2), vl (2), vla, vlc, cb, fl, ob, cl (2), fag (2), cor (2), tr (2), trb (4), timp, arp
+@MARC-599b: full
+@MARC-650a: Sacred vocal music
+@MARC-6500: 3901631
+@MARC-852a: PL-Wtm
+@MARC-852d: 10484
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1564
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

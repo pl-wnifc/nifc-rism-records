@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001088026
+@MARC-003:	DE-633
+@MARC-005:	20211027135214.0
+@MARC-008:	190928##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 6/8
+@MARC-031p: {8''C'BA}4B8B/{8''C'BA}4B8B/{8''CDE}4E8'B/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Chant sans paroles
+@MARC-240m: pf
+@MARC-240r: a
+@MARC-2400: 3963933
+@MARC-245a: [caption title:] [crossed out: Justynowi Wojewódzkiemu [space] „Do | odjeżdżającej” | Piosnka bez słów, przez St. Moniuszko] [in violet ink:] Jus[ty]nowi Wojewódzkie[mu] | Chant sans paroles
+@MARC-260c: 19th sc.
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 27 x 33,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pierwotny tytuł wykreślony, nowy wpisany fioletowym atramentem.]
+@MARC-500a: [pl-text: Na s. 2 wypisane wyblakłym fioletowym atramentem pierwsze takty pieśni "O jak jest miło w wiejskiej zaciszy" z adnotacją: "Dalej już pamięta!".]
+@MARC-500a: [pl-text: Rękopis poddany konserwacji - uzupełniono ubytki w papierze.]
+@MARC-590a: pf
+@MARC-590b: 2 p.
+@MARC-5908: 01
+@MARC-591a: Inw. 842
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Piano music
+@MARC-6500: 3902024
+@MARC-700a: Wojewódzki, Justyn
+@MARC-700d: 1820-1883
+@MARC-700j: Ascertained
+@MARC-7000: pe41024205
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 423
+@@END:		MARC21
+

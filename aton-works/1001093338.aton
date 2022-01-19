@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001093338
+@MARC-003:	DE-633
+@MARC-005:	20211027135257.0
+@MARC-008:	191111##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: A
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: 2-4B8nAB/4.''D8C'BnA8.B6G/4F8F-4F8GnG/4AB8''CC'BA/2''D8DDC'B/4.''C8CCC8.D6'nA/4''C'B8-B''CD/
+@MARC-031r: b|b
+@MARC-031t: O władco świata wiekuisty Boże
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: 2BF/B+8{BnA}4B+/2B4F{8GnG}/2AE^C/4A''D+2D'^G^D/''C^'G^CA^F/
+@MARC-031r: b|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Modlitwa
+@MARC-240m: V, org
+@MARC-240r: b|b
+@MARC-2400: 4323187
+@MARC-245a: [title page:] O władco świata. | Modlitwa | Śpiew | na głos Altowy, z towarzyszeniem Organów. | muzyki | Stanisława Moniuszki. | Autograf | M
+@MARC-260c: 1862
+@MARC-2608: 01
+@MARC-300a: 1 score: 3 p.
+@MARC-300c: 35.0 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na karcie pod tytuł znajduje się uwaga: "Uwaga dla Zecera: wyrazy podreślone [!] czerowno: Cursive. | wyrazy pomiędzy dwóma [!] czerwonymi linijami: proste, grube. | wyrazy pod czerwonym łukiem: proste, grube, większe. | wyraz: Lento, proste, grube, jeszcze, większe. | text: proste cieńkie."]
+@MARC-591a: inw 158
+@MARC-591a: 24.a
+@MARC-591a: G 208. W.
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: A, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 286
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

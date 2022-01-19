@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147650
+@MARC-003:	DE-633
+@MARC-005:	20210923120941.0
+@MARC-008:	210223##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: 2''Dn4C'B2A/2.B4B2B/4B''CDE2F/2.E4E2D/'A''D'B/
+@MARC-031t: Sanctorum meritis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: 2GGD/2.D4D2D/2.G4GxFG/2.A4A2A/DDE/
+@MARC-031t: Sanctorum meritis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: 2n,B4AGx2F/2.G4G2G/4GABx'C2D/2.D4xC2D/
+@MARC-031t: Sanctorum meritis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: 2,GnCD/2.G4,,G2G/,2.G4E2D/2.A4,,A2,D/D,,B,E/,,2.A{8B,C}2D/
+@MARC-031t: Sanctorum meritis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Sanctorum meritis
+@MARC-240m: Coro
+@MARC-2400: 3900685
+@MARC-245a: [subject headings:] I
+@MARC-260c: 18th century
+@MARC-2608: 01
+@MARC-300a: 5 parts, 5 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: W partii B pojawia się cyfrowanie.]
+@MARC-590a: S, A, T, B, B (2)
+@MARC-590b: f. 1r, 2r, 3r, 4r, 5r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 2
+@MARC-594a: S, A, T, B (2)
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001147649
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.284
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

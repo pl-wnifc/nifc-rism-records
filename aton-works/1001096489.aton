@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001096489
+@MARC-003:	DE-633
+@MARC-005:	20211027135250.0
+@MARC-008:	191130##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino - un poco agitato.
+@MARC-031g: G-2
+@MARC-031m: T solo
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =2/4G8{AG}{xFG}/4.G8G4G/4G8xFGAG/2''C4C/4C'8nB''CDE/2''E4D/
+@MARC-031r: c
+@MARC-031t: Domine ne in furore tuo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino - un poco agitato.
+@MARC-031g: F-4
+@MARC-031m: i
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8{,,EG,CEG'C}/{,,G,CEG'CE}/2.,C/,,nB/bB/nA/bA/2,,E^,E4,,F/
+@MARC-031q: [pl-text: Instrument towarzyszący partii wokalnej nie został określony, ale jest to z pewnością instrument klawiszowy.]
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Domine
+@MARC-240m: T, i
+@MARC-240r: c
+@MARC-2400: 33132
+@MARC-245a: [title page:] [purple stamp] | [in black ink:] Rękopis Moniuszki | / X 96 | [in blue crayon:] 22. | [back in black ink, crossed out and underlined:] Domine in furore tuo | St. Moniuszka [!] | [in blue crayon:] Psalm | (sul tenor) | St Monius [!] | [in left bottom corner: numbers written in black ink] | [in pink crayon:] 70.
+@MARC-260c: 1868-11-02
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 33,5 x 26,0 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T solo
+@MARC-594b: i
+@MARC-594a: T solo, i
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 284/M
+@@END:		MARC21
+

@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063785
+@MARC-003:	DE-633
+@MARC-005:	20211105143416.0
+@MARC-008:	190227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto.
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEA
+@MARC-031o: 6/8
+@MARC-031p: =1//:=1/4-8-'FGA/''4C'8BCDE/4A8F8,B'CD/8{ED}EGFG/
+@MARC-031r: E|b
+@MARC-031t: Możem ja dziwak
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Presto.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 6/8
+@MARC-031p: 4-8-{B''CbD}//:4F8E{'GAB}/4b''D8C4.'F/8B--4.C^,nA/8'F^,B'--4.D^,B/'E^,B'E^C/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Entuzjasta
+@MARC-240m: V, pf
+@MARC-240r: E|b
+@MARC-2400: 5191852
+@MARC-245a: [caption title:] J. J. Prusinowskiego. | 31. Entuzijasta. |e|:)
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-691a: KmBN
+@MARC-691n: 1799
+@MARC-6910: lit41001694
+@MARC-700a: Prusinowski, Jan
+@MARC-700d: 1818-1892
+@MARC-7000: pe41021314
+@MARC-7004: lyr
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 249.
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

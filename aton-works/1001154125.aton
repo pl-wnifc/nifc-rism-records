@@ -1,0 +1,135 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001154125
+@MARC-003:	DE-633
+@MARC-005:	20210923120959.0
+@MARC-008:	210421##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 0''D/9D1D/1.E2D/1D0D/1-2-1'G2A/1B/
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.,G2G/AB/1A'D,A/B/1-2-'D/,AG1'D/
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 9''DD/1DD/1.E2D/2.D4C2'B''C/1DD/
+@MARC-031t: Et in terra pax hominibus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =10/2,A4FG/AGA{8'DC}4,B'CDC/,BA1G2'C/
+@MARC-031t: Bone voluntatis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 0''D1D/D1.E2D/9E1.D/2D1DD/ED/CC/
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9,G4DEFE/1DGG/1.'C2,G/B1A4B'C9D/
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 0''D9D/E0D/2.G4F/EDC'B/2.A4B''1C/9D/
+@MARC-031t: Sanctus Sanctus Sanctus Dominus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =8/1'D,A2.G4A/B'CD,B9'C/2.C,4BAG2G/
+@MARC-031t: Sanctus Sanctus Sanctus Dominus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: =2/0''D9DDE1D/'9G9.''C2'B/''CE1D9.C/
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2.,G4A/B'CD,B2GA/1B2G4BA/GAB'C2D1D,B2A/1G
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Missa O admirabile commercium
+@MARC-240m: V (2)
+@MARC-2400: 4052367
+@MARC-245a: [subject headings:] Missa o Admirabile Comercium
+@MARC-260c: 17th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-3008: 01
+@MARC-590a: S, T
+@MARC-590b: f. 1r-5r, 10r-12v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594a: S, T
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773w: 1001154115
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.11
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

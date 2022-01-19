@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099824
+@MARC-003:	DE-633
+@MARC-005:	20211027135307.0
+@MARC-008:	200104##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: =1//=7/6AA8AB/4B8A/6AA8AB/4B8A/6AA8A''D/{FE}D/6EE8E'A/4''D8'xG/6AA8AB/
+@MARC-031r: D
+@MARC-031t: Błyszczą krople rosy mruczy zdróy po błoni
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: {6A^FA^F8A^F''D^'A}//4''E^D^'A+8''A^C^'A/{A^FA^FA^F''D^'A/4''E^D^'A+8''A^C^'A/6''{E^nCE^C8E^CF^C}/4''A^nC8''G^'B/8{''6D^'B''D^'B8''D^'B''E^C}/4''F^D8-/{'A^FA^FA^FA^FB^FB^F}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Wiosna
+@MARC-240m: V, pf
+@MARC-240r: D
+@MARC-2400: 4019769
+@MARC-245a: [caption title:] „Wiosna."
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajduje się pieczątka: "ALEKSANDER MONIUSZKO | N|o 772"]
+@MARC-591a: N|o 772
+@MARC-591a: N|o 6
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Witwicki, Stefan
+@MARC-700d: 1801-1847
+@MARC-700j: Alleged
+@MARC-7000: pe30048733
+@MARC-7004: lyr
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|20
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

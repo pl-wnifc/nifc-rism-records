@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099844
+@MARC-003:	DE-633
+@MARC-005:	20211027135308.0
+@MARC-008:	200105##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031o: 3/8
+@MARC-031p: =4/6.F3G4F/6.F3G4F/8F3GAB''C/4xC8D/6{DC}8.'G6''C/C'B8DF/8F6nEFGF/4D8-/6.F3G4F/
+@MARC-031q: [pl-text: brak podpisanego tekstu pod głosem wokalnym.]
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 3/8
+@MARC-031p: 6.{F3G}4F+/6.{F3G}4F/=2/8-{F^E^,A'F^E^,A}/-'{F^D^,B'F^D^,B}/8-'{F^E^C'F^E^C}/-'{F^D^,B'F^D^,B}/-{'E^CE^C}/-{D^,B'D^,B}/4.'E^,A/8-'{D^,B'D^,B}/-'{E^CE^C}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: L'aumône au bal
+@MARC-240m: V, pf
+@MARC-240r: B|b
+@MARC-2400: 50222715
+@MARC-245a: [caption title:] "L'aumône au bal." [space] paroles de M|me Desbordes-Valmore.
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: 1 score (incpl): 1 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Desbordes-Valmore, Marceline
+@MARC-700d: 1786-1859
+@MARC-700j: Ascertained
+@MARC-7000: pe8281
+@MARC-7004: lyr
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|32
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

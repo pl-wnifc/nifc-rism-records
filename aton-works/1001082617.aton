@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001082617
+@MARC-003:	DE-633
+@MARC-005:	20211027135152.0
+@MARC-008:	190820##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Śpiew greckich kapłanek
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: Coro: S 1
+@MARC-031o: 6/8
+@MARC-031p: 4.''C4'xG8G/4.BA/''F4xC8C/4.''ED/C4'B8A/x4G8F4E8F/
+@MARC-031r: a
+@MARC-031t: W gaju świętym przed sklepieniem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Śpiew greckich kapłanek
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 6/8
+@MARC-031p: 4.''C^'A^E4xG^E8G^E/8{B^E''E^'E''E}{EE'''E}/4.''F^D^'A4''xC^'A8''C^'A/8{''E^'A''A^'A''A}{AA'''A]/4.'''C''^A^C4''B^xG'^B4''A^F^'A/4''xG^E^'xG8''F^D^'F4''E^C'^E8''F^D^'F/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Alleged
+@MARC-1000: pe41023359
+@MARC-240a: Muzyka do sztuki dramatycznej "Semele"
+@MARC-240k: Fragments
+@MARC-240m: Coro, pf
+@MARC-2400: 5213746
+@MARC-245a: [caption title, purple pen, f. 1r:] Śpiew greckich kapłanek (Chór kobiecy)
+@MARC-260c: 1850-1918
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 32.0 x 25.3 cm
+@MARC-3008: 01
+@MARC-500a: A piece of paper with incomplete musical record is glued to the first and third foglio. Page 4 is empty. The manuscript has annotations with blue crayon.
+@MARC-500a: [pl-text: Kartki z niekompletnym zapisem muzycznym są przyklejone na pierwszej i trzeciej karcie.. Strona 4 jest pusta. Rękopis zawiera adnotacje zanotowane niebieską kredką.]
+@MARC-591a: inw. 2550
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro femminile
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: Coro femminile, pf
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2535
+@@END:		MARC21
+

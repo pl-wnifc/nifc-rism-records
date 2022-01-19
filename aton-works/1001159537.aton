@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001159537
+@MARC-003:	DE-633
+@MARC-005:	20211004084915.0
+@MARC-008:	210620##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro non troppo
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: 4/4
+@MARC-031p: =2/-8GB4A8'GB/{8A''C}2C4-/-8'GB4A8'GB/
+@MARC-031r: F
+@MARC-031t: Szumi w gaju brzezina
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro non troppo
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 4/4
+@MARC-031p: 8,{A'F,G'E}{(,A'D,A)}{(G'E,G)}/i/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Szumi w gaju brzezina
+@MARC-240m: V, pf
+@MARC-240n: 7/3
+@MARC-240r: F
+@MARC-2400: 50249673
+@MARC-245a: III. | Szumi w gaju brzezina
+@MARC-260c: [after 1860]
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 4 p.
+@MARC-3008: 01
+@MARC-383b: 7/3
+@MARC-506a: Magazyn Biblioteki
+@MARC-590a: V
+@MARC-590b: 4 p.
+@MARC-5908: 01
+@MARC-590a: pf
+@MARC-590b: 4 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Vocal pieces
+@MARC-6500: 25275
+@MARC-773w: 1001159534
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R313
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

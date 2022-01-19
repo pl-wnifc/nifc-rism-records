@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143720
+@MARC-003:	DE-633
+@MARC-005:	20210923121052.0
+@MARC-008:	210124##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S1 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 1.G2GG1G2F1G/2-F2.G4F2b1ED/
+@MARC-031r: 8t
+@MARC-031t: Vinea mea electa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.,B2B1'C,AG/2-A4GA2.B8{AG}2A1B/
+@MARC-031r: 8t
+@MARC-031t: Vinea mea electa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-3
+@MARC-031m: B coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.,G2G1,CD',G/2-,D2.bE4,D1C,,B/
+@MARC-031r: 8t
+@MARC-031t: Vinea mea electa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.,G2G1,CD',G/2-,D2.',bE4,D1C,,B/
+@MARC-031r: 8t
+@MARC-031t: Vinea mea electa
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Vinea mea electa
+@MARC-240m: Coro: S1, T, B, B
+@MARC-240r: 8t
+@MARC-2400: 3907017
+@MARC-245a: [without title]
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-590a: Coro: S1, T, B, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S1
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S1, T, B, B
+@MARC-599b: full
+@MARC-650a: Responsories
+@MARC-6500: 25248
+@MARC-773w: 1001143561
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.136
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

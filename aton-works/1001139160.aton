@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001139160
+@MARC-003:	DE-633
+@MARC-005:	20210923121033.0
+@MARC-008:	201213##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B 2 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4,F8FF4EF/GF2C/2F4A8FF/
+@MARC-031r: F
+@MARC-031t: Credo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Credo
+@MARC-240m: Coro: B2
+@MARC-240r: F
+@MARC-2400: 2000005
+@MARC-245a: Drugie Credo
+@MARC-260c: [1850-1899]
+@MARC-2608: 01
+@MARC-300a: 1 partbook
+@MARC-300c: 24 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: partie S/T1, T2, A/B1 brak]
+@MARC-5008: 01
+@MARC-590a: Coro: B2
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: B2
+@MARC-599b: full
+@MARC-650a: Kyriale
+@MARC-6500: 50001328
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001090245
+@MARC-003:	DE-633
+@MARC-005:	20211027135209.0
+@MARC-008:	191015##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Akt V, Andante
+@MARC-031g: G-2
+@MARC-031m: Coro V 1
+@MARC-031o: c
+@MARC-031p: 2-4-8.E6xF/2G8G-8.E6xF/2G8G-8.A6B/4''C'BAxG/
+@MARC-031r: a
+@MARC-031t: Afrodyte z pian zrodzona
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Akt V, Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: 2.E8.{Ex6F}/2G4-8.{E6xF}/2G4-{8.A6B}/4''C'BAxG/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-041e: fre
+@MARC-041h: fre
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Fedra
+@MARC-240k: Excerpts
+@MARC-240m: Coro, pf
+@MARC-240r: a
+@MARC-2400: 3934898
+@MARC-245a: [caption title, at right, underlined:] Fedra | akt V.
+@MARC-260c: 1865
+@MARC-2608: 01
+@MARC-300a: 1 score: 1 p.
+@MARC-300c: 25,5 x 33,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na stronie znajdują się inskrypcje zapisane niebieską kredką: "100 b)" oraz (w prawym dolnym rogu) "86". Tekst słowny zapisany jest pod nutami.]
+@MARC-500a: On the page there are inscriptions in blue pencil: "100 b)" and (in right bottom) "86". The lyrics are written below the notes.
+@MARC-591a: inw. 1022
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro V
+@MARC-594c: 4
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: Coro V (4), pf
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-700a: Racine, Jean
+@MARC-700d: 1639-1699
+@MARC-700j: Ascertained
+@MARC-7000: pe32452
+@MARC-7004: lbt
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 600/M
+@@END:		MARC21
+

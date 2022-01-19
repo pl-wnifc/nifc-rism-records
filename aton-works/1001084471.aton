@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001084471
+@MARC-003:	DE-633
+@MARC-005:	20211027135216.0
+@MARC-008:	190904##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =7/8-4''D8C/4'B8AG/4.A8A/{B''CD}'B/2A/
+@MARC-031r: d
+@MARC-031t: Exaudi me Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =/4-{8 ,GA}/{nB'DxCnE}/{xDnC,nB'nD}/{xC,bBAB}/{nBbBAbA/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Illumine oculos meos
+@MARC-240m: S, A, pf
+@MARC-2400: 5214485
+@MARC-245a: [title page:] „Illumine occulos meos..." | Graduale. | Duettino.
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 36 x 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na pierwszej stronie po zapisie muzycznym znajduje się pieczęć "Warszawskie Towarzystwo Sekcja im St. Moniuszki MUZYCZNE". Poniżej znajduje się inskrypcja: "Autograf Stanisława Moniuszki | zakupiony od W. Pani Dobieckiej dnia 13 maja 1935 r. | M. Mrozowsky.".]
+@MARC-500a: One page after the score there is a stamp "Warszawskie Towarzystwo Sekcja im St. Moniuszki MUZYCZNE". Below is an inscription: "Autograf Stanisława Moniuszki | zakupiony od W. Pani Dobieckiej dnia 13 maja 1935 r. | M. Mrozowsky.".
+@MARC-591a: inw. 453
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: S, A, pf
+@MARC-599b: full
+@MARC-650a: Graduals
+@MARC-6500: 25239
+@MARC-700a: Dobiecka
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe41023846
+@MARC-7004: fmo
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 775/M
+@@END:		MARC21
+

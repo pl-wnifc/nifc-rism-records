@@ -1,0 +1,47 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990069886
+@MARC-003:	DE-633
+@MARC-005:	20181216092637.0
+@MARC-008:	161111##################################
+@MARC-035a: Z 199; ZZ 199
+@MARC-040a: DE-633
+@MARC-100a: Zieleński, Mikołaj
+@MARC-100d: 1550c-1615c
+@MARC-1000: pe30013481
+@MARC-240a: Offertories
+@MARC-240m: 8 V, 12 V, X i
+@MARC-2400: 3901580
+@MARC-245a: Offertoria totius anni, quibus in festis omnibus Sanctæ Romanæ Ecclesiæ uti consuevit septenis, et octonis vocibus tam vivis, quam instrumentalibus accommodata. His accesserunt aliquot sacrae symphoniae cum Magnificat vocum duodecim. [Venezia, Giacomo Vincenti]
+@MARC-260c: 1611
+@MARC-2608: 01
+@MARC-300a: part(s)
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: Z 199; ZZ 199
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-710a: Vincenti, Giacomo
+@MARC-7100: ks40011067
+@MARC-7104: pbl
+@MARC-852a: PL-Kc
+@MARC-852e: Muzeum Narodowe w Krakowie. Biblioteka Książąt Czartoryskich
+@MARC-852x: ks30002076
+@MARC-8523: 268924
+@MARC-852c: [no indication]
+@MARC-852q: unvollständig, vorhanden nur P. pro organo
+@MARC-852a: PL-Kj
+@MARC-852e: Biblioteka Jagiellońska
+@MARC-852x: ks30002079
+@MARC-8523: 268925
+@MARC-852c: [no indication]
+@MARC-852q: vorhanden nur S
+@MARC-852a: PL-WRu
+@MARC-852e: Biblioteka Uniwersytecka
+@MARC-852x: ks30002111
+@MARC-8523: 268926
+@MARC-852c: [no indication]
+@MARC-852q: 8 St., unvollständig, vorhanden nur I: S, T II: A, T
+@@END:		MARC21
+

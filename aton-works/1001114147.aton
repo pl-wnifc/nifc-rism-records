@@ -1,0 +1,125 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114147
+@MARC-003:	DE-633
+@MARC-005:	20210720131936.0
+@MARC-008:	200505##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2FA/''D-/'DF/B-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 2G8GGB''C/2DD/D
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 4A8xGA/4BA/''C'8nB''C/4DC/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031p: 2FF/GG/F4BB/2BA/
+@MARC-031q: Without time signature.
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: =8/4.,E8E4FF/2G4AE/2B4'C8,BA/
+@MARC-031r: A|b
+@MARC-031t: Benedictus qui venit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Agnus Dei
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2GG/A4AnA/2B4nBB/2''C
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Masses
+@MARC-240m: V, pf
+@MARC-240o: Arr
+@MARC-240r: D
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Msza Wilhelma Troschel
+@MARC-260c: 1853-11-01
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 27,5 x 34,5 cm
+@MARC-3008: 01
+@MARC-300a: 1 score (Benedictus only): 4 p.
+@MARC-300c: 27,5 x 34,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na s. 1 adnotacja: "Proszę aby ta Msza niebyła nigdy drukowaną, zasługuje tylko | na spalenie, zachowałem ją jedynie dla tego aby się kiedyś | naśmiać z tego znakomitego Arcydzieła."]
+@MARC-500a: [pl-text: Wewnątrz rękopisu niezapisane karty przygotowane pod "Graduale | Ave Maria".]
+@MARC-500a: [pl-text: Na końcu rękopisu adnotacja: "Skończyłem dnia I listopada w dzień Wszystkich Świętych | roku 1853. | Wilhelm Troschel.]
+@MARC-590a: pf
+@MARC-590b: 18 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2281
+@MARC-591a: A-21.317
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2309
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

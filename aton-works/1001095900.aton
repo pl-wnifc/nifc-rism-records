@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001095900
+@MARC-003:	DE-633
+@MARC-005:	20211027135234.0
+@MARC-008:	191126##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 6/8
+@MARC-031p: {8,A'CE}4A8''C/E--G--/A
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Pieśń młodzieńca
+@MARC-240m: orch
+@MARC-2400: 5220692
+@MARC-245a: [caption title:] № 3b. [underlined:] Pieśń młodzieńca.
+@MARC-260c: ca. 1867
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 p.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Poprawki niebieską i czerwoną kredką.]
+@MARC-500a: [pl-text: Adnotacja niebieską kredką: "Partytura ostateczna".]
+@MARC-500a: [pl-text: Do s. 1 przyklejona karteczka z adnotacją- maszynopisem: Sekcja nigdzie odnaleźć nie mogła melodyi pieśni tej | (mimo poszukiwań w Warszawie, Wilnie, Krakowie, Lwowie, | Petersburgu i Moskwie) i dlatego, wydając w druku | Sonety z żalem zmuszona była fragment ten opuścić. | Podpis - Zakrzewski - ???? nieczytelny 1 VI 1906", dopisano ręcznie: str. 57 autografu partytury Sonetów R 690". Ta sama notatka, podpisana przez Władysława Zahorowskiego (nie "Zakrzewskiego") wpisana ołówkiem po prawo.]
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl.picc, fl, ob (2), cl (2), fag (2), cor (4), tr (2), trb (3), timp
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-773w: 1001095890
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 690/M
+@@END:		MARC21
+

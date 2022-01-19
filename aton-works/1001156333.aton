@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001156333
+@MARC-003:	DE-633
+@MARC-005:	20211012180711.0
+@MARC-008:	210518##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino cantabile
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xFCG
+@MARC-031o: 6/8
+@MARC-031p: =2/4-8--4E/8+{E''C'B}{GgBAE}/+E4F+{8FGA}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino cantabile
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: 6/8
+@MARC-031p: 4.EE/8-'''{C''AFD+D}/-{C'AFED}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Romance
+@MARC-240m: vl, pf
+@MARC-240n: 7
+@MARC-240r: A
+@MARC-2400: 3908193
+@MARC-245a: [left side:] Władysławowi Górskiemu. | w przyjaznej ofierze. [center:] Romance
+@MARC-260c: [after 1860]
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 f.
+@MARC-3008: 01
+@MARC-383b: 7
+@MARC-500a: [pl-text: f. 1r: sygnatura "R 256" zapisana ołówkiem; pieczęć "CIM.".]
+@MARC-500a: [pl-text: f. 1v: numer "65.D.91" zapisany ołówkiem.]
+@MARC-500a: [pl-text: f. 1v i 3v: pieczęć "BIBLIOTEKA GŁ. | AM m. Fr Chopina | w Warszawie".]
+@MARC-590a: vl
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: pf
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl, pf
+@MARC-599b: full
+@MARC-650a: Romances (inst.)
+@MARC-6500: 25337
+@MARC-700a: Górski, Władysław
+@MARC-700d: 1846-1915
+@MARC-7000: pe41014731
+@MARC-7004: dte
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R256
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

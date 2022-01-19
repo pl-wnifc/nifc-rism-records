@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001100241
+@MARC-003:	DE-633
+@MARC-005:	20211027135220.0
+@MARC-008:	200109##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino con moto
+@MARC-031g: G-2
+@MARC-031m: Coro T 1
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: 8''C/4C8FD'B''D/C4'F+8F-G/AGF''{ED}'B/4.''C+8C-C/4C8FbECE/''nD4'A+8A-''C/8'nB''C'G{n''DC}8'nB/
+@MARC-031r: f
+@MARC-031t: Lśni księżyc na ciemnem niebie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino con moto
+@MARC-031g: F-4
+@MARC-031m: Coro B 2
+@MARC-031n: bBEAD
+@MARC-031o: 6/8
+@MARC-031p: 8,F/4F,,8AB,D,,B/F4A+8A-,C/,FC,,A4B,8D/4.F8C-nE/4F8F8CbEC/8F4nD+8D-,,A/
+@MARC-031r: f
+@MARC-031t: Lśni księżyc na ciemnem niebie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Serenada
+@MARC-240m: coro maschile
+@MARC-240r: f
+@MARC-2400: 3903842
+@MARC-245a: [caption title:] Serenada.
+@MARC-260c: 1846-1909
+@MARC-2608: 01
+@MARC-300a: 1 chorus score: 2 p.
+@MARC-300c: 36.0 x 26.5 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 2
+@MARC-594a: Coro T (2), Coro B (2)
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-773w: 1001100236
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 248/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

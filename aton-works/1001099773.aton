@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099773
+@MARC-003:	DE-633
+@MARC-005:	20211027135303.0
+@MARC-008:	200104##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 8{AA}4AxG/nGFE/DC,B/2A4xG/'{8E^C^,nG'E^C^,G}4'E^C^,G'F^C^,G/'G^C^,G'D^,B'C^,G/'D^,F'D^FnF^D/E^C--/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =4/8{,,AA}4AA/AAA/A,AxG/A--/%G-2 {8'AA}4AxG/nGFE/%F-4 4DC,{8BA}/4GFE/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Valses
+@MARC-240m: pf
+@MARC-240r: D
+@MARC-2400: 4128212
+@MARC-245a: [without title]
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 1 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajduje się pieczątka: "ALEKSANDER MONIUSZKO | N|o 756"]
+@MARC-591a: N|o 756
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Waltzes
+@MARC-6500: 25220
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30097376
+@MARC-003:	DE-633
+@MARC-005:	20210325092808.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 38949763
+@MARC-0242: VIAF
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-IT
+@MARC-100a: Terzago, Bernardino
+@MARC-100d: 1625p+
+@MARC-100w: x
+@MARC-375a: male
+@MARC-400a: Italus
+@MARC-400j: bn
+@MARC-400a: Romanus
+@MARC-400j: bn
+@MARC-400a: Terzagi, Bernardino
+@MARC-400j: xx
+@MARC-400a: Terzago, Bernard
+@MARC-400j: xx
+@MARC-400a: Terzagus, Bernardinus
+@MARC-400j: xx
+@MARC-550a: Clergyman
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Singer
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-551a: Krakow
+@MARC-551i: wo
+@MARC-551a: Roma
+@MARC-551i: wo
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: Terzago, Bernardino (Terzagus; Terzagi) (Bernardinus) [16/17]
+@MARC-670w: 2957
+@MARC-670a: EM/b
+@MARC-670b: Terzago, Bernardino (Terzagi; Terzagus) (Bernardinus) [1625p+]
+@MARC-670w: 1793
+@MARC-670a: EitnerQ suppl.
+@MARC-670b: Terzago, Bernard [(s.d.)]
+@MARC-670w: 2498
+@MARC-670a: EitnerQ
+@MARC-670b: 0
+@MARC-670w: 1272
+@MARC-670a: Grove|7
+@MARC-670b: Terzago, Bernardino (Terzagus; Terzagi) (Bernardinus) [(fl 1623-1625)]
+@MARC-670w: 3072
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: 0
+@MARC-670w: 1290
+@MARC-670a: SMP
+@MARC-670b: Terzago, Bernard (Terzagi; Terzagus; Italus; Romanus) [(fl 1623-1625)]
+@MARC-670w: 1935
+@@END:		MARC21
+

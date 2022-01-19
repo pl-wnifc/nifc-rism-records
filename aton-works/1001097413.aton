@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001097413
+@MARC-003:	DE-633
+@MARC-005:	20211027135254.0
+@MARC-008:	191207##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto.
+@MARC-031e: Thalia
+@MARC-031g: C-1
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: =1/4-8-4-8A/4F8E4G8F/4A8xG4B8A/8''DC'BAGF/4A8GE8-A/
+@MARC-031t: Ein Faun ist traun im glüklichsten Zeichen geboren
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto.
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: {''6FF8FE}{6DD8DC}/{'6BB8BA}{6xGG8GnG}/F-EG-F/B-xAB-A/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: ger
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Arietta
+@MARC-240m: V, orch
+@MARC-2400: 3903827
+@MARC-245a: [caption title:] N|o 5. Arietta.
+@MARC-260c: 1839-1840
+@MARC-2608: 01
+@MARC-300a: 1 score: 3 p.
+@MARC-300c: 24,5 x 32,5 cm
+@MARC-3008: 01
+@MARC-591a: R 759
+@MARC-591a: 287
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594b: vlc et cb
+@MARC-594b: fl
+@MARC-594b: cl in A
+@MARC-594c: 2
+@MARC-594b: cor in A
+@MARC-594c: 2
+@MARC-594a: V, vl (2), vla, vlc et cb, fl, cl in A (2), cor in A (2)
+@MARC-595a: Thalia (V)
+@MARC-599b: full
+@MARC-650a: Ariettes
+@MARC-6500: 3016596
+@MARC-700a: Zahorowski, Władysław
+@MARC-700d: 1832-1916
+@MARC-700j: Ascertained
+@MARC-7000: pe41023100
+@MARC-7004: oth
+@MARC-773w: 1001097411
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 759/M
+@@END:		MARC21
+

@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001147362
+@MARC-003:	DE-633
+@MARC-005:	20210923121115.0
+@MARC-008:	210221##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: ''4E-D8-D/4C6{ED}{EC}8FCC'B/8.''C6C8EC'A''CC'B/
+@MARC-031t: Haec dies quam fecit Dominus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Haec dies quam fecit Dominus
+@MARC-240m: V (4)
+@MARC-2400: 3907300
+@MARC-245a: [title page:] Introitus in F. | a 4 vocibus | Canto | Alto | Tenore. | Bassso. | O. ad M D. Gm. | Pro Capella Regia | Eccle Cath: Crac.
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 1 part: 2 f.
+@MARC-300c: 21 x 17 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Rękopis w formie pojedynczego bifolium. Na karcie [1r] strona tytułowa, na rozkładzie kart [1v]-[2r] zapisana partia sopranowa w układzie pionowym, w prawym górnym rogu ołówkiem foliacja "1." Na karcie [2v] dalszy ciąg partii sopranowej w układzie poziomym.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronie tytułowej "Introitus in F. | a 4 vocibus" podkreślone czerwoną kredką.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronie tytułowej w prawym górnym rogu ołówkiem sygnatura.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na rozkładzie kart [1v]-[2r] i na karcie [2v] u dołu mała okrągła pieczęć "CATH. CRAC. * ARCH. CAPIT."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na rozkładzie kart [1v]-[2r] u góry widoczny fragment odciętej nazwy głosu, prawdopodobnie "Canto".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak pozostałych głosów.]
+@MARC-5008: 01
+@MARC-590a: S
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Introits
+@MARC-6500: 25150
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.173
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

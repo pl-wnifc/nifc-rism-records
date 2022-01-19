@@ -1,0 +1,335 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050556
+@MARC-003:	DE-633
+@MARC-005:	20211029205951.0
+@MARC-008:	140828##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''FF-/{6DEDC}{8DFDF}/4DD-/{6FGFE}{8FAFA}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''2D4D/D--/2D4D/D--/FFF/2G4F/
+@MARC-031r: D
+@MARC-031t: Domine ad adjuvandum, me festina
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4.''D{6FE}{8DFA'''D}/4.''A8xG{8AnGFE}/{ED}4D8-
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =18/2''FF/E4DD/2D4DD/2EC/D
+@MARC-031r: D
+@MARC-031t: Dixit Dominus, Domino meo sede a dextris meis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: All[egr]o Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2Bq6''D{8''C6'B''C}/{8.D6E}{8D6'B''C}{DEFG}/{8D'B''EC'BA}/
+@MARC-031r: G
+@MARC-031z: Coro, vl (2), org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: ,GGA/8.B6'C4,B-/{8BG}{'C,A}{GF}/GG4G8-
+@MARC-031r: G
+@MARC-031t: Laudate pueri, Dominum laudate nomen Domini
+@MARC-031z: Coro, vl (2), org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 3
+@MARC-031d: [Laudate] Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =8/''DDD/2C{8DC}/'4B''DD/2C{8DC}/
+@MARC-031r: G
+@MARC-031t: Sit nomen Domini benedictum, ex hoc nunc
+@MARC-031z: Coro, vl (2), org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 2/4
+@MARC-031p: 8G/{''CCDD}/{8.E3FE}{8D'G}/{''DDEE}/{8.F3GF}{8E'G}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: 8G/''CCDD/{8.E3FE}8D'G/''DDEE/{8.F3GF}8E
+@MARC-031r: C
+@MARC-031t: Laetatus sum, in his quae dicta sunt mihi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: {3''C'B''CD}/8E-q6D{6C3'B''C}/8D-q6C{6'B3AB}/
+@MARC-031r: A
+@MARC-031z: Coro, vl (2), org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFCG
+@MARC-031o: 3/8
+@MARC-031p: 8-/-''EC/-D'B/-''CD/8.'B6B8''C/CCC/
+@MARC-031r: A
+@MARC-031t: Nisi Dominus, aedificaverit domum
+@MARC-031z: Coro, vl (2), org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: {8.''F6G}{AFBA}/{8.A6G}4F/{8.''D6''G}{GFFE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: {8.''D6E}8FF/8.F6E4D/E8DC/4D-/
+@MARC-031r: D
+@MARC-031t: Lauda Jerusalem, Dominum lauda Deum tuum Sion
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''F4.G{6FG}/4.A8F4DD/4.E{6GF}4EE/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''D4EE/2DD/EC/DD/
+@MARC-031r: D
+@MARC-031t: Magnificat, anima mea Dominum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2''D{6'BAB''C}/2D{8EF}/4.G{6FG}{AGFE}/
+@MARC-031r: G
+@MARC-031z: V (2), vl (2), org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =12/2''D{6'BA}{B''C}/2D{8EF}/4.G{6FG}{AG}{FE}/
+@MARC-031r: G
+@MARC-031t: Et misericordia ejus, a progenie in progenies
+@MARC-031z: V (2), vl (2), org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: {8.''A6F}{8DDDD}/{8.D3CD}{8C6CD}{6EDEF}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''DDD/DC-/EEE/8EE4D-/
+@MARC-031r: D
+@MARC-031t: Gloria patri, et filio et spiritui sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4.''D8E/4.F8D/4.G8E/{DC}4C/4.D{6ED}/4.C{6DE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4.''D8E/4.F8D/4.G8E/DC4C/4.D{6ED}/4.C{6DE}/
+@MARC-031r: D
+@MARC-031t: Sicut erat, in principio et nunc et semper
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Dankowski, Adalbert
+@MARC-100d: 1760c-1814c
+@MARC-100j: Ascertained
+@MARC-1000: pe30000793
+@MARC-240a: Vespers
+@MARC-240m: Coro, orch, org
+@MARC-240r: D
+@MARC-2400: 3900116
+@MARC-245a: [cover title:] Nro 4. | [at left later with pencil:] N|o 4a | Vesper Beate Marie Vir | Canto Alto | Tenore Basso | Violino I et II | Cornu I et II | et | Organo. | [at left:] Dankowski: | [bottom middle, later with pencil:] N|o 4
+@MARC-260c: 1780-1810
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na f. 1r okładki u góry z lewej czarnym tuszem: "dobrym powodzeniu" oraz liczby: "88" i "94"]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona ołówkiem]
+@MARC-500a: [pl-text: Na f. 2v okładki u góry szkice ołówkiem]
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N 4"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-25)]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-563a: [pl-text: Na f. 1v okładki zapisany głos org niezidentyfikowanych nieszporów, widoczna część "Magnificat"]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 3, 3, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl (2), cor in D (2), org
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.63, no.25
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 314
+@MARC-6910: lit41001126
+@MARC-730a: Vesperae de Beata Maria Virgine
+@MARC-730g: RISM
+@MARC-7300: 3925444
+@MARC-852a: PL-STAb
+@MARC-852d: N=|r|o 4.
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 4a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

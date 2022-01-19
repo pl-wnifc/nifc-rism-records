@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001082711
+@MARC-003:	DE-633
+@MARC-005:	20211027135157.0
+@MARC-008:	190821##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGDA
+@MARC-031o: c
+@MARC-031p: 4-8-F/4F8{GA}4B8{''CD}/{FEDC}4D'B/''E
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Gawot
+@MARC-240m: pf
+@MARC-240r: B
+@MARC-2400: 5213220
+@MARC-245a: [caption title:] [crossed out: Gawot] | Andantino. | M. Hertz
+@MARC-260c: 1870-1918
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 36,5 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Rękopis sporządzony fioletowym atramentem.]
+@MARC-500a: [pl-text: Poprawki ołówkiem.]
+@MARC-500a: [pl-text: Na s. 2 kilka taktów nieznanej kompozycji fortepianowej, zapisanych ołówkiem.]
+@MARC-590a: pf
+@MARC-590b: 2 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2542
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Gavottes
+@MARC-6500: 25395
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2527
+@@END:		MARC21
+

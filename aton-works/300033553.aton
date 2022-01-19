@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033553
+@MARC-003:	DE-633
+@MARC-005:	20201029163431.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: A
+@MARC-031o: 3/2
+@MARC-031p: '1C2C/1F2E/1D2C/1C2C/
+@MARC-031r: a
+@MARC-031t: Amatorem paupertatis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Amatorem paupertatis
+@MARC-240m: Coro, bc
+@MARC-240r: a
+@MARC-2400: 60238
+@MARC-245a: [caption title:] Hymnus De Sancto Augustino
+@MARC-260c: 1650-1699 (17.2d)
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 16 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: S missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Okładka nowa, zrobiona z tektury, na 1f. r przyklejony wycięty fragment starej okładki z tytułem, fragment o wymiarach: 10,5 x 14 cm]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Partia T podklejona innym papierem, widać fragment rozpisanych części nieszporów]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na 1f. r okładki i 1f. v głosów, na środku okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Na 2f. r okładki, długopisem przez podejkę zapisana uwaga: "Rozklejona okładka dała | dwa fragmenty "Laetatus sum" - nieznanego kompozytora"]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: A, T, B, org (= bc)
+@MARC-590b: 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: On B- and org-parts: partial W
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594b: bc: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, org, bc: org
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1623
+@MARC-6910: lit1869
+@MARC-700a: Podejko, Paweł
+@MARC-700j: Ascertained
+@MARC-7000: pe30075898
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-127
+@@END:		MARC21
+

@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001113823
+@MARC-003:	DE-633
+@MARC-005:	20210720131945.0
+@MARC-008:	200430##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Polka
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 2/4
+@MARC-031p: 4,GG/{8GG}4G/{8G6GG}{8GG}/{GGGG}//: %G-2 ''{6qCqD}{8C'B''AD}/''{6qEqF}{8E'G''C'B}/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Polkas
+@MARC-240m: pf
+@MARC-240r: E
+@MARC-2400: 3900802
+@MARC-245a: [title page:] Polka | przez | Wilhelma Troschel
+@MARC-260c: before 1887
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 23 x 32 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Rękopis sporządzony na papierze z wydrukowanymi pięcioliniami, kluczami i akoladami oraz informacją: "Magazyn A. Zalewskiego w Warszawie № 473."]
+@MARC-500a: [pl-text: Na kartę tytułową naklejony plaster papieru.]
+@MARC-590a: pf
+@MARC-590b: 4 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2263
+@MARC-591a: A-21.299
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Polkas
+@MARC-6500: 25411
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2291
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

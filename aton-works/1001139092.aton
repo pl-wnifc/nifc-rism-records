@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001139092
+@MARC-003:	DE-633
+@MARC-005:	20210923121030.0
+@MARC-008:	201211##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S/ T 1 coro
+@MARC-031o: c
+@MARC-031p: 4.''E8E4ED/2''C,'B/4''C8,'{B''C}4DC/
+@MARC-031r: C
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 2 coro
+@MARC-031o: c
+@MARC-031p: 4.D8D4D,B/2GG/4GGGG/
+@MARC-031r: C
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: A/B 1 coro
+@MARC-031o: c
+@MARC-031p: 4.G8G4GF/2ED/4E8{DE}4FE/
+@MARC-031r: C
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B 2 coro
+@MARC-031o: c
+@MARC-031p: 4.,C8C4EG/8{'C,+G}8{E+C}2G/4CC,,B',C/
+@MARC-031r: C
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Kyrie
+@MARC-240m: Coro: S/T1, T2, A/B1, B2
+@MARC-240r: C
+@MARC-2400: 3019058
+@MARC-245a: III | Kyrie
+@MARC-246a: Andante | Kyrie
+@MARC-260c: [1850-1899]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks
+@MARC-300c: 24 x 23 cm
+@MARC-3008: 01
+@MARC-590a: Coro: S/T 1, T 2, A/B 2, B 2
+@MARC-590b: 1, 1, 1, 1, f
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S/T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: A/B1
+@MARC-594c: 1
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: S/T1 , Coro: T2, Coro: A/B1, Coro: B2
+@MARC-599b: full
+@MARC-650a: Kyriale
+@MARC-6500: 50001328
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

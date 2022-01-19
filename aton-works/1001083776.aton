@@ -1,0 +1,104 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083776
+@MARC-003:	DE-633
+@MARC-005:	20211027135143.0
+@MARC-008:	190829##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 2''B/B8/B-4-/=/=8/{8'B6-3BB}{8BB}/B{FB}-/{''D6-3DD}{8DD/D{'B''D}6-F/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T solo
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: =4//,8B6BB8BBFB/'D6DD8DD/D,B'D6-F/
+@MARC-031r: B|b
+@MARC-031t: Bracia do bitwy nadszedł czas, trąba do boju wzywa nas
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Marsz obozowy
+@MARC-240m: V (2), coro, orch
+@MARC-240r: B|b
+@MARC-2400: 5214057
+@MARC-245a: [caption title:] Marsz obozowy. [space] napisany p:[rzez] Karola Kurpińskiego | ze słowami Słowaczyńskiego. | na odwachu Artyleryi Gwardii Nar.[odowej] na warcie w nocy z d:[nia] 1. na 2. Lutego | 1831 r. | Śpiewany w Teatrze Narodowym d:[nia] 8. Lutego. tegoż roku.
+@MARC-260c: 1831-02-02
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 p.
+@MARC-300c: 25,5 x 40 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple Biblioteki Warszawskiego Towarzystwa Muzycznego.]
+@MARC-500a: [pl-text: Pod sygnaturą (R 1019) dopisano "/5".]
+@MARC-500a: [pl-text: Rękopis poddany konserwacji w 2008 r.]
+@MARC-500a: [pl-text: Na s. 1 po prawo adnotacja: "Trombone, Tułumbas [poprawnie: Tołumbas, tzn. bęben wielki], na końcu".]
+@MARC-518a: 1831/02/08, Grand Theather, Warsaw
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 662
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: coro T
+@MARC-594c: 2
+@MARC-594b: coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: gran cassa
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594a: T, B, coro T (2), coro B, vl (2), vla, b, fl (2), ob (2), cl (2), fag (2), cor (2), tr (2), trb (3), timp, gran cassa, tamb
+@MARC-599b: full
+@MARC-650a: Marches
+@MARC-6500: 25189
+@MARC-700a: Słowaczyński, Jędrzej
+@MARC-700d: 1807-1847
+@MARC-700j: Ascertained
+@MARC-7000: pe41023680
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1019
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

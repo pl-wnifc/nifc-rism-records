@@ -1,0 +1,80 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001100221
+@MARC-003:	DE-633
+@MARC-005:	20211119132538.0
+@MARC-008:	200109##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: andante
+@MARC-031g: G-2
+@MARC-031m: V 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =5/4B''8.C6C4.D'8A/4B''C'4.F8F/4F8B''D4.F8E/
+@MARC-031r: b
+@MARC-031t: Vide humilitatem meam
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: andante
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2-8-,,{xAB,D}/4.F8G{BADE|/4.F8D,,{BFDE/
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Psalm „Vide humilitatem meam”
+@MARC-240m: Coro, vl(2), vla, vlc, cb, org
+@MARC-2400: 50222899
+@MARC-245a: Psalm.
+@MARC-246a: [conservational title:] Psalm 118 | „Vide humilitatem meam”. Chór mieszany, kwintet | smyczkowy. | Autograf, [ok. 1868]
+@MARC-260c: ca. 1868
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 34 x 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na s. 1 i s. 4 pieczęć: "Towarzystwo Muzyczne | S. Moniuszki | Sekcja imienia]
+@MARC-591a: Inw. 157
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro V 1
+@MARC-594c: 1
+@MARC-594b: Coro V 2
+@MARC-594c: 1
+@MARC-594b: Coro V 3
+@MARC-594c: 1
+@MARC-594b: Coro V 4
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro V 1, Coro V 2, Coro V 3, Coro V 4, vl (2), vla, vlc, cb, org
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 285/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

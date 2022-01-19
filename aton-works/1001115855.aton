@@ -1,0 +1,95 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115855
+@MARC-003:	DE-633
+@MARC-005:	20210720131941.0
+@MARC-008:	200520##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =38/2G4.8BE/{8.6GF}2E{8FG}/4.A8A{G''E}{8.6C'A}/
+@MARC-031r: E|b
+@MARC-031t: Niebiańskiej sztuki Patronko sławna
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl solo
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: gB''2BgC'''C/{''8.6FG}4ACDt/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Hymn do św. Cecylii
+@MARC-240m: V, Coro, orch, org
+@MARC-240r: E|b
+@MARC-2400: 50232147
+@MARC-245a: [caption title:] Hymn do Świętej Cecylii | Kompozycyj Józefa Stefaniego.
+@MARC-300a: 1 score: 22 p.
+@MARC-300c: 26,3 × 36 cm
+@MARC-3008: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300b: vl solo and org only
+@MARC-300c: 33,2 × 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 17/VII/47 | [podpis Chromińskiego]."]
+@MARC-591a: inw. 1662-1663
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: V, Coro S (2), Coro T, Coro B, vl solo, vl (2), vla, vlc, cb, org, fl, cl (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852d: 10500
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1579|1-2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

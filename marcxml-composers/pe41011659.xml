@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:controlfield tag="001">pe41011659</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210325094646.0</marc:controlfield>
+  <marc:controlfield tag="008">180417n|||||||a||| a</marc:controlfield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">163851805</marc:subfield>
+    <marc:subfield code="2">VIAF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="024" ind1="7" ind2=" ">
+    <marc:subfield code="a">Q1958993</marc:subfield>
+    <marc:subfield code="2">WKP</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+    <marc:subfield code="b">ger</marc:subfield>
+    <marc:subfield code="c">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="042" ind1=" " ind2=" ">
+    <marc:subfield code="a">individualized</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="043" ind1=" " ind2=" ">
+    <marc:subfield code="c">XA-PL</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Zaleski, Wacław Michał</marc:subfield>
+    <marc:subfield code="d">1799-1849</marc:subfield>
+    <marc:subfield code="y">18.09.1799-24.02.1849</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="375" ind1=" " ind2=" ">
+    <marc:subfield code="a">male</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wacław z Oleska‏</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Zaleski, Wacław</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Zaleski, Wenzeslaus Ritter von‏</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Zalewski, Wacław</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Залеский, Вацлав</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Вацлав Залеський‏</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="400" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wenzel Zaleski</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Editor</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Ethnologist</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Poet</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Olesko</marc:subfield>
+    <marc:subfield code="i">go</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="551" ind1=" " ind2=" ">
+    <marc:subfield code="a">Wien</marc:subfield>
+    <marc:subfield code="i">so</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">EM/b</marc:subfield>
+    <marc:subfield code="b">Zaleski, Wacław Michał (pseud. Wacław z Oleska) [18.09.1799-24.02.1849]</marc:subfield>
+    <marc:subfield code="w">1793</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="670" ind1=" " ind2=" ">
+    <marc:subfield code="a">SMP</marc:subfield>
+    <marc:subfield code="b">Zaleski, Wacław (Wacław z Oleska) [1800 (1799?)-1849]</marc:subfield>
+    <marc:subfield code="w">1935</marc:subfield>
+  </marc:datafield>
+</marc:record>

@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001030102
+@MARC-003:	DE-633
+@MARC-005:	20210707084802.0
+@MARC-008:	171230##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8-/=13/4-8-'B/4''F6{(GFE)}{(DC'B)}/8AB-''F/4.G{6''B''G}/8GF-F/
+@MARC-031r: B|b
+@MARC-031t: O salutaris hostia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8'F/4.B{6''FD'A}/8B4F8E/6{(DFB)}4B6{(''FD'A)}/8B4F8E/6{(DFB)}8B6{(DFB)}8B/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Krzykowski, F.
+@MARC-100j: Conjectural
+@MARC-1000: pe30041007
+@MARC-240a: O salutaris hostia
+@MARC-240m: S (2), vl (2), b
+@MARC-240r: B|b
+@MARC-2400: 3900683
+@MARC-245a: [cover title:] ARIA Elegans. | a Vocibus 5. | Canto 1mo. | Canto 2do. | Violino 1mo | Violino 2do | &amp; | FUNDAMENTO
+@MARC-260c: 1770-1802
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 17,5 x 22,5 cm
+@MARC-3008: 01
+@MARC-500a: Unidentified short piece (Polonaise?) in C-1 clef, written with another hand on the back of the dust cover.
+@MARC-5008: 01
+@MARC-500a: Inscriptions at the bottom of the title page: "Ex Rebus | Przewielebney Jeym[ość] Panny Maryanny | MOKRANOWSKI."; "Pro Choro Conventus Sandomiriensis | Monialium S. P. Benedicti".
+@MARC-500a: Conjectural composer postulated on the basis of RISM ID 300257792 ("Vita tristis" from Collegiate in Pilica PL-Plk 47).
+@MARC-590a: S 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S (2), vl (2), b
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 268
+@MARC-6910: lit1891
+@MARC-700a: Mokronowska, Marianna
+@MARC-700d: 1754c-1802
+@MARC-7000: pe41011385
+@MARC-7004: fmo
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 438/A VIII 78
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

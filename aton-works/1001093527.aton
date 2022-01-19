@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001093527
+@MARC-003:	DE-633
+@MARC-005:	20211027135225.0
+@MARC-008:	191112##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato.
+@MARC-031g: G-2
+@MARC-031m: Coro V 1
+@MARC-031o: c
+@MARC-031p: =2/4''C8CC4CC/4.C8C4C+8C-/4C8'GG4''CE/4.E8D4C-/
+@MARC-031r: C
+@MARC-031t: Veni creator spiritus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato.
+@MARC-031g: F-4
+@MARC-031m: Coro V 4
+@MARC-031o: c
+@MARC-031p: =2/4C8,BB4AG/4.G8xF4F+8F-/4G8'C,G4EC/4.G8G4C-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Veni creator
+@MARC-240m: Coro, org
+@MARC-240r: C
+@MARC-2400: 4045312
+@MARC-245a: [title page:] Veni Creator [in pencil] (?) | St. Moniuszki.
+@MARC-260c: before 1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 3 p.
+@MARC-300c: 33 x 25 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na karcie tytułowej znajdują się dwie pieczęcie oraz inskrypcja [w prawym dolnym rogu] "Sekcji imienia Moniuszki | ofiarował A.Poliński | 22/5 97". Jedna z pieczęci znajduje się również na pierwszej i ostatniej stronie z partyturą. Partia organów jest niedokończona (zawiera 2 takty).]
+@MARC-591a: Inw. 820
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro V
+@MARC-594c: 4
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro V (4), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 401/M
+@@END:		MARC21
+

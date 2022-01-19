@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083942
+@MARC-003:	DE-633
+@MARC-005:	20211027135147.0
+@MARC-008:	190901##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4E-(2-)/4E-(2-)/1D/+D/+8D-4-2-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: cb
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4,,F4-(2-)/4,F-(2-)/1,,B/+B/+8B-4-2-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Divertissement
+@MARC-240m: orch
+@MARC-240r: E|b
+@MARC-2400: 3906645
+@MARC-245a: [caption title:] Divertissement.
+@MARC-260c: ca. 1865
+@MARC-2608: 01
+@MARC-300a: 1 score: 24 p.
+@MARC-300c: 35,5 x 28 cm
+@MARC-3008: 01
+@MARC-591a: inw. 1053
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: arp
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in E|b
+@MARC-594c: 2
+@MARC-594b: cor in B|b
+@MARC-594c: 2
+@MARC-594b: tr in B|b
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 2
+@MARC-594b: tb
+@MARC-594c: 1
+@MARC-594b: timp in E|b and B|b
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, arp, fl.picc, fl, ob (2), cl in B|b (2), fag (2), cor in E|b (2), cor in B|b (2), tr in B|b (2), trb (2), tb, timp in E|b and B|b
+@MARC-599b: full
+@MARC-650a: Divertimentos
+@MARC-6500: 25162
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 333/M
+@@END:		MARC21
+

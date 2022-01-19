@@ -1,0 +1,96 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001154623
+@MARC-003:	DE-633
+@MARC-005:	20210923120937.0
+@MARC-008:	210428##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: ''2.E4E/EE8{ED}{FE}/4D2D4D/DD8{DEFD}/4E
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: '2.G4G/GG8{GFAG}/4F2F4G/GG2G/4G
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Andante
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: '2.C4C/C-2-/2.n,B4B/BB8{B'CD,B}/'4C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: ,4CEGE/C-2-/,,4GnB,D,,B/G-2-/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (4)
+@MARC-240r: c
+@MARC-2400: 3900051
+@MARC-245a: [without title]
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 4 parts: 16 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-tetx: W lewym górnym rogu karty 1r ołówkiem sygnatura.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach recto wszystkich kart oraz na karcie 16v u góry pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronie 16r w prawym górnym rogu niebieskim długopisem: "493", przekreślone ołówkiem.]
+@MARC-5008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 1-4, 5-8, 9-12, 13-16
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.67
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

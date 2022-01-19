@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001155725
+@MARC-003:	DE-633
+@MARC-005:	20211004084907.0
+@MARC-008:	210511##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: =9/4.''C8'A''4C/24DD/4C4.8E'A/
+@MARC-031r: A|b
+@MARC-031t: Idę ja Niemniem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: =/4-6{B,B'B,B}{'F,B'F,B}/4'B{6FGAG}{FAGF}/
+@MARC-031r: A|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Vocal pieces
+@MARC-240m: V, pf
+@MARC-240n: 18/2
+@MARC-240r: A|b
+@MARC-2400: 3900123
+@MARC-245a: II
+@MARC-260c: [after 1860]
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 4 p.
+@MARC-3008: 01
+@MARC-383b: 18/2
+@MARC-506a: Magazyn Biblioteki
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Vocal pieces
+@MARC-6500: 25275
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-773w: 1001155722
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R244
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

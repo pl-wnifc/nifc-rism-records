@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001099680
+@MARC-003:	DE-633
+@MARC-005:	20211027135303.0
+@MARC-008:	200102##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro molto maestoso
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEADG
+@MARC-031o: 3/4
+@MARC-031p: ''2.D/(8'GAB)4''C'8.6B''C/4D
+@MARC-031r: D|b
+@MARC-031t: Hej! grono śpiewacze
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Hej, grono śpiewacze
+@MARC-240m: Coro
+@MARC-240r: D|b
+@MARC-2400: 50222631
+@MARC-245a: [caption title:] Hasło. dla Grona Śpiewaczego
+@MARC-260c: 1893-02-17
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 13 x 18 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stempel "BIBLJOTEKA | WARSZAWSKIEGO | TOW. MUZYCZNEGO" i sygnatura olim (wykreślona).]
+@MARC-500a: [pl-text: Przed pierwszym systemem data: "17/2 93".]
+@MARC-500a: [pl-text: Na dole s. 1. podpis Noskowskiego.]
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: 1209
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 4
+@MARC-594a: V (4)
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-852a: PL-Wtm
+@MARC-852d: 9261
+@MARC-852d: R 1893
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 75/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

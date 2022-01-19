@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114061
+@MARC-003:	DE-633
+@MARC-005:	20210720131935.0
+@MARC-008:	200504##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: '''48C-D-/xD-E(-)/{8,A'CF}{8,A'CF}/{8,A'CF}{8,A'CF}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Fra Diavolo
+@MARC-240k: Excerpts
+@MARC-240m: orch
+@MARC-2400: 3900042
+@MARC-245a: [title page:] Śpiew Bandytów | wykonany w operze Fra-Diavolo | przez bb. Troschla i Ziołkowskiego | Kompozycyi | Wilhelma Troschel | # | Partytura na mniejszy Komplet | Flet - Picola | 2 Clarnetti | 2 Trombki [!] | 1 Puzon | 2 Waltornie | Fagott | Tamburino i Triangel | Tołombas i gelle [?] | 1 Violino | 2 Violino | Altowka | Violoncella | Kontrabaſ
+@MARC-260c: 1857-08-16
+@MARC-2608: 01
+@MARC-300a: 1 score: 24 p.
+@MARC-300c: 34,5 x 28 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak partii wokalnych.]
+@MARC-500a: [pl-text: Strony numerowane.]
+@MARC-500a: [pl-text: Adnotacja na końcu rękopisu: "D. 16 Sierpnia | 1857 r. | Wilhelm Troschel".]
+@MARC-591a: inw. 2274
+@MARC-591a: A-21.310
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594b: triangolo
+@MARC-594c: 1
+@MARC-594b: gran cassa e piatti
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl.picc, cl (2), fag, cor (2), tr (2), trb, tamb, triangolo, gran cassa e piatti
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-700a: Ziółkowski, Adam
+@MARC-700d: 1826-1881
+@MARC-700j: Ascertained
+@MARC-7000: pe41024365
+@MARC-7004: prf
+@MARC-700a: Troschel, Wilhelm
+@MARC-700d: 1823-1887
+@MARC-700j: Ascertained
+@MARC-7000: pe30024099
+@MARC-7004: prf
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2302
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

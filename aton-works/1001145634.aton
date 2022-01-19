@@ -1,0 +1,140 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001145634
+@MARC-003:	DE-633
+@MARC-005:	20210923121105.0
+@MARC-008:	210208##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: C
+@MARC-031p: 4- '4B ''C 'A / 4- FG 8BB / 4.G 8G 4F 4- /
+@MARC-031t: Sub tuum praedisium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBE
+@MARC-031o: C
+@MARC-031p: 4- 4FFF / 4- D 8EE 4 F / + {8F 6bED} 8.E 6E 8D {8DEF} /
+@MARC-031t: Sub tuum praesidium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBE
+@MARC-031o: C
+@MARC-031p: 4- '4DCC / 4- DD 8FF / ,4.B '8C 4D 4- /
+@MARC-031t: Sub tuum praesidium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBE
+@MARC-031o: C
+@MARC-031p: 4- ,4BAF / 4- 4BG 8DD / 4.bE 8E ,,B 8{B,CD} /
+@MARC-031t: Sub tuum praesidium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: C
+@MARC-031p: 4- ''FFnA / 4- 4F BB / 4.G 8G {8FF} {8bE 6DC} /
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 6
+@MARC-031g: G-2
+@MARC-031m: vn 2
+@MARC-031n: bBE
+@MARC-031o: C
+@MARC-031p: 4- ''DCC / 4- D bE F / 'B''E {8DD} {8C '6BA} /
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Sub tuum praesidium
+@MARC-240m: S, A, T, B, Vn1, Vn2, Tr1, Tr2, Org. e Violone
+@MARC-2400: 3904628
+@MARC-245a: [text incipit:] Sub tuum praesidium
+@MARC-260a: Cracow
+@MARC-260c: XVII-XVIII
+@MARC-2608: 01
+@MARC-300a: 1 score: 9 f.
+@MARC-300a: 9 parts
+@MARC-300c: 16,6 x 19,7 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na kartach 1-8 recto i 9v owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na kartach 7v i 8v fragment obcego zapisu tekstowego]
+@MARC-5008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 3r-3v
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 4r-4v
+@MARC-5908: 01
+@MARC-590a: vl 1
+@MARC-590b: f. 5r-5v
+@MARC-5908: 01
+@MARC-590a: vl 2
+@MARC-590b: f. 6r-6v
+@MARC-5908: 01
+@MARC-590a: tr. 1
+@MARC-590b: f. 7r
+@MARC-5908: 01
+@MARC-590a: tr. 2
+@MARC-590b: f. 8r
+@MARC-5908: 01
+@MARC-590a: org. e violone
+@MARC-590b: f. 9r-9v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), tr (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.349
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

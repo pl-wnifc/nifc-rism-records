@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083780
+@MARC-003:	DE-633
+@MARC-005:	20211027135142.0
+@MARC-008:	190829##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: 6{''G-3G}{8B'''D/{6xC-3C}{8ED}/6{''G-3G}{8B'''D/{6xC-3C}{8ED}/6D
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: =8//6GG8B''D/6xCC8ED/6GG8B''D/6xCC8ED/
+@MARC-031r: G
+@MARC-031t: Moskal chce dostać Warszawy
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Oblężenie Warszawy
+@MARC-240m: coro, orch
+@MARC-240r: G
+@MARC-2400: 5214060
+@MARC-245a: [caption title:] Mazur /: Oblężenie Warszawy :/ śpiewany w Teatrze Nar:[odowym] d:[nia] 4go Września 1831. [space] napisany p:[rzez] K:[arola] Kurpińskiego
+@MARC-260c: 1831
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 p.
+@MARC-300c: 26 x 41 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple Biblioteki Warszawskiego Towarzystwa Muzycznego.]
+@MARC-500a: [pl-text: Pod numerem sygnatury (R 1015) dopisano na fioletowo: "/6"]
+@MARC-500a: [pl-text: Partia puzonu i kotłów zapisana na osobnej karcie.]
+@MARC-518a: 1831/09/04, Grand Theather, Warsaw
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 663
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: coro S
+@MARC-594c: 1
+@MARC-594b: coro A
+@MARC-594c: 1
+@MARC-594b: coro T
+@MARC-594c: 2
+@MARC-594b: coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 1
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: coro S, coro A, coro T (2), coro B, vl (2), vla, b, fl.picc, ob (2), cl (2), fag (2), cor (2), tr (2), trb, timp
+@MARC-599b: full
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1015
+@@END:		MARC21
+

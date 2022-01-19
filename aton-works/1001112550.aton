@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001112550
+@MARC-003:	DE-633
+@MARC-005:	20210720131948.0
+@MARC-008:	200420##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: {8''EE8.6DC}/{888.6n'B''CDC}/{888.6n'B''CDC}/{888.6n'AB''E'B}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Śmietański, Emil Władysław
+@MARC-100d: 1845-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe50041781
+@MARC-240a: Polka-capriccio
+@MARC-240m: pf
+@MARC-240r: E|b
+@MARC-2400: 50230581
+@MARC-245a: [caption title:] [in pencil: I] | Polka–Capricio [!] (Polka–Caprice.) [in pencil: 1869] | Śmietański
+@MARC-260c: 1869
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 33 x 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Prawy dolny róg rękopisu oderwany.]
+@MARC-590a: pf
+@MARC-590b: 3 p.
+@MARC-5908: 01
+@MARC-591a: inw. 973
+@MARC-591a: mf. 24100
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Polkas
+@MARC-6500: 25411
+@MARC-773w: 1001112548
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2030
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

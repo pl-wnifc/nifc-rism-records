@@ -1,0 +1,150 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143605
+@MARC-003:	DE-633
+@MARC-005:	20211110124128.0
+@MARC-008:	210123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: C 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2B''C/1'Bt/9A/@c/=/2''DD,\'BB1''C'B/
+@MARC-031r: g
+@MARC-031t: Adoramus adoramus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: C 2
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2BA/1Gx9(F)/@c/=2/2''DDCC'B''C1D2D-/
+@MARC-031r: g
+@MARC-031t: Adoramus adoramus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: adagio
+@MARC-031g: C-3
+@MARC-031m: A 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2GABAt9(A)@c/ 2GGxFF1GDGxF2BBG4GG1F2F-/
+@MARC-031r: g
+@MARC-031t: Adoramus adoramus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: adagio
+@MARC-031g: C-3
+@MARC-031m: A 2
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2GxF1Gtx9(F)/@c/=2/2GGAA1GD2G-/
+@MARC-031r: g
+@MARC-031t: Adoramus adoramus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031d: adagio
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2DDD,Bt9(A)/@c/=/2AABB'C-D,B'1C2,B-/
+@MARC-031r: g
+@MARC-031t: Adoramus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 6
+@MARC-031d: adagio
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2DCDnEt9(D)/@c/=2/2,BBAA1G'D2D-/
+@MARC-031r: g
+@MARC-031t: Adoramus adoramus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 7
+@MARC-031d: adagio
+@MARC-031g: F-4
+@MARC-031m: B 2
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2,GxFGxCt9(D)/@c/=2/2GG'DD1,GD2,,G-/
+@MARC-031r: g
+@MARC-031t: Adoramus adoramus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 8
+@MARC-031d: adagio.
+@MARC-031g: F-4
+@MARC-031m: B 2
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2,G'D,GxCt9(D)/@c/ 2GG'DD1,GD2,,G-/
+@MARC-031r: g
+@MARC-031t: Adoramus adoramus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-130a: Adoramus te Christe
+@MARC-130m: Coro
+@MARC-1300: 3900874
+@MARC-245a: [without title]
+@MARC-260c: ca. 1700
+@MARC-2608: 01
+@MARC-300a: 8 partbooks: f. 1 v.-1 r., 3v.-3 r., 5 v.-5 r., 7 v.-7 r.
+@MARC-300c: 18,5 x 32,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-590a: Coro: C 1, 2, A 1, 2, T 1, 2, B 1, 2
+@MARC-590b: 1, 1, 1, 1, 1, 1, 1, 1 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C1
+@MARC-594c: 1
+@MARC-594b: Coro C2
+@MARC-594c: 1
+@MARC-594b: Coro A 1
+@MARC-594c: 1
+@MARC-594b: Coro A 2
+@MARC-594c: 1
+@MARC-594b: Coro T1
+@MARC-594c: 1
+@MARC-594b: Coro T 2
+@MARC-594c: 1
+@MARC-594b: Coro B 1
+@MARC-594c: 1
+@MARC-594b: Coro B 2
+@MARC-594c: 1
+@MARC-594a: Coro C1, Coro C2, Coro A 1, Coro A 2, Coro T1, Coro T 2, Coro B 1, Coro B 2
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-6910: lit41000579
+@MARC-773w: 1001143604
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.379
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

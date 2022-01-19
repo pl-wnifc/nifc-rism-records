@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001084036
+@MARC-003:	DE-633
+@MARC-005:	20211027135239.0
+@MARC-008:	190902##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Nr. 1. | Danse de deux Demoiselles
+@MARC-031d: Mouvement du Valse; mais pas trop vîte
+@MARC-031g: G-2
+@MARC-031m: vl?
+@MARC-031o: 6/8
+@MARC-031p: 8.-6{GAB}8{''CCC}/4.EG/4'''C8-
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Nr: 2. Danse de l'Actrice avec du tambour de basque
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031o: 3/8
+@MARC-031p: {8AEA}/''6qC{8.'B6A8.B6''C}8'B/{A''CE}/4E
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Le Médecin turc
+@MARC-240m: vl, tamburello
+@MARC-2400: 3995646
+@MARC-245a: [caption title:] Musique du Medecin Turc.
+@MARC-260c: ca. 1816
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 22 x 37 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Didaskalia w jęz. francuskim.]
+@MARC-500a: [pl-text: Stemple Biblioteki Warszawskiego Towarzystwa Muzycznego.]
+@MARC-500a: [pl-text: Rękopis poddany konserwacji w 2008 r.]
+@MARC-591a: inw. 1313
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: tamburello
+@MARC-594c: 1
+@MARC-594a: vl, tamburello
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-700a: Isouard, Nicolas
+@MARC-700d: 1775-1818
+@MARC-700j: Ascertained
+@MARC-7000: pe30001597
+@MARC-7004: ctb
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1041
+@@END:		MARC21
+

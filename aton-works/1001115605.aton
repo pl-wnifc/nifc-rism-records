@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115605
+@MARC-003:	DE-633
+@MARC-005:	20210720131943.0
+@MARC-008:	200519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Antiphona I|a
+@MARC-031d: Andante
+@MARC-031g: C-4
+@MARC-031m: Coro T1
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 4C/{8ED}2C,4B/2A4.8BB/
+@MARC-031r: A
+@MARC-031t: Dum esset Rex in accubito suo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Antiphons
+@MARC-240m: Coro maschile
+@MARC-240r: A
+@MARC-2400: 3928328
+@MARC-245a: [title page:] Antiphonae ad Vesperas de | Beatissima Virgine Maria | musica composita | per | Josephum Stefani
+@MARC-246a: [caption title:] № 2. Vesperas.
+@MARC-300a: 1 score: 12 p.
+@MARC-300c: 35 × 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1673
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro T (2), Coro B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852d: 10653
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1588
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063768
+@MARC-003:	DE-633
+@MARC-005:	20211027135138.0
+@MARC-008:	190227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allgretto.
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =1//:=1/'8.F6F8ED/C4.F/8.G6A''8.C'6B/8A''4C8-/'8.A6A8GF/8E4.G/
+@MARC-031r: F
+@MARC-031t: Wesoły szczęśliwy Krakowiaczek ci ja
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allgretto.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8'F^,A4'F^,A8'F^,A//:i/i/i/8'E^,B4'E^,B8'E^,B/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Krakowiaczek
+@MARC-240m: V, pf
+@MARC-240r: F
+@MARC-2400: 4042108
+@MARC-245a: [caption title:] N|o15. Krakowiaczek. [space] E. Wasilewskiego.
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: In the left upper corner of page 24 there is an oval, blue stamp: "Towarzystwo Muzyczne | SEKCYA | IMIENIA | St. MONIUSZKI".
+@MARC-500a: At the top of page 24 there is a fragment of illegible annotation written by Władysław Zahorowski.
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-691a: KmBN
+@MARC-691n: 1922
+@MARC-6910: lit41001694
+@MARC-700a: Wasilewski, Edmund
+@MARC-700d: 1814-1846
+@MARC-7000: pe30041368
+@MARC-7004: lyr
+@MARC-700a: Zahorowski, Władysław
+@MARC-700d: 1832-1916
+@MARC-7000: pe41023100
+@MARC-7004: asn
+@MARC-710a: Towarzystwo Muzyczne. Sekcja im. St. Moniuszki
+@MARC-7100: ks51002692
+@MARC-7104: fmo
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 234.
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

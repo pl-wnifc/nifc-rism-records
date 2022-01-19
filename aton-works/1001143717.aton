@@ -1,0 +1,59 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143717
+@MARC-003:	DE-633
+@MARC-005:	20211112142810.0
+@MARC-008:	210124##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C
+@MARC-031o: c/
+@MARC-031p: 1A/2AG/1A/2GF/
+@MARC-031r: G
+@MARC-031t: Gloria Patri
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-130a: Gloria Patri
+@MARC-130m: Coro
+@MARC-1300: 50257437
+@MARC-245a: [without title]
+@MARC-260c: ca. 1700
+@MARC-2608: 01
+@MARC-300a: partbook: 1 f.
+@MARC-300c: 20 x 16 cm
+@MARC-3008: 01
+@MARC-300a: 3 partbooks: f. 1–3
+@MARC-300c: 16 x 20 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-590a: Coro: C, T , B, 2
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: Coro B 2
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro T, Coro B, Coro B 2
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-6910: lit41000579
+@MARC-773w: 1001143715
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.268
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

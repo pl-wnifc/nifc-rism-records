@@ -1,0 +1,116 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114714
+@MARC-003:	DE-633
+@MARC-005:	20210720131935.0
+@MARC-008:	200511##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Ouverture.
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =4/2-4-8{DE}/2FE/DG/4E-2-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: №1. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: {8''D6DFED}{8AAA}/{8''D6DFED}{8AAA}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: №1. Allegro
+@MARC-031e: Wincenty
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: =4/8AFG{AB}''C/4D8'B4.A/
+@MARC-031r: D
+@MARC-031t: Aby się jéj podobać baczną moja dusza
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Oj, żoneczka
+@MARC-240m: V (5), orch
+@MARC-2400: 50231580
+@MARC-245a: [cover title:] PARTYTURA | KOMEDYO OPERY | OJ ŻONECZKA
+@MARC-246a: [title page:] Józefa Stefaniego
+@MARC-260c: ca. 1840
+@MARC-2608: 01
+@MARC-300a: 1 score: 22 p.
+@MARC-300c: 26 x 42 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura.]
+@MARC-563a: Binded into a hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 1730
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 5
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: V (5), vl (2), vla, vlc, timp, cb, fl, cl (2), cor (2)
+@MARC-595a: Wincenty
+@MARC-595a: Anusia
+@MARC-595a: Saturnin
+@MARC-595a: Lambert
+@MARC-595a: Pani Lambert
+@MARC-599b: full
+@MARC-650a: Operettas
+@MARC-6500: 25143
+@MARC-700a: Gwozdecki, Florentyn
+@MARC-700d: 1812-1889
+@MARC-700j: Ascertained
+@MARC-7000: pe50042530
+@MARC-7004: lyr
+@MARC-7004: trl
+@MARC-700a: Cogniard, Hippolyte
+@MARC-700d: 1807-1882
+@MARC-700j: Ascertained
+@MARC-7000: pe30039565
+@MARC-7004: lyr
+@MARC-700a: Cogniard, Théodore
+@MARC-700d: 1806-1872
+@MARC-700j: Ascertained
+@MARC-7000: pe30026700
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852d: 10644
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1690
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

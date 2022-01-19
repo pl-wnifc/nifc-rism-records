@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001091074
+@MARC-003:	DE-633
+@MARC-005:	20211027135210.0
+@MARC-008:	191022##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: cor in F
+@MARC-031o: c
+@MARC-031p: 2E4EE/4..E6E4.E8-/2F4..F6F/4.E
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Paria
+@MARC-240k: Excerpts
+@MARC-240m: brasses
+@MARC-240o: Arr
+@MARC-2400: 3977348
+@MARC-245a: [caption title:] Uwertura [space] 52 b) [space] Paria.
+@MARC-260c: ca. 1869
+@MARC-2608: 01
+@MARC-300a: 1 score: 11 p.
+@MARC-3008: 01
+@MARC-505a: [pl-text: Aranżacja uwertury opery "Paria".]
+@MARC-591a: Inw. 366
+@MARC-591a: 52 b)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: ophicleide
+@MARC-594c: 1
+@MARC-594a: cor (4), tr (2), trb (3), ophicleide
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-773w: 1001091072
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 552/M
+@@END:		MARC21
+

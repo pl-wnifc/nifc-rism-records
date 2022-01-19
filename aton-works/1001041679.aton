@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041679
+@MARC-003:	DE-633
+@MARC-005:	20210527001446.0
+@MARC-008:	180627##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S 1
+@MARC-031o: c/
+@MARC-031p: 2''E4GxF/2ExD/4.G8G4AG/GxF2G/
+@MARC-031r: e
+@MARC-031t: Umarł na krzyżu
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c/
+@MARC-031p: 2''G4GxF/2.E4xD/2''B4BA/2GxF/A8-{AGF}/2G8-{GxFE}/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Umarł na krzyżu
+@MARC-240m: V (2), vl (2), org
+@MARC-240r: e
+@MARC-2400: 5035684
+@MARC-245a: [S 1 part caption title:] Plan | ctus | 3.
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-590a: S 1, T 1
+@MARC-590b: f. 1v-2r, 1r-2r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2r-2v, 2r-2v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 2v-3r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, T, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Planctus
+@MARC-6500: 3900596
+@MARC-691a: ŹHMP 15
+@MARC-691n: p. 59-65
+@MARC-6910: lit2272
+@MARC-773w: 1001041676
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 372/A VIII 12
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

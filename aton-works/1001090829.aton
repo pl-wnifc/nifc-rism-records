@@ -1,0 +1,145 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001090829
+@MARC-003:	DE-633
+@MARC-005:	20211027135208.0
+@MARC-008:	191019##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Bauerntanz
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCGD
+@MARC-031o: 2/4
+@MARC-031p: {8.,B6'D}{8.D6F}/{8.F6B}{8.B6''D}/{8D6-F^D}4F^D/+F^D(-)/{8.'D6F}{8.F6B}/{8.B6''D}{8.D6F^D/{8F^D6-''A^'A}4''A^'A+/''A^'A(-)/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: No 6
+@MARC-031d: Allegro, non troppo presto
+@MARC-031g: C-3
+@MARC-031m: vla
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =14/8-6{''CC}{8C6CC}/{8C6CC}8{CC/}4'F8{CC}/4C8{CC}/4C8{CC}/4C8{CF}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Styrienne
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =6/8{G''D}{DC}4'B/{8AB''DF}4E/8{CG}{GF}{FE}/{ED}{DbD}{DC}/8{CG}{GF}{FE}/{ED}{DbD}{DC}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: No 14
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 8''A^'A-''F^C'^A-''D^'D^,G-''C^'E^,G-/4'A^F--8''F^'A^D-/''E^'nB^E-''C^'E-A^F-''D^'D^,G-/4G^'G--{8.A6B}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: No 15
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: =8/8D^,G-'G^,G/'A^D--B/{G^,B'AB^G''C}/{D^'B''G^'B}''D^'B-/''D^'D-''D^'D-/4B^D8-G^,B/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: No 16
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{''B'''C''BAGF}/{E'B''EFGA}/8{''B'''C''BAGF}/{EFGAB'''xC}/{ED''AB'''C''B}/{AGBExDE}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Libella albo Zemsta owadu
+@MARC-240k: Excerpts
+@MARC-240m: orch
+@MARC-2400: 5217656
+@MARC-245a: [caption title, underlined:] Libella
+@MARC-260c: 1871
+@MARC-2608: 01
+@MARC-300a: 1 score: 44 p.
+@MARC-300c: 33.0 x 25.5 cm
+@MARC-3008: 01
+@MARC-500a: The manuscript contains the following excerpts for orchestra: 1) Bauerntanz, 2) No. 6, 3) Styrienne, 4) Akt 2 No. 14, 5) No. 15, 6) No. 16.
+@MARC-500a: [pl-text: Manuskrypt zawiera następujące fragmenty na orkiestrę: 1) Bauerntanz, 2) nr 6, 3) Styrienne, 4) Akt 2 nr 14, 5) nr 15, 6) nr 16.]
+@MARC-591a: Inw. 1035
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 4
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594b: tamburino
+@MARC-594c: 1
+@MARC-594b: gran cassa e piatti
+@MARC-594c: 1
+@MARC-594b: arp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl, fl.picc, ob (2), cl (2), fag (2), cor (4), tr (2), trb (4), timp, tamb, tamburino, gran cassa e piatti, arp, org
+@MARC-599b: full
+@MARC-650a: Ballets
+@MARC-6500: 25172
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 612/M
+@@END:		MARC21
+

@@ -1,0 +1,114 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000575
+@MARC-003:	DE-633
+@MARC-005:	20201029163348.0
+@MARC-008:	110909##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4'AAAA/''C'B2A/4AAAG/2GF/
+@MARC-031r: F
+@MARC-031t: Święta Boga Rodzico
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Offertor[i]um
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =4/4'AAAB/4.''C8'B2A/4AAAG/2G4F-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Kasprzykowski, Ignacy
+@MARC-100d: 1852+
+@MARC-100j: Ascertained
+@MARC-1000: pe30098316
+@MARC-240a: Święta Boga Rodzico
+@MARC-240m: Coro, orch
+@MARC-240r: F
+@MARC-2400: 4292804
+@MARC-245a: [dust cover title:] Święta Boga Rodzica | Offertorium | per Kasprzykowskiego.
+@MARC-260c: 1840-1860 (19.me)
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 20,5 x 25 cm
+@MARC-3008: 01
+@MARC-500a: dust cover title: 23 x 18 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: Okładka powstała z arkusza papieru nutowego złożonego w pół, natomiast strony liczone są jak w standardowej okładce. Tytuł oraz sygnatury na karcie tytułowej napisane są w poprzek]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: u góry po prawej stronie czerwonym tuszem ręką F. Maletza "N 1026/327"; u góry w środku ołówkiem ręką W. Świerczka "785" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Na dole f. 1r partii S, A, T: "Jeżeli same głosy śpiewają bez muzyki na ten czas powtarza się te dwa takty gdzie dwa wiersze awmiese[!] [a w miejsce] tych wyrzuci dw[ie] nas:[tępne] pauzy. ]
+@MARC-500a: Komponistenvermerk auf den Stimmen: "przez Kasprzykowskiego"
+@MARC-500a: [pl-text; Konkordancja: ID RISM 300000574 (PL-CZ II-118) ]
+@MARC-590a: Coro: S, A, T, Bariton, vl 1, 2, vla, vlc and cb, vl or fl
+@MARC-590b: 1, 1, 1, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: dust cover title, partial: CAMMERPAPIER | [crowned eagle with sceptre and apple] | CZENSTOCHOW
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Solo S
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro Bariton
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 3
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594a: Solo S, Coro S, Coro A, Coro T, Coro Bariton, vl (3), vla, vlc, cb, fl
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 25
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.676a
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N 1026/327
+@MARC-852d: 785
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-78
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

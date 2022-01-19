@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258154
+@MARC-003:	DE-633
+@MARC-005:	20210923120855.0
+@MARC-008:	130717##################################
+@MARC-031a: 77
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 9-/2D,B/'GA/xFF4D8{EF}1G2xF/4G2G4G/4.E8C4E8{FG}/4D8{EF}2G/G
+@MARC-031t: Veni sponsa Christi, accipe coronam
+@MARC-0312: pe
+@MARC-031a: 77
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1D,B/'DE/DD/D,B'9CD/
+@MARC-031t: Veni sponsa Christi accipe coronam
+@MARC-0312: pe
+@MARC-031a: 77
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 0-/1,D,,B/,DE/2CC/4-2,,B4B/2.A8B{,CD}{EF}/4G
+@MARC-031t: Veni sponsa Christi, accipe coronam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Krener, Jan
+@MARC-100d: 17.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30105858
+@MARC-240a: Veni sponsa Christi
+@MARC-240m: V (3)
+@MARC-2400: 3022279
+@MARC-245a: [caption title, C partbook:] Veni, authore d. S. Joanne Kryner S[acrae] R[egiae] M[aiestatis] | Musici 1669 | 1.Xbris; [in left margin:] a 4 | J[oannis] K[rener]
+@MARC-260c: 1669
+@MARC-2608: 01
+@MARC-300a: 4 choir-books:
+@MARC-3008: 01
+@MARC-500a: T 1 missing
+@MARC-5008: 01
+@MARC-500a: [T:] "a 4 J. K[rener]"; [B:] "a 4 J[oannis] K[rener]"
+@MARC-500a: [pl-text: Numer 56 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-590a: A, T 2, B
+@MARC-590b: p. 126-127, 124, 120
+@MARC-5908: 01
+@MARC-591a: Kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T, B
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-700a: Miskiewicz, Maciej Arnulf
+@MARC-700d: 1685c+
+@MARC-700j: Ascertained
+@MARC-7000: pe30105639
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,101 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050703
+@MARC-003:	DE-633
+@MARC-005:	20210804173315.0
+@MARC-008:	160316##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 8,D4D8D/{xCDED}/{CD,,A,D}/8,,G4G8G/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =12/8''D4D8D/{xCD}ED/CD'A''D/'B4G8-/
+@MARC-031r: G
+@MARC-031t: Hej bracia czy spicie czy wszyscy baczycie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Nowakiewicz, Kazimierz
+@MARC-100d: 18/19
+@MARC-100j: Verified
+@MARC-1000: pe30020309
+@MARC-240a: Hej bracia czy spicie
+@MARC-240m: S, org
+@MARC-240r: G
+@MARC-2400: 4026577
+@MARC-245a: [score:] [at left later with pencil:] N|o 24 b | Hej bracia czy spicie | Offertoryum. | na | Bass i Organ Solo. | przez | Kazimierza Nowakiewicza. | przerobione z Muzyki na Organ przez Walentego | Czajkowskiego. w Stajniątka[c]h[!] d[nia] 24 Grudnia | 1850 roku
+@MARC-260c: 1850-12-24
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 4f.
+@MARC-3008: 01
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Zamiast partii B podanej na karcie tytułowej, w źródle pojawia się partia S]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Głos S o większym rozmiarze]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Głosy nieuwzględnione na karcie tytułowej dodano później]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N. 24.”, na S później dodatkowo ołówkiem dopisano: "b"]
+@MARC-500a: [pl-text: Na f. 4v partytury u dołu zapisano obliczenia matematyczne]
+@MARC-500a: [pl-text: Na f. 1r głosu S u góry z prawej ołówkiem: "Cas. Nowakiewicz"]
+@MARC-500a: [pl-text: Konkordancja RISM ID no.: 300000922 (PL-CZ)]
+@MARC-563a: [pl-text: Okładka zrobiona z partytury wokalnej z org]
+@MARC-5638: 01
+@MARC-590a: Solo S
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: B, org
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.90, no.71
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 331
+@MARC-6910: lit41001126
+@MARC-700a: Czajkowski, Walenty
+@MARC-700d: 19.sc
+@MARC-700j: Verified
+@MARC-7000: pe30109237
+@MARC-7004: arr
+@MARC-700a: Czajkowski, Walenty
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30109237
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-STAb
+@MARC-852d: N 24
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 24b
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,95 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001096994
+@MARC-003:	DE-633
+@MARC-005:	20211027135251.0
+@MARC-008:	191205##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: fl
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: =3/4-8-6{''GA}{B'''CDE}/8{C6CC}{8CCCC}/4.F8CqD{6C''B'''CE}/8{''AE}'''{C''E}6{AB'''C''A}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: -''C-/4.E{6'FG}{8AB}/''C{668'E''C}C{'E''C}{6C'BA''F/4.E{6'B''C}{DEFG}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Polonez koncertowy
+@MARC-240m: orch
+@MARC-240r: A
+@MARC-2400: 5221317
+@MARC-245a: [caption title, in blue crayon, underlined:] Polonez Koncertowy
+@MARC-260c: ca. 1869
+@MARC-2608: 01
+@MARC-300a: 1 score: 40 p.
+@MARC-300c: 33,5 x 27 cm
+@MARC-3008: 01
+@MARC-591a: 291
+@MARC-591a: inw 163
+@MARC-591a: 6)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in A
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594b: piston in A
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: ophicleide
+@MARC-594c: 1
+@MARC-594b: arp
+@MARC-594c: 1
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594b: gran cassa e piatti
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl, fl.picc, ob (2), cl in A (2), fag (2), cor in F (2), cor in D (2), piston in A (2), trb (3), ophicleide, arp, timp, tamb, gran cassa e piatti
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-773w: 1001095390
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 291/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

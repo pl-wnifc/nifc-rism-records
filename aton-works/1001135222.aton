@@ -1,0 +1,107 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001135222
+@MARC-003:	DE-633
+@MARC-005:	20211109085910.0
+@MARC-008:	201112##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2GB/xF1D/2G4AB''CD/2.'B4B2A/4''DEFG/b1E2D/
+@MARC-031q: [pl-text: na stronie r. wpisany inną ręką "Quae est ista" w kluczu wiolinowym]
+@MARC-031r: F
+@MARC-031t: Salve decus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2-DD/D1xF/2DxFF/2.D4D2D/-FD/
+@MARC-031q: [pl-text: na stronie r. wpisany inną ręką "Quae est ista" w kluczu C-3]
+@MARC-031r: F
+@MARC-031t: Salve decus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2-,BG/1A2A/B'C,A/2.G4Gx2F/-BF/1G2F4GA2B'C/
+@MARC-031q: [pl-text: na stronie r. wpisany inną ręką "Quae est ista" w kluczu C-4]
+@MARC-031r: F
+@MARC-031t: Salve decus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2-,,GG/,1D2D/,,BAxF/2.G4G,2D/-,,BB/
+@MARC-031q: [pl-text: na stronie r. wpisany inną ręką "Quae est ista" w kluczu basowym]
+@MARC-031r: F
+@MARC-031t: Salve decus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Różycki, Jacek
+@MARC-100d: 1625p-1704c
+@MARC-100j: Ascertained
+@MARC-1000: pe30020620
+@MARC-240a: Salve decus
+@MARC-240m: Coro
+@MARC-240r: F
+@MARC-2400: 59308
+@MARC-245a: [from Basso part:] Motteti | Salve decus humani generis | O Maria Stella maris | 4 Vocus | De BMU. HR | NdM. O. G. MV HR.
+@MARC-260c: 17th c.
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 32 x 20 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w partii Canto na górze "F P A G "]
+@MARC-5008: 01
+@MARC-590a: C
+@MARC-590b: f. 1 r.
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 2 r.
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 3 r.
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 4 r.
+@MARC-5908: 01
+@MARC-593a: Possible autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro A, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Motette
+@MARC-6500: 3900143
+@MARC-773w: 1001135207
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.377
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

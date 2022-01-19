@@ -1,0 +1,68 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001120252
+@MARC-003:	DE-633
+@MARC-005:	20210720131902.0
+@MARC-008:	200623##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Polonez
+@MARC-031g: F-4
+@MARC-031m: V
+@MARC-031o: 3/4
+@MARC-031p: =8//4.C8,GEC/,,B,D4A8G-/
+@MARC-031r: C
+@MARC-031t: Zaczynajcie basem graiki
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Polonez
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/4
+@MARC-031p: {3q''GqAqB}{8'''C6-3EE}{6EDC''B}{AGFE}/{8D6-3FF}{8FFFF}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Zaczynajcie basem grajki
+@MARC-240m: V, coro, pf
+@MARC-240r: C
+@MARC-2400: 50234674
+@MARC-245a: [title page, in pencil:] Józef Stefani | Autograf
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 36,2 × 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 7/VII/47 | [parafka Chromińskiego]."]
+@MARC-591a: inw. 1596
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, Coro T (2), Coro B, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-852a: PL-Wtm
+@MARC-852d: 10754
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1507
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

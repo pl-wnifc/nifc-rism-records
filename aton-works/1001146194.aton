@@ -1,0 +1,137 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001146194
+@MARC-003:	DE-633
+@MARC-005:	20210923121106.0
+@MARC-008:	210213##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 1- / ''4D '8AA / 4A {8B''C} / 2D / + 4D {8AF} /
+@MARC-031t: Credidi propter
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: C-1
+@MARC-031m: S rip
+@MARC-031n: xFC
+@MARC-031o: 2/3
+@MARC-031p: =82 / ''4.D 8D / 4CC / 'BB /
+@MARC-031t: Credidi propter
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Allegretto
+@MARC-031g: C-3
+@MARC-031m: A rip
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =81 / '4.A 8A / 4AA / GG /
+@MARC-031t: Credidi propter
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Allegretto
+@MARC-031g: C-4
+@MARC-031m: T rip
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =81 / '4.F 8F / 4EE / DE /
+@MARC-031t: Credidi propter
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031d: Allegretto
+@MARC-031g: F-4
+@MARC-031m: B rip
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =81 / '4.D 8D / 4,AA / B'C /
+@MARC-031t: Credidi propter
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 6
+@MARC-031d: Allegretto
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: ,44DD / CC / DD / CC /
+@MARC-031t: Credidi propter
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Casali, Giovanni Battista
+@MARC-100d: 1715c-1792
+@MARC-1000: pe30000607
+@MARC-240a: Credidi propter
+@MARC-240m: S solo, S rip, A rip, T rip, B rip, org
+@MARC-2400: 5049041
+@MARC-245a: [text incipit:] Credidi propter
+@MARC-260a: Cracow
+@MARC-260c: XVIII-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score: 20 f.
+@MARC-300c: 24,4 x 18,1 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na karcie 15r tekst: "Organo | Credidi à Canto Solo | con ripieni | Del Sig. Gio: Batta Casali"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na wybranych kartach rękopisu owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-520a: 1 score
+@MARC-590a: S solo
+@MARC-590b: f. 1r-5v
+@MARC-5908: 01
+@MARC-590a: S rip
+@MARC-590b: f. 7r-8r
+@MARC-5908: 01
+@MARC-590a: A rip
+@MARC-590b: f. 9r-10r
+@MARC-5908: 01
+@MARC-590a: T rip
+@MARC-590b: f. 11r-12r
+@MARC-5908: 01
+@MARC-590a: B rip
+@MARC-590b: f. 13r-14r
+@MARC-5908: 01
+@MARC-590a: org (bc)
+@MARC-590b: f. 15v-20v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: S rip
+@MARC-594c: 1
+@MARC-594b: A rip
+@MARC-594c: 1
+@MARC-594b: T rip
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, S rip, A rip, T rip, B rip, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.322
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

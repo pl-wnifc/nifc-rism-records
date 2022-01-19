@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001095954
+@MARC-003:	DE-633
+@MARC-005:	20211027135245.0
+@MARC-008:	191126##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: =/''2C8'GGFG/4.B8A8.688GFED/8FE4-
+@MARC-031r: f|x
+@MARC-031t: Lubię poglądać, wsparty na Judahu skale
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 1C+/C/+2CxD/4-E2-/
+@MARC-031r: f|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Epilog
+@MARC-240m: V (1), coro, pf
+@MARC-240o: Arr
+@MARC-2400: 3925236
+@MARC-245a: [caption title:] № IX. [space] [underlined:]Ostatni Sonet.
+@MARC-260c: ca. 1867
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 p.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Poprawki niebieską i czerwoną kredką.]
+@MARC-500a: [pl-text: Na końcu stempel "Towarzystwo Muzyczne | Sekcya imienia | St. Moniuszki" i adnotacja: "kart 21 | 28/VIII 1901 | [podpis Władysława Zahorowskiego]".]
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, Coro S, Coro A, Coro T, Coro B, pf
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-773w: 1001095947
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 692/M
+@@END:		MARC21
+

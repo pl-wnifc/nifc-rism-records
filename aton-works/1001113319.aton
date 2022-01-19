@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001113319
+@MARC-003:	DE-633
+@MARC-005:	20210720131944.0
+@MARC-008:	200427##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: {8FFnEF}{bEFCF}/4BFDF/4.B''8C4D'B/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Te Deum
+@MARC-240m: orch
+@MARC-240r: B|b
+@MARC-2400: 3008795
+@MARC-245a: [title page:] Te deum laudamus. | JStefaniego
+@MARC-260c: before 1876
+@MARC-2608: 01
+@MARC-300a: 1 score: 24 p.
+@MARC-300c: 37 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak partii wokalnych - puste pięciolinie w partyturze.]
+@MARC-500a: [pl-text: Dawna sygnatura wykreślona.]
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]
+@MARC-591a: inw. 1713
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl, ob (2), cl (2), fag (2), cor (2), trb (3), tr (2), timp
+@MARC-599b: full
+@MARC-650a: Orchestral pieces
+@MARC-6500: 3901803
+@MARC-852a: PL-Wtm
+@MARC-852d: 10499
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1670
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,99 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001153963
+@MARC-003:	DE-633
+@MARC-005:	20210923120958.0
+@MARC-008:	210420##################################
+@MARC-031a: 16
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: 3/2
+@MARC-031p: 1G2G/G2G1.G/1.G/1G2E/1G2G1xF2F/1G2G/1A2G1.G/
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 16
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: 3/2
+@MARC-031p: 1D2D/,B2G1B2'C/1.,B/1B'2C1D2D/1E2D1.D/1D2D/
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 16
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/2
+@MARC-031p: 1,G2G/1G2G1G2C/1.G/1G2A/1G2,,G/1,C2D/1,,G2,G1xF2G/1G2G/
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 16
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: 3/2
+@MARC-031p: 1D2D/1E2xF/1G2G2.G4G2G/2.xF4F2F/D1ExF2G/1G2E/
+@MARC-031t: Et in terra pax hominibus
+@MARC-0312: pe
+@MARC-031a: 16
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: 3/2
+@MARC-031p: 1,B2B/1A2A/1'D2D/2.D4D2D/2.D4D2,A/A1AA2'D/
+@MARC-031t: Et in terra pax hominibus
+@MARC-0312: pe
+@MARC-031a: 16
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/2
+@MARC-031p: 1,,G2B/1,C2D/,,1G2G2.,G4G2G/2.D4D2D/D1,,A,D2G/1G2C/
+@MARC-031t: Et in terra pax hominibus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Missa supra Resonet
+@MARC-240m: V (3)
+@MARC-2400: 4041495
+@MARC-245a: [subject headings:] Missa Supra Resonet
+@MARC-260c: 17th century
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Kreski taktowe we wszystkich głosach dopisane innym atramentem.]
+@MARC-500a: [pl-text: W księdze I na f. 23v zapisane innym atramentem i inną ręką niż sąsiadujące utwory "Christe eleison". W księdze II sporządzony podobny dopisek na przełomie kart 21v-22r (w dolnym brzegu). W księdze II ta sama sytuacja u dołu f. 24r.]
+@MARC-500a: [pl-text: W księdze III obok nazwy dopisana nazwa głosu: "Bassus".]
+@MARC-590a: A, T, B
+@MARC-590b: f. 24r-25r, 21v-22v, 24r-25r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773w: 1001151827
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.10
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

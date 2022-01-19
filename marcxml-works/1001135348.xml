@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndd a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">1001135348</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20211109090310.0</marc:controlfield>
+  <marc:controlfield tag="008">201112##################################</marc:controlfield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">2</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">C 1</marc:subfield>
+    <marc:subfield code="o">3/1</marc:subfield>
+    <marc:subfield code="p">1DFG9A1G9F1G9.E/9F1G1.A2A1G9''C1D9C1'B9A/</marc:subfield>
+    <marc:subfield code="q">[pl-text: f. 1 v. i 2 v. – tekst wpisany inną ręką. Możliwe że; klucz, metrum i kreski taktowe też.]</marc:subfield>
+    <marc:subfield code="q">[pl-text: f. 2 v. – 1. i 3. zwrotka skreślona. Wpisane inną ręką ze zmienioną melodią.]</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Deus tuorum</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">2</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+    <marc:subfield code="g">C-1</marc:subfield>
+    <marc:subfield code="m">C 2</marc:subfield>
+    <marc:subfield code="o">3/1</marc:subfield>
+    <marc:subfield code="p">1AA''C9C1C'9A1bB9.A/9''D1D1.C2C1'B9AA1FG9.A/</marc:subfield>
+    <marc:subfield code="q">[pl-text: tekst wpisany inną ręką. Możliwe że; klucz, metrum i kreski taktowe też.]</marc:subfield>
+    <marc:subfield code="q">[pl-text: inną ręką (3. skryptor) wpisana alternatywna wersja "amen".]</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Deus tuorum</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">2</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="g">C-3</marc:subfield>
+    <marc:subfield code="m">A 2</marc:subfield>
+    <marc:subfield code="o">3/1</marc:subfield>
+    <marc:subfield code="p">1FDE9F1E9D1D9CA1A9F1EE2AG1F9E1D9C/</marc:subfield>
+    <marc:subfield code="q">[pl-text: tekst wpisany inną ręką. Możliwe że; klucz, metrum i kreski taktowe też.]</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Deus tuorum</marc:subfield>
+    <marc:subfield code="z">[pl-text: f. 4 v. – 1. i 3. zwrotka skreślona. Wpisane inną ręką ze zmienioną melodią.]</marc:subfield>
+    <marc:subfield code="z">[pl-text: f. 5 v. – nazwa partii dodana inną ręką.]</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">2</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">3</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T 1</marc:subfield>
+    <marc:subfield code="o">3/1</marc:subfield>
+    <marc:subfield code="p">1CCE9E1E9C1bD9.C/9D1D1.C2C1,B9AA1FG9.A/</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Deus tuorum</marc:subfield>
+    <marc:subfield code="z">[pl-text: f. 8 v. – nazwa głosu dopisana inną ręką. Inną ręką (3. skryptor) dodano wariant "amen".]</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">2</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">4</marc:subfield>
+    <marc:subfield code="g">C-4</marc:subfield>
+    <marc:subfield code="m">T 2</marc:subfield>
+    <marc:subfield code="o">3/1</marc:subfield>
+    <marc:subfield code="p">1,AA'C9C1C9,A1bB9.A/'9D1D1.C2C1,B9AA1FG9.A/</marc:subfield>
+    <marc:subfield code="q">[pl-text: tekst wpisany inną ręką. Możliwe że; klucz, metrum i kreski taktowe też.]</marc:subfield>
+    <marc:subfield code="q">[pl-text: f. 6 v. – nad partią dopisane "Himn de S. Stanislao. Inną ręką dopisano nazwę głosu.]</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Deus tuorum</marc:subfield>
+    <marc:subfield code="z">[pl-text: f. 7 v. – 1. i 3. zwrotka skreślone. Wpisane inną ręką ze zmienioną linią melodyczną.]</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">2</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">5</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B 1</marc:subfield>
+    <marc:subfield code="o">3/1</marc:subfield>
+    <marc:subfield code="p">1,DDC9,,G,1C9D1,,G9.A/9,D1D1.F2F1G2AGFE1D9E1E9.,,A/</marc:subfield>
+    <marc:subfield code="q">[pl-text: f. 10 v. – inną ręką wpisane "Himni duo | 1 Gaude Mater Polonia ded.Han | 2 Deus tuorum militum deMart"]</marc:subfield>
+    <marc:subfield code="q">[pl-text: f. 10 v. – tekst wpisany inną ręką. Możliwe że; klucz, metrum i kreski taktowe też.]</marc:subfield>
+    <marc:subfield code="q">[pl-text: f. 10 v. – 1. i 3. zwrotka skreślone. Wpisane inną ręką ze zmienioną linią melodyczną.]</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Deus tuorum</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="031" ind1=" " ind2=" ">
+    <marc:subfield code="a">2</marc:subfield>
+    <marc:subfield code="b">1</marc:subfield>
+    <marc:subfield code="c">6</marc:subfield>
+    <marc:subfield code="g">F-4</marc:subfield>
+    <marc:subfield code="m">B 2</marc:subfield>
+    <marc:subfield code="o">3/1</marc:subfield>
+    <marc:subfield code="p">1,DDC9F1C9D1,,G9.A/9,D1D1.F2F1G2AGFE1D9E1E9.,,A/</marc:subfield>
+    <marc:subfield code="q">[pl-text: f. 11 v. – 1. i 3. zwrotka skreślone. Wpisane inną ręką ze zmienioną linią melodyczną.]</marc:subfield>
+    <marc:subfield code="q">[pl-text: f. 11 v. – tekst wpisany inną ręką. Możliwe że; klucz, metrum i kreski taktowe też.]</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="t">Deus tuorum</marc:subfield>
+    <marc:subfield code="2">pe</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2=" ">
+    <marc:subfield code="a">lat</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="130" ind1="0" ind2=" ">
+    <marc:subfield code="a">Deus tuorum militum</marc:subfield>
+    <marc:subfield code="m">Coro</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="0">3908590</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">[from part [B1], f. 9 v.:] Himni duo | 1 Gaude Mater Polonia ded.Han | 2 Deus tuorum militum deMart</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">ca. 1700</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">11 parts</marc:subfield>
+    <marc:subfield code="c">31 x 19,5 cm</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">C 1</marc:subfield>
+    <marc:subfield code="b">f. 1 v., 2v.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">C 2</marc:subfield>
+    <marc:subfield code="b">f. 3 v.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">A 2</marc:subfield>
+    <marc:subfield code="b">f. 5 v.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">T 1</marc:subfield>
+    <marc:subfield code="b">f. 8 v.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">T 2</marc:subfield>
+    <marc:subfield code="b">f. 6v., 7v.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">B 1</marc:subfield>
+    <marc:subfield code="b">f. 9 v., 10 v.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">B 2</marc:subfield>
+    <marc:subfield code="b">f. 11 v.</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro C1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro C2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro A2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro T1, 2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro T1</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro T 2</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro B 1</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">Coro B 2</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">Coro C1 (2), Coro C2, Coro A2 (2), Coro T1, 2, Coro T1, Coro T 2 (2), Coro B 1 (2), Coro B 2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Hymns</marc:subfield>
+    <marc:subfield code="0">25238</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1="1" ind2="8">
+    <marc:subfield code="w">1001135342</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kk</marc:subfield>
+    <marc:subfield code="e">Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej</marc:subfield>
+    <marc:subfield code="x">ks30002080</marc:subfield>
+    <marc:subfield code="c">Kk.I.380</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

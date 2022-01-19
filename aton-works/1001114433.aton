@@ -1,0 +1,66 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114433
+@MARC-003:	DE-633
+@MARC-005:	20210720131945.0
+@MARC-008:	200507##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: 48'FCgE48DC/,A'CDC/8CCCCCC/
+@MARC-031r: F
+@MARC-031t: Oj gdybyśmy tylko mieli Co mają w Niebie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Oj, gdybyśmy tylko mieli, co mają w niebie
+@MARC-240m: V (4), choro maschile
+@MARC-240r: F
+@MARC-2400: 50231447
+@MARC-245a: [without title]
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 30,5 x 24,5 cm
+@MARC-3008: 01
+@MARC-300a: 4 parts
+@MARC-300c: 33 x 24 cm
+@MARC-3008: 01
+@MARC-300a: 2 parts
+@MARC-300c: 21,5 x 25 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na odwrocie głosu T1 zapisano i wykreślono partię puzonów z innego utworu.]
+@MARC-500a: [pl-text: Dawna sygnatura wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]
+@MARC-590a: T1, T2, B1, B2, coro T1, coro T2
+@MARC-590b: 2, 2, 2, 2, 2, 2 p.
+@MARC-5908: 01
+@MARC-591a: Inw. 1698
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 2
+@MARC-594b: T coro
+@MARC-594c: 2
+@MARC-594a: T (2), B (2), T coro (2)
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-852a: PL-Wtm
+@MARC-852d: 10988
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1645 (1-2)
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

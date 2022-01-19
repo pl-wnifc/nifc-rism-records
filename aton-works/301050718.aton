@@ -1,0 +1,80 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050718
+@MARC-003:	DE-633
+@MARC-005:	20201029164700.0
+@MARC-008:	160319##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031o: c/
+@MARC-031p: ,,CG,C,,G/{8,CGEC}4,,G-/8{,,G,GDG}{CGCG}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: ''CDED/C8{EC}4'G-/B''D2C/i/
+@MARC-031r: C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Rodowski, Aleksander
+@MARC-100d: 18/19
+@MARC-100j: Verified
+@MARC-1000: pe30009627
+@MARC-240a: Masses
+@MARC-240m: V (2), org
+@MARC-240r: C
+@MARC-2400: 3900051
+@MARC-245a: [cover title, short score:] MISSA | Pastorales | a | Canto Basso | et | Organo | Autore Alexander Rodowski | [underneath right:] per script Walenty Czajkowski | in Stajniątki[!] d: 19 Decembris 1850
+@MARC-260c: 18501219
+@MARC-2608: 01
+@MARC-300a: 2 parts
+@MARC-3008: 01
+@MARC-300a: short score: f.1v-3v and 9r-10r
+@MARC-3008: 02
+@MARC-500a: at f.10r: „Fine d: 19 Grud: 1850 r | fine Walen: Czajkowski”
+@MARC-500a: B part missing
+@MARC-5008: 01
+@MARC-590a: S, org
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 02
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, B, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.106, no.99
+@MARC-6910: lit30022863
+@MARC-700a: Czajkowski, Walenty
+@MARC-700d: 19.sc
+@MARC-700j: Verified
+@MARC-7000: pe30109237
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-730a: Missa pastorale
+@MARC-730g: RISM
+@MARC-7300: 3914679
+@MARC-852a: PL-STAb
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 75a
+@@END:		MARC21
+

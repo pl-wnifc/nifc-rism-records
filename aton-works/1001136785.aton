@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001136785
+@MARC-003:	DE-633
+@MARC-005:	20210923121038.0
+@MARC-008:	201123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Largo dolce
+@MARC-031g: C-3
+@MARC-031m: Contra-A
+@MARC-031o: 3
+@MARC-031p: '2.F/2E8{GF}/8.{F6E}2E/A8GA/4GFE/
+@MARC-031r: C
+@MARC-031t: O salutaris hostia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Largo dolce
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: 3
+@MARC-031p: ,2.G/4'C4.,B'8D/8.{D6C}2C/F8EC/,4B'DC/
+@MARC-031r: C
+@MARC-031t: O salutaris hostia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Largo dolce
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3
+@MARC-031p: '2.C/,2G4G/2A4A/FA'C/,2G4A/
+@MARC-031r: C
+@MARC-031t: O salutaris hostia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: O salutaris hostia
+@MARC-240m: V (3)
+@MARC-2400: 3900683
+@MARC-245a: [without title]
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 3 parts: 3 f.
+@MARC-300c: 21.5 x 32 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach recto wszystkich kart pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” z sygnaturą.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach verso wszystkich kart pieczęć: "CATH. CRAC. * ARCH. CAPIT."]
+@MARC-5008: 01
+@MARC-590a: Contra-A, T, B
+@MARC-590b: f. 1, 2, 3
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Contra-A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: Contra-A, T, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.496
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

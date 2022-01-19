@@ -1,0 +1,62 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001084173
+@MARC-003:	DE-633
+@MARC-005:	20211027135243.0
+@MARC-008:	190903##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino con moto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 6{xFGAB}{8A6GF}/8G4''D8D/{6C'nB''CD}{8E6GE}/8D4'B8''F/{6FEED}{8.C6'G}/{6''EDDxC}{8.D'6G}/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino con moto
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8{'C^,D,,G}8{'C^,D,,G}/8{,B^,D,,G}8{,B^,D,,G}/8{'E^,GC}{'C^,F,,F}/{,B^F,,B}{'D,^BD}/{'E^C,C}{E'C,^G}/8,,B4'D,^G8'D^,G^nE}/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Canzonetta
+@MARC-240m: pf
+@MARC-240r: g
+@MARC-2400: 3905977
+@MARC-245a: [caption title, in black ink:] Canzonetta.
+@MARC-260c: 1850-1909
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 31.5 x 25.0 cm
+@MARC-3008: 01
+@MARC-590a: pf
+@MARC-590b: 4 p.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Character pieces
+@MARC-6500: 25252
+@MARC-773w: 1001084154
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 116/N
+@@END:		MARC21
+

@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001153887
+@MARC-003:	DE-633
+@MARC-005:	20210923121005.0
+@MARC-008:	210420##################################
+@MARC-031a: 11
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: 3/1
+@MARC-031p: 1EEG9G1G9G1xF9.G
+@MARC-031t: Salvator orbis
+@MARC-0312: pe
+@MARC-031a: 11
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: 3/1
+@MARC-031p: 1CC,B'1.C4,BA2GAB'C1.D2D9.D
+@MARC-031t: Salvator orbis
+@MARC-0312: pe
+@MARC-031a: 11
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/1
+@MARC-031p: 1C,AG/1.C2DEF/G,,G,1.D2D/9.,,G
+@MARC-031t: Salvator orbis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Pękiel, Bartłomiej
+@MARC-100d: 1670c+
+@MARC-100j: Conjectural
+@MARC-1000: pe30105642
+@MARC-240a: Salvator orbis
+@MARC-240m: V (3)
+@MARC-2400: 50249910
+@MARC-245a: [subject headings:] B. P.
+@MARC-260c: 17th century
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Kreski taktowe w głosie B dodane innym atramentem.]
+@MARC-590a: A, T, B
+@MARC-590b: f. 18r-v, 16r-v, 17v-18r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T, B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-773w: 1001151827
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.10
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

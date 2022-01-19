@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258137
+@MARC-003:	DE-633
+@MARC-005:	20210923120904.0
+@MARC-008:	130716##################################
+@MARC-031a: 60
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: V (1)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-9-1-/1C1.F2E1DC/1-F1.B2A/1GF/
+@MARC-031t: O altitudo divitiarum, sapientiae et scientiae Dei
+@MARC-0312: pe
+@MARC-031a: 60
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: V (2)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1C1.F2E/1D2CF/FEF2.C/4,B2G/2.A4B9G/2A
+@MARC-031t: O altitudo divitiarum, sapientiae et scientiae Dei
+@MARC-0312: pe
+@MARC-031a: 60
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: V (3)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/,F1.'C2,B/9AG1A/-F1.'C2,B/1A2G
+@MARC-031t: O altitudo divitiarum, sapientiae et scientiae Dei
+@MARC-0312: pe
+@MARC-031a: 60
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-3
+@MARC-031m: V (4)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-1-/1,C1.F2E/1DC/-/F1.B2A/1GF/
+@MARC-031t: O altitudo divitiarum, sapientiae et scientiae Dei
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Asola, Giovanni Matteo
+@MARC-100d: 1532c-1609
+@MARC-100j: Ascertained
+@MARC-1000: pe20000387
+@MARC-240a: O altitudo divitiarum
+@MARC-240m: V (4)
+@MARC-2400: 3929114
+@MARC-245a: [subject heading, first partbook:] Cantus ad AEquales.
+@MARC-260c: 1660-1682
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: The Author established on the basis: G. Asola, Sacrae cantiones ...
+@MARC-500a: [pl-text: W księdze II adnotacja ponad nutami: "1mus." obok innym atramentem: "Parte 2da". W księdze III: 2dus ad aequales", po lewej innym atramentem "Parte 2da.". W księdze IV: innym atramentem "Parte 2da".]
+@MARC-500a: [pl-text: W księdze II na końcu partii adnotacja atramentem: "A.M.D.G. | 1663. 4 10bris".]
+@MARC-500a: [pl-text: Numer 39 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-590a: V (1), V (2), V (3), V (4)
+@MARC-590b: p. 111, 111, 107, 105
+@MARC-5908: 01
+@MARC-591a: Kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 4
+@MARC-594a: V (4)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-700a: Miskiewicz, Maciej Arnulf
+@MARC-700d: 1685c+
+@MARC-700j: Ascertained
+@MARC-7000: pe30105639
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001038640
+@MARC-003:	DE-633
+@MARC-005:	20210710084152.0
+@MARC-008:	180515##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2''D4C/D2'G/A4G/F{8EF}4D/8''DE4DC/8'BA4BG/
+@MARC-031r: G
+@MARC-031t: Pastuszkowie braciszkowie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Pastuszkowie braciszkowie
+@MARC-240r: G
+@MARC-2400: 5033321
+@MARC-245a: [without title]
+@MARC-260c: 1721-1751
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 22 (19,5) x 18,5 (16) cm
+@MARC-3008: 01
+@MARC-500a: other parts presumably missing
+@MARC-5008: 01
+@MARC-500a: V part in C-1 clef
+@MARC-5008: 01
+@MARC-500a: Additional folio containing lyrics only, written by another copyist, presumably Scholastyka Moszyńska.
+@MARC-5008: 01
+@MARC-500a: 13 stanzas under a single staff.
+@MARC-590a: V
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: no indication
+@MARC-594a: no indication
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-657a: Nativitas Domini
+@MARC-6570: 24268
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 242
+@MARC-6910: lit1891
+@MARC-700a: Kolasiński, Kazimierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41012736
+@MARC-7004: scr
+@MARC-700a: Moszyńska, Scholastyka
+@MARC-700d: 1729c-1804
+@MARC-700j: Conjectural
+@MARC-7000: pe41022154
+@MARC-7004: scr
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 367/A VIII 7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

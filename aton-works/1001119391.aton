@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001119391
+@MARC-003:	DE-633
+@MARC-005:	20210720131921.0
+@MARC-008:	200616##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introducione
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: {6.3b''ED6xCDED}/{xCDbEDCD}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Mazur
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: {''8GFE}/{6.3DEDC8'B}/g''B{6.3AD}{8FA}/{'''6C''B}4G/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Wiesław i Wanda
+@MARC-240k: Excerpts
+@MARC-240m: pf
+@MARC-240o: Arr
+@MARC-2400: 50231680
+@MARC-245a: [title page:] Wielki | Wiesław Mazur | napisany do Baletu | Wiesław i Wanda | Kompozycyj na Orkiestrę | i przekład na | Fortepiano | Józefa Stefaniego
+@MARC-300a: 1 piano part
+@MARC-300c: 36,2 × 26,6 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 17/VII/47 | [parafka Chromińskiego]."]
+@MARC-590a: pf
+@MARC-590b: 8 p.
+@MARC-5908: 01
+@MARC-591a: inw. 1440
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Ballets
+@MARC-6500: 25172
+@MARC-650a: Piano music
+@MARC-6500: 3902024
+@MARC-852a: PL-Wtm
+@MARC-852d: 10547
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1340
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

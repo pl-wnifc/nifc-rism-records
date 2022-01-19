@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099657
+@MARC-003:	DE-633
+@MARC-005:	20211027135302.0
+@MARC-008:	200101##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCGD
+@MARC-031o: c
+@MARC-031p: =4/2-8-GGG/4.G8GBBAG/4G8F-4A8AG/4G8FG4G8FG/4E-8-GFG/
+@MARC-031r: E
+@MARC-031t: Kochanko moja na co nam rozmowa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: c
+@MARC-031p: 4''G^'xA8{''F^'A''G^'A}4''G^'A8{''F^'A''G^'A}/{''G^'nA''F^'A''C^'A''D^'A}6{''FEDC}8'B''G^'xA/4''G^'xA8{''F^'A''G^n'A}4''G^'A8{''F^'A''G^'A}/8{''G^'A''F^'A''C^'A''D^'A}4''E^'G8-''E^'B^G/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Kochanko moja na co nam rozmowa
+@MARC-240m: V, pf
+@MARC-240r: E
+@MARC-2400: 50222621
+@MARC-245a: [without title]
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajdują się dwie pieczątki: 1) "ALEKSANDER MONIUSZKO | N|o 750", 2) Towarzystwo Muzyczne. Sekcya imienia St. Moniuszki.]
+@MARC-591a: N|o 750
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Alleged
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

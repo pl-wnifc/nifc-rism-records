@@ -1,0 +1,59 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001115424
+@MARC-003:	DE-633
+@MARC-005:	20210720131940.0
+@MARC-008:	200518##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: Coro T1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8.6AA/4''F8.6xCC/8DDE'B/
+@MARC-031r: d
+@MARC-031t: Requiem aetermam dona eis Domine
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Funeral march
+@MARC-240m: Coro maschile
+@MARC-240r: d
+@MARC-2400: 3996526
+@MARC-245a: [caption title:] Marcia
+@MARC-260c: [1873-02-06]
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 33,2 × 25,9 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował 17/VII/47 | [podpis Chromińskiego]."]
+@MARC-591a: inw. 1656
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro T (2), Coro B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Funeral music
+@MARC-6500: 25159
+@MARC-773w: 1001115422
+@MARC-852a: PL-Wtm
+@MARC-852d: 10491|A
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1573
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,96 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258144
+@MARC-003:	DE-633
+@MARC-005:	20210923120905.0
+@MARC-008:	130716##################################
+@MARC-031a: 67
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-0-9-1-/9G1D/FE2D1G2F/1AGF/
+@MARC-031t: O rex gloriae, Domine virtutum
+@MARC-0312: pe
+@MARC-031a: 67
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-1-/9D1,A/'C,B2A'D/4,GAB'C/2D1C2,B/A
+@MARC-031t: O rex gloriae, Domine virtutum
+@MARC-0312: pe
+@MARC-031a: 67
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: A (2)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/9D1,A/'C,B2A1'F4ED/2EFD
+@MARC-031t: O rex gloriae, Domine virtutum
+@MARC-0312: pe
+@MARC-031a: 67
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9,G1D/FE9D/2-1A2F2.G4G1D/
+@MARC-031t: O rex gloriae, Domine virtutum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Asola, Giovanni Matteo
+@MARC-100d: 1532c-1609
+@MARC-100j: Ascertained
+@MARC-1000: pe20000387
+@MARC-240a: O rex gloriae
+@MARC-240m: V (4)
+@MARC-2400: 3919272
+@MARC-245a: [without title]
+@MARC-260c: 1660-1682
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: The Author established on the basis: G. Asola, Sacrae cantiones ...
+@MARC-500a: [pl-text: Numer 46 według katalogu "Musicalia Vetera. Tom 1. Zbiory muzyczne proweniencji wawelskiej. Zeszyt 6" PWM 1983.]
+@MARC-590a: S, A 1, 2, T
+@MARC-590b: p. 117-118, 117-118, 113-114, 111
+@MARC-5908: 01
+@MARC-591a: Kk.I.7/1-4
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594a: S, A (2), T
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: Głuszcz-ZwolińskaW 1983
+@MARC-6910: lit2819
+@MARC-700a: Miskiewicz, Maciej Arnulf
+@MARC-700d: 1685c+
+@MARC-700j: Ascertained
+@MARC-7000: pe30105639
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258077
+@MARC-852a: PL-Kk
+@MARC-852d: D32-35
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.7
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083361
+@MARC-003:	DE-633
+@MARC-005:	20211027135141.0
+@MARC-008:	190826##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Nie za prędko
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: 3/8
+@MARC-031p: =2//:=5/8-8-C/nCnEF/AGF/FGA/''C'BA/
+@MARC-031r: f
+@MARC-031t: Co północ chodziła gdzie jego mogiła
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Nie za prędko
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEAD
+@MARC-031o: 3/8
+@MARC-031p: 6-''C4'F+/{6FGFA8F}//:6-''C4'F+/{6FGFA8F}/4.nE+/{8E8.(G)6F}/
+@MARC-031r: f
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-041h: pol
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Jasieńko
+@MARC-240m: V, pf
+@MARC-240r: f
+@MARC-2400: 5213754
+@MARC-245a: [title page:] Jasieńko. | Wiersz Wł. Hr. Tarnowskiego. | Śpiew z towarzyszeniem fortepianu | Muzyka | Michała Hertza.
+@MARC-260c: after 1850 - 1918
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 34,0 x 26,5 cm
+@MARC-3008: 01
+@MARC-500a: In the manuscript there are additional annotations in pencil.
+@MARC-500a: [pl-text: W rękopisie obecne są dodatkowe zapisy ołówkiem.]
+@MARC-591a: inw. 2463
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Tarnowski, Władysław
+@MARC-700d: 1836-1878
+@MARC-700j: Ascertained
+@MARC-7000: pe30102004
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2448
+@@END:		MARC21
+

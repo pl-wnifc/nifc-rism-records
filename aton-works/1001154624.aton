@@ -1,0 +1,102 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001154624
+@MARC-003:	DE-633
+@MARC-005:	20210923120937.0
+@MARC-008:	210428##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031o: 3/2
+@MARC-031p: '1E2D/CCD/1E2D/
+@MARC-031t: Protexisti me, Deus a conventu malignantium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031o: 3/2
+@MARC-031p: ,1G2B/GGB/1G2B/
+@MARC-031t: Protexisti me, Deus a conventu malignantium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/2
+@MARC-031p: 2,CEG/'C,EG/4CDEF2G/
+@MARC-031t: Protexisti me, Deus a conventu malignantium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031o: 3/2
+@MARC-031p: '2.G4F2E/2.F4E2D/4EG2FE/D
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031o: 3/2
+@MARC-031p: '2.E4D2C/2.D4C,2B/'4CE2DC/,B
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/2
+@MARC-031p: ,2.C4D2E/2.F4G2G/'C,FxF/G
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (3)
+@MARC-2400: 3900051
+@MARC-245a: [without title]
+@MARC-260c: [1600-1749]
+@MARC-2608: 01
+@MARC-300a: 4 parts: 12 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-tetx: W lewym górnym rogu karty 1r ołówkiem sygnatura.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach recto wszystkich kart oraz na karcie 12v u góry pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W prawym górnym rogu karty 1r niebieskim długopisem: "497".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Opracowanie części stałych i zmiennych cyklu mszalnego.]
+@MARC-590a: T 1, T 2, B (2x)
+@MARC-590b: f. 1-3, 4-6, 7-9, 10-12
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.68
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

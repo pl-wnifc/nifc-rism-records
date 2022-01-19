@@ -1,0 +1,130 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000617
+@MARC-003:	DE-633
+@MARC-005:	20210324110243.0
+@MARC-008:	120102##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: {8''GE'''C''GED}/q8D{8C'B}4.B8''C/{6DEDE}{FGFG}{8A6GF}/{EFEC}{DDC'B}4''C/
+@MARC-031q: [pl-text: W 4 takcie, prawdopodobnie 2 nuta powinna być E - po porównaniu z partią ob 1]
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: =16/4'G''CC/{8'B''C}{D6C'B}q8B4''C/8'G''C4EE/
+@MARC-031r: C
+@MARC-031t: In hac annua
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kottritsch, Franciszek
+@MARC-100d: 1727c-1787
+@MARC-100j: Ascertained
+@MARC-1000: pe30040598
+@MARC-240a: In hac annua
+@MARC-240m: S (2), orch, org
+@MARC-240r: C
+@MARC-2400: 49912
+@MARC-245a: [cover title, org:] N|r|o 17 | Aria in C | Partita in C Duro | Violino Primo et[?] Secundo | Canto Primo et[?] Secundo | Oboe 1mo [illegible] | Cornu Primo Cornu Secundo | Cum[?] Organo | Pro Choro Cl[covered]
+@MARC-246a: [dust cover title:] Aria Pastoralis C: | Canto Primo | Canto Secundo | Violino Prim: | Violino Secund | Oboe I. IIdo. | Cornu Primo | Cornu Secundo | et | Organo. | Auth Kotricz | Pro Ch: Cl: M: Cz | Anno 1834.
+@MARC-260c: 1740-1760 (18.me)
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 18,5 x 24 cm
+@MARC-3008: 01
+@MARC-500a: cor 1, 2 missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: brak cor 1, 2]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Karty są pocięte z większych arkuszy papieru, na kartach występują tylko fragmenty znaków wodnych; na partiach S 2, ob 1: TOST; na partiach S 1, vl 2: 1773]
+@MARC-5008: 01
+@MARC-500a: org: 23 x 18,5 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f. 1r okładki [cover title, org]: w prawym górnym rogu czarnym tuszem "N|r|o 17", poprawiono czerwoną kredką na "18"; na f. 1r okładki [dust cover title]: w prawym górnym rogu ołówkiem ręką nieznanego Paulina "N|o 34", skreślona czerwonym tuszem; poniżej czerwonym tuszem ręką F. Maletza "N 981/282."; u góry z lewej strony ołówkiem ręką W. Świerczka "757" w owalnym kółku]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-7)]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-561a: [pl-text: Na f. 1r okładki, w prawym dolnym rogu:] "Pro Ch: Cl: M: Cz | Anno 1834."
+@MARC-561a: [pl-text: Na f. 1r okładki oraz na każdym głosie okrągła pieczęć: "* ARCHIVUM * C. M. C."]
+@MARC-563a: [pl-text: Grzbiet okładki wzmocniony ozdobnym paskiem z papieru. Tym samym papierem oklejono krawędzie karty tytułowej]
+@MARC-5638: 01
+@MARC-590a: S 1, 2
+@MARC-590b: 1, 1f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 2f.
+@MARC-5908: 01
+@MARC-592a: TOST
+@MARC-5928: 01
+@MARC-592a: 1773
+@MARC-5928: 01
+@MARC-592a: [without watermarks]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S (2), vl (2), ob (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-657a: Novi Anni
+@MARC-6570: 24507
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 24
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.725
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N|r|o 17
+@MARC-852d: 18
+@MARC-852d: N|o 34
+@MARC-852d: N 981/282
+@MARC-852d: 757
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-70
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

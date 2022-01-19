@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001037015
+@MARC-003:	DE-633
+@MARC-005:	20200825152710.0
+@MARC-008:	180422##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro con brio
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: '8{A6-6E}8{E6-6E}6{FGAB}/''8.{C'6A}8A8%F-4({,6GAB};3)8{AE}/%G-2''8{C6-'A}{8A6-xG}6{AB''CD}/8.{F6E}8E
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Chopin, Fryderyk Franciszek
+@MARC-100d: 1810-1849
+@MARC-100j: Ascertained
+@MARC-1000: pe51160
+@MARC-240a: Polonaises
+@MARC-240m: pf
+@MARC-240n: op. 40/1
+@MARC-240n: ChomTurC 152
+@MARC-240r: A
+@MARC-2400: 3900011
+@MARC-245a: POLONAISE. | N.|o 1.
+@MARC-300a: 1 part
+@MARC-3008: 01
+@MARC-383b: op. 40/1
+@MARC-500a: TP: publisher’s oval stamp; oval stamp "M. BERNARD. | S=|T PÉTERSBOURG"; inscription in pencil "[1840 →] II nakł".
+@MARC-5003: 327977
+@MARC-500a: Last p. [12]: blank, two rectangular stamps: "ИЗ COБРAНИЯ | Льва Ильича | РАБИНОВИЧA", [top] "МУЗФОНД | Цена 3 р.50 к. | кв. No" "8811" [near No] written by hand in ink.
+@MARC-5003: 327977
+@MARC-506a: Treasury of the Library
+@MARC-5063: 327977
+@MARC-590a: pf
+@MARC-590b: p. 3-6
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-690a: ChomTurC
+@MARC-690n: 152
+@MARC-6900: lit30000031
+@MARC-700a: Rabinovič, Lev Il'ič
+@MARC-7000: pe41000501
+@MARC-7003: 327977
+@MARC-7004: oth
+@MARC-710a: M. Bernard
+@MARC-7100: ks40444
+@MARC-7103: 327977
+@MARC-7104: asn
+@MARC-773w: 1001037014
+@MARC-852a: PL-Wnifc
+@MARC-852b: Biblioteka Narodowego Instytutu Fryderyka Chopina
+@MARC-852e: Narodowy Instytut Fryderyka Chopina
+@MARC-852x: ks51003139
+@MARC-8523: 327977
+@MARC-852c: 3196/n
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,131 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001069976
+@MARC-003:	DE-633
+@MARC-005:	20210711174550.0
+@MARC-008:	190502##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4.''F8E4D/i/8'B''C4DD/{8DC}2C/{8CD}4EE/{8ED}2D/
+@MARC-031r: B|b
+@MARC-031t: Gloria in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4.'F8E4D/i/8{DF}{DF}{DF}/{nEF}{EF}{EF}/{nEF}{EF}{EF}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: =12/4''F8FFD'B/4''C8E4E8D/4F8F{FD'B}/4''C{6C'B}8.A6G8F/
+@MARC-031r: B|b
+@MARC-031t: Puer natus in Betlehem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: 4''F8F{FD'B}/4''C8E4E8D/4F8F{FD'B}/4''C{6C'B}{8.A6G}8F/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 8''FFFE4D-/=1/8FFFFFD8.B6G/4F{8FE}2(D)/
+@MARC-031r: B|b
+@MARC-031t: O Józefie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: b
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 1(,,B)/8{,BB}4B2(F)/1,,B/2B8{,BB}4F/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Pastorale
+@MARC-240m: S (2), vl (2), b
+@MARC-240r: B|b
+@MARC-2400: 3900694
+@MARC-245a: [cover title:] Concert Na Boże Narodzenie
+@MARC-260c: 1814-1830
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 21,5 x 33,5 cm and two other sizes
+@MARC-3008: 01
+@MARC-500a: V parts written on cards and then folded in half
+@MARC-5008: 01
+@MARC-500a: Cover made of unidentified incomplete keyboard variations. Another f. from this variations as a cover in RISM ID 1001069385 (PL-SA 478/A VIII 118).
+@MARC-5008: 01
+@MARC-590a: S 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S (2), vl (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 243
+@MARC-6910: lit1891
+@MARC-700a: Copyist A from Sandomierz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe41011643
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 370/A VIII 10
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

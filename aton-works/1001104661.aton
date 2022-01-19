@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001104661
+@MARC-003:	DE-633
+@MARC-005:	20200625114606.0
+@MARC-008:	200217##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8'G/''{DDDD}/{3DC6'B}8-q''A{3GF6G}8-/{3ED6C}8-q''A{3GF6G}8-/{3DC6'B}8-4''G/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 4'B,B{8B'D}{FB}/4BA2''E/{6EDCD}{C'BAB}{BAAG}{GFFE}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: 4'G{6.3BG}/4''D{6.3FD}/{8''G'GG}/{6A''C8'B}6-''D/{6'FA8G}6-B/{A''C'8B}6-''D/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Pugnani, Gaetano
+@MARC-100d: 1731-1798
+@MARC-100j: Alleged
+@MARC-1000: pe30002608
+@MARC-240a: Trios
+@MARC-240m: vl (2), b
+@MARC-240r: G
+@MARC-2400: 3910896
+@MARC-245a: [vl 1 caption title:] N|o 3tio
+@MARC-300a: 2 parts
+@MARC-3008: 01
+@MARC-500a: b part missing.
+@MARC-5008: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2r-3r, 1v-2v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), b
+@MARC-599b: full
+@MARC-650a: Instrumental music
+@MARC-6500: 3901646
+@MARC-773w: 1001104628
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 400/A VIII 40
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

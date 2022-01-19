@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001138368
+@MARC-003:	DE-633
+@MARC-005:	20210923121025.0
+@MARC-008:	201207##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: ''2C '4A / ''2E4C / '4.bB ''8D {8C'B} /
+@MARC-031q: In key signature both B-flat and FCG-sharp; in the incipit, I wrote accidental flat
+@MARC-031t: Ojcze wieków pełen chwały
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: '2E 4C / 2C 4E / 2D 4D /
+@MARC-031q: In key signature both B-flat and FCG-sharp
+@MARC-031t: Ojcze wieków pełen chwały
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: ,2A 4A / ,2A 4A / 2G 4G /
+@MARC-031q: In key signature both B-flat and FCG-sharp
+@MARC-031t: Ojcze wieków pełen chwały
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: ,,2A 4A / ,,2A 4A / ,,2A 4A /
+@MARC-031r: 11tt
+@MARC-031t: Ojcze wieków pełen chwały
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Ojcze wieków pełen chwały
+@MARC-240m: Coro: SATB
+@MARC-240r: 11tt
+@MARC-2400: 4041480
+@MARC-245a: [text incipit:] Oycze wieków pełen chwały
+@MARC-300a: 1 part of collection
+@MARC-300c: 32 x 22,3 cm
+@MARC-3008: 01
+@MARC-520a: 1 sacred song
+@MARC-590a: S, A, T, B
+@MARC-590b: 2v, 9r, 14v, 20v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001138080
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.387
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

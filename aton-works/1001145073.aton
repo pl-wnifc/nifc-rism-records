@@ -1,0 +1,52 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001145073
+@MARC-003:	DE-633
+@MARC-005:	20210923121100.0
+@MARC-008:	210204##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: vla
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 8{,FGAF}{EDEC}/{,,FGAF}{',CDEC}/{FGAB}{'C,CEC}/
+@MARC-031r: F
+@MARC-031t: Rorate
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Rorate
+@MARC-240m: vla
+@MARC-240r: F
+@MARC-2400: 3020333
+@MARC-245a: [without tite]
+@MARC-246a: Basso pro viola
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 20.5 x 16 cm
+@MARC-3008: 01
+@MARC-590a: vla
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594a: vla
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-773w: 1001145069
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.131
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

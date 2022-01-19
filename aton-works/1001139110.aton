@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001139110
+@MARC-003:	DE-633
+@MARC-005:	20210923121031.0
+@MARC-008:	201212##################################
+@MARC-031a: 2
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante sostenuto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 6/8
+@MARC-031p: 4.'GG/G''G/G4E8C/4.'B4B{6''CD}/2.C/
+@MARC-031r: C
+@MARC-031t: Sancta Maria mater Dei
+@MARC-0312: pe
+@MARC-031a: 2
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante sostenuto
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 6/8
+@MARC-031p: 4.,GG/2.,,B/4.,CC/2.D/C/,,B/,4.CC/2.D/4C
+@MARC-031r: C
+@MARC-031t: Sancta Maria mater Dei
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Geiger, Konstanze
+@MARC-100d: 1835-1890
+@MARC-100j: Conjectural
+@MARC-1000: pe30004300
+@MARC-240a: Sancta Maria
+@MARC-240m: S, B
+@MARC-240r: C
+@MARC-2400: 3011324
+@MARC-245a: [the left side of the stave:] Sancta Maria
+@MARC-260c: 19th century
+@MARC-2608: 01
+@MARC-300a: 2 parts; 2 f.
+@MARC-3008: 01
+@MARC-590a: S, B
+@MARC-590b: f. 1v, 2v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001139108
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.518
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

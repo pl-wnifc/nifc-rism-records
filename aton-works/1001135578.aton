@@ -1,0 +1,82 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001135578
+@MARC-003:	DE-633
+@MARC-005:	20210923121011.0
+@MARC-008:	201115##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: C coro
+@MARC-031o: c/
+@MARC-031p: 9,C,DDA2,1'C,A9AB'C,A
+@MARC-031r: 1t
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T coro
+@MARC-031o: c/
+@MARC-031p: 2,G1'C1'4,B4A2B2A'D,DGG
+@MARC-031r: 1t
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031o: c/
+@MARC-031p: 1-1,,G1.',D2F1C1,,F09-1-2-A',DF
+@MARC-031r: 1t
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Pacelli, Asprilio
+@MARC-100d: 1570-1623
+@MARC-1000: pe30009570
+@MARC-240a: Rorate caeli
+@MARC-240m: Coro: C, T, B
+@MARC-240r: 1t
+@MARC-2400: 3905164
+@MARC-245a: Introitus tpe Adntus Asprilli Pacelli
+@MARC-246a: Introitus tpe Adntug. Asprilli Pacelli
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 20 x 16.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: w księgi CANTUS, TENOR i BASSUS drugi tekst "Salve Sancta parens" napisany prezes Gorczycki atramentem]
+@MARC-5008: 01
+@MARC-590a: Coro:C, T, B
+@MARC-590b: 2, 3, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: C
+@MARC-594c: 1
+@MARC-594b: Coro: T
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: C, Coro: T, Coro: B
+@MARC-599b: full
+@MARC-650a: Introits
+@MARC-6500: 25150
+@MARC-700a: Gorczycki, Grzegorz Gerwazy
+@MARC-700d: 1665p-1734
+@MARC-7000: pe30009207
+@MARC-7004: oth
+@MARC-773w: 1001135513
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,91 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001140385
+@MARC-003:	DE-633
+@MARC-005:	20210923121020.0
+@MARC-008:	201220##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S/T1 coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2''D4DD/2EE/4FDDE/2DC/
+@MARC-031r: D
+@MARC-031t: Boże niebiosa świadczą o Twej mocy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: T2 coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2'A4AA/2AA/4AxABB/2nAA/
+@MARC-031r: D
+@MARC-031t: Boże niebiosa świadczą o Twej mocy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: A/B1 coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2,F4FF/2GG/4FFGG/2FE3/
+@MARC-031r: D
+@MARC-031t: Boże niebiosa świadczą o Twej mocy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B2 coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2,D4DD/2CC/4DDG,,G/2AA/
+@MARC-031r: D
+@MARC-031t: Boże niebiosa świadczą o Twej mocy
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Psalm
+@MARC-240m: Coro: S/T1, T2, A/B1, B2
+@MARC-240r: D
+@MARC-2400: 50165281
+@MARC-245a: Psalm XVIII | wierz Kochanowskiego
+@MARC-246a: Psalm 18 Kochanowski
+@MARC-260c: [1800-1899]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks
+@MARC-300c: 24.0 x 23.0 cms
+@MARC-3008: 01
+@MARC-590a: Coro: S/T1, T2, A/B1, B2
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S/T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: A/B1
+@MARC-594c: 1
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: S/T1 , Coro: T2, Coro: A/B1, Coro: B2
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

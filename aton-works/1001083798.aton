@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083798
+@MARC-003:	DE-633
+@MARC-005:	20211027135142.0
+@MARC-008:	190829##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =16/4-B''CD/4.E8D{C'B}{AG}/{FG}{AA}{BE}{DF}/4EG2-/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =48/2-8,,G-AA/4B{,8EG}{BA}{bAF}/4.B8G4E8EG/2,,B8,C-CE/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: eng
+@MARC-100a: Krogulski, Józef Władysław
+@MARC-100d: 1815-1842
+@MARC-100j: Ascertained
+@MARC-1000: pe30001797
+@MARC-240a: Boże Wszechmocny
+@MARC-240m: S, Contra-A, T, B, org
+@MARC-240r: c
+@MARC-2400: 5214070
+@MARC-245a: [caption title:] d. 23|o Sierpnia | 1837 roku._ [space] Quartet ułożony na Sopran, Kontr-Alt, Tenor i Bas | przez J. W. Krogulskiego.
+@MARC-260c: 1837-08-23
+@MARC-2608: 01
+@MARC-300a: 1 score: 6 p.
+@MARC-300c: 36,5 x 25,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na pierwszej stronie z zapisem muzycznym znajdują się trzy pieczęcie: "BIBLIOTEKA WARSZAWSKIEGO TOWARZYSTWA MUZYCZNEGO", "8330" oraz "BIBLJOTEKA Warszawskiego Tow. Muzycznego".]
+@MARC-500a: On the first page of music notation there are three stamps: "BIBLIOTEKA WARSZAWSKIEGO TOWARZYSTWA MUZYCZNEGO", "8330" and "BIBLJOTEKA Warszawskiego Tow. Muzycznego".
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: Contra-A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, Contra-A, T, B, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1000|1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

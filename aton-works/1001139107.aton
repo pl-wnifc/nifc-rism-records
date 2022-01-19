@@ -1,0 +1,106 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001139107
+@MARC-003:	DE-633
+@MARC-005:	20210923121031.0
+@MARC-008:	201212##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Aria, Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: =18/4-8-'B/2''E/8E{6.D3E}{6.F3G6.A}3D/gE2E/{6.D3E6.F3G}{{6.A3F}{6.E3D}/8E4'B''8C/g'BAG4-/
+@MARC-031r: e
+@MARC-031t: Ut dulces noctis Stella
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Aria, Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 8'B/2''E/8-{6.D3E}{6.F3G6.A3D}/2E/8-{6.D3E}{6.F3G6.A3D/8E4'B''8C/g'B{AG}4-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Chorus, Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =4/2-4-8-'B/''GFFFED-F/'AB''EDDC-C/'BBBBAA-''C/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Chorus, Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ,4B{'8.D6F}{8B''6DF}{BFD'B}/{8''G^'B^D''F^'B^D}{6''BFD'B}{8''E^'F''D^'F}{6''FD'BF}/{EDCCC}{''EC'AE}/{DC,BBB}{'B''DFB}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Holzbauer, Ignaz
+@MARC-100d: 1711-1783
+@MARC-100j: Conjectural
+@MARC-1000: pe30001549
+@MARC-240a: Motetto
+@MARC-240m: S, Coro, orch, org
+@MARC-2400: 3925022
+@MARC-245a: N:71 | Mottetto in B | Dequocunq Sancto. | a | Soprano Solo | Tenore, Alto, BAsso. | 2. Violini | 2. Corni | Viola | e | Organo. | Del Sig|r|: Holtzbauer | Navratil
+@MARC-260c: 18th century, 3rd third
+@MARC-2608: 01
+@MARC-300a: 10 parts; 12 f.
+@MARC-300c: 24 x 32 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na drugiej stronie okładki (odwrót karty tytułowej). Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” pojawia się 13 razy (dolny brzeg kart).]
+@MARC-500a: [pl-text: Partie A, T, B spisane prawdopodobnie przez innego kopistę.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-590a: S solo; Coro: A, T, B, vl 1, 2, vla, cor 1, 2, org
+@MARC-590b: f. 1, 2, 3, 4, 5-6, 7-8, 9, 10, 11, 12
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cor in B
+@MARC-594c: 2
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: S solo, A coro, T coro, B coro, vl (2), vla, cor in B (2), org (= bc)
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-700a: Navrátil, František
+@MARC-700d: 1732c-1802
+@MARC-7000: pe30002322
+@MARC-7004: asn
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.516
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

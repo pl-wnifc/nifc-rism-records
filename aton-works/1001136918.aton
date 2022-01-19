@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001136918
+@MARC-003:	DE-633
+@MARC-005:	20210923121038.0
+@MARC-008:	201124##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento
+@MARC-031g: G-2
+@MARC-031m: V 1, 2
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: '2F^''D4'A^''C'G^B/2G^''E'G^A/4F^AA^''nC'G^BF^A/4.F^x''D8'F^''D2'G^''E/
+@MARC-031r: D
+@MARC-031t: O salutaris hostia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: O salutaris hostia
+@MARC-240m: V (2), keyb
+@MARC-240r: D
+@MARC-2400: 3900683
+@MARC-245a: [without title]
+@MARC-260c: [1800-1899]
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 2 f.
+@MARC-300c: 33 x 25.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Zapis partyturowy dwóch głosów wokalnych z adnotacjami "Solo", "Choro" i "Duo" z akompaniamentem.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” z sygnaturą.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 2v pieczęć: "CATH. CRAC. * ARCH. CAPIT."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na kartach 2r i 2v puste pięciolinie.]
+@MARC-5008: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V solo and coro
+@MARC-594c: 2
+@MARC-594b: keyb
+@MARC-594c: 1
+@MARC-594a: V solo and coro (2), keyb
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.494
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

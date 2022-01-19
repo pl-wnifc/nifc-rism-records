@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083674
+@MARC-003:	DE-633
+@MARC-005:	20211027135143.0
+@MARC-008:	190828##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''2B'B/''G8-6{GF}{EDC'B}/{8.A6A8.B6B8.''}{C6C8.D6D}/2F4E-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: cl princ in B
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =53/2--{'3qBq''CqDqEqFqGqA2}/B,D/8E-4''G+8.{G6F}{EDC'B}/8'A
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Clarinet concertos
+@MARC-240m: cl princ, orch
+@MARC-240r: B|b
+@MARC-2400: 4120260
+@MARC-245a: [caption title:] Concert pour la Clarinette - [space] Compose par Charles Kurp[iński]
+@MARC-260c: 1820
+@MARC-2608: 01
+@MARC-300a: 1 score: 40 p.
+@MARC-300c: 23 x 38 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple Biblioteki Warszawskiego Towarzystwa Muzycznego.]
+@MARC-500a: [pl-text: Adnotacja na s. 1: "Le Concert est fini Paris dans le moy de [nieczytelne]".]
+@MARC-500a: [pl-text: Adnotacja na s. 39: "Koniec d: 17 Sierpnia 1820".]
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 1307
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: cl princ
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: ob ad lib
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: cl princ, vl (2), vla, vlc, cb, fl, cl (2), ob ad lib (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Concertos
+@MARC-6500: 25176
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1007
+@@END:		MARC21
+

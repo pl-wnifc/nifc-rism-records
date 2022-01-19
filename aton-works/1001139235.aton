@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001139235
+@MARC-003:	DE-633
+@MARC-005:	20210923121033.0
+@MARC-008:	201214##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Poco adagio
+@MARC-031g: C-4
+@MARC-031m: T solo
+@MARC-031n: xFCGD
+@MARC-031o: 2/4
+@MARC-031p: =19/2E/4.,B8A/4G8F{6A'C}/8,DE-{6B'E}/4E8D{,6B'F}/4F8EE/E{6DC},{8BD}/8E-
+@MARC-031r: E
+@MARC-031t: Paratum cor meum Deus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Poco adagio
+@MARC-031g: G-2
+@MARC-031m: vl solo
+@MARC-031n: xFCGD
+@MARC-031o: 2/4
+@MARC-031p: 4G''C/'F6-{FGA}/B-G-A-F-/2'''E/4.''B8A/4G{8F6A'''C}/{''3EDFD}8E6-{'B''GE}/{8E3EDFE
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Jansa, Leopold
+@MARC-100d: 1795-1875
+@MARC-100j: Ascertained
+@MARC-1000: pe108935
+@MARC-240a: Paratum cor meum Deus
+@MARC-240m: T solo, vl solo, Coro: S, A, B, orch, org
+@MARC-240r: E
+@MARC-2400: 3021255
+@MARC-245a: Offertorium. | a | 4 Voci Tenore e Violino solo | 2 Violini Viola 2 Clarineti | 2 Fagotti 2 Trombe | Timpan et Organo. | par | Jansa
+@MARC-260c: 18th century, 2nd half
+@MARC-2608: 01
+@MARC-300a: 17 parts; 32 p.
+@MARC-300c: 23 x 34 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na odwrocie karty tytułowej. Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” pojawia się 16 w dolnym brzegu stron.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Na karcie tytułowej: nad zapisem tytułu duże litery "No 23", pod zapisem tytułu "Violino Solo". Obie adnotacje sporządzone czerwonym ołówkiem.]
+@MARC-500a: [pl-text: W partii T solo uwagi wykonawcze sporządzone czerwonym ołówkiem.]
+@MARC-590a: T solo, vl solo; Coro: S, A, B; vl 1, 2, vla, vlne, cl, fg 1, 2, clno, timp, org
+@MARC-590b: 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T solo
+@MARC-594c: 1
+@MARC-594b: vl solo
+@MARC-594c: 1
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cl in A
+@MARC-594c: 2
+@MARC-594b: fg
+@MARC-594c: 2
+@MARC-594b: clno in E
+@MARC-594c: 2
+@MARC-594b: timp in E and B
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: T solo, vl solo, S coro, A coro, B coro, vl (2), vla, cl in A (2), fg (2), clno in E (2), timp in E and B, vlne , org (= bc)
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.517
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

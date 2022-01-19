@@ -1,0 +1,259 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050679
+@MARC-003:	DE-633
+@MARC-005:	20210720160046.0
+@MARC-008:	160310##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4''G{8'GG}4G8-G/{FGAG}4G{8FA}/{xGABA}4A{8nG''D}/{D'B''CC}
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4'BBB-/-8-G4G8F-/4-8-A4A8G''D/4D2C4'B/B{8AG}4F
+@MARC-031r: G
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4BBB-/=2/4''CCC-/=5/'BBB-/
+@MARC-031r: G
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Domine Deus. Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 2/4
+@MARC-031p: =20/{8.''C3DE}{6ED}{FD/{C'B''AG}8G-/{6GEFD}{C'B}{''DF/8FE-
+@MARC-031r: C
+@MARC-031t: Domine Deus Rex caelestis Deus pater omnipotens
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Cum Sancto. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c
+@MARC-031p: 2''CC/xCD/DnC/4.C8C4'B-/
+@MARC-031r: C
+@MARC-031t: Cum sancto spiritu
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: In gloria. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: =22/2-''D/4D8xCD4ED/xC'BA
+@MARC-031r: G
+@MARC-031t: In gloria Dei Patris amen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Credo. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4''G'G-8-G/FG{AB}''CCCC/'B''C{D6ED}8D
+@MARC-031r: G
+@MARC-031t: Credo in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Et incarnatus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: 3/4
+@MARC-031p: =4/2.bB/2A4A/2bB4B/2A4A/4.x''C8C4C/
+@MARC-031r: a
+@MARC-031t: Et incarnatus est de Spiritu Sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Et resurrexit. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: ''GDD/{8DC}4'B8BB/{BA}4G-/
+@MARC-031r: G
+@MARC-031t: Et resurrexit tertia die
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Sanctus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c
+@MARC-031p: 2B4B-/=2/BB''CC/'B8BB4''CC/
+@MARC-031t: Sanctus Sanctus Dominus Deus Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Pleni. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031o: c
+@MARC-031p: 2B4BB/2B4BB/2BB/2B4BB/1A/4A
+@MARC-031r: G
+@MARC-031t: Pleni sunt caeli et terra gloria tua
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: Benedictus. Adagio
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =40/4.G{6FG}/4D8DxD/4.E{6GE}/{8CE}
+@MARC-031r: G
+@MARC-031t: Benedictus qui venit gui venit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 1
+@MARC-031d: Agnus. Adagio
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =14/2D4D/D{6DExFG}{AF}{DC}/{C,B'ED}4D8-
+@MARC-031r: B|b
+@MARC-031t: Agnus Dei qui tollis pecata mundi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 13
+@MARC-031c: 1
+@MARC-031d: Dona. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 2G4G-/=/2F4F-/=/2B4B-/
+@MARC-031r: G
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Raszek, Wacław
+@MARC-100d: 1848+
+@MARC-100j: Ascertained
+@MARC-1000: pe30020314
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: G
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] N 12 [later with pencil:] a | MISSA | Solemnis Ex G. â Vocibus 12. | Canto, Alto, | Tenore Basso | Violini 1=|m|o et 2=|d|o Obligato | Flauto 1=|m|o et 2=|d|o Obligato | Cornu 1=|m|o et 2=|d|o Obligato | Viola di Alto, Obligato | et | Organo | [at left:] Auth: Venz Raszek | [bottom middle:] N 12 | [at right:] J. Cichaski mpp[ia] | 1815.
+@MARC-260c: 1815
+@MARC-2608: 01
+@MARC-300a: 12 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na f. 1r każdego głosu u góry z lewej czarnym tuszem: "N. 12."]
+@MARC-500a: [pl-text: Na f. 1r głosu S u góry ołówkiem: "Messe"]
+@MARC-500a: [pl-text: Na f. 4v głosu org notatka: "A=|n|o 1815."
+@MARC-500a: [pl-text: Na wszystkich głosach ołówkiem liczne skreślenia oraz zapisane numery taktów]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-35)]
+@MARC-500a: [pl-text: Konkordancje RISM ID no.: 300001045 (PL-CZ), 300257065 (PL-Kd)]
+@MARC-563a: [pl-text: Zachowało się tylko pierwsze folio okładki]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, T, B, Coro A
+@MARC-590b: 3, 3, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: 4, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: fl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cor in G
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, T, B, Coro S, Coro A, Coro T, Coro B, vl 1, vl 2, vla, fl (2), cor in G (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.102, no.92
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 338
+@MARC-6910: lit41001126
+@MARC-700a: Cichawski, Józef
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30109125
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-STAb
+@MARC-852d: N 12
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 12a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,58 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001081767
+@MARC-003:	DE-633
+@MARC-005:	20211027135151.0
+@MARC-008:	190813##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: fag 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 8,C6'{EF}{GFED}/{CDED}{C,BAxG}/8{A6AE}8{A6AE}/8A8-(4)-//
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Krakowiaks
+@MARC-240m: orch
+@MARC-240r: b
+@MARC-2400: 4040146
+@MARC-245a: [caption title, underlined:] Krakowiak
+@MARC-260c: ca. 1850-1900
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-300c: 36,5 x 28,0 cm
+@MARC-3008: 01
+@MARC-500a: Other parts missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak pozostałych części.]
+@MARC-5008: 01
+@MARC-590a: cl 2, fag 1, 2
+@MARC-590b: 1, 1, 1 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2592
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: orch
+@MARC-594a: orch
+@MARC-599b: full
+@MARC-650a: Krakowiaks
+@MARC-6500: 25539
+@MARC-700a: Randekart, Karol
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe41021070
+@MARC-7004: scr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2576
+@@END:		MARC21
+

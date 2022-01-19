@@ -1,0 +1,109 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001144986
+@MARC-003:	DE-633
+@MARC-005:	20210923121100.0
+@MARC-008:	210203##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 9- / '9GA GE / 2A 4AG / FEDG / + G FED /
+@MARC-031t: Iste confessor Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 0- / '9DE / 2DD / 4DC,BA / 2G'G /
+@MARC-031t: Iste confessor Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: ,9GA 2GE/ 1FG / 2G 1A 2F /
+@MARC-031t: Iste confessor Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 9- ,9DED,,B / ,1CD / 2DG / EC /
+@MARC-031t: Iste confessor Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B rip
+@MARC-031o: c/
+@MARC-031p: 9- / ,9DE 1D / ,,B,CD / 2DG / EC /
+@MARC-031t: Iste confessor Domini
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Gorczycki, Grzegorz Gerwazy
+@MARC-100d: 1665p-1734
+@MARC-100j: Ascertained
+@MARC-1000: pe30009207
+@MARC-240a: Iste confessor Domini
+@MARC-240m: S A T B Brip
+@MARC-2400: 3008335
+@MARC-245a: [text incipit:] Iste confessor Domini
+@MARC-260a: Cracow
+@MARC-260c: 1665-1734
+@MARC-2608: 01
+@MARC-300a: 1 score: 5f.
+@MARC-300c: 20 x 16 cm; 16 x 20 cm
+@MARC-3008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 3r
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 4r
+@MARC-5908: 01
+@MARC-590a: B rip
+@MARC-590b: f. 5r-5v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, B rip
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001144984
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.340
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

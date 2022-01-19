@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001112878
+@MARC-003:	DE-633
+@MARC-005:	20210720131946.0
+@MARC-008:	200423##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 4C{8DEFG}/4A2A/42AA/AA/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Śmietański, Emil Władysław
+@MARC-100d: 1845-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe50041781
+@MARC-240a: Styrienne
+@MARC-240m: pf
+@MARC-240r: F
+@MARC-2400: 50230739
+@MARC-245a: [caption title:] 2de Styrienne originale [in pencil: 1867 Żegestów] | par E. Śmietański
+@MARC-260c: 1867
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 33 x 26 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Poprawki ołówkiem.]
+@MARC-590a: pf
+@MARC-590b: 4 p.
+@MARC-5908: 01
+@MARC-591a: inw. 970
+@MARC-591a: mf. 24076
+@MARC-591a: A-2479
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Piano music
+@MARC-6500: 3902024
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2027
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

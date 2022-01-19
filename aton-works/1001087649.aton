@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001087649
+@MARC-003:	DE-633
+@MARC-005:	20211027135214.0
+@MARC-008:	190925##################################
+@MARC-031a: 2
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: fl
+@MARC-031o: 3/4
+@MARC-031p: '''4C8-{6CC}{8CC}/4E8-{6EE}{8EE}/4GEC/
+@MARC-0312: pe
+@MARC-031a: 2
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: bassi
+@MARC-031o: 3/4
+@MARC-031p: 3{,qGqAqB}{8.'C6,C^,,C4},C^,,C4-/3{,qGqAqB}{8.'C6,C^,,C4},C^,,C4-/3{,qGqAqB}{8'C6-,GAB}{6'C,BAG}{FEDC}/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Polonaises
+@MARC-240m: strings, woodwinds, brass, percussion
+@MARC-2400: 3900011
+@MARC-245a: [caption title:] Nr. 2.
+@MARC-260c: 1818
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 25,0 x 41,0 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 2
+@MARC-594b: flautino
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in C
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594b: tr in C
+@MARC-594c: 2
+@MARC-594b: timp in C and G
+@MARC-594c: 1
+@MARC-594b: bassi
+@MARC-594c: 1
+@MARC-594a: vl (2), vla (2), flautino, fl, ob (2), cl in C (2), fag (2), cor in F, tr in C (2), timp in C and G, bassi
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-773w: 1001087644
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1024|2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

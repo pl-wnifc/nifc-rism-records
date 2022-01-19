@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001136518
+@MARC-003:	DE-633
+@MARC-005:	20210923121034.0
+@MARC-008:	201121##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: C coro
+@MARC-031o: c/
+@MARC-031p: 0--9-/9'DFA''C2'A1''D2xC/2D
+@MARC-031q: [pl text: Przed kluczem i inicjałem pojawiają się 3 dźwięki (D,F,A) Intonatio napisane nutami semibrevis wypełnionymi czarnym kolorem]
+@MARC-031r: 1t
+@MARC-031t: Salve Salve Sancta parens
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T Coro
+@MARC-031o: c/
+@MARC-031p: 9-1-9,DFA'C/2,A2.A4DAG/
+@MARC-031q: [pl text: Przed kluczem i inicjałem pojawiają się 3 dźwięki (D,F,A) Intonatio napisane nutami semibrevis wypełnionymi czarnym kolorem]]
+@MARC-031r: 1t
+@MARC-031t: Salve Salve Sancta parens
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B Coro
+@MARC-031o: c/
+@MARC-031p: 0-9-9,,A',CDF1D/1D9DC/
+@MARC-031q: [pl text: Przed kluczem i inicjałem pojawiają się 3 dźwięki (D,F,A) Intonatio napisane nutami semibrevis wypełnionymi czarnym kolorem]]
+@MARC-031r: 1t
+@MARC-031t: Salve Salve Sancta parens
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Gorczycki, Grzegorz Gerwazy
+@MARC-100d: 1665p-1734
+@MARC-100j: Ascertained
+@MARC-1000: pe30009207
+@MARC-240a: Salve sancta parens
+@MARC-240m: Coro: C, T, B
+@MARC-240r: 1t
+@MARC-2400: 3919018
+@MARC-245a: Missa de Conce | ptione B.V.M. | semp Immaculata
+@MARC-246a: + | Cantus
+@MARC-246a: + | Tenore
+@MARC-246a: + | Bassus
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 20 x 165 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: w partii głosowy B jest napisany atramentem tytuł:"Missa de Conce | ptione B.V.M. | semp Immaculata"]
+@MARC-5008: 01
+@MARC-520a: Proprium missae
+@MARC-590a: Coro: C, T, B
+@MARC-590b: 1, 2, 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro C
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro C, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001135513
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

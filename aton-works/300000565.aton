@@ -1,0 +1,204 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000565
+@MARC-003:	DE-633
+@MARC-005:	20201029163348.0
+@MARC-008:	110909##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie. Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2''E4'B/4''GDE/2'B{8.''C6'B}/4B-B/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro Moderato
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =8/2''G4D/BFG/2DgF{8.E6D}/4D4-D/
+@MARC-031r: E|b
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria. Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4.''E{6DC}4'BB/''8C-'B-''C-D-/4.E{6DC}4'BB//''8C-'B-''C-D-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro molto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =19/2''E-/=/E-/=/E-/E-/D4DD/2DD/
+@MARC-031r: E|b
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2E4E/GEG/B''EG/BB-/2A4G/2F4E/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2''E4E/GEG/BGE/'BB-/
+@MARC-031r: E|b
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 2EE/4DE2-/=2/2FnE/4FF2-/=/2-8-{8GGG}/n2B
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2,EE/4DE2-/=2/2FnE/4FF2-/=2/2G4E-/2G4E-/2E4D-/
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Benedictus. Andante
+@MARC-031g: G-2
+@MARC-031m: vl 2
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8-E{EEEE}/-E{EFED}/-D{DDDD}/-D-{DEF}
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =12/4''G8GGGG/4CC-/4G8GGGG/4FF-/
+@MARC-031q: [pl-text: Takt 14, 16 mogą mieć błędne wysokości dźwięków]
+@MARC-031r: E|b
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Agnus. Adagio
+@MARC-031g: G-2
+@MARC-031m: cl 1 in B|b
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =10/2-8-{''GGG}/B-4DDD/2E8-{GGG}/B-4DDD/2EG/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =11/4-''DDD/2E-/4-DDD/2EE/E
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031q: Vermerk: "ut Gloria"
+@MARC-031r: E|b
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kasprzykowski, Ignacy
+@MARC-100d: 1852+
+@MARC-100j: Ascertained
+@MARC-1000: pe30098316
+@MARC-240a: Masses
+@MARC-240m: Coro, orch
+@MARC-240r: E|b
+@MARC-2400: 3900051
+@MARC-245a: [without title]
+@MARC-260c: 1840-1860 (19.me)
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 38 x 25 cm
+@MARC-3008: 01
+@MARC-500a: other parts missing
+@MARC-5008: 01
+@MARC-500a: Soloabschnitte in S und B.
+@MARC-500a: Komponistenvermerk auf den Stimmen: "p. Kasprzy[kowskiego]"
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: Coro: S, B, vl 1, cl 1
+@MARC-590b: 2, 2, 2, 1f.
+@MARC-5908: 01
+@MARC-592a: [without countermark] / JEZIORNA
+@MARC-5928: 01
+@MARC-592a: [cl 1:] [without watermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro
+@MARC-594c: 1
+@MARC-594b: orch
+@MARC-594c: 1
+@MARC-594a: Coro, orch
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.669
+@MARC-6910: lit1869
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-979
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

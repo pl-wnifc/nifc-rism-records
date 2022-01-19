@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001114895
+@MARC-003:	DE-633
+@MARC-005:	20210720131938.0
+@MARC-008:	200513##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: V1
+@MARC-031o: 3/4
+@MARC-031p: 8.644GxFGE/8.644GxFGE/nFGAB/
+@MARC-031r: C
+@MARC-031t: Śpij bohdanku Śpij Kochanku Śpij o złotko
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/4
+@MARC-031p: 8.644{GxF}GE/8.644{GxF}GE/n{FG}AB/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Śpij Bohdanku, śpij, kochanku
+@MARC-240m: V (2), pf
+@MARC-240r: C
+@MARC-2400: 50231662
+@MARC-245a: [caption title:] № 10. [space] Pieśń matki przy Kolebce Dziecka. | Wiersz J. Kontrymowicza.
+@MARC-300a: 1 score: 2 p.
+@MARC-300b: p. 2-3
+@MARC-300c: 36 x 26,4 cm
+@MARC-3008: 01
+@MARC-591a: inw. 1706
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 2
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V (2), pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-650a: Duets (voc.)
+@MARC-6500: 25167
+@MARC-650a: Pieces
+@MARC-6500: 25274
+@MARC-700a: Ogiński-Kontrymowicz, Jan
+@MARC-700d: 1829-1913
+@MARC-700j: Ascertained
+@MARC-7000: pe50042548
+@MARC-7004: lyr
+@MARC-773w: 1001114855
+@MARC-852a: PL-Wtm
+@MARC-852d: 10761
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1653
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

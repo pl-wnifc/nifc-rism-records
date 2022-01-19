@@ -1,0 +1,50 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001087244
+@MARC-003:	DE-633
+@MARC-005:	20211027135252.0
+@MARC-008:	190923##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso, non troppo lento
+@MARC-031g: G-2
+@MARC-031m: pf (orch)
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2.D{(8FFF)}/2.D{(8FFF)}/4D{8.F6F}4DF/BFD{8.,B'6D}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Hamlet
+@MARC-240k: Excerpts
+@MARC-240m: pf (orch)
+@MARC-240o: Arr
+@MARC-240r: B|b
+@MARC-2400: 3906616
+@MARC-245a: [caption title, at right:] Hamlet | Marsz do 3|g|o Aktu
+@MARC-260c: 1871
+@MARC-2608: 01
+@MARC-300a: 1 keyboard score: 4 p.
+@MARC-300c: 25 x 34 cm
+@MARC-3008: 01
+@MARC-591a: inw. 1012
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf (orch)
+@MARC-594c: 1
+@MARC-594a: pf (orch)
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 590/M
+@@END:		MARC21
+

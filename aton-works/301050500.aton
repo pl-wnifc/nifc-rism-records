@@ -1,0 +1,134 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	301050500
+@MARC-003:	DE-633
+@MARC-005:	20211028202628.0
+@MARC-008:	140826##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: {8DFAF}4D8-{(6,AB'C)}/{8DFAF}4D8-{3DEFG}/
+@MARC-031r: D
+@MARC-031z: Coro, orch, org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =30/2''FF/FF/EE/F4FF/
+@MARC-031r: D
+@MARC-031t: Martyr Dei qui unicum, patris sequendo filium
+@MARC-031z: Coro, orch, org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 8-{CECEC}/8-C{ECEC}/i/8-{C,BB}
+@MARC-031r: A
+@MARC-031z: Coro, vl (2), ob (2), org
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 8''EE4C-/i/2E{6FE}{DC}/8C{6'B''C}4'B-/
+@MARC-031r: A
+@MARC-031t: Soluta sunt jam vincula
+@MARC-031z: Coro, vl (2), ob (2), org
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Dankowski, Adalbert
+@MARC-100d: 1760c-1814c
+@MARC-100j: Ascertained
+@MARC-1000: pe30000793
+@MARC-240a: Martyr Dei qui unicum
+@MARC-240m: Coro, orch, org
+@MARC-240r: D
+@MARC-2400: 3923820
+@MARC-245a: [cover title, f.1r:] N 1|o [later added with pencil:] a | MOTETTO Ex D: | a Vocibus II=|: | Canto. Alto. | Tenore. Basso. | Violino. Due. | Flauti Due. | Corni Due. | Con. Organo. | [at left:] Del Sig Dankowski. | [bottom:] N 1|o | [at right:] Lerbore et Favore Francis[co] Rybicki
+@MARC-260c: 1780-1810
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Zamiast partii fl 1 i 2 podanej na karcie tytułowej, w źródle pojawia się partia ob 1 i 2]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na f. 1v B i na głosach instrumentalnych oprócz vl 2 i cor 1: "F. Rybicki mpp"]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-15)]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: Solo and Coro: S, A, T, Coro B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f
+@MARC-5908: 01
+@MARC-590a: org (=bc)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), fl (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: MaciejewskiP 1984
+@MARC-691n: p.59, no.19
+@MARC-6910: lit30022863
+@MARC-691a: KonikM 2016
+@MARC-691n: p. 312
+@MARC-6910: lit41001126
+@MARC-700a: Rybicki, Franciszek
+@MARC-700d: 1876*
+@MARC-700j: Ascertained
+@MARC-7000: pe50047996
+@MARC-7004: scr
+@MARC-852a: PL-STAb
+@MARC-852d: N 1
+@MARC-852e: Biblioteka Opactwa Sióstr Benedyktynek p. w. św. Wojciecha
+@MARC-852x: ks30006288
+@MARC-852c: 1a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

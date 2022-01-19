@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001087627
+@MARC-003:	DE-633
+@MARC-005:	20211027135213.0
+@MARC-008:	190925##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Poco allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCGD
+@MARC-031o: 6/8
+@MARC-031p: =4//=1/4-8-8-EF/4G8G{G{6qAqG}8F}G/4B8A8-''CC/''4C'8B''4C'8B/
+@MARC-031r: E
+@MARC-031t: To jest prawda że tu w domu
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Poco allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 6/8
+@MARC-031p: 4.-6{B''G^B}8-6G^B8-/4.A^F6{'B''A^F}8-6A^F8-/4.E^G8{F^A'''FF^''A^F/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Śpiew Elizetty
+@MARC-240m: V, pf
+@MARC-2400: 5216042
+@MARC-245a: [caption title:] Spiew Elizetty w operze małżeństwo tajemne ["małżeństwo tajemne" underlined] [something crossed out] K. K.
+@MARC-260c: 1840
+@MARC-2608: 01
+@MARC-300a: 1 score:
+@MARC-300c: 25,5 x 40,0 cm
+@MARC-3008: 01
+@MARC-591a: KD 1828
+@MARC-591a: Inw. 668
+@MARC-591a: [illegible] 29
+@MARC-591a: 1a
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Arias (voc.)
+@MARC-6500: 25224
+@MARC-700a: Rivoli, Paulina
+@MARC-700d: 1817-1881
+@MARC-700j: Ascertained
+@MARC-7000: pe30057263
+@MARC-7004: dte
+@MARC-700a: Cimarosa, Domenico
+@MARC-700d: 1749-1801
+@MARC-700j: Ascertained
+@MARC-7000: pe52222
+@MARC-7004: cmp
+@MARC-852a: PL-Wtm
+@MARC-852d: N 12
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1012
+@@END:		MARC21
+

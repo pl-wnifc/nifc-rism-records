@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001099890
+@MARC-003:	DE-633
+@MARC-005:	20211027135309.0
+@MARC-008:	200106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto cantabile
+@MARC-031g: G-2
+@MARC-031m: Coro: V 1
+@MARC-031n: bBEADG
+@MARC-031o: 2/4
+@MARC-031p: 4''D'A/''D'A/8.B6''C8D'B/''C4'A8-/8.B6''C8DF/8E4A8-/8.F6E8GF/CED'B/8.''C6'A8''CE/G4F8-/
+@MARC-031r: D|b
+@MARC-031t: Hej skowroneczek śpiewa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto cantabile
+@MARC-031g: F-4
+@MARC-031m: Coro: V 4
+@MARC-031n: bBEADG
+@MARC-031o: 2/4
+@MARC-031p: 4,D8{DC}/,,4B8{B,C}/8.D6D8,,A,D/4E,,A/8.,D6D8D,,B/4,C,,A/8.,D6D8,,FF/GGGG/
+@MARC-031r: D|b
+@MARC-031t: Hej skowroneczek śpiewa
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-100j: Ascertained
+@MARC-1000: pe106604
+@MARC-240a: Skowroneczek śpiewa
+@MARC-240m: Coro maschile
+@MARC-240r: D|b
+@MARC-2400: 50222737
+@MARC-245a: [caption title:] Skowroneczek śpiewa
+@MARC-260c: 1846-1909
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 36.0 x 26.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na pierwszej stronie znajduje się pieczątka Biblioteki Warszawskiego Towarzystwa Muzycznego.]
+@MARC-591a: inw. 2012
+@MARC-591a: A-20.181
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro maschile
+@MARC-594c: 1
+@MARC-594a: Coro maschile
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Konopnicka, Maria
+@MARC-700d: 1842-1910
+@MARC-700j: Alleged
+@MARC-7000: pe41023401
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852d: 9285
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 249/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

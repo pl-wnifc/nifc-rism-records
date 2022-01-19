@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001113742
+@MARC-003:	DE-633
+@MARC-005:	20210720131945.0
+@MARC-008:	200429##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante maestoso
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =4/8.6-DEF4.G8F.8.6ECDE4.F8E/
+@MARC-031r: b
+@MARC-031t: Gdy burze losu złamią ster twej łodzi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante maestoso
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: {8.6,,xA,CEG}{BxA}{'DC}/{,CEGxA}%G-2 {'DC}{FE}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Troschel, Wilhelm
+@MARC-100d: 1823-1887
+@MARC-100j: Ascertained
+@MARC-1000: pe30024099
+@MARC-240a: Wiara
+@MARC-240m: V, pf, org
+@MARC-240r: b
+@MARC-2400: 50231074
+@MARC-245a: [page title:] Wiara | Obraz Dramatyczny | na głos Contraltowy | z towarzyszeniem Fortepianu i Organu (lub bez takowego) | napisał | Wilhelm Troschel.
+@MARC-246a: [caption title:] Wiara
+@MARC-260c: before 1887
+@MARC-2608: 01
+@MARC-300a: 1 piano score: 6 p.
+@MARC-300c: 36,5 x 27 cm
+@MARC-3008: 01
+@MARC-300a: 1 organ part
+@MARC-300c: 36,5 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na początku pierwszego systemu w głosie wokalnym trzy krzyżyki przy kluczu.]
+@MARC-500a: [pl-text: Na s. 1 wydrukowana informacja dot. papieru: "Z Księgarni i Składu Papieru I. BŁASZKOWSKIEGO, Krakowskie Przedmieście obok Uniwersytetu № 24 w Warszawie."]
+@MARC-590a: org
+@MARC-590b: 2 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2259
+@MARC-591a: A-21.295
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Contra-A
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Contra-A, pf, org
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2287
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

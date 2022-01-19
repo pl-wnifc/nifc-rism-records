@@ -1,0 +1,106 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001158932
+@MARC-003:	DE-633
+@MARC-005:	20211013183853.0
+@MARC-008:	210616##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto non troppo
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: F{8FF}/4GG/{8AB''C'A}/gA{GF}4F/2B/+B/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Instrumental pieces
+@MARC-240k: Sketches
+@MARC-240m: orch
+@MARC-240r: B|b
+@MARC-2400: 3901147
+@MARC-245a: [without title]
+@MARC-260c: [after 1860]
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 fp.
+@MARC-3008: 01
+@MARC-500a: [pl-text: f. 1r: sygnatura "R 281" zapisana ołówkiem; pieczęć "CIM.".]
+@MARC-500a: [pl-text: f. 1v: prostokątna pieczęć "BIBLIOTEKA GŁ. | AM m. Fr. Chopina | w Warszawie"; numer "65.D.91" zapisany ołówkiem.]
+@MARC-500a: [pl-text: f. 3r: prostokątna pieczęć "BIBLIOTEKA GŁ. | AM m. Fr. Chopina | w Warszawie".]
+@MARC-506a: Magazyn Biblioteki
+@MARC-590a: fl
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: ob
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: cl in B
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: fag
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: cor in F
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: tr in F
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: timp
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: vl
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: vla
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: vlc
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: cb
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in B
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 1
+@MARC-594b: tr in F
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594a: fl (2), ob (2), cl in B (2), fag (2), cor in F, tr in F (2), trb (2), timp, vl (2), vla, vlc, cb
+@MARC-599b: full
+@MARC-650a: Instrumental pieces
+@MARC-6500: 25243
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R281
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

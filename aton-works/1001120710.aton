@@ -1,0 +1,59 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001120710
+@MARC-003:	DE-633
+@MARC-005:	20210720131903.0
+@MARC-008:	200627##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c
+@MARC-031p: CDEF/GAB''C/DEFG/1A/
+@MARC-031r: C
+@MARC-031t: Do re mi fa sol la si do
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: CDEF/GAB''C/DEFG/1A/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Wszechstronne ćwiczenia głosowe
+@MARC-240m: V, pf
+@MARC-2400: 50234929
+@MARC-245a: [title page:] (: A może który z Panów wydawców | podioł [!] się wydać własnym kosztem, naco [!] by Autor przystał :) | Wszechstronne ćwiczenia głosowe | na Sopran i Tenor | dla początkuiących | zkomponowane i ułożone | z towarzyszeniem | Fortepianu | przez | Józefa Stefaniego | b. Dyrektora muzyki przy T.[eatrze] W.[ielkim] | b. nauczyciela śpiewu przy Gim.[nazjum] Głów:[nem] i Realnem | w Warszawie [crossed out: obecnie] [in pencil: i b.] Inspektora przy | Instytucie muzycznym
+@MARC-300a: 37 exercises: 78 p.
+@MARC-300c: 36,2 × 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Rękopis zawiera 37 ćwiczeń wokalnych o różnym stopniu trudności.]
+@MARC-591a: inw. 1551
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Exercises (voc.)
+@MARC-6500: 25319
+@MARC-852a: PL-Wtm
+@MARC-852d: 10681
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1461
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

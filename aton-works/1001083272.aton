@@ -1,0 +1,188 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083272
+@MARC-003:	DE-633
+@MARC-005:	20211027135149.0
+@MARC-008:	190826##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031o: 6/8
+@MARC-031p: 4''C8'B4A8B/4''C8E4G8G/{GFE}{D'AB}/{''CDE}4'G8-/
+@MARC-031r: C
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031o: c
+@MARC-031p: 4.''C8C2C/4.E8E2E/4G{8FE}4D{8ED}/4C
+@MARC-031r: C
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031d: Graduale.
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: =2/4-8-4.''C+/8CDC'BGA/4F''8D4C
+@MARC-031r: F
+@MARC-031t: Justus ut palma florebit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: 6/8
+@MARC-031p: '''2.C/+8{CDC}''{BGA}/4F''6{ED}4.C/+8C
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: All[egr]o moderato
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: DGB/''2D4D/DxCE/D--/
+@MARC-031r: G
+@MARC-031t: Credo in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Offertorium
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =3/4-B''E/2E4D/EFG/FD{8CD}/4'B--/
+@MARC-031r: E|b
+@MARC-031t: Benedicate Dominum omne angeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031d: Offertorium
+@MARC-031g: F-4
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2,E4G/4.'C8,B4nA/2B4G/E--/
+@MARC-031r: E|b
+@MARC-031t: Benedicate Dominum omne angeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031o: 3/4
+@MARC-031p: 2''E4D/2C4-/2F4E/2D4-/
+@MARC-031r: C
+@MARC-031t: Sanctus sanctus sanctus Dominus Deus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Andante molto
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: =4/2B8{G''C}/'4B''GE/4.D{8C'A''C}/4'B
+@MARC-031r: E
+@MARC-031t: Benedictus qui venit in nomine Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Andante molto
+@MARC-031g: G-2
+@MARC-031m: org
+@MARC-031n: xFCGD
+@MARC-031o: 3/4
+@MARC-031p: 2B8{G''C}/'4B''GE/4.D{8C'A''C}/4'BG-/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: All[egr]o agitato
+@MARC-031g: G-2
+@MARC-031m: Solo T
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =2/4.''E8D4C-/=/4.''E8D4C-/=
+@MARC-031r: c
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Andante molto
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031o: c
+@MARC-031p: 4.G8G4AB/2''C'8G-GG/2.G4G2/G4G-/
+@MARC-031r: C
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Krogulski, Józef Władysław
+@MARC-100d: 1815-1842
+@MARC-100j: Ascertained
+@MARC-1000: pe30001797
+@MARC-240a: Masses
+@MARC-240m: coro, org
+@MARC-2400: 3900051
+@MARC-245a: [title page:] PASTERSKA | MSZA | X. | Ułożona | przez | Józefa Krogulskiego. | zapisano do inwentarza na | własność Chóru J. Krogulskiego | pod No II Mszy. 3/6 843 | [signature illegible]
+@MARC-260c: before 1843
+@MARC-2608: 01
+@MARC-300a: 1 score: 40 p.
+@MARC-300c: 25 x 40 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple Biblioteki Warszawskiego Towarzystwa Muzycznego, sygnatura olim i "Własność Amatorów. | CHÓRU | J. Krogólskiego."]
+@MARC-500a: [pl-text: Rękopis poddany konserwacji w 2012 r.]
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-591a: inw. 690
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S (2), Coro T, Coro B, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Wtm
+@MARC-852d: 8323
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 995
+@MARC-852z: Chór Józefa Krogulskiego
+@@END:		MARC21
+

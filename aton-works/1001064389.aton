@@ -1,0 +1,59 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001064389
+@MARC-003:	DE-633
+@MARC-005:	20210706144046.0
+@MARC-008:	190306##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: Coro 1: S 1
+@MARC-031o: 3/2
+@MARC-031p: 1.''D2D1D1.G2G1G @c/ 1D2E4E1xF
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Litany
+@MARC-240k: Fragments
+@MARC-240m: V (8)
+@MARC-2400: 5040300
+@MARC-245a: [without title]
+@MARC-260c: 1620-1640
+@MARC-2608: 01
+@MARC-300a: partbooks
+@MARC-300c: 16,5 x 20 cm
+@MARC-3008: 01
+@MARC-500a: This Litany is the same as RISM ID 1001064385, written in the same manuscript a few pages before. The second record of the same litany probably was undertaken for marking the places, where the other choir has it's sections.
+@MARC-590a: Coro 1: S 1, 2, 3, B, Coro 2: S 1, 2, A, B
+@MARC-590b: p. 15-24, 13-22, 13-18, 13-22, 13-21, 13-21, 13-21, 13-21
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 8
+@MARC-594a: V (8)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Litanies
+@MARC-6500: 25137
+@MARC-650a: Sacred vocal music
+@MARC-6500: 3901631
+@MARC-710a: Klasztor Benedyktynek w Jarosławiu
+@MARC-710g: Conjectural
+@MARC-7100: ks51002683
+@MARC-7104: fmo
+@MARC-773w: 1001063011
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: L 1643
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,56 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001115803
+@MARC-003:	DE-633
+@MARC-005:	20210720131941.0
+@MARC-008:	200520##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro marciale
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4D,8AA4FA/'D8DE4FD/
+@MARC-031r: D
+@MARC-031t: Ten kto najwyższe poiął zadanie, Stał się maluczkim
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Do Ciebie
+@MARC-240m: V (3)
+@MARC-240r: D
+@MARC-2400: 50232119
+@MARC-245a: [caption title:] Do Ciebie
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 36,3 × 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1684
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: T (2), B
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: V., Matylda
+@MARC-7000: pe50042655
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852d: 10751
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1633
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

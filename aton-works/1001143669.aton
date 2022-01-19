@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143669
+@MARC-003:	DE-633
+@MARC-005:	20211110174143.0
+@MARC-008:	210123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: C
+@MARC-031o: 3/2
+@MARC-031p: 2,DFD/D2.D2Cb1,,B2B/
+@MARC-031t: Tristes erant
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Gorczycki, Grzegorz Gerwazy
+@MARC-100d: 1665p-1734
+@MARC-100j: Doubtful
+@MARC-1000: pe30009207
+@MARC-240a: Tristes erant apostoli
+@MARC-240m: B ripieno
+@MARC-2400: 3919663
+@MARC-245a: [without title]
+@MARC-260c: ca. 1700
+@MARC-2608: 01
+@MARC-300a: score; 1 f.
+@MARC-300c: 19,5 x 15 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-500a: [pl-text: partia zapisana na pozostałościach innego utworu]
+@MARC-5008: 01
+@MARC-500a: [pl-text: rękopis niekompletny]
+@MARC-5008: 01
+@MARC-590a: B ripieno
+@MARC-590b: 1 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B ripieno
+@MARC-594c: 1
+@MARC-594a: B ripieno
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-6910: lit41000579
+@MARC-773w: 1001143665
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.338
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

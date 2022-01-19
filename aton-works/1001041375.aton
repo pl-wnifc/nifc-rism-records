@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041375
+@MARC-003:	DE-633
+@MARC-005:	20210527012816.0
+@MARC-008:	180625##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =8/4'DGG/8GB''4D-/8.'B6B4A-/A2''C/4CEC/8.C6C4'B-/
+@MARC-031r: G
+@MARC-031t: Quem terra pontus sidera
+@MARC-031t: Ave regina caelorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{'CG}4.G{6FG}/{8AF}4.D8D/{DA}4.A{6FA}/{8BG}4.D8D/{B''D}4.D{6C'B}/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Quem terra pontus sidera
+@MARC-240m: S, vl (2), b
+@MARC-240r: G
+@MARC-2400: 3922018
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: other parts missing
+@MARC-5008: 01
+@MARC-500a: The second text "Ave regina" written with another hand under the first.
+@MARC-5008: 01
+@MARC-590a: S 1
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S 1
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S 1, vl (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001041374
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 480/A VIII 120
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

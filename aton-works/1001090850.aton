@@ -1,0 +1,118 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001090850
+@MARC-003:	DE-633
+@MARC-005:	20211027135244.0
+@MARC-008:	191020##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: No 15
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 2D/D/4DD/DD/D{8DE}/4D8{DxC}/4D8{DxC}/{8DEDxC}/{8DEDxC}/{8DEDxC}/{8DEDxC}/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: No 15
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 2D/D/4DD/DD/8D-4-/=4/8D-G-/A--B/{GAB''C}/{''DG}D-/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Das Sumsen der Insecten
+@MARC-031d: Nr 16
+@MARC-031d: Allegro agitato
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{''B'''C''BAGF}/{E'B''EFGA}/8{''B'''E''BAGF}/{EFGAB'''xC}/{ED''AB'''C''B}/{AGBExDE}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Das Sumsen der Insecten
+@MARC-031d: Nr 16
+@MARC-031d: Allegro agitato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2-6{B''E'AB}/{6GE8FE}{6GB''xD'B}{''E'B''F'B}/{6{''GEGE}{GECE}{'B''E'A''E}/{'GB''xD'B}{''E'B''FE}{GEAG}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Divertissiment
+@MARC-031d: Molto allegro
+@MARC-031d: Nr 17
+@MARC-031g: G-2
+@MARC-031m: vl
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 6{ExDEG}{BAGB}{''DExDE}{FEGA}/{B'''C''B'''C}{DCDE}{FEDC}{''BAGB}/{'''DC''BA}{GFEF}{GFED}{C'B''CD}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Divertissiment
+@MARC-031d: Molto allegro
+@MARC-031d: Nr 17
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 8E^,B^G{6'EG}{8B6GB}''{8D6xDE}{6FEGA}/{8B6B'''C}8{D6DE}8{F6DC}8{''B6GB}/{8'''D6''BA}8{G6EF}{GFED}{C'B''CD}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Libella albo Zemsta owadu
+@MARC-240k: Excerpts
+@MARC-240m: strings, pf
+@MARC-240o: Arr
+@MARC-2400: 5217656
+@MARC-245a: [caption title, underlined:] Les [illegible]. [space] Libella.
+@MARC-260c: 1871
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 25.0 x 33.5 cm
+@MARC-3008: 01
+@MARC-591a: Inw. 1032
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl, pf
+@MARC-599b: full
+@MARC-650a: Ballets
+@MARC-6500: 25172
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 609-b/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

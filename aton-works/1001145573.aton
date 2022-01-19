@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001145573
+@MARC-003:	DE-633
+@MARC-005:	20210923121105.0
+@MARC-008:	210207##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: 3/2
+@MARC-031p: 2-2- '2F / 4EDE xCDE / 2FFE /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031o: 3/2
+@MARC-031p: 1- / 2-2- ,2A / AA 'C / ,4nBAB xGAB /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T2
+@MARC-031o: 3/2
+@MARC-031p: 2-2- ,A / 1.A / + 2A 1A / 2-2- 4AB /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/2
+@MARC-031p: 2-2- ,2D / 4xC ,,B,C ,,AB ,xC / 2DDA /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Gorczycki, Grzegorz Gerwazy
+@MARC-100d: 1665p-1734
+@MARC-1000: pe30009207
+@MARC-240a: Rorate caeli
+@MARC-240m: ATTB
+@MARC-2400: 3905164
+@MARC-245a: Rorate caeli
+@MARC-260a: Cracow
+@MARC-260c: XVII-XVIII
+@MARC-2608: 01
+@MARC-300a: 1 score
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-520a: 1 score
+@MARC-590a: A
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-590a: T1
+@MARC-590b: f. 6r-6v
+@MARC-5908: 01
+@MARC-590a: T2
+@MARC-590b: f. 10r
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 14r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T 1
+@MARC-594c: 1
+@MARC-594b: T 2
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T 1, T 2, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001145567
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.346
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

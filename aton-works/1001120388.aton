@@ -1,0 +1,63 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001120388
+@MARC-003:	DE-633
+@MARC-005:	20210720131904.0
+@MARC-008:	200624##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c
+@MARC-031p: 6-8-/=3/2-4-8.6EF/4G{8B''C}4.8'AF/4GE4.''C'8B/
+@MARC-031r: C
+@MARC-031t: Niechaj sobie kto chce chwali
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: {6B''DF}/4A{6AGFE}4D6-'{G''CE}/4A+{6AGED}4C-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Ojców
+@MARC-240m: V, pf
+@MARC-240r: C
+@MARC-2400: 50234746
+@MARC-245a: [caption title:] Ojców.
+@MARC-246a: [title page, in pencil:] Józef Stefani | Autograf
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 35,9 × 26,3 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-591a: inw. 1602
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-852a: PL-Wtm
+@MARC-852d: 10770
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1513
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

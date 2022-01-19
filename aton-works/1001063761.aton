@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063761
+@MARC-003:	DE-633
+@MARC-005:	20211027135138.0
+@MARC-008:	190227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto.
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 12/8
+@MARC-031p: =1//:=1/''4C'8AAxGA''4.C'8A-A/''4D8C8{'B''C}D4.E'4A8-/
+@MARC-031r: a
+@MARC-031t: Skąd to płyniesz strumieniu
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 12/8
+@MARC-031p: 6{CxDEAGF}{ExGA''C'BA}{GB''CEDC}{'B''xCDFED}//:
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Marzenie
+@MARC-240m: V, pf
+@MARC-240r: a
+@MARC-2400: 4233452
+@MARC-245a: [caption title:] 4. Marzenie. [space] St. Witwickiego.
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 1 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: At the top of the page there is an oval stamp: "Towarzystwo Muzyczne | SEKCYA | IMIENIA | St. MONIUSZKI".
+@MARC-591a: inw 4
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-691a: KmBN
+@MARC-691n: 1954
+@MARC-6910: lit41001694
+@MARC-700a: Witwicki, Stefan
+@MARC-700d: 1801-1847
+@MARC-7000: pe30048733
+@MARC-7004: lyr
+@MARC-710a: Towarzystwo Muzyczne. Sekcja im. St. Moniuszki
+@MARC-7100: ks51002692
+@MARC-7104: fmo
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 229
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

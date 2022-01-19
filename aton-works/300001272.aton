@@ -1,0 +1,141 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001272
+@MARC-003:	DE-633
+@MARC-005:	20201029163407.0
+@MARC-008:	150611##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Requiem. Largo
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: '2G''C/q8'B2AG/F4GF/2EG/FE/1(D)/
+@MARC-031r: c
+@MARC-031t: Racz wiekuisty pokój dać
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 2''C'G/''E4DC/n2.'B4B/2''C2-/D4EE/2C4DC/
+@MARC-031r: c
+@MARC-031t: Dzień ów dzień
+@MARC-031t: Trąba dziwnym głosem ryknie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Offertorium. Adagio
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBEA
+@MARC-031o: 3/2
+@MARC-031p: 1B2A/AGG/1''C2'B/BAA/
+@MARC-031r: E|b
+@MARC-031t: Chryste Jezu
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus. Largo
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2GF/E-/AG/F-/''C4'B''C/2.'B4A/2G2-/
+@MARC-031r: c
+@MARC-031t: Święty
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Baranku Boży. Largo
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2G4GG/2AG/4FFGF/2EG/GxF/G
+@MARC-031r: c
+@MARC-031t: Baranku Boży
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Conjectural
+@MARC-1000: pe30024097
+@MARC-240a: Requiems
+@MARC-240m: Coro, org
+@MARC-240r: c
+@MARC-2400: 3900193
+@MARC-245a: [cover title, org:] Requiem | par Stefani | a | Canto, Alto, Tenore Basso. | i Organo. | Tłomaczenie z łacińskie[go] Malskiego Pułkownika.
+@MARC-260c: 1851-1900 (19.2d)
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 30 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: org: 21 x 34 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f. 1r partii org: U góry z prawej strony tuszem "N|o 17."; skreślono ołówkiem; poniżej z prawej strony ołówkiem ręką nieznanego Paulina "N|o 4"; poniżej czerwonym tuszem ręką F. Maletza "N 612/12"; w prawym górnym rogu ołówkiem ręką W. Świerczka "226" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona niebieską kredką oraz parafowana]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-563a: [pl-text: Partie zszyte na grzbiecie]
+@MARC-5638: 01
+@MARC-590a: S 1, S 2 (= A), T, B, org (= bc)
+@MARC-590b: 3, 3, 3, 3, 8f.
+@MARC-5908: 01
+@MARC-592a: [S 1, 2 T:] F V
+@MARC-5928: 01
+@MARC-592a: [B:] [partial, illegible]
+@MARC-5928: 01
+@MARC-592a: [org:] [without watermarks]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S (2), Coro T, Coro B, org
+@MARC-599b: full
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 15
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1382
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 17
+@MARC-852d: N|o 4
+@MARC-852d: N 612/12
+@MARC-852d: 226
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-8
+@@END:		MARC21
+

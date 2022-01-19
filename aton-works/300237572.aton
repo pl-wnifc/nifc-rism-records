@@ -1,0 +1,123 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300237572
+@MARC-003:	DE-633
+@MARC-005:	20201029163713.0
+@MARC-008:	130308##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/2
+@MARC-031p: '2DDF/1A''2D/q8D2.C'4B2A/''2DD'A/1F2D/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/2
+@MARC-031p: =22/'2DDF/1A''2D/q8D2.C'4B2A/''2DD'A/1F2D/2.A4A2D/
+@MARC-031r: D
+@MARC-031t: Patris stupenda bonitas, immensa verbi caritas
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xFC
+@MARC-031o: 3/2
+@MARC-031p: =3/'4FE2DG/2.F4E2D/2.E4D2C/
+@MARC-031r: D
+@MARC-031t: Ocelle sole clarior, ocelle luna pulchrior
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kobierkowicz, Józef
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30017725
+@MARC-240a: Patris stupenda bonitas
+@MARC-240m: Coro, vl (2), clno (2), bc
+@MARC-240r: D
+@MARC-2400: 3912531
+@MARC-245a: [cover title:] Cantilena [by other hand:] in D | Patris Stupenda &amp;c: | à | Canto, Alto | Tenore, Basso | Violinis 2|bus | Clarini 2|bus | Fagotto | con | Organo | Pro Choro C.M.C. | [bottom, at right:] Authore Sige. Kobierkowicz
+@MARC-300a: 10 parts
+@MARC-300c: 22 x 18 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: wymiary głosów: 18 x 23,5 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej, ręką kopisty: "N. 50", skreślona i u góry, atramentem: "21.", skreślona i pod spodem czarnym atramentem ręką M. Zabłockiego "N=|r|o 30."; skreślona i później po lewej czerwonym ołówkiem "N 11."; później u góry na środku, wertykalnie, ołówkiem ręką nieznanego Paulina "N=|o 31"]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: In den Stimmen: "Auth. J. F. A. J. Kobier[kowicz]"
+@MARC-563a: [pl-text: Okładka zrobiona z innego papieru]
+@MARC-5638: 01
+@MARC-590a: S, A, T, B, vl 1, 2, org (= bc), fag, clno in D 1, 2
+@MARC-590b: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: On cover: [partial:] [St. Peter in cartouche, with two angels]
+@MARC-5928: 01
+@MARC-592a: On parts: [partial:] [some letter, illegible]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: clno 1, 2
+@MARC-594c: 1
+@MARC-594b: bc: org
+@MARC-594c: 1
+@MARC-594b: bc: fag
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl 1, vl 2, fag, clno 1, 2, bc: org, bc: fag
+@MARC-599b: full
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-691a: ŹHMP 12
+@MARC-691n: p.95-103
+@MARC-6910: lit2199
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.706
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 34
+@MARC-6910: lit1886
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 50
+@MARC-852d: 21
+@MARC-852d: 30
+@MARC-852d: 11
+@MARC-852d: 31
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-74
+@@END:		MARC21
+

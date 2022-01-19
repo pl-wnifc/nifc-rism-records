@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143940
+@MARC-003:	DE-633
+@MARC-005:	20210923121054.0
+@MARC-008:	210127##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0--9-1,,F2FF2.B4',CDE1F2E1F/
+@MARC-031r: 5t
+@MARC-031t: Gaudent in caelis animae sanctorum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Mel, Rinaldo del
+@MARC-100d: 1554c-1598c
+@MARC-100j: Ascertained
+@MARC-1000: pe327026
+@MARC-240a: Gaudent in caelis animae sanctorum
+@MARC-240m: Coro: B
+@MARC-240r: 5t
+@MARC-2400: 50200254
+@MARC-245a: [without title]
+@MARC-260c: [1600-1700]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 23 x 18.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: utwór odpisano z druku "Corollarium Cantionum Sacrarum 5, 6, 7, 8 et plurium vocum ... studio &amp; opera Friderici Lindneri" (Norymberga 1590), zob. https://books.google.pl/books?id=_c451eEVFGUC&amp;printsec=frontcover&amp;hl=pl#v=onepage&amp;q&amp;f=false utwór nr 55, na 6 głosów]
+@MARC-5008: 01
+@MARC-590a: Coro: B
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001143908
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.134
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

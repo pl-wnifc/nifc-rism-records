@@ -1,0 +1,80 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001138468
+@MARC-003:	DE-633
+@MARC-005:	20210923121025.0
+@MARC-008:	201207##################################
+@MARC-031a: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: Coro: S
+@MARC-031o: c
+@MARC-031p: 2-''E+/4.E8E2D/4D8C'B2''C/4''C8,'BA2B/
+@MARC-031r: C
+@MARC-031t: Amplius lava me
+@MARC-0312: pe
+@MARC-031a: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: Coro: A
+@MARC-031o: c
+@MARC-031p: 1-/4.nF8F2G/GA+/A4GF/
+@MARC-031r: C
+@MARC-031t: Amplius lava me
+@MARC-0312: pe
+@MARC-031a: 3
+@MARC-031c: 3
+@MARC-031d: Amplius
+@MARC-031g: C-4
+@MARC-031m: Coro: T
+@MARC-031o: c
+@MARC-031p: 1-/4.C8C2F/1E+/2DD/4CFDC/
+@MARC-031r: C
+@MARC-031t: Amplius lava me
+@MARC-0312: pe
+@MARC-031a: 4
+@MARC-031c: 4
+@MARC-031d: Amplius
+@MARC-031g: F-4
+@MARC-031m: Coro: B
+@MARC-031o: c
+@MARC-031p: 1-/4.,A8A2B/2'C4,AG+/2FG/4AAFE/
+@MARC-031r: C
+@MARC-031t: Amplius lava me
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Häser, August Ferdinand
+@MARC-100d: 1779-1844
+@MARC-100j: Ascertained
+@MARC-1000: pe37240
+@MARC-240a: No.3 I Amplius lava me
+@MARC-240m: Coro: S,A,T,B
+@MARC-240r: C
+@MARC-2400: 50243594
+@MARC-245a: [without title]
+@MARC-260c: [1800-1899]
+@MARC-2608: 01
+@MARC-300a: 4 parts, 4 p
+@MARC-300c: 31.0 x 22.5 cms
+@MARC-3008: 01
+@MARC-590a: Coro: S,A,T,B
+@MARC-590b: 1, 1, 1, 1 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S,A,T,B
+@MARC-594c: 4 parts
+@MARC-594a: Coro: S,A,T,B (4 parts)
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-773w: 1001137722
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.513
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

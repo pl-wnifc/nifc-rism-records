@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001086575
+@MARC-003:	DE-633
+@MARC-005:	20211105112949.0
+@MARC-008:	190918##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante con grazia
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8-{FFF}2A+/8{AAAA}4.B8A/1A+/2.A4-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante con grazia
+@MARC-031g: F-4
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 8-4'D^,A8'D^,A8-{'D,^A^F'D,^A^F'D,^A^F}/2.'D,^G^E4G^E^,,A/4,G^E8FFF4GF+/8FF^xDG^EA^F4G^E4-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Romance
+@MARC-240m: pf
+@MARC-240n: Op. 40 No. 1
+@MARC-2400: 3908193
+@MARC-245a: [caption title:] Romance
+@MARC-260c: 1850-1918
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300b: The pages are torn at the bottom end.
+@MARC-300c: 35,5 x 26,0 cm
+@MARC-3008: 01
+@MARC-383b: Op. 40 No. 1
+@MARC-500a: The source contains also a fragment of the "Valse" by Michał Hertz.
+@MARC-5008: 01
+@MARC-500a: [pl-text: Źródło zawiera także fragment utworu pt. "Valse" Michała Hertza.]
+@MARC-5008: 01
+@MARC-590a: pf
+@MARC-590b: 2 p.
+@MARC-5908: 01
+@MARC-591a: inw. 2541
+@MARC-593a: Manuscript copy with autograph annotations
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Romances (inst.)
+@MARC-6500: 25337
+@MARC-700a: Randekart, Karol
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe41021070
+@MARC-7004: scr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2526
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

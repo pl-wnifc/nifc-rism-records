@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063776
+@MARC-003:	DE-633
+@MARC-005:	20211027135348.0
+@MARC-008:	190227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento ad libitum.
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: //:2-'4C8CC/4F8FF4F8bEF/4.G8G4G8FG/4.bA8A8.B6B8AB/
+@MARC-031r: F
+@MARC-031t: W ojczyźnie mojej pustynie i skały
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Lento ad libitum.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 1F+^C+/F^C/G^bE/2bA^FB^bF/''C^'bE^Cb'A^F^bD/'bA+^bE^CA^bF^bD/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Nasza ziemica
+@MARC-240m: V, pf
+@MARC-240r: F
+@MARC-2400: 5192158
+@MARC-245a: [caption title:] w Imionniku panny Jadwigi K. | W. Syrokomli | N|o 22. Nasza ziemica.
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 3 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-691a: KmBN
+@MARC-691n: 1745
+@MARC-6910: lit41001694
+@MARC-700a: Syrokomla, Władysław
+@MARC-700d: 1823-1862
+@MARC-7000: pe30040492
+@MARC-7004: lyr
+@MARC-730a: Arab
+@MARC-730g: RISM
+@MARC-730n: KmBN, 1745
+@MARC-7300: 5192159
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 241
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

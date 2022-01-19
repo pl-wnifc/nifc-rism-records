@@ -1,0 +1,54 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001119022
+@MARC-003:	DE-633
+@MARC-005:	20210720131920.0
+@MARC-008:	200615##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: {6.3''GF}{8ED}/{6.388ED}{C'B}/g,A'{6.388AxG}{AB}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Mazurs
+@MARC-240m: pf
+@MARC-240r: G
+@MARC-2400: 3903722
+@MARC-245a: [without title]
+@MARC-300a: 1 piano part
+@MARC-300b: p. 4-6
+@MARC-300c: 33,9 × 26,4 cm
+@MARC-3008: 01
+@MARC-590a: pf
+@MARC-590b: 3 p.
+@MARC-5908: 01
+@MARC-591a: inw. 1438
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-650a: Piano music
+@MARC-6500: 3902024
+@MARC-773w: 1001119019
+@MARC-852a: PL-Wtm
+@MARC-852d: 10544
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1337
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

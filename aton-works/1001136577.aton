@@ -1,0 +1,84 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001136577
+@MARC-003:	DE-633
+@MARC-005:	20210923121036.0
+@MARC-008:	201122##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: all|o
+@MARC-031g: C-3
+@MARC-031m: A solo
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 0----1-//'2DD/'4BGDB/{8.A6G8.F6E}4D-/
+@MARC-031r: D
+@MARC-031t: Justus ut palma florebit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: all|o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''2DD/4BGDB/8.{A6G8.F6E}4D3-{DEFGAB'''C}/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Justus ut palma florebit
+@MARC-240m: A solo, orch
+@MARC-240r: D
+@MARC-2400: 50170346
+@MARC-245a: [without title]
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 12 parts: 12 f.
+@MARC-300c: 36.5 x 21.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Karty 9v, 10v, 11v, 12v puste.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach recto kart 2-12 u dołu pieczęć: "CATH. CRAC.*ARCH. CAPIT."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r u góry pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” z sygnaturą.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 4r w nazwie głosu Violino przekreślone "Primo" i obok dopisane "Secondo".]
+@MARC-5008: 01
+@MARC-590a: A solo
+@MARC-590b: f. 1
+@MARC-5908: 01
+@MARC-590a: vl 1 (2x), vl 2 (2x), vla, b (2x), fl 1, fl 2, cor 1 in D, cor 2 in D
+@MARC-590b: f. 2, 3, 4, 5, 6 7, 8, 9, 10, 11, 12
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594a: A solo, vl (2), vla, b, fl (2), cor in D (2)
+@MARC-599b: full
+@MARC-650a: Sacred concerts (voc.)
+@MARC-6500: 25362
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.490
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

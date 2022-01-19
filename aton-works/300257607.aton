@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300257607
+@MARC-003:	DE-633
+@MARC-005:	20211027135137.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Fantaisie.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: ,4A8-'{6ED}4xC8-''A/2A(-)/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Lessel, Franciszek
+@MARC-100d: 1780c-1838
+@MARC-100j: Ascertained
+@MARC-1000: pe30004332
+@MARC-240a: Fantaisies
+@MARC-240m: pf, strings
+@MARC-240n: op.31
+@MARC-240r: F
+@MARC-2400: 4041442
+@MARC-245a: Fantaisie Caracteristique | sur la Romance tendre ami | Pour le Piano | avec Violon, Alto et Violoncelle | composée par | Fr: Lessel | op.31 | 1822 | F L
+@MARC-260c: 1822 (1822)
+@MARC-2608: 01
+@MARC-300a: 1 parts
+@MARC-300c: 22 x 31,5 cm
+@MARC-3008: 01
+@MARC-383b: op.31
+@MARC-500a: vl, vla, vlc missing
+@MARC-5008: 01
+@MARC-500a: Auf dem Umschlag: Exlibris von Lessel; "Manuskrypt Fr. Lessla"; "własność Münchheimera"
+@MARC-500a: Alte Signatur auf dem Umschlag durchgestrichen, "inw.924" ergänzt
+@MARC-590a: pf
+@MARC-590b: 14p.
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: vl 1, vla, vlc, pf
+@MARC-599b: full
+@MARC-650a: Fantasies
+@MARC-6500: 25185
+@MARC-691a: Nowak-RomanowiczO 1966
+@MARC-691n: vol.2, p.134-135
+@MARC-6910: lit1701
+@MARC-691a: KatMikrPL
+@MARC-691n: vol.12, no.556 (Mf. 24064)
+@MARC-6910: lit2404
+@MARC-700a: Münchheimer, Adam
+@MARC-700d: 1830-1904
+@MARC-700j: Ascertained
+@MARC-7000: pe30035835
+@MARC-7004: fmo
+@MARC-730a: Fantaisie caractéristique
+@MARC-730g: RISM
+@MARC-7300: 4041443
+@MARC-730a: Tendre amie
+@MARC-730g: RISM
+@MARC-730o: Var
+@MARC-7300: 4041444
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1183a
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

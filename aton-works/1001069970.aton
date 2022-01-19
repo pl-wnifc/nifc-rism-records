@@ -1,0 +1,126 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001069970
+@MARC-003:	DE-633
+@MARC-005:	20210506072945.0
+@MARC-008:	190502##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031o: 3/4
+@MARC-031p: 4''C8{EC}{EC}/4F{8D'B}4''C/C{8EC}{EC}/4F2D/C4E/F8{D'B}4''E/
+@MARC-031r: C
+@MARC-031t: Pasterze przy trzodzie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: 4''C{8ECEG}/4F{8D'B}4''C/C{8ECEG}/4F2D/4C{8ECEG}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =27/8''F{6ED}8CC/D{6ED}8FF/{6GF}{ED}8CC/D{6EC}8FF/
+@MARC-031r: F
+@MARC-031t: A ia Kozak swoho Pana
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8''F/{6GFED}{CDEC}/{FGAG}{AGAF}/{GFED}{CDEC}/{FGAG}{AGAF}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Lente
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: =8/'8GxFGA/BAB''C/4D{8C'B}/2A/4''D{8C'B}/
+@MARC-031r: g
+@MARC-031t: A my dziady co też Panu oddamy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Lente
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: {8'G6DG}{8B''D}/{C6'BA}4G/{8G6DG}{8B''D}/4C'B/{8G6DG}{8B''D}/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-041a: ukr
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Pasterze przy trzodzie
+@MARC-240m: V (3), vl (2), b
+@MARC-240r: C
+@MARC-2400: 5199628
+@MARC-245a: [without title]
+@MARC-260c: 1750-1799
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 38,5 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: Ukrainian lyrics in the second movement.
+@MARC-590a: S 1, 2, B
+@MARC-590b: 2, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S (2), B, vl (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 239-240
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 103/A III 3
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

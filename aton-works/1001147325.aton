@@ -1,0 +1,84 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147325
+@MARC-003:	DE-633
+@MARC-005:	20210923121114.0
+@MARC-008:	210221##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2'AAA/1G2A/GGG/2.A4A2A/1A2A/4GF2.E4E/1.xF/
+@MARC-031t: Jesu corona virginum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2FFF/1E2F/FFE/2.F4F2F/DDxC/DEF/4ED2.D4xC/1.D/
+@MARC-031t: Jesu corona virginum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2CCC/1C2C/DCC/2.C4C2C/,FFE/D1A/2bB2.A4A/1.A/
+@MARC-031t: Jesu corona virginum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2,FAF/'4CDCb,B2A/B'C,C/2.F4F2F/DDE/FxCD/GA,,A/,1.D/
+@MARC-031t: Jesu corona virginum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Jesu corona virginum
+@MARC-240m: Coro
+@MARC-2400: 3900832
+@MARC-245a: [subject heading:] De Virginibus
+@MARC-260c: 18th century
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 1v, 2v, 3v, 4v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-773w: 1001147321
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.280
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

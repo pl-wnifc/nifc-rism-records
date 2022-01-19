@@ -1,0 +1,131 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001145405
+@MARC-003:	DE-633
+@MARC-005:	20210923121101.0
+@MARC-008:	210206##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c
+@MARC-031p: 4.F8F{EDEF}/2G+8{G6FE8DE}/{FGAF2}G/4xF8FE{D6EF}8{GF}/
+@MARC-031q: [pl-text: inną ręką dopisana nazwa głosu]
+@MARC-031r: C
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031o: c
+@MARC-031p: 4.D8D{C,B'CD}/n4.E6{DC}8{n,BAB'C}/2.D4C/2D-/
+@MARC-031r: C
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Kyrie
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031o: c
+@MARC-031p: =3/4.,A8A2nB/'C,B/2.A4xG/1A/
+@MARC-031r: C
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Kyrie
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c
+@MARC-031p: 4.,D8D2A/EG/FE/4D8.D6C8,,{BA}4G/
+@MARC-031q: [pl-text: partia spisana inną ręką (skryptor B)]
+@MARC-031r: C
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031d: Kyrie
+@MARC-031g: F-4
+@MARC-031m: bc
+@MARC-031o: c
+@MARC-031p: 2,DA/EG/FE/4.D8{C,,BA}4G/
+@MARC-031q: [pl-text: partia spisana inną ręką (skryptor B)]
+@MARC-031q: [pl-text: tekst w częściach Kyrie, Sanctus i Agnus Dei wpisany inną ręką. W pozostałych częściach nieuzupełniony.]
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Pękiel, Bartłomiej
+@MARC-100d: 1670c+
+@MARC-100j: Doubtful
+@MARC-1000: pe30105642
+@MARC-240a: Missa
+@MARC-240m: V (4), bc
+@MARC-2400: 3921633
+@MARC-245a: [title page with pencil:] Pękiel | [in ink:] Missa Paschalis à 4 Voci | 2 Tenoribus | Alto | Basso. | A.S.B.P.C.R.M.
+@MARC-260c: before 1670
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 16,5 x 20 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-500a: [pl-text: we wnętrzu okładki okrągła pieczęć "*** ARCHIWUM i BIBLIOTEKA | Krakowskiej Kapituły Katedralnej". W środku pieczęci wpisana sygnatura ołówkiem "Kk. I | 109"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: 1 r., 2 v., 3 v., 4 v., 5 r., 6 v., 7 v., 8 v., 9 r., 10 v., 11 v., 12 v., 13 r., 13 v., 14 v., 15 r., 15 v.,16 v.; owalna pieczęć z czarnym tuszem "ARCH.CAPIT.CATH.CRAC.*"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: 1 v., 5 v., 9 v.; puste]
+@MARC-5008: 01
+@MARC-500a: [pl-text: f. 4 v. brązowym tuszem dopisany fragment Agnus w kluczach C3 i basowym]
+@MARC-5008: 01
+@MARC-500a: [pl-text: w partii Basso nagłówek "Missa a 4. De Resurectione D[omi]ni."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: w partii BC nagłówek "Missa a 4. De Resurectione D[omi]ni. Di Sign B.P."]
+@MARC-5008: 01
+@MARC-590a: A
+@MARC-590b: f. 1 r.-1 v.
+@MARC-5908: 01
+@MARC-590a: T 1
+@MARC-590b: f. 5 r.-5 v.
+@MARC-5908: 01
+@MARC-590a: T 2
+@MARC-590b: f. 9 r.-9 v.
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 13 r.-13 v.
+@MARC-5908: 01
+@MARC-590a: bc
+@MARC-590b: f. 15 r.-15 v.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T 1
+@MARC-594c: 1
+@MARC-594b: T 2
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T 1, T 2, B
+@MARC-599b: full
+@MARC-650a: Messe
+@MARC-6500: 3900151
+@MARC-6910: lit41000579
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.109
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001099294
+@MARC-003:	DE-633
+@MARC-005:	20211027135305.0
+@MARC-008:	191222##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =9//:=1/4-8-F/''D'BxA''C/4'B8F-/GBAG/4F+8FF/FxA''CE/4E8DD/8gDC'B''C'xA/
+@MARC-031r: b
+@MARC-031t: Chcąc poznać miast uciechy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =1/4-8-''6{F^DG^E}/8{F^DE^CD^'B}{6''D^'B''E^C}/8{D^'B''C^'FB^D}{6B^D''C'^F}/8{''D^'BB^D''C^'ExA^E/4B^D8F^D{6''F^DG^E}/8{F^DE^CD^'B}{6''D^'B''E^C}/8{D^'B''C^'FB^D}{6B^D''C'^F}/8{''D^'B''D^'B^F''C^'B^F''C^'xA^F}//
+@MARC-031r: b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Sabaudka czyli Błogosławieństwo matki
+@MARC-240k: Excerpts
+@MARC-240m: V, pf
+@MARC-2400: 50222352
+@MARC-245a: [title page:] Sabaudczyk | z | Melod. Sabaudka. | muzyka Stanisława Moniuszki
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 3 p.
+@MARC-300c: 33.0 x 25.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na karcie tytułowej znajduje się pieczątka Towarzystwa Muzycznego, sekcji im. St. Moniuszki oraz zapis: "Oryginał posiada Towarzystwo muzyczne w Krakowie".]
+@MARC-591a: 574
+@MARC-591a: 86 e)
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-700a: Ennery, Adolphe d'
+@MARC-700d: 1811-1899
+@MARC-700j: Ascertained
+@MARC-7000: pe30051535
+@MARC-7004: lyr
+@MARC-700a: Lemoîne, Gustave
+@MARC-700d: 1802-1885
+@MARC-700j: Ascertained
+@MARC-7000: pe30051583
+@MARC-7004: lyr
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 881
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

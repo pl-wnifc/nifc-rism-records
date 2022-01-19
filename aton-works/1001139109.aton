@@ -1,0 +1,63 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001139109
+@MARC-003:	DE-633
+@MARC-005:	20210923121031.0
+@MARC-008:	201212##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4'F/2G4GG/2A4F8A''C/4.C'8B4AG/GA-F/2G4GG/2A4F8A''C/4.''F8D4C'nB/''DC-
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4,F/2C4CC/2F4F8FF/2,,B,4CC/FF-F/2C4CC/2FF8FF/4.D8F4G,,G/G,C-
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Lachner
+@MARC-1000: pe189189
+@MARC-240a: Sacred song
+@MARC-240m: S, B
+@MARC-240r: F
+@MARC-2400: 50230311
+@MARC-245a: [without title]
+@MARC-260c: 19th century
+@MARC-2608: 01
+@MARC-300a: 2 parts; 2 f.
+@MARC-3008: 01
+@MARC-590a: S, B
+@MARC-590b: f. 1r, 2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001139108
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.518
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

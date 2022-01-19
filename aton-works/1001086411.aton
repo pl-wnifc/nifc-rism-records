@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001086411
+@MARC-003:	DE-633
+@MARC-005:	20211027135205.0
+@MARC-008:	190917##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =5/4-8-6AA/8''D'FF{6GA}/8BE
+@MARC-031r: D
+@MARC-031t: Odkąd żyję w tém tu mieście
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 8'''{DF}+{6FEFD}/{CED''B}{ABGD}/{DA}4F
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041e: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Flis
+@MARC-240k: Excerpts
+@MARC-240m: V, pf
+@MARC-240o: Arr
+@MARC-2400: 5215005
+@MARC-245a: [title page:] Flis | 6 Śpiewy | Muzyka St. Moniuszki. Słowa Bogusławskiego | Nakładem G. Sennewalda | w litogr. I. V. Fluk. | [in red ink:] Дозволено цензурою | Варшава 31 Мая 1891 года | [censor's signature]
+@MARC-246a: [caption title:] Trzy piosnki Jakuba [śpiewane przez | A. Żółkowskiego:
+@MARC-260c: 1858
+@MARC-2608: 01
+@MARC-300a: 1 piano score: 4 p.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "Towarzystwo Muzyczne | Sekcja imienia | S. Moniuszki" i "ВАРШАВСКИЙ ЦЕНЗУРНЫЙ КОМИТЕТЬ" [Warszawski Komitet Cenzorski].]
+@MARC-500a: [pl-text: Tekst słowny i poprawki wpisane czerwonym atramentem.]
+@MARC-563a: Hard cover.
+@MARC-5638: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Operas
+@MARC-6500: 25160
+@MARC-700a: Bogusławski, Stanisław
+@MARC-700d: 1804-1870
+@MARC-700j: Ascertained
+@MARC-7000: pe41023959
+@MARC-7004: lyr
+@MARC-700a: Żółkowski, Alojzy jr.
+@MARC-700d: 1814-1889
+@MARC-700j: Conjectural
+@MARC-7000: pe41023963
+@MARC-7004: prf
+@MARC-773w: 1001086071
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 513-3/M
+@@END:		MARC21
+

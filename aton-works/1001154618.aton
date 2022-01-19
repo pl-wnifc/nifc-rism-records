@@ -1,0 +1,106 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001154618
+@MARC-003:	DE-633
+@MARC-005:	20210923120937.0
+@MARC-008:	210428##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4''C'BAG2F''CDC1C4-'F''C8CC2D4C
+@MARC-031r: 5t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.F2E4DE1F2E1F9-2',F4'C8CC2D4C
+@MARC-031r: 5t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: T 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.,A2A4'D8{C,B}4'C,F4.G6{AB}2'C1C
+@MARC-031r: 5t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C+4
+@MARC-031m: T 2
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2C,2.F4GAG8{FG}{AB}2'C4',BA2G1A/
+@MARC-031r: 5t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F+4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2.,F4E2D,,ABF1,C,,F
+@MARC-031r: 5t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Agnus Dei
+@MARC-240m: V (5)
+@MARC-240r: 5t
+@MARC-2400: 2000008
+@MARC-245a: Agnus Dei | de | Tempore Adven | bq Dni. | a 5 Voc
+@MARC-260c: [17th c.]
+@MARC-2608: 01
+@MARC-300a: 5 parts; 5 f.
+@MARC-300c: 9 x 15,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Pieczęć: "CATH. CRAC. * ARCH. CAPIT." na stronach recto rękopisu.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Na karcie tytułowej wpisana ołówkiem sygnatura.]
+@MARC-500a: [pl-text: Na wewnętrznych stronach obwoluty nieczytelne inskrypcje.]
+@MARC-590a: S, A, T 1, T 2, B
+@MARC-590b: f. 1r-1v, 2r-2v, 3r-3v, 4r-4v, 5r-5v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-657a: Adventus
+@MARC-6570: 24328
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.53
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

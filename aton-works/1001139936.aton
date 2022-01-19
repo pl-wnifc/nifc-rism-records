@@ -1,0 +1,114 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001139936
+@MARC-003:	DE-633
+@MARC-005:	20210923121017.0
+@MARC-008:	201217##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie; Larghetto con motto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 1A/F/2GF/1E/''E/C/2DC/
+@MARC-031r: a
+@MARC-031t: Kyrie Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie; Larghetto con motto
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c
+@MARC-031p: 1A/F/2GF/1E/xG/A+/2AA/
+@MARC-031r: a
+@MARC-031t: Kyrie Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Kyrie; Larghetto con motto
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c
+@MARC-031p: 1,A/F/2GF/1E/B/A/2'FE/
+@MARC-031r: a
+@MARC-031t: Kyrie Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Kyrie; Larghetto con motto
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c
+@MARC-031p: 1,A/F/2GF/1E/E/F/
+@MARC-031r: a
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Kaspar
+@MARC-100j: Doubtful
+@MARC-1000: pe30048142
+@MARC-240a: Missa
+@MARC-240m: Coro
+@MARC-2400: 3921633
+@MARC-245a: [Missa]
+@MARC-260c: 1856
+@MARC-2608: 01
+@MARC-300a: score: f. 1 v.-10 v.
+@MARC-300c: 33,5 x 25,5 cm
+@MARC-3008: 01
+@MARC-300a: 4 partbooks: f. 11 v.-11 r., 14 v.-14 r., 17 v.-17 r., 20 v.-20 r.
+@MARC-300c: 25,5 x 33 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-500a: [pl-text: oprócz foliacji w partyturze widoczne ślady paginacji]
+@MARC-5008: 01
+@MARC-500a: [pl-text: f. 10 v., 11 r., 14 r., 17 r., 20 r.; owalna pieczęć z czarnym tuszem „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: f. 1 v., 11 v., 14 v., 17 v., 20 v.; pieczęć „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej”. Wewnątrz wpisana ołówkiem sygnatura „KK.I | 397”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: f. 1 r. puste]
+@MARC-5008: 01
+@MARC-500a: [pl-text: poprawki wpisane ołówkiem]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na pierwszej stronie partytury dopisane innym tuszem „Kyrie” i tempo. Nad nutami napis: „55 tak[t] z początku wypuścić | 45 od końca”.]
+@MARC-5008: 01
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 10 f.
+@MARC-5908: 01
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 3, 3, 3, 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: score
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: score, Coro S, Coro A, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Messe
+@MARC-6500: 3900151
+@MARC-6910: lit41000579
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.397
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

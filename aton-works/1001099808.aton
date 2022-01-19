@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099808
+@MARC-003:	DE-633
+@MARC-005:	20211027135230.0
+@MARC-008:	200104##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCGD
+@MARC-031o: 3/8
+@MARC-031p: =1//=3/8B''C'B/GFE/4.''C/'4B8-/8AGA/,B'CD/FE-/=1/GFE/EDC/4.A/4G8-/
+@MARC-031r: E
+@MARC-031t: Mówię ci grzecznie i skromnie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCGD
+@MARC-031o: 3/8
+@MARC-031p: {6.G^E,B}//'{A^D,B}/'{G^E,B}/{'G^E,B}/{'G^E,B}/{'G^E,B}/{6.'A^EC}/{G^E,B}/{'A^D,B}/
+@MARC-031r: E
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Mówię ci grzecznie i skromnie
+@MARC-240m: V, pf
+@MARC-240r: E
+@MARC-2400: 50222692
+@MARC-245a: [without title]
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajduje się pieczątka: "ALEKSANDER MONIUSZKO | N|o 768"]
+@MARC-591a: N|o 768
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Witwicki, Stefan
+@MARC-700d: 1801-1847
+@MARC-700j: Alleged
+@MARC-7000: pe30048733
+@MARC-7004: lyr
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|16
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,208 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001136486
+@MARC-003:	DE-633
+@MARC-005:	20210923121034.0
+@MARC-008:	201120##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: T1 coro
+@MARC-031o: c/
+@MARC-031p: 9-2-,DFG/9A2GF/4EDEF
+@MARC-031r: 1t
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T2 coro
+@MARC-031o: c/
+@MARC-031p: 1,D2FG2.A4G2AB'C2.E4D
+@MARC-031r: 1t
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B coro
+@MARC-031o: c/
+@MARC-031p: 0--1-/1,,A2,C2D1E2DC1,,BA
+@MARC-031r: 1t
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: T1 coro
+@MARC-031o: c/
+@MARC-031p: 1D2E,B'CD,G'C,F2.G8{EF}
+@MARC-031r: 8t
+@MARC-031t: Et in terra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: T2 coro
+@MARC-031o: c/
+@MARC-031p: 0-9-1-2-D/E,B/'CD/,G2.'C8,{BA}2B/
+@MARC-031r: 8t
+@MARC-031t: Et in terra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: B Coro
+@MARC-031o: c/
+@MARC-031p: 0-1-2-2,GAEFGC1E2D
+@MARC-031r: 8t
+@MARC-031t: Et in terra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: T1 coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-9,AB2AFGA1BA
+@MARC-031r: 2tt
+@MARC-031t: Patrem omipotentem factorem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T2 coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9,AB2AF1G2A2.G8{FE}
+@MARC-031r: 2tt
+@MARC-031t: Patrem omipotentem factorem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B Coro
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9-9,D+bE2D,,B',CD4,,GAB',C
+@MARC-031r: 2tt
+@MARC-031t: Patrem omipotentem factorem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: T1 coro
+@MARC-031o: c/
+@MARC-031p: 0-9-1-9G1EC2-2.G4F2.E4D1C2,B1'C
+@MARC-031q: [pl text: Na koniec części Osanna jest zapis: Benedictus Tacet Osanna ut Supra]
+@MARC-031r: 11t
+@MARC-031t: Sanctus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: T2 coro
+@MARC-031o: c/
+@MARC-031p: 9G1E1.C2CD2.F4EE8{DC}
+@MARC-031r: 11t
+@MARC-031t: Sanctus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: B Coro
+@MARC-031o: c/
+@MARC-031p: 1-9C1,A1.F2.F4G2A
+@MARC-031q: [pl text: Na koniec części po Benedictus jest zapis: Ossana ut Supra]
+@MARC-031r: 11t
+@MARC-031t: Sanctus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: T1 coro
+@MARC-031o: c/
+@MARC-031p: 9G1E9CD2,G2.'G4FED
+@MARC-031r: 11t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: T2 coro
+@MARC-031o: c/
+@MARC-031p: 1-9C2,A4FGAB1'C4,BA
+@MARC-031q: [pl text: Na końcu ostatniego Agnus Dei pojawia sie zapis: A.D. 1689 [sic] Quinta Vox [sic]
+@MARC-031r: 11t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: B Coro
+@MARC-031o: c/
+@MARC-031p: 0-1-9,G1E9C1D2C'C,A4FGAB
+@MARC-031r: 11t
+@MARC-031t: Agnus Dei
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Sabino, Ippolito
+@MARC-100d: 1550c-1593
+@MARC-100j: Ascertained
+@MARC-1000: pe30011894
+@MARC-240a: Missa de Beata Maria Virgine
+@MARC-240m: Coro: T1, T2, B
+@MARC-240r: 1t
+@MARC-2400: 3905803
+@MARC-245a: Missa De Beata M. Virgine Maria Tenore 1
+@MARC-246a: Missa De Beata M. Virgine Maria Tenore 2
+@MARC-246a: Missa De Beata M. Virgine Basso
+@MARC-260c: 1689
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 20 x 16.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl text: partii Tenore 1 napisana jest w ksiegi "Tenore" ]
+@MARC-5008: 01
+@MARC-500a: [pl text: partii Tenore 2 napisana jest w księgi "Cantus" ]
+@MARC-5008: 01
+@MARC-590a: Coro:T1, T2, B
+@MARC-590b: 11, 11, 13 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: T1
+@MARC-594c: 1
+@MARC-594b: Coro: T
+@MARC-594c: 1
+@MARC-594b: Coro: B
+@MARC-594c: 1
+@MARC-594a: Coro: T1, Coro: T, Coro: B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773w: 1001135513
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

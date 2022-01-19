@@ -1,0 +1,88 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001116130
+@MARC-003:	DE-633
+@MARC-005:	20210720131909.0
+@MARC-008:	200523##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =35/2G4.8BE/{8.6GF}2E{8FG}/
+@MARC-031r: E|b
+@MARC-031t: Benedeictus qui venit in nomine Domini
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Benedictus
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl solo
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2gB''Bg''C'''C/{''8.6FG}4ACDt/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Masses
+@MARC-240k: Excerpts
+@MARC-240m: V (1), Coro, orch, org
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Benedictus. | p. JStefani
+@MARC-300a: 1 score: 22 p.
+@MARC-300c: 34,6 × 25,7 cm
+@MARC-3008: 01
+@MARC-591a: inw. 1523
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V, Coro S (2), Coro T (2), Coro B, vl solo, vl (2), vla, vlc, cb, fl, cl (2), fag (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1431
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

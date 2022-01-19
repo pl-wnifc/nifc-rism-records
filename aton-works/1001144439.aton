@@ -1,0 +1,118 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001144439
+@MARC-003:	DE-633
+@MARC-005:	20210923121057.0
+@MARC-008:	210130##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: ''2C '4BA / 2BB / GG / ''CD / '1G /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1'C / D / 4CDEF / 2.G 4F /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: ,1G / A / 2G 4AB / '2.C 4C /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,1C / D / 4CDEF / 2.G 4F /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B rip
+@MARC-031o: c/
+@MARC-031p: 9- / ,1CD / 4CDEF / 2.G 4F /
+@MARC-031t: Rorate caeli
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Maxylewicz, Wincenty
+@MARC-100d: 1685-1745
+@MARC-100j: Alleged
+@MARC-1000: pe30105799
+@MARC-240a: Rorate caeli
+@MARC-240m: S A T B Brip
+@MARC-2400: 3905164
+@MARC-245a: [text incipit:] Rorate caeli
+@MARC-260c: ca. 1700-1745
+@MARC-2608: 01
+@MARC-300a: 1 score: 5f.
+@MARC-300a: 5 parts
+@MARC-300c: 16 x 20,3 cm; 19,7 x 18,9 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na kartach 1r, 2r 3r, 4r, 5v okrągła pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: w górnym lewym rogu kart 1r, 2r, 3r, 4r, 5r podkreślona adnotacja: "2."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: u góry karty 5r, nad partią Basso ripieno adnotacja: "a Cappella."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: partia Basso ripieno zanotowana ręką innego skryptora niż pozostałe partie]
+@MARC-5008: 01
+@MARC-500a: [pl-text: u dołu karty 5v, pod zakończeniem partii Basso ripieno, zanotowane 4 takty obcego, jednogłosowego materiału muzycznego]
+@MARC-5008: 01
+@MARC-520a: 1 score
+@MARC-590a: S
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 3r-3v
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 4r-4v
+@MARC-5908: 01
+@MARC-590a: B rip
+@MARC-590b: f. 5r-5v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, B rip
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.358
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

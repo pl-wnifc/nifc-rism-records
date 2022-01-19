@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083921
+@MARC-003:	DE-633
+@MARC-005:	20211027135144.0
+@MARC-008:	190831##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031n: bBEAD
+@MARC-031o: 9/8
+@MARC-031p: =7/4-8-4-8-4''C8C/4.C4'A8-4-8-/4-8-4-8-4A8A/4.''F4E8-4E8E/
+@MARC-031r: f
+@MARC-031t: Universi universi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: F-4
+@MARC-031m: Coro B
+@MARC-031n: bBEAD
+@MARC-031o: 9/8
+@MARC-031p: =5/4-8-4-8-4,E8E/4.A4,,A8-4-8-/4-8-4-8-4,A8A/4.A,,4A8-4-8-/
+@MARC-031r: f
+@MARC-031t: Universi universi
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Krogulski, Józef Władysław
+@MARC-100d: 1815-1842
+@MARC-100j: Ascertained
+@MARC-1000: pe30001797
+@MARC-240a: Graduale
+@MARC-240m: Coro
+@MARC-240r: f
+@MARC-2400: 3907336
+@MARC-245a: [caption title:] Graduale | Muzyka J.W.Krogulskiego
+@MARC-260c: ca. 1840
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 37,5 x 30 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Partie sopranu, altu oraz basu są zdublowane; partia tenoru pojawia się trzy razy. W każdym głosie znajdują się trzy pieczęcie: "25280" (purpurowy atrament), "BIBLJOTEKA Warszawskiego Tow. Muzycznego" (purpurowy atrament) and "BIBLIOTEKA WARSZAWSKIEGO TOWARZYSTWA MUZYCZNEGO" (niebieski atrament).]
+@MARC-500a: The sopran, alt and bass parts are doubled; tenor part is tripled. There are three stamps in each part: "25280" (purple ink), "BIBLJOTEKA Warszawskiego Tow. Muzycznego" (purple ink) and "BIBLIOTEKA WARSZAWSKIEGO TOWARZYSTWA MUZYCZNEGO" (blue ink).
+@MARC-590a: Coro: S, S, A, A, T, T, T, B, B
+@MARC-590b: 2, 2, 2, 2, 2, 2, 2, 2, 2
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro A
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 3
+@MARC-594b: Coro B
+@MARC-594c: 2
+@MARC-594a: Coro S (2), Coro A (2), Coro T (3), Coro B (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1006|3
+@@END:		MARC21
+

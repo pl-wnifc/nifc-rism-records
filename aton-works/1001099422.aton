@@ -1,0 +1,59 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099422
+@MARC-003:	DE-633
+@MARC-005:	20211027135307.0
+@MARC-008:	191226##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 6/8
+@MARC-031p: ''8A^bE'^A--4.A^bE/4bB8A4xG8''E/8'A^C-A^CA^C-E/4A8xG4A8B/4''C8'B4''C8D/4E8E4.F/
+@MARC-031q: [pl-text: brak znaków przykluczowych na pierwszej stronie utworu. Druga część utworu zapisana jest w tonacji A-dur.]
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031o: 6/8
+@MARC-031p: 8'F^C^,F--4.F^,,F+/8,F^,,bB--4.,E^,,E/,8E^,,A-,8E^,,A,8E^,,A-,8E^,,A/,8E^,,A-,8E^,,A,8E^,,A-,8E^,,A/,8E^,,A-,8E^,,A,8E^,,A-,8E^,,A/'C^,^A-'C^,^A4'C^,^A8'C^,^A/
+@MARC-031q: [pl-text: brak znaków przykluczowych na pierwszej stronie utworu. Druga część utworu zapisana jest w tonacji A-dur.]
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Bagatelle Niezabudka
+@MARC-240m: pf
+@MARC-240r: A
+@MARC-2400: 50222447
+@MARC-245a: [caption title:] Bagatelle. | = Niezabudka.
+@MARC-260c: 1819-1872
+@MARC-2608: 01
+@MARC-300a: 1 score: 3 p.
+@MARC-300c: 24.5 x 36.5 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Bagatelles
+@MARC-6500: 3021784
+@MARC-773w: 1001099421
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 392|1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

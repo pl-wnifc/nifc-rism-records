@@ -1,0 +1,111 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001153677
+@MARC-003:	DE-633
+@MARC-005:	20210923121003.0
+@MARC-008:	210416##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: Canto in Tenore
+@MARC-031o: c/
+@MARC-031p: 0- / ,1DA / EG / FE 9D /
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: Alto
+@MARC-031o: c/
+@MARC-031p: 9- / ,1A 'E / ,2.B '4C / 1DC ,9B 2A 'D /
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: Tenore
+@MARC-031o: c/
+@MARC-031p: ,1DAE 9GFE 1D / 2- 2A / AA 9A /
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: Basso
+@MARC-031o: c/
+@MARC-031p: 0- 9- / ,,1A ,E ,,2.B ,4C / 2DD /
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: Basso ripieno
+@MARC-031o: c/
+@MARC-031p: 0- 9- / ,,1A ,E ,,2.B ,4C / 2DD
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Alleluia ave Maria, gratia plena
+@MARC-240m: AATB Brip
+@MARC-2400: 37166
+@MARC-245a: [text incipit:] Alleluia. Ave Maria gratia plena
+@MARC-260a: Cracow
+@MARC-260c: XVII-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score
+@MARC-300a: 5 parts
+@MARC-300c: 16,3 x 19,6 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na wewnętrznej stronie karty tytułowej, (będącej obwolutą), karcie 1r, 2r, 3r, 4r, 5r owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na karcie 1r, 1v, 2r, 2v, 3v, 4r, 4v adnotacja: "à Dnica in albis [?] ad Pentecostem", zapisana niekiedy w różnych skrótowych wersjach]
+@MARC-5008: 01
+@MARC-590a: Canto in Tenore
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: Alto
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-590a: Tenore
+@MARC-590b: f. 3r
+@MARC-5908: 01
+@MARC-590a: Basso
+@MARC-590b: f. 4r
+@MARC-5908: 01
+@MARC-590a: Basso ripieno
+@MARC-590b: f. 5r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: A, A, T, B, B rip
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773w: 1001153676
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

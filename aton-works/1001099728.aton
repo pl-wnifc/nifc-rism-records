@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001099728
+@MARC-003:	DE-633
+@MARC-005:	20211027135303.0
+@MARC-008:	200103##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 8{A^C6AB}{8A^D6AB}/8{A^xD6AB}{8A^E6AB}/{8A^xE6AB}8{A^nF6AB}/8{A6''FE}{FEC'A}//
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4,,AB/,nCxC/DxD/8E8{,G^E^C^,,A,G^E^C^,,A,G^E^C^,,A}//8,,D-4'D^,A^F/8,,D-4'D^,A^F/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Galops
+@MARC-240m: pf
+@MARC-240r: D
+@MARC-2400: 3900002
+@MARC-245a: [without title]
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 1 p.
+@MARC-300c: 27.0 x 41.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w źródle znajduje się pieczątka: "ALEKSANDER MONIUSZKO | N|o 755"]
+@MARC-591a: N|o 755
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Galops
+@MARC-6500: 25419
+@MARC-773w: 1001099656
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 730|6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,64 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001122095
+@MARC-003:	DE-633
+@MARC-005:	20210720131900.0
+@MARC-008:	200708##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 3/8
+@MARC-031p: =3/8--//G/''C'A6-A/{AG}8E6-E8/F8.6FG/
+@MARC-031r: C
+@MARC-031t: Dwie zimy, trzy lata już zbiegły ze świata
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 3/8
+@MARC-031p: {(6GxFG)}4{8B''D}6.3/{CD}8E{6D'bA}/{6.3G''C}8{ED}/C'''C-//
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Dwie zimy, trzy lata
+@MARC-240m: V, pf
+@MARC-240r: C
+@MARC-2400: 50234672
+@MARC-245a: [without title]
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 36 × 26,3 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego" i dawna sygnatura, wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Na końcu rękopisu pozostałe zwrotki zapisane w układzie blokowym.]
+@MARC-500a: [pl-text: Por. z RISM ID. 1001120242.]
+@MARC-591a: inw. 1574
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-852a: PL-Wtm
+@MARC-852d: 10724
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1484
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

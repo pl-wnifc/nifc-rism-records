@@ -1,0 +1,60 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001086275
+@MARC-003:	DE-633
+@MARC-005:	20211027135205.0
+@MARC-008:	190916##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8-'''C^''C4C^'C8-C/2.G+^,G+/'G+^,G+/4'G^,G4-4-/
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Presto
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8-'C^,C4C,,^C8-,C^,,E/4,E^,,G,D^,,F,C^,,E/nB^,,D,C,,^E,D^,,F/,E^,,G,C^,,E4-/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Scherzos
+@MARC-240m: pf
+@MARC-2400: 3905206
+@MARC-245a: [caption title:] Scherzo.
+@MARC-260c: 1850-1918
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 32,3 x 25,2 cm
+@MARC-3008: 01
+@MARC-500a: The manuscript contains several layers. It was written down in dark purplue ink, with pencil and blue crayon. Some elements of music notation have been erased.
+@MARC-5008: 01
+@MARC-500a: [pl-text: Rękopis zawiera kilka warstw. Został sporządzony ciemnym, fioletowym atramentem, ołówkiem i niebieską kredką. Niektóre elementy notacji muzycznej zostały wymazane.]
+@MARC-5008: 01
+@MARC-591a: inw. 2527
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Scherzos (inst.)
+@MARC-6500: 3000133
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2513
+@@END:		MARC21
+

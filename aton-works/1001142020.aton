@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001142020
+@MARC-003:	DE-633
+@MARC-005:	20210923120950.0
+@MARC-008:	210107##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-3
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,2.xF 4F 2GE 1D 2GGEFC '2C ,GAD 1G 2F 1E 2 ,,2A,A 1G /
+@MARC-031t: Sancta et immaculata virginitas
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: F-3
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,1.G 2G 1FEG / 2- 2DE C2.E 4F 1G ,1.C 2C 1GD /
+@MARC-031t: Benedicta in mulieribus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Gabussi, Giulio Cesare
+@MARC-100d: 1555c-1611
+@MARC-100j: Conjectural
+@MARC-1000: pe30011203
+@MARC-240a: Sancta et immaculata
+@MARC-240m: B
+@MARC-2400: 3919634
+@MARC-245a: [text incipit:] Sancta et Immaculata
+@MARC-260c: after 1588
+@MARC-2608: 01
+@MARC-300a: 1 item
+@MARC-300a: 1 part
+@MARC-300a: 1f
+@MARC-300c: 25,3 x 20,7 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: W lewym górnym rogu karty 3r częściowo zatarta adnotacja: "[...] B. V. Maria"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Naderwany lewy dolny róg karty]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Rękopiśmienna kopia partii basowej pięciogłosowego motetu G.C. Gaussiego, zamieszczonego pierwotnie w druku "Continuatio Cantionum sacrarum 4, 5, 6, 7, 8 et plurium voc. ... studio &amp; opera Friderici Lindneri" (Norymberga 1588)]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Nad pierwszym taktem adnotacja: "a 5.", stanowiąca odniesienie do pierwotnej obsady motetu zamieszczonego w ww. druku]
+@MARC-5008: 01
+@MARC-520a: Bass part from the 2-movement Motet
+@MARC-590a: B
+@MARC-590b: 3v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-657a: Mariae (B.V.) Annuntiatio
+@MARC-6570: 24301
+@MARC-773w: 1001141440
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.356
+@MARC-856u: https://ks.imslp.net/files/imglnks/usimg/2/23/IMSLP502306-PMLP813792-lindner_var_continuatio_cantionum_sacrarum_C.pdf
+@MARC-856x: Digitalization
+@MARC-856z: Link to digitized, related printed source
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,95 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001129118
+@MARC-003:	DE-633
+@MARC-005:	20210720131639.0
+@MARC-008:	200917##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: C-4
+@MARC-031m: T1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =12/2-4-//:-/=/2-48.6-DD/EDDC4D/ED2-/
+@MARC-031r: c
+@MARC-031t: Requeim aeternam
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2-4-{'''8.6CC}/''4nB--{'''8.6CC}/''4nB-2-/=/2-4-{8.6''EE}/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Marche funèbre
+@MARC-240m: coro maschile, orch
+@MARC-240r: c
+@MARC-2400: 50119750
+@MARC-245a: [title page, in blue pencil:] Stefani | Introd. e Marcia funebre | N. 3 | C. moll
+@MARC-246a: [caption title:] Introducione et Marcia Funèbre. p. JStefani
+@MARC-260c: finished 1856-02-05
+@MARC-2608: 01
+@MARC-300a: 1 score: 18 p.
+@MARC-300c: 34,5 × 27,6 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na końcu rękopisu adnotacja kompozytora: "Finis d. 5. Februari 1856 anno D. | JStefani".]
+@MARC-500a: [pl-text: Na końcu rękopisu stempel: "Komisja Zabezpieczania Zbiorów | i Bibliotek Muzycznych | przewodniczący Adam Chromiński"; adnotacja: Rewindykował VII-47 | [parafka Chromińskiego]."]
+@MARC-500a: [pl-text: Por. z RISM ID. 1001120709.]
+@MARC-591a: inw. 1766
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: T (2), B, vl (2), vla, vlc, cb, fl.picc, fl, ob (2), cl (2), fag (2), cor (4), tr (2), trb (3), timp
+@MARC-599b: full
+@MARC-650a: Funeral music
+@MARC-6500: 25159
+@MARC-852a: PL-Wtm
+@MARC-852d: 10845
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1731
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

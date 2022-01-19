@@ -1,0 +1,83 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001025499
+@MARC-003:	DE-633
+@MARC-005:	20180314173639.0
+@MARC-008:	171101##################################
+@MARC-028a: 45.
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Rondo, Allegretto
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8{'GG}{B''C}/{DD}{ED}/{DxC}{ED}/{DgErD}{8.nC6'A}/8G4B
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Minore
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: ''{qq6DGBr}{8.'''D6C}6{''BAGxF}/{EDC'B}{AGxFA}/{GAB''C}{DnExFG}/{xFDAbE}{DC'BA}/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Majore
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8{'GG}{B''C}/{DD}{ED}/{DxC}{ED}/{DgErD}{8.nC6'A}/8G4B
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Janicki, Mikołaj
+@MARC-100d: 18/19
+@MARC-100j: Ascertained
+@MARC-1000: pe41009558
+@MARC-240a: Rondo z Krakowiaka
+@MARC-240m: pf
+@MARC-240r: G
+@MARC-2400: 5016876
+@MARC-245a: [cover title:] RONDO Z KRAKOWIAKA | /:Alboz-wa-to-iacy-tacy:/ [sic!] | Ułożone na Forte-Piano | przez | M. Janickiego.| w Warszawie | Sztychował A. Płachecki. w Rynku Starego Miasta pod Nm 37.
+@MARC-260a: w Warszawie
+@MARC-260c: [ca. 1816]
+@MARC-2608: 01
+@MARC-300a: 1 part
+@MARC-300c: 25 x 31 cm
+@MARC-3008: 01
+@MARC-500a: Plate number on cover page, bottom left corner: "45."
+@MARC-500a: Editor stamp on bottom of cover page.
+@MARC-590a: pf
+@MARC-590b: p. 3-5
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Rondos (inst.)
+@MARC-6500: 3000036
+@MARC-650a: Krakowiaks
+@MARC-6500: 25539
+@MARC-700a: Płachecki, Antoni
+@MARC-700d: 1850p+
+@MARC-700j: Ascertained
+@MARC-7000: pe41009552
+@MARC-7004: egr
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-852c: mzk/m/199
+@@END:		MARC21
+

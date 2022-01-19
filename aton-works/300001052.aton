@@ -1,0 +1,299 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001052
+@MARC-003:	DE-633
+@MARC-005:	20201029163401.0
+@MARC-008:	140912##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Dixit Dominus. Largo
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: {8''GDDD}{ADDD}/{BGDD}{xCDGB}/{'''C''DA'''C}{''BDGB}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Dixit Dominus. Largo
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: 2'G4AA/2BB/''C4'BB/2A4B''C/2D'B/
+@MARC-031r: G
+@MARC-031t: Rzekł Pan do Pana mego
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Confitebor. Moderato
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: =/8-{''DFD}4'B-/8-{''FFF}{'B''FC''F}/{DFBD}{CFnEbE}/{DDFD}4'B
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Confitebor. Moderato
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2F4GA/2BB/4BAB''C/2''DC/
+@MARC-031r: B|b
+@MARC-031t: Całym Cię sercem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Beatus vir
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 8-{CCC}4F-/8-{DDD}-D-E/-{EGB}{A''CFC}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Beatus vir. Moderato
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C4FC/2C4D'B/2B4A-/2''D4DC/'2B4BA/2'A4G-/
+@MARC-031r: F
+@MARC-031t: Szczęśliwy i nie zna kaźni
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Luadate Pueri
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2''B4FD/'B{8DB}4''D'A/AB''CD/FD{8Cn'B''CD}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Laudate Pueri
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2B4BB/2.''D4'B/AB''CD/FE2C/
+@MARC-031r: B|b
+@MARC-031t: Chwalcie o dziatki
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: In Exitu. Largo
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4''A{8.A6A}4AB/'''C{8.C6C}4''AF/D{8.D6D}4D-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Psalm 113 in Exitu. Largo
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2A4AB/2.''C4'A/''DDDD/2DC/'A4AA/2.B4A/
+@MARC-031r: F
+@MARC-031t: Kiedy z Egiptu
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Laudate Dominum
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: {8FABB}4B-/{8FB''DD}4F-/{8FC}-C{D'B}-''D/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Psalm 116. Laudate Dominum
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C4CF/2DC/4CCD'B/''C'B2A/
+@MARC-031r: F
+@MARC-031t: Boga naszego
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Iste confessor. Adagio
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''CE/4FFF-/-FFD/2DC/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Iste confessor. Adagio
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C'B/A4-''F/2.F4D/2DC/
+@MARC-031r: F
+@MARC-031t: Oto jest wyznawca Pana
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Magnificat
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031o: c/
+@MARC-031p: =/4-''EFD/EGEG/EGC-/-GFE/DGD'B/2G
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031d: Magnificat. Moderato
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031o: c/
+@MARC-031p: 2G4AG/''2C4D'B/2''CC/2-C/C4'B''C/2DD/
+@MARC-031r: C
+@MARC-031t: Wielbi dusza moja Pana
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Salve Regina. Largetto
+@MARC-031g: G-2
+@MARC-031m: cl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2''F{8FFGA}/4.B8F{'''C''AFE}/4.D8'B{B''DDF}/{FDEE}4E-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 2
+@MARC-031d: Salve Regina. Largetto
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2'B4AA/2B''C/4DDDF/FE2E/
+@MARC-031r: B|b
+@MARC-031t: Witay Królowo Matko litości
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Raszek, Wacław
+@MARC-100d: 1848+
+@MARC-100j: Ascertained
+@MARC-1000: pe30020314
+@MARC-240a: Vespers
+@MARC-240m: Coro, orch, org
+@MARC-2400: 3900116
+@MARC-245a: [cover title:] Nieszpory w Oyczystym | Języku. | a Canto 1mo Canto 2do Tenore Basso | Clarinetto 1mo | Clarinetto 2do | Basso Organo. | Muzyka Wacława Raszka | Tłomaczenie Psalmów Fra. Karpińskie | go | Z archi. X. Cybulskiego. | [Za wa[illegible]
+@MARC-260c: 1801-1850 (19.1d)
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 34 x 20 cm
+@MARC-3008: 01
+@MARC-500a: org missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: W partiach S 1, 2 zaburzona kolejność w poszczególnych częsciach]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: u góry po prawej tuszem "N|o 31."; poniżej ołówkiem ręką nieznanego Paulina "N|o 84", skreślono czerwonym tuszem; poniżej wyśrodkowano czerwonym tuszem ręką F. Maletza "N 1313/613"; w prawym górnym rogu ołówkiem ręką W. Świerczka "277" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona czerwoną kredką oraz parafowana]
+@MARC-500a: [pl-text: Na dole okładki f. 1r ołówkiem "21/2"]
+@MARC-500a: Nummerierung auf der b-Stimme: "Ark. 12"
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: S 1, 2, T, B, cl in C and B|b 1, 2, b
+@MARC-590b: 4, 4, 4, 4, 2, 2, 2f.
+@MARC-5908: 01
+@MARC-592a: cl 1, 2, b: [coat of arms] X W / C G BRAUN | IN | BROMBERG
+@MARC-5928: 01
+@MARC-592a: B: [Mary with child in aureola with flames] | [illegible]
+@MARC-5928: 01
+@MARC-592a: S 1, 2, T: [crowned eagle with sceptre and sword with monogram / MARIEWERDER
+@MARC-5928: 01
+@MARC-592a: cover: W A E / [eight-arms star, with circle inside]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S (2), Coro T, Coro B, cl (2), b, org
+@MARC-599b: full
+@MARC-650a: Vespers
+@MARC-6500: 25149
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 32
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1166
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-730a: Nieszpory
+@MARC-730g: RISM
+@MARC-7300: 4037544
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 31
+@MARC-852d: N|o 84
+@MARC-852d: N 1313/613
+@MARC-852d: 278
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-623
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

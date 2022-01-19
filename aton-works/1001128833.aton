@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001128833
+@MARC-003:	DE-633
+@MARC-005:	20210720131639.0
+@MARC-008:	200915##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introdukcja do Mazura
+@MARC-031d: All[egr]o moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: {8''E6'ExD}{EDED}8E-/{''A'6AG}{AGAG}8A-/4xE-E/8F-4F-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Ten mój ostatni!
+@MARC-240m: orch
+@MARC-240r: A
+@MARC-2400: 50238854
+@MARC-245a: [modern title page, in pencil:] Józef Stefani | Mazur z introdukcją | na orkiestrę | Autograf
+@MARC-300a: 1 score: 24 p.
+@MARC-300c: 36,5 × 26,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Por. z RISM ID. 1001128832.]
+@MARC-591a: inw. 1755
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: banda
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl.picc, fl, ob (2), cl (2), fag (2), cor (4), tr (2), trb (3), timp, banda
+@MARC-599b: full
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1719
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

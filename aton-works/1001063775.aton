@@ -1,0 +1,50 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063775
+@MARC-003:	DE-633
+@MARC-005:	20211027135137.0
+@MARC-008:	190227##################################
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Przepióreczka
+@MARC-240m: V, pf
+@MARC-240r: A
+@MARC-2400: 5191843
+@MARC-245a: [caption title:] Dla Elki [space] 21. Przepióreczka / zaklejono papierem) | Z[ahorowski]
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: The beginning of the song is invisible due to a piece of paper glued on the original page. Because of this, entering a music incipit is impossible.
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-691a: KmBN
+@MARC-691n: 1954
+@MARC-6910: lit41001694
+@MARC-700a: Zahorowski, Władysław
+@MARC-700d: 1832-1916
+@MARC-7000: pe41023100
+@MARC-7004: asn
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R240.
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

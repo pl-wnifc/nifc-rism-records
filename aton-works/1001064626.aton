@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001064626
+@MARC-003:	DE-633
+@MARC-005:	20210706141816.0
+@MARC-008:	190308##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: Coro 1: S 2
+@MARC-031o: 3/2
+@MARC-031p: 0-2-''2CC'1B''2C'A''C'B @c/ 1''1C
+@MARC-031t: Alleluia, et gaudebit cor vestrum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Non vos relinquam orphanos
+@MARC-240k: Fragments
+@MARC-240m: V (X)
+@MARC-2400: 3915572
+@MARC-245a: [without title]
+@MARC-260c: 1620-1640
+@MARC-2608: 01
+@MARC-300a: partbooks
+@MARC-300c: 16,5 x 20 cm
+@MARC-3008: 01
+@MARC-500a: The words "Non vos relinquam orphanos" are written under the begining of staff, befor the notes are recorded. The piece was probably sung in alternatim practice.
+@MARC-590a: Coro 1: S 2, 3, B, Coro 2: B
+@MARC-590b: p. 46, 34, 89-90, 102
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: X
+@MARC-594a: V
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred vocal music
+@MARC-6500: 3901631
+@MARC-650a: Versus alleluiatici
+@MARC-6500: 3005779
+@MARC-657a: Ascensio Domini
+@MARC-6570: 24320
+@MARC-710a: Klasztor Benedyktynek w Jarosławiu
+@MARC-710g: Conjectural
+@MARC-7100: ks51002683
+@MARC-7104: fmo
+@MARC-773w: 1001063011
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: L 1643
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

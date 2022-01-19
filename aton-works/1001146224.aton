@@ -1,0 +1,62 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001146224
+@MARC-003:	DE-633
+@MARC-005:	20211011182639.0
+@MARC-008:	210214##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: '9D1FGA2DG1B2AAAAGF4EF2.G4FF{6GA}2B4AG2A
+@MARC-031t: Si ignoras te o pulchra, inter mulieres
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Palestrina, Giovanni Pierluigi da
+@MARC-100d: 1525-1594
+@MARC-100j: Ascertained
+@MARC-1000: pe1904
+@MARC-240a: Si ignoras te o pulchra
+@MARC-240m: V (5)
+@MARC-240r: 1tt
+@MARC-2400: 3928789
+@MARC-245a: [without title]
+@MARC-260c: [1600-1699]
+@MARC-2608: 01
+@MARC-300a: 1 part: 1 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Nad początkiem partii: "5."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Głos altowy z piątego motetu w zbiorze "Motettorum quinque vocibus liber quartus" (Wenecja 1587) autorstwa G. P. Palestriny.]
+@MARC-590a: A
+@MARC-590b: f. 4r-4v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T (2), B
+@MARC-596a: A/I
+@MARC-596b: P 716
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-773w: 1001146217
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.315
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

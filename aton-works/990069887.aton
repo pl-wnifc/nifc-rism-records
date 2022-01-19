@@ -1,0 +1,47 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990069887
+@MARC-003:	DE-633
+@MARC-005:	20181216092637.0
+@MARC-008:	161111##################################
+@MARC-035a: Z 200; ZZ 200
+@MARC-040a: DE-633
+@MARC-100a: Zieleński, Mikołaj
+@MARC-100d: 1550c-1615c
+@MARC-1000: pe30013481
+@MARC-240a: Communions
+@MARC-240m: X V, X i
+@MARC-2400: 4134130
+@MARC-245a: Communiones totius anni quibus in solennioribus festis Sanctae Romanae Ecclesiae uti consuevit ad cantum organi per unam, duas, tres, quattuor, quinque, et sex voces tum instrumentis musicalibus, et vocis resolutione, quam itali gorgia vocant, decantandae. His accesserunt aliquot simphoniae quattuor, quinque, &amp; sex vocum, &amp; tres fantasiae instrumentis musicalibus accommodatae. [Venezia, Giacomo Vincenti]
+@MARC-260c: 1611
+@MARC-2608: 01
+@MARC-300a: part(s)
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: Z 200; ZZ 200
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-710a: Vincenti, Giacomo
+@MARC-7100: ks40011067
+@MARC-7104: pbl
+@MARC-852a: PL-Kc
+@MARC-852e: Muzeum Narodowe w Krakowie. Biblioteka Książąt Czartoryskich
+@MARC-852x: ks30002076
+@MARC-8523: 268927
+@MARC-852c: [no indication]
+@MARC-852q: unvollständig
+@MARC-852a: PL-Kj
+@MARC-852e: Biblioteka Jagiellońska
+@MARC-852x: ks30002079
+@MARC-8523: 268928
+@MARC-852c: [no indication]
+@MARC-852q: S
+@MARC-852a: PL-WRu
+@MARC-852e: Biblioteka Uniwersytecka
+@MARC-852x: ks30002111
+@MARC-8523: 268929
+@MARC-852c: [no indication]
+@MARC-852q: unvollständig
+@@END:		MARC21
+

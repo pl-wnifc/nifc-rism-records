@@ -1,0 +1,117 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001153672
+@MARC-003:	DE-633
+@MARC-005:	20210923121002.0
+@MARC-008:	210416##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: '2BBB / B''1nC / '2G ''C '4BB /
+@MARC-031t: Aeterna Christi munera
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: '2ExFF/ 2.E 4D nCD /
+@MARC-031t: Aeterna Christi munera
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: ,2GxFF / 1G2A / 2GAF /
+@MARC-031t: Aeterna Christi munera
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: ,2ExDD / 4EDnC,,B 2A /
+@MARC-031t: Aeterna Christi munera
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B rip
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: ,2ExDD / 4EDnC,,B 2A /
+@MARC-031t: Aeterna Christi munera
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-130a: Aeterna Christi munera
+@MARC-130m: SATB Brip
+@MARC-1300: 3923819
+@MARC-245a: [page title:] De Sstis Apostolis | HYMNUS | à 4 Voci | Canto. Alto. Tenore. Basso. | Aeterna Christi Munera | Opus nobile | Pro Capella Regia | O. ad M. D. Gm. Eccl [?] Cath. Crac.
+@MARC-260a: Cracow
+@MARC-260c: XVII-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score: 5 f.
+@MARC-300a: 5 parts
+@MARC-300c: 16,2 x 19,8 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na wewnętrznej stronie obwoluty fragment drukowanego tekstu oraz zapisu obcego utworu]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na wewnętrznej stronie obwoluty okrągła pieczęć: „ARCHIWUM I BIBLIOTEKA * Krakowskiej Kapituły Katedralnej”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na kartach 1r, 2r, 3r, 4r, 5r owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na karcie 5v fragment obcego utworu wokalnego]
+@MARC-5008: 01
+@MARC-590a: S
+@MARC-590b: f. 1r-1v
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 2r-2v
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 3r-3v
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 4r-4v
+@MARC-5908: 01
+@MARC-590a: B rip
+@MARC-590b: f. 5r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, B rip
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.119
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

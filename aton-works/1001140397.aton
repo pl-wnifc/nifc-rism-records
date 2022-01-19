@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001140397
+@MARC-003:	DE-633
+@MARC-005:	20210923121020.0
+@MARC-008:	201220##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: T 1
+@MARC-031o: c
+@MARC-031p: 488442444.8442488''C'B''CDE/GFE/DDED/CDD-/
+@MARC-031r: C
+@MARC-031t: Boga Rodzico Dziewico
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: T 2
+@MARC-031o: c
+@MARC-031p: 488442444.8442488GGGGbB/''CCC/'AABB/GBB-/
+@MARC-031r: C
+@MARC-031t: Boga Rodzico Dziewico
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B 1
+@MARC-031o: c
+@MARC-031p: 488442444.8442488,EDEFG/AbAG/xFFnFF/EGG-/
+@MARC-031r: C
+@MARC-031t: Boga Rodzico Dziewico
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B 2
+@MARC-031o: c
+@MARC-031p: 488442444.8442488,CCCCC/CCC/CCCC/C,,GG-/
+@MARC-031r: C
+@MARC-031t: Boga Rodzico Dziewico
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Anonymus
+@MARC-100j: Ascertained
+@MARC-1000: pe30004985
+@MARC-240a: Boga Rodzico Dziewico
+@MARC-240m: Coro
+@MARC-240r: C
+@MARC-2400: 4317183
+@MARC-245a: Boga Rodzico głosy męzkie
+@MARC-260c: 1864
+@MARC-2608: 01
+@MARC-300a: score, 4 p.
+@MARC-300c: 24,5 cm x 31,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na pierwszej stronie inskrypcja: Kasper | Molęcki | 1864.]
+@MARC-500a: [pl-text: Druga strona odwrócona o 180 stopni.]
+@MARC-500a: [pl-text: Na pierwszej, drugiej i trzeciej stronie zanotowane przygrywki na instrument klawiszowy, a także początek niezidentyfikowanego utworu na chór męski.]
+@MARC-500a: [pl-text: Pieczęć okrągła: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” na pierwszej stronie rękopisu.]
+@MARC-500a: [pl-text: Pieczątka "CATH. CRAC. * ARCH. CAPIT." na dole pierwszej, trzeciej i czwartej strony.]
+@MARC-500a: [pl-text: Sygnatura Kk.I.483 ołówkiem pośrodku dużej, okrągłej pieczęci na pierwszej stronie rękopisu.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-590a: Score
+@MARC-590b: 2
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 2
+@MARC-594a: T (2), B (2)
+@MARC-599b: full
+@MARC-650a: Sacred vocal music
+@MARC-6500: 3901631
+@MARC-700a: Molęcki, Kasper
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30086550
+@MARC-7004: scr
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.483
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

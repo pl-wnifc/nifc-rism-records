@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001088053
+@MARC-003:	DE-633
+@MARC-005:	20211027135212.0
+@MARC-008:	190929##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: flautino
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4''B8-{BF'''D}/4''B8-6{BB}{8F'''D}/4C8-8{C''F'''E/4C8-6{CC}{8''F'''E}/8{D6DD}8D4F6{(EDC)}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: bassi
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 8,,{B6,DF}4B4-/6{,,B,DFD}4,,B4-/8{,F6A'C}4F4-/{6,FA'C,A}4F4-/8{,,B,BBB}{AA}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kurpiński, Karol Kazimierz
+@MARC-100d: 1785-1857
+@MARC-100j: Ascertained
+@MARC-1000: pe30018952
+@MARC-240a: Polonaises
+@MARC-240m: strings, woodwinds, brass, percussion
+@MARC-2400: 3900011
+@MARC-245a: [caption title:] [illegible] Polonez nr ["nr" doubly underlined] 2. na dzień 9. maia [illegible] w doroczną uroczystość urodzin R: Cesarzewica W: X: Konstantyna : | grany w tenże dzień na balu JO: X: Namiestnika | skomponowany p ["p" doubly underlined] K: Kurpińskiego
+@MARC-260c: 1825
+@MARC-2608: 01
+@MARC-300a: 1 score: 8 p.
+@MARC-300c: 24,0 x 38,5 cm
+@MARC-3008: 01
+@MARC-591a: Inw.780
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594b: flautino
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594b: contra-fag
+@MARC-594b: cor in E|b
+@MARC-594c: 2
+@MARC-594b: tr in B|b
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594b: timp in F and B|b
+@MARC-594b: bassi
+@MARC-594a: vl (2), vla, flautino, cl in B|b (2), fag, contra-fag, cor in E|b (2), tr in B|b (2), trb, timp in F and B|b, bassi
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-700a: Konstantin, Großfürst von Russland
+@MARC-700d: 1779-1831
+@MARC-700j: Ascertained
+@MARC-7000: pe30101399
+@MARC-7004: oth
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1029|2
+@@END:		MARC21
+

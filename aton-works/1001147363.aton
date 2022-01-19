@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001147363
+@MARC-003:	DE-633
+@MARC-005:	20210720131610.0
+@MARC-008:	210221##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Polacca maestoso.
+@MARC-031g: G-2
+@MARC-031m: Coro V 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4''E8'BBGE/''C6{CE}2'B/8A6{AB}2G/8F6{FG}2E/
+@MARC-031r: E|b
+@MARC-031t: Zielona łąka piękny kwiat
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Polacca maestoso.
+@MARC-031g: F-4
+@MARC-031m: Coro V 4
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4,E8E,,GB,C/,,A,C4ED/8C,,B4nB,C/8,,AB{,E,,B},CD/
+@MARC-031r: E|b
+@MARC-031t: Zielona łąka piękny kwiat
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Noskowski, Zygmunt
+@MARC-100d: 1846-1909
+@MARC-1000: pe106604
+@MARC-240a: Zielona łąka
+@MARC-240m: Coro
+@MARC-240r: D|b
+@MARC-2400: 50247086
+@MARC-245a: [caption title:] Zielona łąka.
+@MARC-260c: 1850-1909
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 32,0 x 25,0 cm
+@MARC-3008: 01
+@MARC-591a: inw. 2013
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V coro
+@MARC-594c: 4
+@MARC-594a: V coro (4)
+@MARC-599b: full
+@MARC-650a: Partsongs
+@MARC-6500: 25460
+@MARC-773w: 1001147365
+@MARC-852a: PL-Wtm
+@MARC-852d: 9289
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 250/N
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

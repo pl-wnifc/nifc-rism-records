@@ -1,0 +1,70 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001155724
+@MARC-003:	DE-633
+@MARC-005:	20211004084907.0
+@MARC-008:	210511##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante molto
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFCGDA
+@MARC-031o: 4/4
+@MARC-031p: =/8-GAB4''D8xxC'A/4''D8'B''D4xxC8'AB/
+@MARC-031r: B
+@MARC-031t: Polały się łzy me czyste
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante molto
+@MARC-031g: F-4
+@MARC-031m: pf
+@MARC-031n: xFCGDA
+@MARC-031o: 4/4
+@MARC-031p: 2,GG/2.4GA/2B'xC/DG
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Paderewski, Ignacy Jan
+@MARC-100d: 1860-1941
+@MARC-1000: pe30029943
+@MARC-240a: Polały się łzy me czyste, rzęsiste
+@MARC-240m: V, pf
+@MARC-240n: 18/1
+@MARC-240r: B
+@MARC-2400: 50251080
+@MARC-245a: "Polały się łzy me czyste, rzęsiste" | J. J. Paderewski. op 18. N 1.
+@MARC-260c: [after 1860]
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 2 p.
+@MARC-3008: 01
+@MARC-383b: 18/1
+@MARC-506a: Magazyn Biblioteki
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Vocal pieces
+@MARC-6500: 25275
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-773w: 1001155722
+@MARC-852a: PL-Wumfc
+@MARC-852e: Biblioteka Główna Uniwersytetu Muzycznego Fryderyka Chopina
+@MARC-852x: ks30070232
+@MARC-852c: R244
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

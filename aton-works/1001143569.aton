@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001143569
+@MARC-003:	DE-633
+@MARC-005:	20211109092707.0
+@MARC-008:	210123##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Tractus
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/2
+@MARC-031p: 2''EED/1E2E/1E2D/
+@MARC-031t: Gaude gaude gaude Maria Virgo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Tractus
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBEA
+@MARC-031o: 3/2
+@MARC-031p: 2GGF/1G2F/FF/
+@MARC-031r: E|b
+@MARC-031t: Gaude Maria virgo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Tractus
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: 3/2
+@MARC-031p: 2,BBB/1B'2C/1,B2B/
+@MARC-031r: E|b
+@MARC-031t: Gaude Maria virgo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-130a: Tractus
+@MARC-130m: Coro
+@MARC-1300: 5037021
+@MARC-245a: [from parts:] Tractus
+@MARC-260c: 1670
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 28 x 21 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: foliacja dopisana ołówkiem]
+@MARC-5008: 01
+@MARC-590a: Coro: S, A, T
+@MARC-590b: 1, 1, 1 p.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-6910: lit41000579
+@MARC-773w: 1001143381
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.385
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

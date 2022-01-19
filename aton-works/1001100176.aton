@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001100176
+@MARC-003:	DE-633
+@MARC-005:	20211119132259.0
+@MARC-008:	200108##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEAD
+@MARC-031o: c
+@MARC-031p: 2-''E/4C8'{BA}4GA/2B4''C8-C/
+@MARC-031r: A|b
+@MARC-031t: Inclina aurem tuam
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Psalm „Inclina aurem Tuam”
+@MARC-240m: V, org
+@MARC-2400: 50222879
+@MARC-245a: [no title]
+@MARC-246a: [conservational title:] Psalm 85: | „Inclina aurem Tuam” | Partytura | Autograf
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 4 p.
+@MARC-300c: 33 x 25 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na s. 1 i s. 4 pieczęć: "Towarzystwo Muzyczne | S. Moniuszki | Sekcja imienia]
+@MARC-591a: inw. 152
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: V, org
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 280/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

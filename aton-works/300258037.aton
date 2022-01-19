@@ -1,0 +1,229 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258037
+@MARC-003:	DE-633
+@MARC-005:	20210923120912.0
+@MARC-008:	130408##################################
+@MARC-031a: 21
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+3
+@MARC-031m: Discantus (= A)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 09--/1-2-1'D2D/1bED1.'G2F1EE/2.D4EFG1A2G
+@MARC-031r: 2tt
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0--/1-2-1,G2G1B2A1'D4C,nB1'CD/9-1.,A2A/
+@MARC-031r: 2tt
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.,G2G/1BA/1.'D2C/2.D4C,BA1B2A/G1'C4,BA1G
+@MARC-031r: 2tt
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,1.D2D/1bED/1.G2FbEC9,,G1,D,,A/
+@MARC-031r: 2tt
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C+3
+@MARC-031m: Discantus (= A)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-1.D2D/1FEDC/1.,B2B/A1'D2D
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/1.,B2G/2.F4G2AA/1FF1.D2D1D
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.,G2G/1B2A1'D2C/1,BA1.G2G/1xF1.B2B/
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 2
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,,1.G2G1,D,,AB/F1.G2G/1,D1.G2G/AA2.B4A/1G2F
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: Discantus (= A)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/'G2GGEG/1F2EE/1D2E2.F4F2E/1D9E
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: Altus (= T)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/,B2B1G2.'C4C2C/CC,AnB/'C2.D4D1C
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 3
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1'D2DD/,B'D1C,A/2GG1F/2G2.B4B2G/
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: Discantus (= A)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9'DD/1.E2xF1GD9(D)//D1E/
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: Altus (= T)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9,GxF1G/A2.B4A/1.G4xFE9x(F)
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 4
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9,B1.A2nB/9'C2.D4C1,B9(A)//9nB1'C
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: Discantus (= A)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-1.'D2D1F2EE/1.G2F1E/2DD1D9D
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: Altus (= T)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/,B2G1'D,A2A/1'D2DD/,G2.A4G1G2xF/G
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 21
+@MARC-031b: 5
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1.,G2G/1B2AA/1.'C2,B/4AGAB1'C2,BB/1AB/
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Lilius, Franciszek
+@MARC-100d: 1657+
+@MARC-100j: Ascertained
+@MARC-1000: pe30020509
+@MARC-240a: Missa a 4 voci
+@MARC-240m: V (4)
+@MARC-240r: 2tt
+@MARC-2400: 50245722
+@MARC-245a: [T, B:] Missa A 4. Voc. | Francisci Lilij
+@MARC-300a: 4 partbooks
+@MARC-300c: 21 cm x 27,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Inskrypcje na początku partii Discantus i A, kolejno "Francisci Lilij a 4. Voc." i "Missa Francisci Lilij. Tenor 2dus".]
+@MARC-500a: The copy of the part-B (without Patrem) sign.Mus.I.2b (old sign.Ch.145/5)
+@MARC-590a: Discantus, A, T, B
+@MARC-590b: f.44r-48r, 46r-50v, 43v-48r, 43v-47r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŹHMP 31
+@MARC-6910: lit30027190
+@MARC-691a: Głuszcz-ZwolińskaW 1972
+@MARC-6910: lit2816
+@MARC-700a: Copyist H
+@MARC-700j: Ascertained
+@MARC-7000: pe30097131
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258016
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

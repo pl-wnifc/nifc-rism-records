@@ -1,0 +1,69 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001064622
+@MARC-003:	DE-633
+@MARC-005:	20210706140111.0
+@MARC-008:	190308##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: Coro 1: S 2
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1''D2.D4D2.E4F9GF1E2EA2.G4G1bE
+@MARC-031t: Nativitas tua Dei genitris Virgo
+@MARC-031t: Visitatio tua Dei genitris Virgo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Nativitas tua Dei genetrix
+@MARC-240m: V (8)
+@MARC-2400: 4270843
+@MARC-245a: [caption title, Coro 1: S 1, Coro 2: B:] Pro Festo Nativitatis B.M.V. ad Magnificat, Pro Festo | Nativitatis | et Visitaitonis | BMV.
+@MARC-260c: 1620-1640
+@MARC-2608: 01
+@MARC-300a: partbooks
+@MARC-300c: 16,5 x 20 cm
+@MARC-3008: 01
+@MARC-500a: The word "Visitatio" is written under the word "Nativitas", the remaining text is the same.
+@MARC-590a: Coro 1: S 1, 2, 3, B, Coro 2: S 1, 2, A, B
+@MARC-590b: p. 64-65, 64-65, 63-64, 60-61, 61-62, 62-63, 62-63, 62-63
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 8
+@MARC-594a: V (8)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Sacred vocal music
+@MARC-6500: 3901631
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-657a: Mariae (B.V.) Nativitas
+@MARC-6570: 24304
+@MARC-657a: Mariae (B.V.) Visitatio
+@MARC-6570: 24397
+@MARC-710a: Klasztor Benedyktynek w Jarosławiu
+@MARC-710g: Conjectural
+@MARC-7100: ks51002683
+@MARC-7104: fmo
+@MARC-730a: Visitatio tua Dei genitris Virgo
+@MARC-730g: RISM
+@MARC-7300: 50254350
+@MARC-773w: 1001063011
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: L 1643
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

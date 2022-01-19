@@ -1,0 +1,65 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001097416
+@MARC-003:	DE-633
+@MARC-005:	20211027135218.0
+@MARC-008:	191207##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro Moderato.
+@MARC-031g: C-1
+@MARC-031m: V 1 coro
+@MARC-031o: c
+@MARC-031p: =2/2''C4'B8{AG}/2''GF/4.E8E4E-/4.E8E4E-/4FED'A/
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro Moderato.
+@MARC-031g: F-4
+@MARC-031m: V 4 coro
+@MARC-031o: c
+@MARC-031p: =1/'2C4,B8{AG}/4'C,EFF/2ED/4.C8C4C-/4.A8,,A4A-/
+@MARC-031t: Gloria in excelsis Deo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Gloria
+@MARC-240m: coro
+@MARC-2400: 3019056
+@MARC-245a: [caption title:] „Gloria.”
+@MARC-260c: 1839-1840
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 24,5 x 32,5 cm
+@MARC-3008: 01
+@MARC-591a: R 759
+@MARC-591a: 287
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V 1 coro
+@MARC-594b: V 2 coro
+@MARC-594b: V 3 coro
+@MARC-594b: V 4 coro
+@MARC-594a: V 1 coro, V 2 coro, V 3 coro, V 4 coro
+@MARC-599b: full
+@MARC-650a: Chorwerke
+@MARC-6500: 3900496
+@MARC-700a: Zahorowski, Władysław
+@MARC-700d: 1832-1916
+@MARC-700j: Ascertained
+@MARC-7000: pe41023100
+@MARC-7004: oth
+@MARC-773w: 1001097411
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: 759/M
+@@END:		MARC21
+

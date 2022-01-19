@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001114496
+@MARC-003:	DE-633
+@MARC-005:	20210720131945.0
+@MARC-008:	200508##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: S1
+@MARC-031o: c
+@MARC-031p: =13/2-4-8.6''CC/4.F8C4DC/4.n'B6''CD4C8.6C'A/
+@MARC-031r: F
+@MARC-031t: Opatrzności dzięki chwała Nową radość nam zesłała
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: no indication (vl?)
+@MARC-031o: c
+@MARC-031p: 4.66C{EG}''C{EG}/4'''C
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: Opatrzności dzięki, chwała
+@MARC-240m: V, coro
+@MARC-240r: C
+@MARC-2400: 50231474
+@MARC-245a: [title page:] Głos do Repetycyi | Chórów dla | P. Kracera. | Kantata | na | Uroczystość obchodu srebrnego wesela | N[ajjaśniejszego] P.[ana, Mikołaja I] | Poezya A.[dama] L.[udwika] Dmuszewskiego | z Muzyką J. Stefaniego | dnia 11. Czerwca | 1842 roku
+@MARC-260c: 1842-06-11
+@MARC-2608: 01
+@MARC-300a: 1 score: 12 p.
+@MARC-300c: 32 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Dawna sygnatura wykreślona ołówkiem.]
+@MARC-500a: [pl-text: Stemple "BIBLJOTEKA | Warszawskiego | Tow. Muzycznego".]
+@MARC-500a: [pl-text: Rękopis sporządzony na papierze z wydrukowanymi pięcioliniamioraz informacją: "w Lit. F. Schuster przy Ulic: Krak: Przed: № 426."]
+@MARC-591a: Inw. 1703
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro A
+@MARC-594c: 2
+@MARC-594b: T coro
+@MARC-594c: 2
+@MARC-594b: B coro
+@MARC-594c: 2
+@MARC-594b: no indication
+@MARC-594c: 1
+@MARC-594a: Coro S (2), Coro A (2), T coro (2), B coro (2), no indication
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-700a: Nikolaj I., Imperator Rossii
+@MARC-700d: 1796-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe162943
+@MARC-7004: dte
+@MARC-700a: Dmuszewski, Ludwik Adam
+@MARC-700d: 1777-1847
+@MARC-700j: Ascertained
+@MARC-7000: pe30040686
+@MARC-7004: lyr
+@MARC-700a: Kratzer, Walenty
+@MARC-700d: 1780-1855
+@MARC-700j: Conjectural
+@MARC-7000: pe50042502
+@MARC-7004: prf
+@MARC-852a: PL-Wtm
+@MARC-852d: 10993
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1649
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

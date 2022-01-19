@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000578
+@MARC-003:	DE-633
+@MARC-005:	20201029163348.0
+@MARC-008:	110909##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: {8,BB}/2'E4-{8,BB}/2'E4-{8,BB}/4'EGBG/EE2-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kasprzykowski, Ignacy
+@MARC-100d: 1852+
+@MARC-100j: Ascertained
+@MARC-1000: pe30098316
+@MARC-240a: Symphonies
+@MARC-240m: orch, timp, org
+@MARC-240r: E|b
+@MARC-2400: 3900027
+@MARC-245a: [cover title, vl 1] Syfonia[!] in Dis | Violino Primo Violino Secundo | Clarinetto Primo | Clarinetto. Secundo | Cornu Primo Cornu Secundo | Alto Viola | Organo Cum Tympano, Atchore Ignati Kasprzykowski D=[irectore] M:[usices] Militaris.
+@MARC-260c: 1801-1850 (19.1d)
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 23,5 x 31,5 cm
+@MARC-3008: 01
+@MARC-500a: Top right with pencil by unknown Pauline monk's hand "N|o 148" and crossed out with red ink by F. Maletz's hand; above on the right later with red ink by F. Maletz's hand "N 62"; on the top middle later with pencil by W. Świerczek's hand "780" in a circle
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: ołówkiem ręką nieznanego Paulina "N|o 148", skreślone czerwonym tuszem; powyżej z prawej dodane później czerwonym tuszem ręką F. Maletza "N 62"; u góry w środku dodane później ołówkiem ręką W. Świerczka "780" w owalnym kółku]
+@MARC-500a: At the bottom right on the cover there is round stamp: "* ARCHIVUM * C. M. C."
+@MARC-500a: [pl-text: W prawym dolnym rogu okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: Komponistenvermerk auf der vl 1-Stimme: "Compose Kasprzykowski"
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: vl 1, 2, vla, cl 1, 2, cor 1, 2, timp, org
+@MARC-590b: 2, 1, 1, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [without watermarks]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, cl (2), cor (2), timp, org
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 35
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.679
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 148
+@MARC-852d: N 62
+@MARC-852d: 780
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-79
+@@END:		MARC21
+

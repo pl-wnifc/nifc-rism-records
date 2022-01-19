@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001063786
+@MARC-003:	DE-633
+@MARC-005:	20211027135139.0
+@MARC-008:	190227##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegretto.
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =2//:'8GB4A''C/'8FA4AG/8F6{GF}4D,B/'8EG4.B8A
+@MARC-031r: E|b
+@MARC-031t: Cudnie cudnie słowik śpiewa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegretto.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4'G^E^,B^G'G^E^,B^G'G^E^,B^G/8{'G^E,B^G}4'G^E^,B^G'G^E^,B^G//:'G^E^,B'A^F^CA^F^C/F^D^,VB'A^F^D^,B'F^D^,B/-'F^D^,B^A'F^D^,B^A/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-1000: pe30008351
+@MARC-240a: Skowronek
+@MARC-240m: V, pf
+@MARC-240r: E|b
+@MARC-2400: 5191853
+@MARC-245a: [caption title:] K. B. | 32. Skowronek. (: II|g|i:) Piosnka rolnika.
+@MARC-260c: ca 1855
+@MARC-2608: 01
+@MARC-300a: 1 score: 2 p.
+@MARC-300c: 27,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: In the left upper corner of page 76 there is an annotation indicating additional title: "drukowany | pt. Skowronek i słowik".
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-691a: KmBN
+@MARC-691n: 2150
+@MARC-6910: lit41001694
+@MARC-700a: Brodziński, Kazimierz Maciej Józef
+@MARC-700d: 1791-1835
+@MARC-7000: pe301196
+@MARC-7004: lyr
+@MARC-730a: Skowronek i słowik
+@MARC-730g: RISM
+@MARC-7300: 5196453
+@MARC-773w: 1001063757
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 250.
+@MARC-980a: RISM
+@MARC-980b: standard
+@MARC-980c: examined
+@@END:		MARC21
+

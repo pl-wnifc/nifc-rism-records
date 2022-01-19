@@ -1,0 +1,62 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001141397
+@MARC-003:	DE-633
+@MARC-005:	20210923120949.0
+@MARC-008:	201231##################################
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Vogel
+@MARC-100j: Alleged
+@MARC-1000: pe30003636
+@MARC-240a: Missa solemnis
+@MARC-240m: Coro, orch, org
+@MARC-240r: b|b
+@MARC-2400: 50101629
+@MARC-245a: [?]
+@MARC-260c: [18th c.]
+@MARC-2608: 01
+@MARC-300a: 14 parts; 61 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: na końcu części partii podpis skryptora: "Jan [...]ba[...]y".]
+@MARC-500a: [pl-text: na 54r tytuł i obsada ręką skryptora głównego.]
+@MARC-500a: [pl-text: Foliacja w źródle naniesiona ołówkiem.]
+@MARC-500a: [pl-text: Sygnatura ołówkiem na początku każdej partii.]
+@MARC-500a: [pl-text: Pieczęć: „CATH. CRAC. * ARCH. CAPIT.” na pierwszych i ostatnich stronach każdej partii.]
+@MARC-590a: S; A; T; B; vl 1; vl 2; vla; ob 1; ob 2; clno solo; clno 1; clno 2; timp; org
+@MARC-590b: 34r-39v; 40r-43v; 44r-47v; 48r-49v; 50r-51v; 52r-53v; 54r-55v; 56r-61v;
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), vla, ob (2), clno (3), timp, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.477
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

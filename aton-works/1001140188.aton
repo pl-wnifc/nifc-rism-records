@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001140188
+@MARC-003:	DE-633
+@MARC-005:	20210923121018.0
+@MARC-008:	201218##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: S/ T1 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4FGA''C/,'BA2G/4AFBA/
+@MARC-031r: F
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: T2 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4'FEFF/DF2E/4FDEF/
+@MARC-031r: F
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B2 coro
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4,FCFA/BF2'C/4,FBGF/
+@MARC-031r: F
+@MARC-031t: Kyrie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Singenberger, Johann Baptist
+@MARC-100d: 1848-1924
+@MARC-100j: Ascertained
+@MARC-1000: pe30008527
+@MARC-240a: Msza
+@MARC-240m: Coro: S/T1, T2, B2
+@MARC-240r: F
+@MARC-2400: 50243883
+@MARC-245a: Msza na 3 głosy na cześć S|t|e|g|o Aloysego
+@MARC-260c: [1800-1899]
+@MARC-2608: 01
+@MARC-300a: 3 partbooks
+@MARC-300c: 24 x 23 cms
+@MARC-3008: 01
+@MARC-590a: Coro: S/T1, T2, B2
+@MARC-590b: 2, 2, 2 f
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro: S/T1
+@MARC-594c: 1
+@MARC-594b: Coro: T2
+@MARC-594c: 1
+@MARC-594b: Coro: B2
+@MARC-594c: 1
+@MARC-594a: Coro: S/T1 , Coro: T2, Coro: B2
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773w: 1001139027
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.382
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

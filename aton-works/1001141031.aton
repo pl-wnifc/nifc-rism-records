@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001141031
+@MARC-003:	DE-633
+@MARC-005:	20210923121023.0
+@MARC-008:	201228##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2-4-8.'A6G/4F8C6-''C4C8.'A6F/8{(FEG)}4B-C/C8.F6A{8.A6G}8.A6G/4FE
+@MARC-031r: F
+@MARC-031t: Domine clamavi ad te exaudi me
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Largo
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2-4-8.'A6G/4F8C6-''C4C8.'A6F/8{(FEG)}4G-C/C8.F6A{8.A6G}8.A6G/4FE
+@MARC-031r: F
+@MARC-031t: Domine clamavi ad te exaudi me
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Graduale
+@MARC-240m: S, A
+@MARC-240r: F
+@MARC-2400: 3907336
+@MARC-245a: 1|m Graduale
+@MARC-260c: [19th c.]
+@MARC-2608: 01
+@MARC-300a: 2 parts; 2 f.
+@MARC-300c: 32 cm x 24,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Rękopis niekompletny.]
+@MARC-500a: [pl-text: Kontrafaktura chóru z III aktu (nr 458) z Nabucco G. Verdiego.]
+@MARC-590a: S, A
+@MARC-590b: 1r-1v, 3r-3v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594a: S, A
+@MARC-599b: full
+@MARC-650a: Graduals
+@MARC-6500: 25239
+@MARC-700a: Verdi, Giuseppe
+@MARC-700d: 1813-1901
+@MARC-700j: Ascertained
+@MARC-7000: pe137994
+@MARC-7004: cmp
+@MARC-773w: 1001141030
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.484
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

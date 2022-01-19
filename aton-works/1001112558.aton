@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001112558
+@MARC-003:	DE-633
+@MARC-005:	20210720131859.0
+@MARC-008:	200420##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: I. Maestoso
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 4''A{8GF}{xEFGA}/4B'''D2C/4F{8ED}{C''AB'''D/4CC2''F/
+@MARC-031r: f|x
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: II. Romanza
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: 6/8
+@MARC-031p: 4.''DC/{8.D6CDF}4A{6FD}/4E6{xDE}8{GFE}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Finale.
+@MARC-031d: III. Allegro Finale.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: 8-{''CCC/{x'B''xB'''C''C/8-{''CCC/{x'B''xB'''C''C/
+@MARC-031r: f|x
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Śmietański, Emil Władysław
+@MARC-100d: 1845-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe50041781
+@MARC-240a: Concertos
+@MARC-240k: Fragments
+@MARC-240m: pf, orch
+@MARC-240n: Op. 25
+@MARC-240r: f|x
+@MARC-2400: 3900213
+@MARC-245a: [caption title:] Grand Concert. – | pour Piano seul. – [space] [in red pencil: op 25] 1869 | Composé par | Emil Śmietański. –
+@MARC-260c: 1869
+@MARC-2608: 01
+@MARC-300a: 1 piano part
+@MARC-300c: 33 x 26,5 cm
+@MARC-3008: 01
+@MARC-383b: Op. 25
+@MARC-500a: [pl-text: Ostatnie trzy strony rękopisu puste.]
+@MARC-590a: pf
+@MARC-590b: 44 p.
+@MARC-5908: 01
+@MARC-591a: inw. 974
+@MARC-591a: mf. 24101
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Concertos
+@MARC-6500: 25176
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2031
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

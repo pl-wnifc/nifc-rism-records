@@ -1,0 +1,47 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001083995
+@MARC-003:	DE-633
+@MARC-005:	20211027135240.0
+@MARC-008:	190902##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 2/4
+@MARC-031p: {8''EE}/{EDC'B}/{''CCC'A}/{''EEEC}/{'BB''ED}/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Łodwigowski, Edward Stefan
+@MARC-100d: 1815-1895
+@MARC-100j: Ascertained
+@MARC-1000: pe30111147
+@MARC-240a: Mój tatulo mawiał sobie
+@MARC-240m: pf
+@MARC-240r: a
+@MARC-2400: 5200610
+@MARC-245a: [caption title:] Mój Tatulo mawiał sobie. J. Elsnera
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 keyboard score: 1 p.
+@MARC-300b: p. 5
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: pf
+@MARC-599b: full
+@MARC-650a: Piano music
+@MARC-6500: 3902024
+@MARC-773w: 1001083960
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1226
+@@END:		MARC21
+

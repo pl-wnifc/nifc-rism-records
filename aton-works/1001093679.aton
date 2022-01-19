@@ -1,0 +1,100 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001093679
+@MARC-003:	DE-633
+@MARC-005:	20211027135226.0
+@MARC-008:	191113##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Mazur weselny
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/8
+@MARC-031p: =1/8--8,B/6{'C3-D}8{EF}/{GAB}/{6''C3-D}8{EF}/G4'''C''^E/{6A'''C''^C}4'''C^''C/{6G'''C''^C}4'''C^''C/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Mazur weselny
+@MARC-031g: F-4
+@MARC-031m: cb
+@MARC-031o: 3/8
+@MARC-031p: 6{,G^C3-G^C}8{G^CG^C}/4.G^C/6{,G^C3-G^C}8{G^CG^C}/4.G^C/{6{C3-C}8{CC}/8C4C/8F4C/8C4C/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Mazur weselny
+@MARC-240m: orch
+@MARC-2400: 5219363
+@MARC-245a: [title page:] Dla Sekcyi Moniuszkowskiej. | Weselny Mazur | skomp: na 4 ręce [by other hand:] i dedykowany Aleksandrowi Wańkowiczowi | przez | Stanisława Moniuszkę | instrumentowany przez Ludwika Grossmana
+@MARC-260a: Seelisberg
+@MARC-260c: 1896-08-30
+@MARC-2608: 01
+@MARC-300a: 1 score: 24 p.
+@MARC-300c: 35.5 x 27.0 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Opis karty tytułowej: w prawnym górnym rogu znajduje się pieczątka Towarzystwa Muzycznego. Sekcji im. S. Moniuszki. Z prawej strony pieczęci zapisana jest data: 18/9 96. Pod datą znajduje się nieczytelny podpis. Pod pieczęcią zapisana jest informacja: "głosów 29". W lewym górnym rogu znajdują się informacje dotyczące wykonań utworu. Pod tytułem została dopisana informacja: "Rękopis | L. Grossmana". Na okładce znajduje się opis: ["Mazur weselny." | St. Moniuszki | instrumentowany | na Orkiestrę przez L. Grossmana | rękopis]. Strony 23-24 w rękopisie są niezapisane.]
+@MARC-591a: inw 524
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 4
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: tb
+@MARC-594c: 1
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594b: triangle
+@MARC-594c: 1
+@MARC-594b: gran cassa
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, vlc, cb, fl, fl.picc, ob (2), cl (2), fag (2), cor (4), tr (2), trb (3), tb, timp, tamb, triangle, gran cassa
+@MARC-599b: full
+@MARC-650a: Mazurs
+@MARC-6500: 25542
+@MARC-700a: Grossman, Ludwik
+@MARC-700d: 1835-1915
+@MARC-700j: Ascertained
+@MARC-7000: pe30020193
+@MARC-7004: arr
+@MARC-700a: Wańkowicz, Aleksander
+@MARC-700d: 1823-1872
+@MARC-700j: Ascertained
+@MARC-7000: pe41024977
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 839|1
+@@END:		MARC21
+

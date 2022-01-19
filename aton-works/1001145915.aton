@@ -1,0 +1,143 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001145915
+@MARC-003:	DE-633
+@MARC-005:	20210923121106.0
+@MARC-008:	210210##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: Organo
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ,4DFE / D 4- G / DDD / DDD /
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Canto
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''2.D / 4D'AB / BA ''D / 4D'AB /
+@MARC-031t: Beatus vir
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-1
+@MARC-031m: Canto di ripieno
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =59 / ''2. E /4 E'B''C / C'B''E /
+@MARC-031t: Beatus vir
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-3
+@MARC-031m: Alto
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =30 / '2.A / 4AEF / FEA /
+@MARC-031t: Beatus vir
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: C-3
+@MARC-031m: Alto di ripieno
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 1- / '2.xG / 2xG 4A / 4A xGG / 2xG 4A /
+@MARC-031t: Beatus vir
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 6
+@MARC-031g: C-4
+@MARC-031m: Tenore di Ripieno
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =59 / ,2.B / 4B '2E / 2E 4E / 2E 4E /
+@MARC-031t: Beatus vir
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 7
+@MARC-031g: F-4
+@MARC-031m: Basso di Ripieno
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =59 / ,2.E / 2E 4A / ,2E 4E / 2E 4A /
+@MARC-031t: Beatus vir
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Constanzi
+@MARC-100j: Alleged
+@MARC-1000: pe50046616
+@MARC-240a: Beatus vir
+@MARC-240m: S, S rip, A, A rip, T rip, B rip, org
+@MARC-2400: 3023296
+@MARC-245a: [page title:] [w prawym górnym rogu, przekreślone:] 555 | Beatus vir à [?] | Canto, Alto con Ripieno | Organo | Del Sign. [?] Batta Constanzi
+@MARC-260a: Cracow
+@MARC-260c: XVII-XIX
+@MARC-2608: 01
+@MARC-300a: 1 score: 48 f.
+@MARC-300c: 24,5 x 18,4 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na kartach 1v, 6v, 7r, 8r, 9r, 10r, 11r, 11v, 13v, 18v, 19v, 20r, 21r, 22r, 23r, 25v, 30r, 31v, 33r, 34r, 35r, 36r 37v, 38r, 39r, 40r, 41r, 42r, 43v, 44r, 45r, 46r, 47r, 48r owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-520a: 1 score
+@MARC-590a: Organo
+@MARC-590b: f. 1v-11v
+@MARC-5908: 01
+@MARC-590a: Canto
+@MARC-590b: f. 13v-18v
+@MARC-5908: 01
+@MARC-590a: Canto di ripieno
+@MARC-590b: f. 19v-23v
+@MARC-5908: 01
+@MARC-590a: Alto
+@MARC-590b: f. 25v-30r
+@MARC-5908: 01
+@MARC-590a: Alto di ripieno
+@MARC-590b: f. 31v-36r
+@MARC-5908: 01
+@MARC-590a: Tenore di ripieno
+@MARC-590b: f. 37v-42r
+@MARC-5908: 01
+@MARC-590a: Basso di ripieno
+@MARC-590b: f. 43v-48r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: S rip
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: A rip
+@MARC-594c: 1
+@MARC-594b: T rip
+@MARC-594c: 1
+@MARC-594b: B rip
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, S rip, A, A rip, T rip, B rip, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.328
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

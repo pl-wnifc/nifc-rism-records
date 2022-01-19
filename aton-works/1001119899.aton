@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	1001119899
+@MARC-003:	DE-633
+@MARC-005:	20210601132741.0
+@MARC-008:	200622##################################
+@MARC-028a: 3078
+@MARC-0288: 01
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Risoluto ed agitato
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: c
+@MARC-031p: =3/2-8(-)E/4.''E8E{ED}C'B/4''DC-'A/
+@MARC-031r: a
+@MARC-031t: Tu fuis cruel
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Risoluto ed agitato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: 4-3-{,xGB'D}{FxGB''D}{6FEDC}{8'Bt6''C'A}/4xG3-{,xGB'D}{FGB''D}{6FEDC}{'B''DC'A}/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: fre
+@MARC-100a: Szymanowska, Maria
+@MARC-100d: 1789-1831
+@MARC-100j: Ascertained
+@MARC-1000: pe140138
+@MARC-240a: Le départ romance
+@MARC-240m: V, pf
+@MARC-240r: a
+@MARC-2400: 50234479
+@MARC-245a: Le Départ | ROMANCE | (Paroles de Cervantes, traduites par Florian) | mise en Musique et dédié | à Madame Demory | par | M|m|e Marie Szymanowska | née Wołowska. | Quatrieme Livraison.
+@MARC-260a: [s.l.]
+@MARC-260b: [s.n.]
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 6 p.
+@MARC-3008: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Romances (voc.)
+@MARC-6500: 25471
+@MARC-700a: Demory, Madame
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe50043183
+@MARC-7004: dte
+@MARC-700a: Cervantes Saavedra, Miguel de
+@MARC-700d: 1547-1616
+@MARC-700j: Ascertained
+@MARC-7000: pe48500
+@MARC-7004: lyr
+@MARC-700a: Florian
+@MARC-700j: Ascertained
+@MARC-7000: pe30017642
+@MARC-7004: trl
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-8523: 51020885
+@MARC-852c: mzk/m/33
+@MARC-973u: 1001095267
+@MARC-9733: 51020885
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

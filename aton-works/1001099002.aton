@@ -1,0 +1,63 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncd a2200000 u 4500
+@MARC-001:	1001099002
+@MARC-003:	DE-633
+@MARC-005:	20210601132609.0
+@MARC-008:	191219##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato.
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: =/4-8---D/8.6AB8A8.6GA8G/4.nFbE/8.6DnE8nF8.68FED/
+@MARC-031r: D
+@MARC-031t: Ah pauvre Hercule
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Moderato.
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: xFC
+@MARC-031o: 6/8
+@MARC-031p: 48AAAA/AAAA/AAGG/nFFbEE/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Giżycka-Zamoyska, Ludmiła
+@MARC-100d: 1829-1889
+@MARC-100j: Ascertained
+@MARC-1000: pe30110123
+@MARC-240a: Profond soupir
+@MARC-240m: V, pf
+@MARC-240r: D
+@MARC-2400: 50211074
+@MARC-245a: [caption title:] Profond soupir.
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 2 p.
+@MARC-3008: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Improvisations
+@MARC-6500: 3901553
+@MARC-773w: 1001099001
+@MARC-852a: PL-KOZmzk
+@MARC-852e: Muzeum Zamoyskich w Kozłówce
+@MARC-852x: ks51000446
+@MARC-8523: 51014475
+@MARC-852c: mzk/m/280
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

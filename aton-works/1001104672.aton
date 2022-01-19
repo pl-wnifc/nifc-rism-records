@@ -1,0 +1,61 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001104672
+@MARC-003:	DE-633
+@MARC-005:	20210628195632.0
+@MARC-008:	200217##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4'G/{8.6''CEDF}6{(EFG)8C}6-{'G''CE}/2D{6D'nB}-F-D-F/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Pugnani, Gaetano
+@MARC-100d: 1731-1798
+@MARC-100j: Ascertained
+@MARC-1000: pe30002608
+@MARC-240a: Trios
+@MARC-240m: vl (2), b
+@MARC-240n: 13
+@MARC-240n: ZscP 123
+@MARC-240r: c
+@MARC-2400: 3910896
+@MARC-245a: [vl 1 caption title:] N|o 6to
+@MARC-300a: 2 parts
+@MARC-3008: 01
+@MARC-383b: 13
+@MARC-500a: b part missing
+@MARC-5008: 01
+@MARC-500a: Piece edited in "Sei Duetti Per Due Violini Dal Signor Gaetano Pugnani, Opera XIII, Paris, 1776", as Duetto VI (one movement only, Andante con espressione). Other pieces in this opus different as written in PL-SA manuscript.
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 5v, 4v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: vl (2), b
+@MARC-599b: full
+@MARC-650a: Instrumental music
+@MARC-6500: 3901646
+@MARC-690a: ZscP
+@MARC-690n: 123
+@MARC-6900: lit124
+@MARC-773w: 1001104628
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 400/A VIII 40
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

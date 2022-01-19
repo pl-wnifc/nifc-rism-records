@@ -1,0 +1,73 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001083916
+@MARC-003:	DE-633
+@MARC-005:	20211027135146.0
+@MARC-008:	190831##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: =/4-8-4-8F//:4.B8A-G/4.G8F-F/FnEFAGF/4.F8F-F/
+@MARC-031r: B|b
+@MARC-031t: Południe żar zieje
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031n: bBE
+@MARC-031o: 6/8
+@MARC-031p: =2/2.F/4.GF/2.F/4.''C'F/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Anioł dziecina
+@MARC-240m: V, pf
+@MARC-240r: B|b
+@MARC-2400: 5214173
+@MARC-245a: [title page, at right:] Wolno litografowi | Warszawa [illegible] 9/21 Maja 1862 | [illegible] | [in the middle] Maryi z Turowskich | Laśkiewiczowej | Artystce Opery. | [in red ink:] No 115 | [illegible] | [in black ink:] Anioł-Dziecina. | pieśń | Adama Maszewskiego | muzyka | Stanisława Moniuszki | [at right] Autograf | M | [in the middle] Warszawa | Nakład i Własność G.Gebethnera i R.Wolffa | 9.259.W.
+@MARC-260c: 1862-05-12
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 3 p.
+@MARC-300c: 35 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na stronie tytułowej widnieje pieczęć [po lewej, niebieskim atramentem]: "Towarzystwo Muzyczne SEKCJA IMIENIA S. MONIUSZKI".]
+@MARC-500a: On the title page there is a stamp [at left, in blue ink]: "Towarzystwo Muzyczne SEKCJA IMIENIA S. MONIUSZKI".
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Maszewski, Adam
+@MARC-700j: Ascertained
+@MARC-7000: pe30041372
+@MARC-7004: lyr
+@MARC-700a: Laśkiewicz, Maria
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe41023727
+@MARC-7004: dte
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 96/M
+@@END:		MARC21
+

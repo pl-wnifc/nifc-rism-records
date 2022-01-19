@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001090201
+@MARC-003:	DE-633
+@MARC-005:	20211027135209.0
+@MARC-008:	191015##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031o: c
+@MARC-031p: =3/8A-6A''C4E+8E-/=/8-6'A''C4F+8F-/=/8-6''CD4xF+8F-/
+@MARC-031r: a
+@MARC-031t: Evoë! Evoë! Evoë!
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: c
+@MARC-031p: 4-8-6{''EE}4E+8E-/4-8-{6EE}8E4E8E/4.E4'''C{8''BAGF}/2.E+{8E6A'''C}/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-041e: fre
+@MARC-041h: fre
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Fedra
+@MARC-240k: Excerpts
+@MARC-240m: Coro, pf
+@MARC-2400: 3934898
+@MARC-245a: [caption title:] Chóry do tragedyi: [underlined] Fedra.
+@MARC-260c: 1865
+@MARC-2608: 01
+@MARC-300a: 1 score: 20 p.
+@MARC-300c: 26 x 34 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na pierwszej stronie zapisu muzycznego jest inskrypcja zapisana ołówkiem (po prawej): "poprawić w głosach | str. 16, II.".]
+@MARC-500a: On the first page of the score there is an inscription in pencil (at right): "poprawić w głosach | str. 16, II.".
+@MARC-591a: inw. 1017
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, pf
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-700a: Racine, Jean
+@MARC-700d: 1639-1699
+@MARC-700j: Ascertained
+@MARC-7000: pe32452
+@MARC-7004: lbt
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 595/M
+@@END:		MARC21
+
