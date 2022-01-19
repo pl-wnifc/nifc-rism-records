@@ -49,12 +49,18 @@ sub getRismIds {
 	my @files = glob("$srcdir/*.krn");
 	die "Problem with files in $srcdir" if @files < 10;
 
-	my @list = `cat $srcdir/*.krn | grep "NIFC-rismID:"`;
-	chomp @list;
 	my %ids;
-	foreach my $item (@list) {
-		next if $item !~ /NIFC-rismID:\s*(.*\d+.*)\s*$/;
-		$ids{$1}++;
+	foreach my $file (@files) {
+		open(FILE, $file) or die "Cannot read $file\n";
+		my @contents = <FILE>;
+		close FILE;
+		chomp @contents;
+		foreach my $line (@contents) {
+			if ($line =~ /^!!!NIFC-rismID:\s*([^\s]*\d+[^\s]*)\s*$/i) {
+				$ids{$1}++;
+			}
+		}
+		
 	}
 
 	my $output;

@@ -51,6 +51,8 @@ pe367346	Königsperger, Marianus
 pe387526	Goudimel, Claude
 pe477064	Chwatal, Franz Xaver
 pe20000261	Porta, Costanzo
+pe20000364	Isaac, Heinrich
+pe20000365	Senfl, Ludwig
 pe20000387	Asola, Giovanni Matteo
 pe20000415	Bassani, Giovanni Battista
 pe20000426	Bononcini, Giovanni
@@ -94,10 +96,12 @@ pe30001878	Laube, Antonín
 pe30001903	Lechleitner, Ferdinand Simon
 pe30001989	Lohelius, Joannes
 pe30002000	Loos, Karel
+pe30002031	M.M.
 pe30002047	De Majo, Gian Francesco
 pe30002048	Maldere, Pierre van
 pe30002061	Manna, Gennaro
 pe30002079	Marescalchi, Luigi
+pe30002254	Morales, Cristóbal de
 pe30002301	Mysliveček, Josef
 pe30002337	Neumann
 pe30002453	Pausch, Eugen
@@ -108,6 +112,7 @@ pe30002570	Porpora, Nicola
 pe30002575	Porta, Giovanni
 pe30002608	Pugnani, Gaetano
 pe30002639	Rathgeber, Johann Valentin
+pe30002765	Ruffo, Vincenzo
 pe30002777	Sacchini, Antonio
 pe30002798	Sammartini, Giovanni Battista
 pe30002855	Schall, Claus Nielsen
@@ -125,6 +130,7 @@ pe30003631	Victorini
 pe30003636	Vogel
 pe30003658	Ziegler
 pe30003783	Bencini
+pe30003816	Jachet de Mantua
 pe30003850	Kozłowski, Józef
 pe30003883	Grim, Józef
 pe30003955	Marenzio, Luca
@@ -151,6 +157,7 @@ pe30008748	Gołąbek, Jakub
 pe30008765	Damse, Józef
 pe30009138	Engel, Jan
 pe30009207	Gorczycki, Grzegorz Gerwazy
+pe30009564	Orgas, Annibale
 pe30009570	Pacelli, Asprilio
 pe30009627	Rodowski, Aleksander
 pe30009893	Bohdanowicz, Bazyli
@@ -159,13 +166,17 @@ pe30011037	Cardilli, Jacopo Antonio
 pe30011203	Gabussi, Giulio Cesare
 pe30011487	Biandrà, Giovanni Pietro
 pe30011894	Sabino, Ippolito
+pe30012541	Lhéritier, Jean
 pe30012827	Stefani, Jan
 pe30012976	Luython, Carl
 pe30013323	Grose, Michael Ehregott
 pe30013343	Gomółka, Mikołaj
+pe30013481	Zieleński, Mikołaj
 pe30014045	Lasso, Rudolph di
 pe30014456	Kościuszko, Tadeusz
 pe30015898	Löbmann, J.
+pe30016304	Moulu, Pierre
+pe30016657	Jacotin
 pe30017582	Kuci, Mateusz
 pe30017605	Szczurowski, Jacek
 pe30017685	Namieyski, Jan
@@ -182,6 +193,7 @@ pe30020313	Mrozowski, Tadeusz
 pe30020314	Raszek, Wacław
 pe30020315	Rzepko, Adolf
 pe30020320	Gotschalk, Filip
+pe30020322	Żebrowski, Marcin Józef
 pe30020324	Statkowski, Tadeusz
 pe30020327	Goetz-Gieczyński, Cyryl
 pe30020328	Maader, Ludwik
@@ -189,6 +201,8 @@ pe30020334	Chwalibóg, Izydor Konstanty
 pe30020335	Słoczyński, Wojciech
 pe30020336	Orłowski, Michał
 pe30020354	Neumann, Anton
+pe30020454	Borek, Krzysztof
+pe30020506	Szadek, Tomasz
 pe30020507	Szarzyński, Stanisław Sylwester
 pe30020509	Lilius, Franciszek
 pe30020620	Różycki, Jacek
@@ -209,6 +223,7 @@ pe30024257	Boguński, Baltazar
 pe30024266	Wronowicz, Maciej H.
 pe30025416	Leszczyński, Władysław
 pe30025739	Brykner, Jerzy
+pe30029943	Paderewski, Ignacy Jan
 pe30035788	Janisch
 pe30040495	Klose, Karol
 pe30040593	Studziński, Karol
@@ -229,11 +244,13 @@ pe30085946	Danka
 pe30086110	Daubeck, Józef
 pe30093197	Figulenti
 pe30093579	Fleming, Jan
+pe30096217	Gawara, Walentyn
 pe30096330	Gimeshoffer
 pe30096425	Gostowski
 pe30096436	Sebastian z Felsztyna
 pe30096438	Borimius, Jan
 pe30097226	Piech, Wawrzyniec
+pe30097376	Terzago, Bernardino
 pe30097723	Łukaszewicz, Maciej
 pe30098283	Jeric
 pe30098311	Just, Franciszek Kasper
@@ -255,13 +272,17 @@ pe30105808	Hérissant, Jehan
 pe30105858	Krener, Jan
 pe30105867	Paszkiewicz, Andrzej
 pe30107352	Neumann, Wawrzyniec
+pe30107516	Lubomirski, Kazimierz
 pe30108913	Piotrowski, Franciszek
+pe30109448	Wygrzywalski, Józef
+pe30110123	Giżycka-Zamoyska, Ludmiła
 pe30110258	Rutha, Jan
 pe30110281	Rygall, Ignacy
 pe30111147	Łodwigowski, Edward Stefan
 pe30111815	Szlagórski, Walenty
 pe30113022	Chodkiewicz, Zofia
 pe30113430	Studziński, Kazimierz
+pe30114991	Kraszewski, Józef Ignacy
 pe30115112	Dembowska, Konstancja
 pe41001558	Jarecki, Józef
 pe41009558	Janicki, Mikołaj
@@ -273,6 +294,7 @@ pe41010087	G. B. B.
 pe41010092	Rhein, Carolo de
 pe41011479	Pichler, Johann Melchior
 pe41011487	Siwiński, Andrzej
+pe41011659	Zaleski, Wacław Michał
 pe41012326	Zajączkowski, Roman
 pe41012328	Krzewdzieński, Paweł
 pe41012330	Sieprawski, Paweł

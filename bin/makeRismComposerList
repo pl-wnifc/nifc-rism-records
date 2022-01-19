@@ -46,7 +46,7 @@ foreach my $line (@aton) {
 		$composer = "$1";
 		next;
 	}
-	if ($line =~ /\@COM-rism:\s*(.*)\s*$/) {
+	if ($line =~ /\@COM-rismid:\s*(.*)\s*$/) {
 		$rismid = "$1";
 		next;
 	}
