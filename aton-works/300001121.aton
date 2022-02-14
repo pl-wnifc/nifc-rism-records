@@ -1,0 +1,185 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001121
+@MARC-003:	DE-633
+@MARC-005:	20201029163403.0
+@MARC-008:	141218##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Euntre [!]. Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4.'D({6,AB'C}){8D(6,AB'C)}={8D(6,AB'C)}/{8DFGE}{FDAC}/4.'D({6,AB'C}){8D(6,AB'C)}={8D(6,AB'C)}/{8DFAF}{GEAC}
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro molto
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =39/4-8'DD6,AAGA8FF/4D8DEFGAB/AG
+@MARC-031r: D
+@MARC-031t: Applaudite jubilate incolae Eremi Paulinae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Aria. Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''D{8DD}4D'D/{8''D6DD}{8D6DD}4D{8'DF}/{GAB''C}{D'ABF/{GEA,A
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro molto
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =15/8'D6DD8DD4D,D/8'D6DD8DD4D8{,DF/8.G6A8B'CD,AB6FF/
+@MARC-031r: D
+@MARC-031t: Annus desideratus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: {8E6DC}{8CEFE}/{DC}4D-/{8D6D,B}{8A'DED/{C,B}4'C
+@MARC-031r: D
+@MARC-031t: Urget filialis affectus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Tempo primo
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ,2A4n'C,E/{8xD'nC,BA}{GE}4-/2E4bBD/
+@MARC-031r: D
+@MARC-031t: Annus desideratus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Recit..
+@MARC-031m: B solo
+@MARC-031o: c
+@MARC-031r: D
+@MARC-031t: Roboent ergo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Choro. Allegro vivace
+@MARC-031g: C-1
+@MARC-031m: S coro 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =19/2-4-A/''DDDD/DCC'A/2''G
+@MARC-031r: D
+@MARC-031t: Vivat Provincialis Wiktor
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rygall, Ignacy
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30110281
+@MARC-240a: Applaudite jubilate
+@MARC-240m: B, Coro, orch
+@MARC-2400: 4324182
+@MARC-245a: [b=org:] Basso [by other hand: Pasterola] | [at right:] N. 36. | Concerto Pro recreatione. [with pencil by other hand: in D] | â | Basso Concert: | Cantis 2|bus | Violinis 2|bus | Obois 2|bus | Cornubus 2|bus | Alto Viola | Tymphana | Con | Organo. | [at left:] Auth: Rÿgall | [middle bottom:] Pro Choro C:M:C:
+@MARC-260c: 1751-1800 (18.2d)
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 36,5 x 23 cm
+@MARC-3008: 01
+@MARC-500a: vla missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: w połowie strony po prawej ręką kopisty: "N. 36.", u góry po prawej czarnym tuszem ręką M. Zabłockiego "N 17"; skreślona i później po prawej czerwonym ołówkiem "24"; późniejsza u góry z lewej ołówkiem ręką W. Świerczka "70" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-500a: [pl-text: Uwaga na temat tytułu: "Pasterola [!]", prawdopodobnie ręką Zabłockiego]
+@MARC-500a: [pl-text: W Catalogus Missarum Zabłocki nazywa utwór "Pasterolla"]
+@MARC-590a: S coro 1, 2, B solo and coro, vl 1, 2, org (=b), ob 1, 2, cor 1, 2, timp
+@MARC-590b: 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [crowned coat of arms with sword]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Solo B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: org (=b)
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594a: Solo B, Coro S (2), Coro B, vl (2), vla, org (=b), ob (2), cor (2), timp
+@MARC-599b: full
+@MARC-650a: Festive music
+@MARC-6500: 25260
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1231
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: s. 34
+@MARC-6910: lit1886
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 36
+@MARC-852d: 17
+@MARC-852d: 70
+@MARC-852d: 24
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-592
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

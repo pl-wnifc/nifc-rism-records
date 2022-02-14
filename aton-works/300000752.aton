@@ -1,0 +1,141 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000752
+@MARC-003:	DE-633
+@MARC-005:	20201029163353.0
+@MARC-008:	121206##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4'AA{8''DC}/{C'B}4A-/''CC{8FE}/{ED}4C-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =13/2'A{8''DC}/{C'B}4A-/2''C{8FE}/{ED}4C-/
+@MARC-031r: A
+@MARC-031t: Ave virgo gratiosa, favo mellis dulcior
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Maader, Ludwik
+@MARC-100d: 18.sc
+@MARC-100j: Verified
+@MARC-1000: pe30020328
+@MARC-240a: Ave virgo gratiosa
+@MARC-240m: Coro, orch, org
+@MARC-240r: A
+@MARC-2400: 3923823
+@MARC-245a: [cover title, org:] Offertorium de B. V. M. | ex A dur. | Canto, Alto, Tenore, Basso. | Violino Primo et Secondo. | 2bus Clarinis | con Organo. | Pro Cho: Cla: M: Czenst: | Auth: Maader
+@MARC-246a: [dust cover title:] Offertorium de B. V. M. in A | à | 4. Vocibus | 2. Violini | 2. Clarini | con | Organo | Auth. Maader | Pro Choro Cla: M: Czenst: reper. 1836.
+@MARC-260c: 1701-1800 (18.sc)
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 33 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: org: 34,5 x 22,5 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r, org: u góry na środku tuszem "Nro 6"; poniżej z prawej tuszem "N|ro 92."; na okładce [dust cover title] f. 1r: w prawym górnym rogu ołówkiem ręką nieznanego Paulina "N|o 76", skreślone czerwonym tuszem; poniżej czerwonym tuszem ręką F. Maletza "N 1146/447."; u góry na środku z prawej strony ołówkiem ręką W. Świerczka "771" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej strony okładki [dust cover title] okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki [dust cover title] przekreślona czerwoną kredką oraz parafowana]
+@MARC-500a: Der Titel ist von der Hand Leopold Mężnickis, die org-Stimme von der Hand Filip Gotschalks. Alle anderen Teile sind autograph.
+@MARC-563a: [pl-text: karty okładki [cover title] sklejone są papierowym paskiem]
+@MARC-5638: 01
+@MARC-563a: [pl-text: okładka [dust cover title] podklejona od wewnątrz innym utworem, okładka oklejona wokół brzegu pomarańczowym papierem]
+@MARC-5638: 01
+@MARC-590a: S, A, T, B, vl 1, 2, clno 1, 2, org (= bc)
+@MARC-590b: 1, 1, 1, 1, 2, 2, 1, 1, 2f.
+@MARC-5908: 01
+@MARC-592a: cover title, org: [partial] CAMMERPAPIER | [crowned eagle with sceptre and apple] | CZENSTOCHOW
+@MARC-5928: 01
+@MARC-592a: vl 1, 2: [crowned cartouche with illegible] / IR
+@MARC-5928: 01
+@MARC-592a: A, T, clno 1: [crowned cartouche with illegible]
+@MARC-5928: 01
+@MARC-592a: S, B, clno 2: IR
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Solo S
+@MARC-594c: 1
+@MARC-594b: Solo A
+@MARC-594c: 1
+@MARC-594b: Solo T
+@MARC-594c: 1
+@MARC-594b: Solo B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Solo S, Solo A, Solo T, Solo B, Coro S, Coro A, Coro T, Coro B, vl (2), clno (2), org
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 28
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.854
+@MARC-6910: lit1869
+@MARC-700a: Mężnicki, Leopold
+@MARC-700d: 1799-1854p
+@MARC-700j: Ascertained
+@MARC-7000: pe30040497
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Gotschalk, Filip
+@MARC-700d: 1760-1809
+@MARC-700j: Ascertained
+@MARC-7000: pe30020320
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: Nro 6
+@MARC-852d: Nro 92
+@MARC-852d: N|o 76
+@MARC-852d: N 1146/447
+@MARC-852d: 771
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-449
+@@END:		MARC21
+

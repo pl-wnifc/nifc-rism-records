@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258062
+@MARC-003:	DE-633
+@MARC-005:	20210923120914.0
+@MARC-008:	121105##################################
+@MARC-031a: 46
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+1
+@MARC-031m: Discantus
+@MARC-031o: c/
+@MARC-031p: 1G2GG/2.''C4'B2AG/A1''C2'B1''C/2-CDD/1E
+@MARC-031r: 8t
+@MARC-031t: Spiritus sancti gratia
+@MARC-0312: pe
+@MARC-031a: 46
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+3
+@MARC-031m: Altus
+@MARC-031o: c/
+@MARC-031p: 1D2DD/1C2FE/F4EF/1GE/2-GGG
+@MARC-031r: 8t
+@MARC-031t: Spiritus sancti gratia
+@MARC-0312: pe
+@MARC-031a: 46
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031o: c/
+@MARC-031p: ,1G2GG/2.A4B/2'C,B/'CE/1DC
+@MARC-031r: 8t
+@MARC-031t: Spiritus sancti gratia
+@MARC-0312: pe
+@MARC-031a: 46
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031o: c/
+@MARC-031p: 1,G2GG/2.F4E2FGFC1GC/2-CGG/1A2.F4G2A
+@MARC-031r: 8t
+@MARC-031t: Spiritus sancti gratia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Spiritus sancti gratia
+@MARC-240m: V (5)
+@MARC-2400: 33430
+@MARC-245a: [no title on source]
+@MARC-300a: 4 partbooks
+@MARC-300c: 21 cm x 27,5 cm
+@MARC-3008: 01
+@MARC-500a: The copyist marked by the letter K was identified as Benedykt Józef Pękalski (Master of the Music of the Rorantists' Chapel in the years 1739 - ca 1761).
+@MARC-500a: [pl-text: Brak partii V 5.]
+@MARC-590a: Discantus, A, T, B
+@MARC-590b: f.67v, 71r, 66r, 66v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: V 5
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, V 5
+@MARC-599b: full
+@MARC-650a: Hymns
+@MARC-6500: 25238
+@MARC-691a: Głuszcz-ZwolińskaW 1972
+@MARC-6910: lit2816
+@MARC-700a: Copyist K
+@MARC-700j: Ascertained
+@MARC-7000: pe30097950
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258016
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

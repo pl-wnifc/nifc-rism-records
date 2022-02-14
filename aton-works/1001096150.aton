@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001096150
+@MARC-003:	DE-633
+@MARC-005:	20211027135235.0
+@MARC-008:	191127##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro non troppo presto
+@MARC-031g: G-2
+@MARC-031m: Coro S
+@MARC-031o: c
+@MARC-031p: =7/2-bB/+8bB-8.B6B2B/+8bB-4-2-/
+@MARC-031r: C
+@MARC-031t: Szum większy, gęściej morskie snują
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Żegluga
+@MARC-240m: coro
+@MARC-2400: 5220690
+@MARC-245a: [caption title:] № 3. Żegluga. [in blue pencil:] Navigazione | [in violet ink:] Meerfahrt.
+@MARC-260c: after 1867
+@MARC-2608: 01
+@MARC-300a: 1 score: 14 p.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Tekst włoski wpisany ołówkiem, tekst niemiecki - fioletowym atramentem.]
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-700a: Mickiewicz, Adam
+@MARC-700d: 1798-1855
+@MARC-700j: Ascertained
+@MARC-7000: pe30041369
+@MARC-7004: lyr
+@MARC-700a: Gumplowicz, Władysław
+@MARC-700d: 1869-1942
+@MARC-700j: Ascertained
+@MARC-7000: pe41025309
+@MARC-7004: trl
+@MARC-700a: Adaïewsky, Ella
+@MARC-700d: 1846-1926
+@MARC-700j: Ascertained
+@MARC-7000: pe30016232
+@MARC-7004: trl
+@MARC-773w: 1001096146
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 693/M
+@@END:		MARC21
+

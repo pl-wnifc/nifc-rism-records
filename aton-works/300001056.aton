@@ -1,0 +1,121 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001056
+@MARC-003:	DE-633
+@MARC-005:	20201029163401.0
+@MARC-008:	140916##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4''B{8'BB}{B6AB}{8''D'B}/4''F{8'FF}{F6nEF}{8''EC}/4D
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =56/2.'B4B/2.''C4C/D-2-/4-C2C/4D4--4'B/''2.G4F/4E2E4D/CCC'B/A
+@MARC-031q: [pl-text: w oryginale tekst brzmi: "Tota pulchra est" ]
+@MARC-031r: B|b
+@MARC-031t: Tota pulchra es Maria
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Raszek, Wacław
+@MARC-100d: 1848+
+@MARC-100j: Ascertained
+@MARC-1000: pe30020314
+@MARC-240a: Tota pulchra es Maria
+@MARC-240m: Coro, orch, org
+@MARC-240r: B|b
+@MARC-2400: 3002202
+@MARC-245a: [dust cover title:] Offertorium de Virgi[nibus], | in B. | a Vocibus 12 Obligatio | Canto | Alto | Tenore | Basso | Violino Primo | Violino Secondo | Obae[!] Primo | Oboe Secondo | Corno Primo | Corno Secondo | Viola di Alto Obligato | Et cum Organo Concertato | Authori W: Raschek pro Choro C: M: C: 1788 r. | Restauratum. 1830 r.
+@MARC-260c: 1801-1850 (19.1d)
+@MARC-2608: 01
+@MARC-300a: 12 parts
+@MARC-300c: 29 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: u góry na środku ołówkiem ręką nieznanego Paulina "N|o 454", skreślono czerwonym tuszem; poniżej z prawej strony czerwonym tuszem ręką F. Maletza "N 1066/367."; u góry po prawej strony ołówkiem ręką W. Świerczka "42" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona niebieską kredką oraz parafowana]
+@MARC-500a: Eine weitere Abschrift des Offertoriums unter PodejkoK 1992, no.1170a.
+@MARC-500a: Konkordancja: RISM ID: 300001057 (PL-CZ III-556)
+@MARC-563a: [pl-text: grzbiet okładki wzmocniony ozdobnym paskiem z papieru]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro S, Coro A, Solo and Coro T, Coro B, vl 1, 2, vla obl, ob 1, 2, cor 1, 2, org conc
+@MARC-590b: 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 2f.
+@MARC-5908: 01
+@MARC-592a: [without watermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Solo S
+@MARC-594c: 1
+@MARC-594b: Solo T
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Solo S, Solo T, Coro S, Coro A, Coro T, Coro B, vl (2), vla, ob (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 26
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1170
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 454
+@MARC-852d: N 1066/367
+@MARC-852d: 42
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-215
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

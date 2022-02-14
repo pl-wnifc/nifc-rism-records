@@ -1,0 +1,263 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000590
+@MARC-003:	DE-633
+@MARC-005:	20201029163349.0
+@MARC-008:	111006##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: {8'E6.E3E}{8.E6,B}{8'E6.E3E}{8.E,6B}/{8'E6.B3B}{6''CDDC}{8'B6.B3B}{6BnB''C'A}/{8G36.G3G}{6.B3G6.A3F}8E
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio maestoso
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =4/4.B8B2B/''C4CC/4.'B8B2B/{6B''A}4A8G{6GF8F}4F/
+@MARC-031r: E|b
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria. Allegro spirituoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: $bBbE[bA]4E{8.G6E}4B8-B/{''C'B''C'B}{''C'B''CD}/4E{'8.G6E}4B8-8B/
+@MARC-031q: [pl-text: brak w oryginale A|b jako znaku przykluczowego]
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''E8.G6E4'B-/=/4''E8.G6E4'B-/=/4''E8.G6E4GG/{8GF}4FFF/
+@MARC-031r: E|b
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo. Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4''EE-/=/4FF-/=/GG-/=2/'AGF/2''E{6GFGA}/4BBB/{8B'B''BBB'B}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4''EE-/=/FF-/=/GG-/=3/4G8GGGG/2G4G/
+@MARC-031r: E|b
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus. Adagio maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4E2.E/6-{BBB}{8.B6G}6-{BBB}{8.''E6'G}/6-{FGF}-{FGF}6-{FA''C}{'BBDD}/4E2.E/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Adagio maestoso
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''EE2-/=/4EE2-/=/2-(2-)/=/4EE2-/=/4EE8.E6E4E/EEbC8CC/
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Benedictus. Poco adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4B4.''D8C/{C'B}4B-/4''D4.F8E/{6FEDE}4D8-F/{GE}4.B{6AG}/{8.F6D}4'B
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =8/4B4.''D8C/{8C'B}4B-/''D4.F8E/{6FEDE}4D8-D/{DC}4C
+@MARC-031r: B|b
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Agnus. Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4''CC-/{8'GGGGGG}/{FFEEDD/{AAAAAA}/{GGFFEE}/{DDFFEE}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Largo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =/2''G4G/FED/2A4A/GFE/DFE/DFE/AGF/E--/
+@MARC-031r: c
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Dona. Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 2''E2.'E/4GAnA/2B,2.B/4'FGA/GF2.F/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Allegretto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 2''E2.E/4'GAnA/2BB/=13/''2.G4G/2GG/1F/2FF/
+@MARC-031r: E|b
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Klakowski
+@MARC-100d: 19.sc
+@MARC-100j: Verified
+@MARC-1000: pe30098487
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: E|b
+@MARC-2400: 3900051
+@MARC-245a: [dust cover title:] MISSA in Dis | à | Canto, Alto, Tenore, Basso. | Violino Primo | Violino Secondo. | Clarinetto Primo | Clarinetto Secondo. | Cornu Primo | Cornu 2do | Alto Viola | et | Organo. | [Aut]hore Klakowski
+@MARC-260c: 1840-1860 (19.me)
+@MARC-2608: 01
+@MARC-300a: 12 parts
+@MARC-300c: 31 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: u góry w centrum czarnym tuszem "158[?]", skreślono czarnym tuszem; poniżej czarnym tuszem "Nro 32.", skreślono ołówkiem; poniżej czerwonym tuszem ręką F. Maletza "N 318"; poniżej ołówkiem ręką W. Świerczka "300" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona czerwoną kredką oraz parafowana]
+@MARC-500a: [pl-text: f. 1r partii cl 2 przekreślono ołówkiem z dopiskiem "Verte"]
+@MARC-500a: [pl-text: Notatka na f. 2r okładki ołówkiem ręką P. Podejki "wewnątrz wlepione były | 1) pasków vl[?] I lub Ob Offertorium II | "Claugito[?]" in D - nieznanego | Komp[ozytora] | 2) gł. C[?] II Offertorium I Regina | coeli" Komp[ozytor] nieznany"
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-563a: [pl-text: karty obwoluty wzmocnione wewnątrz kawałkiem papieru; krawędzie okładki oklejone paskami kolorowego papieru]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, Coro T, Solo and Coro B, vl 1, 2, vla, cl 1, 2, cor 1, 2, org (= bc)
+@MARC-590b: 3, 4, 2, 3, 4, 4, 4, 4, 4, 2, 2, 4f.
+@MARC-5908: 01
+@MARC-592a: IMWIRZ / [ascending griffin with sceptre]
+@MARC-5928: 01
+@MARC-592a: [cover:] [watermark illegible]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: A solo
+@MARC-594c: 1
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, A solo, B solo, Coro S, Coro A, Coro T, Coro B, vl (2), vla, cl (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 17
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 9
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.692
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: Nro 32
+@MARC-852d: 158[?]
+@MARC-852d: N 318
+@MARC-852d: 300
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-121
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,134 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001128
+@MARC-003:	DE-633
+@MARC-005:	20201029163403.0
+@MARC-008:	141219##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Aria. Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 4'DGB/{8BAAG}4G/D''D{8EC}/q8C2'B4A/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =29/4'DGB/{8BAAG}4G/D''D{8EC}/q4C2'B4A/
+@MARC-031r: G
+@MARC-031t: Omni die dic Mariae, mea laudes anima
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Coro. Vivace
+@MARC-031g: C-1
+@MARC-031m: V
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =15/BAG-/''C'BA-/''C'B''E8{EC/'4BAG-/
+@MARC-031r: G
+@MARC-031t: Contemplare et mirare ejus celsitudinem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rygall, Ignacy
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30110281
+@MARC-240a: Omni die dic Mariae
+@MARC-240m: S, Coro, orch
+@MARC-240r: G
+@MARC-2400: 3918151
+@MARC-245a: Cantata ex G: | Canto Alto, Tenor Basso. | Violino I|mo II|do | Flauto I|mo II|do | Cornu I|mo II|do | et. | Organo. | Auth Rygall. | pro Ch: Cl:M:Cz | Anno 1834
+@MARC-260c: 1751-1800 (18.2d)
+@MARC-2608: 01
+@MARC-300a: 10 parts
+@MARC-300c: 36,5 x 24,5 cm
+@MARC-3008: 01
+@MARC-500a: b instead of org
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej czarnym tuszem ręką M. Zabłockiego "N 111."; później na środku ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o 29", skreślona czerwonym atramentem; późniejsza powyżej tytułu na prawo czerwonym atramentem ręką F. Maletza "N 841/142"; późniejsza u góry z prawej ołówkiem ręką W. Świerczka "569" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: Auf vl-Stimme früherer autographer Titel: "Cantata Toni in G / pro festo S: Francisci Xavery / a / piu Stromenti vocibus 3 / a / Canto Alto / Basso. / Violino Primo. / Violino Secondo. / Flauto Primo. / Flauto Secondo. / Cornibus I|mo et II|do / con / Organo / Composta / par Sige Rygall". Olim: 12 (K), 111 (CMM)
+@MARC-563a: [pl-text: Okładka zrobiona z innego papieru, wzmocniona na grzbiecie ozdobnym papierem, środek podklejony fragmentami innych rękopisów oraz stroną tytułową symfonii in C nieznanego kompozytora]
+@MARC-5638: 01
+@MARC-590a: S solo and coro, A coro, B coro, vl 1, 2, b, fl 1, 2, cor 1, 2
+@MARC-590b: 1, 1, 1, 2, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: TROPPAV | IR / [figure of Poseidon]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: S, Coro S, Coro A, Coro B, vl (2), b, fl (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1237
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 29
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 20
+@MARC-6910: lit1887
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 111
+@MARC-852d: 29
+@MARC-852d: 841/142
+@MARC-852d: 569
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-590
+@@END:		MARC21
+

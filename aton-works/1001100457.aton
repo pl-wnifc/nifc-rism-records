@@ -1,0 +1,64 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001100457
+@MARC-003:	DE-633
+@MARC-005:	20211105115741.0
+@MARC-008:	200112##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bBEAD
+@MARC-031o: 2/4
+@MARC-031p: 2-/4-8'AB/8A{6FG}8AB/4.''C8C/''D6{C'B}8AG/B6A-8AB/A6{FG}8AB/''C4F8C/6{ED}{C'B}8AG/FF4-/
+@MARC-031r: f
+@MARC-031t: Szumi, szumi gaj zielony
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Szumi gaj
+@MARC-240m: Coro, pf
+@MARC-2400: 50222991
+@MARC-245a: [caption title:] „Szumi gaj”
+@MARC-260c: [s.d.]
+@MARC-2608: 01
+@MARC-300a: 1 score: 1 p.
+@MARC-300c: 31,5 x 25 cm
+@MARC-3008: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, pf
+@MARC-599b: full
+@MARC-650a: Songs
+@MARC-6500: 25233
+@MARC-700a: Hertz, Michał
+@MARC-700d: 1844-1918
+@MARC-700j: Ascertained
+@MARC-7000: pe41023359
+@MARC-7004: arr
+@MARC-773w: 1001100034
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 1229(3)/M
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258055
+@MARC-003:	DE-633
+@MARC-005:	20210923120913.0
+@MARC-008:	121105##################################
+@MARC-031a: 39
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+2
+@MARC-031m: Discantus
+@MARC-031o: c/
+@MARC-031p: 0-9-1-/1'D9C/1DFED/DF2F2.D4EFG/2A
+@MARC-031r: 1t
+@MARC-031t: Gaudete justi in Domino
+@MARC-0312: pe
+@MARC-031a: 39
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031o: c/
+@MARC-031p: 9-1-,AGA'C,B(9A1G)2.F4G2AB1'C1,A
+@MARC-031r: 1t
+@MARC-031t: Gaudete justi in Domino
+@MARC-0312: pe
+@MARC-031a: 39
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031o: c/
+@MARC-031p: 0-1,D9C2.D4E(9F1E)9D11CD9F1-2.A4G2FGA'C
+@MARC-031r: 1t
+@MARC-031t: Gaudete justi in Domino
+@MARC-0312: pe
+@MARC-031a: 39
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031o: c/
+@MARC-031p: 1,,AGA,C,,B9A1-0-9-2-2.,D4C,,BA1bB
+@MARC-031r: 1t
+@MARC-031t: Gaudete justi in Domino
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Gaudete justi
+@MARC-240m: V (4)
+@MARC-240r: 1t
+@MARC-2400: 4050579
+@MARC-245a: [no title on source]
+@MARC-300a: 4 partbooks
+@MARC-300c: 21 cm x 27,5 cm
+@MARC-3008: 01
+@MARC-590a: Discantus, A, T, B
+@MARC-590b: f.58r-58v, 61r, 57v-58r, 57r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Communions
+@MARC-6500: 25151
+@MARC-691a: Głuszcz-ZwolińskaW 1972
+@MARC-6910: lit2816
+@MARC-700a: Copyist J
+@MARC-700j: Ascertained
+@MARC-7000: pe30093065
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Copyist G
+@MARC-700j: Ascertained
+@MARC-7000: pe30028486
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258016
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

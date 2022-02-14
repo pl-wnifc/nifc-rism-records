@@ -1,0 +1,127 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000620
+@MARC-003:	DE-633
+@MARC-005:	20201029163349.0
+@MARC-008:	120103##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Intonatio.
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9,CDA'C//
+@MARC-031t: Rorate
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Alla breve
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =2/4-''FFF/2EC/4EG2A/4G'''CCC/''A
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =3/4-''CCC/CE2F/4D{8EF}2G/4F
+@MARC-031r: F
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: {8''AAGGAA}/4GC'''C/{8C''BAGFE}/4DBG/2A4A/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: ''FCF/2C4E/4.F8E4F/DGE/2C4C/
+@MARC-031r: F
+@MARC-031t: Benedixisti Domine, terram tuam
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031m: V
+@MARC-031o: c/
+@MARC-031q: Vermerk: "ut supra"
+@MARC-031r: F
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kottritsch, Franciszek
+@MARC-100d: 1727c-1787
+@MARC-100j: Ascertained
+@MARC-1000: pe30040598
+@MARC-240a: Rorate caeli
+@MARC-240m: Coro, orch, org
+@MARC-240r: F
+@MARC-2400: 3905164
+@MARC-245a: [without title]
+@MARC-260c: 1776-1800 (18.4q)
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: S, A, T, B, vl 1, 2, org (= bc)
+@MARC-590b: f. 1v, 1r, 1r, 1r, 1r, 1r, 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.727
+@MARC-6910: lit1869
+@MARC-700a: Aispel, Paweł
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30040664
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300000619
+@MARC-852a: PL-CZ
+@MARC-852d: Nro 5
+@MARC-852d: N|oo 4
+@MARC-852d: N 987/288
+@MARC-852d: 297
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-123
+@@END:		MARC21
+

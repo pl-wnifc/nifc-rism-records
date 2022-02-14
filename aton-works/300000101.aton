@@ -1,0 +1,159 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000101
+@MARC-003:	DE-633
+@MARC-005:	20201029163329.0
+@MARC-008:	090119##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: {8.'G6B8.A6''C}{8.'B''6C8D'D}/{6E''C'BA}{8GF}q8F4G-/{8.,Gt6B8.At6'C}{8.,Bt6'C}{8DA}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =8/8.'Gt6B{8.At6''C}{8.'B6''C}8D'D/E({6''C'BA}){8GF}q8F4G-/
+@MARC-031r: G
+@MARC-031t: Sancte patrone te pio corde
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8.6{'EGFA}{6GA}4B8''E/{6ExDDnC}{C'BBA}{GF}8E4-/
+@MARC-031q: [pl-text: Nie wyróżnione w nutach jako osobna część]
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8.6{'EG}{FA}{6GA}4B8''E/{6ExDDC}{C'BBA}{GF}8E4-/
+@MARC-031q: [pl-text: Brak kasownika przy dźwięku "c" w drugim takcie (por. incipit do vl 1)]
+@MARC-031r: e
+@MARC-031t: Laudes tuas cantabo
+@MARC-031t: Nobis post hoc exsilium ostende
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Danik, Ján Ignác
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30000792
+@MARC-240a: Sancte patrone te pio corde
+@MARC-240m: S, vl (2), org
+@MARC-240r: G
+@MARC-2400: 3012091
+@MARC-245a: [title page on org f. 1r:] Aria de Sanctis ex G: dur: | à | Canto Solo. | Violinis duobus | Con | Organo. | [aligned to left:] C[omposi]tore Ig. Daniek: | [centered, with later hand:] C M C: | [aligned to right:] 1773.
+@MARC-246a: [caption title on parts:] Aria
+@MARC-260c: 1773
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 35,5 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: karta tytułowa na f. 1r głosu org, pełniącego również funkcję okładki; nuty od f. 1v]
+@MARC-5008: 01
+@MARC-500a: [pl-text: znak wodny "W (crowned) / [crowned eagle with sword and apple] | TOST" na głosach org (kompletny), S (wyłącznie część z orłem i nazwą papierni)]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na głosie vl 1 znak wodny nieczytelny]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na głosie vl 2 znak wodny "[partial: coat of arms beneath flag]"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r głosu org: na górze po prawej czarnym atramentem "N 8." skreślone; późniejsza na górze pośrodku czrnym atramentem ręką M. Zabłockiego "N=|o 147" skreślona; późniejsza po prawej ołówkiem ręką nieznanego Paulina "N|o 227" skreślona; późniejsza niżej z prawej czerwonym atramentem ręką F. Maletza "N 910/211; późniejsza na górze po prawej ręką W. Świerczka "259" w kółku]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na głosie org f. 1r, 2r, 2v oraz 1v pozostałych głosów]
+@MARC-500a: [pl-text: W głosie S inną ręką podpisany drugi tekst: "Salve Regina"]
+@MARC-500a: [pl-text: Głos S w nagłówku partii oznaczony jako "La Voce"]
+@MARC-500a: [pl-text: Głos sopranowy w nagłówku partii oznaczony jako "La Voce"]
+@MARC-500a: [pl-text: Na karcie tytułowej w prawym górnym rogu nieczytelne notatki lub próba pióra]
+@MARC-561a: [title page bottom:] C M C:
+@MARC-590a: Solo: S
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-592a: W (crowned) / [crowned eagle with sword and apple] | TOST
+@MARC-5928: 01
+@MARC-592a: [partial: coat of arms beneath flag]
+@MARC-5928: 01
+@MARC-592a: [illegible]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, vl 1, vl 2, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: De Sanctis
+@MARC-6570: 24326
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 203
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 31.
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 22
+@MARC-6910: lit1887
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-730a: Salve regina
+@MARC-730g: RISM
+@MARC-7300: 3021988
+@MARC-852a: PL-CZ
+@MARC-852d: N 8
+@MARC-852d: N=|o 147
+@MARC-852d: N|o 227
+@MARC-852d: N 910/211
+@MARC-852d: 259
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-101
+@@END:		MARC21
+

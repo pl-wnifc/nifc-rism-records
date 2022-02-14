@@ -1,0 +1,91 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041689
+@MARC-003:	DE-633
+@MARC-005:	20211105090629.0
+@MARC-008:	180627##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2''D4DD/2ED/4.D8D4ED/2C'B/A4BxF/2GxF/
+@MARC-031r: g
+@MARC-031t: Zemdlony Jezus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2''D4DD/2ED/4.D8D4ED/2C'B/A4BxF/2GxF/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: M. M.
+@MARC-100j: Alleged
+@MARC-1000: pe30002031
+@MARC-240a: Zemdlony Jezus
+@MARC-240m: S (2), vl (2), b
+@MARC-240r: g
+@MARC-2400: 5035690
+@MARC-245a: [without title]
+@MARC-260c: 1714
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-500a: In a monograph of Barbara Przybyszewska-Jarmińska and in her catalogue of Mielczewski's Opera omnia this composition was listed as assigned to Marcin Mielczewski, on the basis of Tomasz Jasiński statement from 2008. It seems however doubtful in reference to stylistic features of this piece.
+@MARC-590a: S 1, 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2r, 2r
+@MARC-5908: 01
+@MARC-590a: b (= bc.fig)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S (2), vl (2), b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: Przybyszewska-JarmińskaM 2011
+@MARC-691n: p. 125-127
+@MARC-6910: lit41001681
+@MARC-691a: Przybyszewska-JarmińskaM 2014
+@MARC-691n: p. 138-139
+@MARC-6910: lit41001682
+@MARC-691a: PrzM|2
+@MARC-691n: p. 163
+@MARC-6910: lit50005889
+@MARC-691a: MądryB 2013
+@MARC-691n: 543-546
+@MARC-6910: lit41001232
+@MARC-691a: JasińskiC 2008
+@MARC-691n: 51-56
+@MARC-6910: lit50005859
+@MARC-691a: ŹHMP 15
+@MARC-691n: p. 43-45
+@MARC-6910: lit2272
+@MARC-773w: 1001041687
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 276/A VII 36
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

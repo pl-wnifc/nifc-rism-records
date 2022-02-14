@@ -1,0 +1,45 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	190008750
+@MARC-003:	DE-633
+@MARC-005:	20200116083920.0
+@MARC-008:	131018##################################
+@MARC-040a: DE-633
+@MARC-100a: Förster, Kaspar
+@MARC-100d: 1616-1673
+@MARC-1000: pe30006147
+@MARC-240a: Sonatas
+@MARC-240m: vl (2), vla da gamba, bc
+@MARC-240n: PrzF 38
+@MARC-2400: 3900185
+@MARC-245a: Sonata a 3 | ex G.|n | di | Gasparo Forster.
+@MARC-260c: 1650-1699 (17.2d)
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-590a: vl 1, 2, vla da gamba (= b), bc (2x)
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla da gamba
+@MARC-594c: 1
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: vl (2), vla da gamba, bc
+@MARC-599b: full
+@MARC-650a: Trio sonatas
+@MARC-6500: 3901022
+@MARC-690a: PrzF
+@MARC-690n: 38
+@MARC-6900: lit365
+@MARC-852a: S-Uu
+@MARC-852e: Universitetsbibliotek, Carolina Rediviva
+@MARC-852x: ks30000253
+@MARC-852c: Instr. mus. i hs. 3:7
+@MARC-856u: http://www2.musik.uu.se/duben/presentationSource1.php?Select_Dnr=2113
+@MARC-856x: Digitalization
+@MARC-856z: [digitized version]
+@@END:		MARC21
+

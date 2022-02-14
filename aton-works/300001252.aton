@@ -1,0 +1,233 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001252
+@MARC-003:	DE-633
+@MARC-005:	20201029163406.0
+@MARC-008:	150601##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie. Poco adagio
+@MARC-031g: C-3
+@MARC-031m: vla1
+@MARC-031n: bB
+@MARC-031o: 12/8
+@MARC-031p: 4.'D+{8DFA}4.''D'A/B+{8B''C''D}4.'A+{8AGF}/4.E
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Poco Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 12/8
+@MARC-031p: =4/2.'D4.FA/2.''D4.'A+8A8--/4.B''CD'B/2.A4.A
+@MARC-031r: F
+@MARC-031t: Nieorganiony całym światem Boże
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria. Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2''D4DD/2D'4A-/FA''DE/2F4D-/
+@MARC-031r: D
+@MARC-031t: Chwała Ci Boże
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Graduale. Moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: 2-4-D/4.D8G4G-/4.G8B4B-/''4.D8D4C'B/2B4A-/
+@MARC-031r: G
+@MARC-031t: Powstańcie ludzie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo. Maestoso
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2DF/A4FA/1''D/2'A-/
+@MARC-031r: D
+@MARC-031t: Wierzę w Boga jednego
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Et incarnatus. Larghetto
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =2/''2D'4B/4.F8GAB/4''DC-/
+@MARC-031r: B|b
+@MARC-031t: On z Maryi dziewicy i z Ducha wcielony
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Et resurexit. Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =2/2-4-'A/4.''F8F4F8FF/2.F4E/DDxDD/2E4E-/
+@MARC-031r: D
+@MARC-031t: Zmartwychwstał dnia trzeciego
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Offertorium. Larghetto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 9/8
+@MARC-031p: =8/4.''CCC/'BA-/4''E8E4.EE/DC-/
+@MARC-031r: A
+@MARC-031t: Wszechmocny Panie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Sanctus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: ''1D/'2A-/1''D/2'A-/1''F/2D-/
+@MARC-031r: D
+@MARC-031t: Święty
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Benedictus. Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c/
+@MARC-031p: =8/4.G8G4(G)(-)/4.A8A4(A)(-)/4.B8B''CDEF/2G4'G-/
+@MARC-031r: G
+@MARC-031t: Ojcze nasz któryś jest w niebie
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =4/A''FFE/2D'4AA/A''DC'B/2B4A-/
+@MARC-031r: F
+@MARC-031t: Baranku Boży
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: Dona nobis. Moderato
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: -/=3/2-4-A/''2D4'AA/4.B8A4GF/8{EF}{GA}4BA/2G4F
+@MARC-031r: D
+@MARC-031t: Dość długo nieszczęść dźwigaliśmy brzemię
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Słoczyński, Wojciech
+@MARC-100d: 1806-1864
+@MARC-100j: Ascertained
+@MARC-1000: pe30020335
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: d
+@MARC-2400: 3900051
+@MARC-245a: [without title]
+@MARC-260c: 1826-1850 (19.2q)
+@MARC-2608: 01
+@MARC-300a: 14 parts
+@MARC-300c: 38 x 27 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r org: u góry po lewej stronie czerwonym atramentem ręką F. Maletza "411"]
+@MARC-500a: Soloabschnitte in den Violin- und vlc-Stimmen.
+@MARC-563a: [pl-text: brak okładki]
+@MARC-5638: 01
+@MARC-590a: Solo and coro: S, A, T, B, vl 1, 2, vlc, vlne, cor 1, 2, tr 1, 2, timp, org
+@MARC-590b: 6, 6, 6, 6, 6, 6, 5, 5, 2, 2, 2, 2, 1, 12f.
+@MARC-5908: 01
+@MARC-592a: LOYKI / [four-petal rosette] | MK
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), vlc, vlne, cor (2), tr (2), timp, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1362
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 11
+@MARC-6910: lit1887
+@MARC-700a: Klose, Karol
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30040495
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-730a: Msza polska
+@MARC-730g: RISM
+@MARC-7300: 3945455
+@MARC-852a: PL-CZ
+@MARC-852d: 411
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-845
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

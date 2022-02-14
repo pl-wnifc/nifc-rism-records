@@ -1,0 +1,101 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300257962
+@MARC-003:	DE-633
+@MARC-005:	20210923120910.0
+@MARC-008:	121101##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 1'G9F2EF1G2-FFD1EE2-FFD1E2E
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1'E1.D2D2.C4DEF2E9D1-2-ECCD,A
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: ,1C+DD+A'C,AAB+'C,AA+G
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 0-,1C+D2DF1E,,2A,2.A4GFE2DF1E
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Paligonius, Marcin
+@MARC-100d: 16/17
+@MARC-100j: Ascertained
+@MARC-1000: pe30096218
+@MARC-240a: Rorate caeli
+@MARC-240m: V (5)
+@MARC-2400: 3905164
+@MARC-245a: [caption title in Cantus, Tenor:] Ad aequales 5. vocum. Mart. Paligony.
+@MARC-246a: [caption title in Altus:] Ad aequales 5. vocum. Mart. Palig.
+@MARC-246a: [caption title in Bassus:] Ad aequales 5. vocum. Mart. Paligon.
+@MARC-260c: [1550-1599]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks: 8 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak piątego głosu.]
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 59v-60v, 60r-61r, 59v-60r, 58r-59r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594a: A (2), T, B, V
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: Głuszcz-ZwolińskaW 1969
+@MARC-6910: lit2815
+@MARC-691a: CzepielM 1996
+@MARC-6910: lit30000180
+@MARC-691a: FeichtS 1966
+@MARC-6910: lit370
+@MARC-700a: Mirmicus, Jan z Wielgomłyna
+@MARC-700d: 16/17
+@MARC-700j: Ascertained
+@MARC-7000: pe30096707
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300257954
+@MARC-852a: PL-Kk
+@MARC-852d: D 25
+@MARC-852d: D 26
+@MARC-852d: D 27
+@MARC-852d: Ch.192
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

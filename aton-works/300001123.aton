@@ -1,0 +1,165 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001123
+@MARC-003:	DE-633
+@MARC-005:	20201029163403.0
+@MARC-008:	141218##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Recit.. Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: {8''D6.D3D}{8DD}4Dq8G{6F3EF8D}/q8A{6G3FG8E}q8D{6C3'B''C8'A}{3''DC6DE8F}
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =4/4-8'DF4D8-6DC/8EE-E4C8,BA/'D
+@MARC-031r: D
+@MARC-031t: Dum natus esset Jesus in Bethlehem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031o: 3/4
+@MARC-031p: =8/,GAB/'DC,B/8{BA'C,B}{AG/{GFAFED/
+@MARC-031r: D
+@MARC-031t: Cum sis ipse, agnus Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Aria. Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: {6''DEDC}/4'BBB/2''C{6CDC'B}/4AAA/2B
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Aria un poco lento
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =32/4--{6'DEDC}/4,BBB/2'C{6CDC,B}/4AAA/
+@MARC-031r: G
+@MARC-031t: Cape panis angelorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Coro. Allegro vivace
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =28/2.,D4D/2.A4A/2.E4E/,,AA2-/
+@MARC-031r: D
+@MARC-031t: Ergo sine fine
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rygall, Ignacy
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30110281
+@MARC-240a: Dum natus esset Jesus in Bethlehem
+@MARC-240m: B solo, Coro, orch
+@MARC-240r: D
+@MARC-2400: 3027861
+@MARC-245a: [B:] Cantata [by other hand:] in D.| pro Colenda Clarenbergensi ! | per il | Basso Solo | Violino Primo | Violino Secondo | Basso | Duo Corni | Composita per Monse[gneur] Rygall 1775 | [by other hand:] Pro Choro C. M: C:
+@MARC-246a: [cover title:] Cantate Pastoralis, D: | Basso Solo | Violino I|mo | Violino II|do | Cornu I|mo | Cornu II|do | Organo. | Auth Rygal | pro Ch: Cl: M: Cz: | Anno 1834
+@MARC-260c: 1775
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 36,5 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r B: u góry po prawej, czarnym tuszem: "N: 31. [lub 35]", skreślone i powyżej czarnym tuszem ręką M. Zabłockiego "N 15."; u góry na środku czerwonym ołówkiem: "12."]
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry na środku ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o 40"; późniejsza poniżej, nieco na prawo w środku tytułu czerwonym atramentem ręką F. Maletza "N 829/130"]
+@MARC-500a: [pl-text: Na środku po prawej stronie obu stron tytułowych okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: S-Stimmen im kleineren Format: 18,5 x 22 cm
+@MARC-500a: Titel zu einer Messe auf 2f. r des Umschlags: "Missa. Kyrie et Gloria / a / Canto / Alto / Tenore / Basso / Violino Primo / Violino Secundo / Hoboe Primo / Hoboe Secundo / Corno Primo / Corno Secundo / Alto Viola / con / Organo. / Authore R: P: Cajetano Vogel / Pro Choro C.M.C.". Vergleiche mit PodejkoK 1992, no.1482a
+@MARC-590a: S coro 1, 2, B solo and coro, vl 1, 2, b, cor 1, 2
+@MARC-590b: 1, 1, 2, 2, 2, 2, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: W (crowned) / BRESLAV
+@MARC-5928: 01
+@MARC-592a: On S 1- and S 2-parts [partial:] [eagle]
+@MARC-5928: 01
+@MARC-592a: On B-part: [man with spear] / [illegible]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: B solo, Coro S (2), Coro B, vl (2), b, cor (2)
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Nativitas Domini
+@MARC-6570: 24268
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1232
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 34
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 20
+@MARC-6910: lit1887
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 31
+@MARC-852d: 15
+@MARC-852d: 12
+@MARC-852d: 40
+@MARC-852d: 829/130
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-591
+@@END:		MARC21
+

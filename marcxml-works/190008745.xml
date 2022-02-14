@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">190008745</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20181216082157.0</marc:controlfield>
+  <marc:controlfield tag="008">140808##################################</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Förster, Kaspar</marc:subfield>
+    <marc:subfield code="d">1616-1673</marc:subfield>
+    <marc:subfield code="0">pe30006147</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Sonatas</marc:subfield>
+    <marc:subfield code="m">fag, cornettino (2), strings, bc</marc:subfield>
+    <marc:subfield code="n">PrzF 43</marc:subfield>
+    <marc:subfield code="r">C</marc:subfield>
+    <marc:subfield code="0">3900185</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">Sonata a. 7. instrom: | 2 Cornettini 2 violini 1 Brazzia | Fagotto e Violono | di | Gasparo Forster.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1650-1699 (17.2d)</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">8 parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">vl 1, 2, vla, vlne, bc, cornettino 1, 2, fag</marc:subfield>
+    <marc:subfield code="b"/>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vl</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vla</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">b</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">fag</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">cornettino</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">bc</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">vl (2), vla, b, fag, cornettino (2), bc</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="0">
+    <marc:subfield code="a">Septets (inst.)</marc:subfield>
+    <marc:subfield code="0">3000037</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="0">
+    <marc:subfield code="a">Sonatas</marc:subfield>
+    <marc:subfield code="0">25213</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="690" ind1=" " ind2=" ">
+    <marc:subfield code="a">PrzF</marc:subfield>
+    <marc:subfield code="n">43</marc:subfield>
+    <marc:subfield code="0">lit365</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="691" ind1=" " ind2=" ">
+    <marc:subfield code="a">DickeyZ 1981</marc:subfield>
+    <marc:subfield code="n">p.281</marc:subfield>
+    <marc:subfield code="0">lit30028139</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">S-Uu</marc:subfield>
+    <marc:subfield code="e">Universitetsbibliotek, Carolina Rediviva</marc:subfield>
+    <marc:subfield code="x">ks30000253</marc:subfield>
+    <marc:subfield code="c">Instr. mus. i hs. 3:8</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2="0">
+    <marc:subfield code="u">http://www2.musik.uu.se/duben/presentationSource1.php?Select_Dnr=2118</marc:subfield>
+    <marc:subfield code="x">Digitalization</marc:subfield>
+    <marc:subfield code="z">[digitized version]</marc:subfield>
+  </marc:datafield>
+</marc:record>

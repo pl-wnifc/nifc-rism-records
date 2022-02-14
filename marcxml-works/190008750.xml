@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ndm a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">190008750</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20200116083920.0</marc:controlfield>
+  <marc:controlfield tag="008">131018##################################</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Förster, Kaspar</marc:subfield>
+    <marc:subfield code="d">1616-1673</marc:subfield>
+    <marc:subfield code="0">pe30006147</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Sonatas</marc:subfield>
+    <marc:subfield code="m">vl (2), vla da gamba, bc</marc:subfield>
+    <marc:subfield code="n">PrzF 38</marc:subfield>
+    <marc:subfield code="0">3900185</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">Sonata a 3 | ex G.|n | di | Gasparo Forster.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1650-1699 (17.2d)</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">5 parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="590" ind1=" " ind2=" ">
+    <marc:subfield code="a">vl 1, 2, vla da gamba (= b), bc (2x)</marc:subfield>
+    <marc:subfield code="b"/>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Manuscript copy</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vl</marc:subfield>
+    <marc:subfield code="c">2</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">vla da gamba</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="b">bc</marc:subfield>
+    <marc:subfield code="c">1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="594" ind1=" " ind2=" ">
+    <marc:subfield code="a">vl (2), vla da gamba, bc</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="0">
+    <marc:subfield code="a">Trio sonatas</marc:subfield>
+    <marc:subfield code="0">3901022</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="690" ind1=" " ind2=" ">
+    <marc:subfield code="a">PrzF</marc:subfield>
+    <marc:subfield code="n">38</marc:subfield>
+    <marc:subfield code="0">lit365</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">S-Uu</marc:subfield>
+    <marc:subfield code="e">Universitetsbibliotek, Carolina Rediviva</marc:subfield>
+    <marc:subfield code="x">ks30000253</marc:subfield>
+    <marc:subfield code="c">Instr. mus. i hs. 3:7</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2="0">
+    <marc:subfield code="u">http://www2.musik.uu.se/duben/presentationSource1.php?Select_Dnr=2113</marc:subfield>
+    <marc:subfield code="x">Digitalization</marc:subfield>
+    <marc:subfield code="z">[digitized version]</marc:subfield>
+  </marc:datafield>
+</marc:record>

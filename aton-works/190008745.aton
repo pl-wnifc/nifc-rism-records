@@ -1,0 +1,57 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	190008745
+@MARC-003:	DE-633
+@MARC-005:	20181216082157.0
+@MARC-008:	140808##################################
+@MARC-040a: DE-633
+@MARC-100a: Förster, Kaspar
+@MARC-100d: 1616-1673
+@MARC-1000: pe30006147
+@MARC-240a: Sonatas
+@MARC-240m: fag, cornettino (2), strings, bc
+@MARC-240n: PrzF 43
+@MARC-240r: C
+@MARC-2400: 3900185
+@MARC-245a: Sonata a. 7. instrom: | 2 Cornettini 2 violini 1 Brazzia | Fagotto e Violono | di | Gasparo Forster.
+@MARC-260c: 1650-1699 (17.2d)
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-3008: 01
+@MARC-590a: vl 1, 2, vla, vlne, bc, cornettino 1, 2, fag
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cornettino
+@MARC-594c: 2
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: vl (2), vla, b, fag, cornettino (2), bc
+@MARC-599b: full
+@MARC-650a: Septets (inst.)
+@MARC-6500: 3000037
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-690a: PrzF
+@MARC-690n: 43
+@MARC-6900: lit365
+@MARC-691a: DickeyZ 1981
+@MARC-691n: p.281
+@MARC-6910: lit30028139
+@MARC-852a: S-Uu
+@MARC-852e: Universitetsbibliotek, Carolina Rediviva
+@MARC-852x: ks30000253
+@MARC-852c: Instr. mus. i hs. 3:8
+@MARC-856u: http://www2.musik.uu.se/duben/presentationSource1.php?Select_Dnr=2118
+@MARC-856x: Digitalization
+@MARC-856z: [digitized version]
+@@END:		MARC21
+

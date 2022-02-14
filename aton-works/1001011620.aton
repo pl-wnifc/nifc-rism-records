@@ -1,0 +1,147 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001011620
+@MARC-003:	DE-633
+@MARC-005:	20200205151750.0
+@MARC-008:	170427##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031d: Kolęda
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: {6''DEFG}8AAAA/A-A-A-/{6'AB''CD}8EEEE/C-C-C-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: =51/4-4-{8,DF}/{ABAxGAF}/4D{8DCDF}/4E{8ExDEG}/{DCDEFG}/
+@MARC-031r: D
+@MARC-031t: Zagrzmiała runęła w Betleem ziemia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Fertner, Karol
+@MARC-100d: 1803-1879
+@MARC-100j: Conjectural
+@MARC-1000: pe30040944
+@MARC-240a: Zagrzmiała runęła w Betleem ziemia
+@MARC-240m: V (2), orch, org
+@MARC-240r: D
+@MARC-2400: 5007159
+@MARC-245a: Kolenda | dla Orchestry [!] na Jasnej Górze | Canto i Basso Solo | Violino Due | Clarinetto Due | Flauto Due | Corne [!] Due | Trąpka [!] Oblikat | Alto Viola | Tympano | et | Organo
+@MARC-260c: 1840-1860
+@MARC-2608: 01
+@MARC-300a: 16 parts
+@MARC-300c: 24,5 x 20 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: w partii tr in G oderwana dolna część f., ostatnia pięciolinia nieczytelna"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o | 44 | N.N.";, skreślona czerwonym atramentem, późniejsza poniżej,na prawo od tytułu czerwonym atramentem ręką F. Maletza "N 991/292"; późniejsza u góry z lewej ołówkiem ręką W. Świerczka "776" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: Mutmaßlicher Komponistenname auf den Stimmen: "Fertner"
+@MARC-500a: [pl-text: w katalogu F. Maletza pod tytułem "Pasterze w multanki grali", zgodnie z incypitem w S solo, nieznanego kompozytora]
+@MARC-500a: [pl-text: Na f. 1r okładki notatki ołówkiem, po prawej od tytułu: "Zagrzmiała, runęła (zaczyna Bas)"; u dołu z prawej: "Na głosach podpis kopisty Fertner"
+@MARC-500a: [pl-text: Na f. 1r partii tr in G u góry z prawej strony notatka zapisana ołówkiem, nieczytelna]
+@MARC-590a: S, A [?], B
+@MARC-590b: 1, 1, 1f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: 1, 1, 1f.
+@MARC-5908: 01
+@MARC-590a: fl 1 solo and fl 1, fl 2 solo and fl 2, cl 1 solo and cl 1, cl 2 solo and cl 2
+@MARC-590b: 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2, tr in G solo and tr in C, tr in D solo and tr in D
+@MARC-590b: 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-590a: timp
+@MARC-590b: 1f.
+@MARC-5908: 01
+@MARC-590a: org solo and vlne (= bc)
+@MARC-590b: 2f.
+@MARC-5908: 01
+@MARC-592a: (partial:) [Maltese cross]
+@MARC-5928: 01
+@MARC-592a: D G / Biala
+@MARC-5928: 01
+@MARC-593a: Possible autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: fl solo
+@MARC-594c: 2
+@MARC-594b: cl solo
+@MARC-594c: 2
+@MARC-594b: tr solo
+@MARC-594c: 2
+@MARC-594b: org solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, B solo, fl solo (2), cl solo (2), tr solo (2), org solo, vl (2), vla, vlne, fl (2), cl (2), cor (2), tr (2), timp, org
+@MARC-599b: full
+@MARC-650a: Christmas carols
+@MARC-6500: 3016747
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1918
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 24
+@MARC-6910: lit1887
+@MARC-700a: Fertner, Karol
+@MARC-700d: 1803-1879
+@MARC-700j: Ascertained
+@MARC-7000: pe30040944
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: 44
+@MARC-852d: 991/292
+@MARC-852d: 776
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-93
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

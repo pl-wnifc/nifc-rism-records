@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258017
+@MARC-003:	DE-633
+@MARC-005:	20210923120859.0
+@MARC-008:	121101##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+3
+@MARC-031m: Discantus (= A)
+@MARC-031o: c/
+@MARC-031p: 1'E1.G4FE/1.F2ECF/1.F4ED/2EF2.E8{DE}/2F
+@MARC-031r: 1t
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031o: c/
+@MARC-031p: 2,G1'C4,BA/2BA'D,D/GG/F4.C6,,{B,C}/1D{DA}/'C
+@MARC-031r: 1t
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031o: c/
+@MARC-031p: 1,CDDA'C,A/AB'C,AAG/A'C/C,B'CDCDDC/
+@MARC-031r: 1t
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1-/,,G1.,D2F/1C,,F/9-1-/2-A/,DF1C/2,,F
+@MARC-031r: 1t
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Pacelli, Asprilio
+@MARC-100d: 1570-1623
+@MARC-100j: Verified
+@MARC-1000: pe30009570
+@MARC-240a: Rorate caeli
+@MARC-240m: V (4)
+@MARC-240r: 1t
+@MARC-2400: 3905164
+@MARC-245a: [heading, B:] Asprili Pacelli M.C.S.R.M.
+@MARC-300a: 4 partbooks
+@MARC-300c: 21 cm x 27,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na pierwszej stronie głosu B inskrypcja "Asprili Pacelli M.C. S.R.M."]
+@MARC-520a: Introitus ad Missam de S. Maria in Sabbato per Adventum
+@MARC-590a: Discantus, A, T, B
+@MARC-590b: f.1r-1v, 1r-1v, 1r-1v, 1r-1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Introits
+@MARC-6500: 25150
+@MARC-691a: Głuszcz-ZwolińskaW 1972
+@MARC-6910: lit2816
+@MARC-700a: Copyist A
+@MARC-700j: Ascertained
+@MARC-7000: pe30097067
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258016
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

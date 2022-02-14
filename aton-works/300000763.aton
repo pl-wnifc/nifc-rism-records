@@ -1,0 +1,210 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000763
+@MARC-003:	DE-633
+@MARC-005:	20201029163353.0
+@MARC-008:	121210##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031d: Kryie
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2'B4A/G--/2''C4'B/A--/2''D4C/'B--/''DC'B/{8BA}4G-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2'B4A/G--/2''C4'B/A--/2''D4C/'B--/''DC'B/{8BA}4G-/
+@MARC-031r: G
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: [Gloria]. Moderato
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8'BB''CC/4D-/'8BBAA/4G-/
+@MARC-031r: G
+@MARC-031t: Et in terra pax, hominibus bonae voluntatis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =8/8B6BB8BB4BB/''8C6CC8CC4CC/'8B6BB8B6BB4BB/''8EEE6EE8.E6E4E/
+@MARC-031r: G
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S 1 solo
+@MARC-031o: 3/4
+@MARC-031p: 8.{''A6G}{8EG}{GB}/{6GFEF}4.D8F/{EA}{FB}{'B''D/{DC}4C-/
+@MARC-031r: C
+@MARC-031t: Et incarnatus est de Spiritu Sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: ''DD-/'BAG/''EE-/8{DC}4C'B/
+@MARC-031r: G
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 6{''DC/8'BB{''ED/4C8-6{C'B/8AA''DC/'B4-
+@MARC-031r: G
+@MARC-031t: Pleni sunt caeli et terra gloria tua
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S 1 solo
+@MARC-031o: 2/4
+@MARC-031p: 6GG/''8CC-E/DD-F/{6FE}DC{AG}{FE/{DC}{DE}8D
+@MARC-031r: C
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =3/2-4.B8''E/{ExD}D-{6DE}{8.F6D}8'BA/{6AG}8G-
+@MARC-031r: G
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Maader, Ludwik
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30020328
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: G
+@MARC-2400: 3900051
+@MARC-245a: [cover:] [middle top:] ANNO 1815. | [ in the middle:] MISSA. | EX G. | VIOLINO PRIMO | VIOLINO SECUNDO| FLAUTO PRIMO| FLAUTO SECUNDO | CANTO PRIMO | CANTO SECUNDO | ET BASSO | CORNU PRIMO | CORNU SECUNDO | cum | ORGANO CONCER. | TATO. | [bottom left:] AUTHORE | LUDOVICO | MAADER. | [bottom right:] Pro CHoro | C.M.C. | P[er] I[oannem] HACHULSKI.
+@MARC-260c: 1815
+@MARC-2608: 01
+@MARC-300a: 10 parts
+@MARC-300c: 38,5 x 24 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej czerwonym tuszem ręką M. Zabłockiego "N=|r|o 118."; skreślona i później po lewej czerwonym ołówkiem "8."; później na prawo od tytułu ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o 343", skreślona czerwonym atramentem; późniejsza powyżej po prawej czerwonym atramentem ręką F. Maletza "N 212."; późniejsza u góry z prawej, ołówkiem ręką W. Świerczka "769" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: Komponistenvermerk auf den Stimmen: "Authore: Maader".
+@MARC-500a: [pl-text: Strona tytułowa ozdobiona ramką z kolorowymi kwiatami, tytuł otoczony wieńcem z kwiatów, który tworzy koronę drzewa]
+@MARC-500a: [pl-text: Nazwy głosów oraz części mszy napisane zostały czerwonym atramentem]
+@MARC-590a: Coro and solo: S 1, 2, B; vl 1, 2, fl 1, 2, cor 1, 2, org conc (= bc)
+@MARC-590b: 2, 2, 2, 2, 2, 2, 2, 2, 2, 6f.
+@MARC-5908: 01
+@MARC-592a: [crowned eagle with sword and apple] / [illegible]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 2
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: S coro
+@MARC-594c: 2
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo (2), B solo, S coro (2), B coro, vl (2), fl (2), cor (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.863
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 12
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 6
+@MARC-6910: lit1887
+@MARC-700a: Hachulski, Jan
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30093595
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 118
+@MARC-852d: 8
+@MARC-852d: 343
+@MARC-852d: 212
+@MARC-852d: 769
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-451
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

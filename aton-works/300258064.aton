@@ -1,0 +1,210 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258064
+@MARC-003:	DE-633
+@MARC-005:	20210923120915.0
+@MARC-008:	121101##################################
+@MARC-031a: 48
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+3
+@MARC-031m: Discantus (= A)
+@MARC-031o: c/
+@MARC-031p: 2'FFAE/2.F4G1A2D4C,B/1AA
+@MARC-031r: 1t
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031o: c/
+@MARC-031p: 1.,A2A/A2.A4GFE/2DEA'D/DxC9D
+@MARC-031r: 1t
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031o: c/
+@MARC-031p: ,1DCD/FGFEFD/AGF/GFEFD9D
+@MARC-031r: 1t
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031o: c/
+@MARC-031p: 1,D,,A/2,D2.F4EDC/2,,bB,C1D/2,,AA,D2.F4EDC/1D
+@MARC-031r: 1t
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C+3
+@MARC-031m: Discantus (= A)
+@MARC-031o: c/
+@MARC-031p: 1'DC/9D1F/GF/E2.F4F1D/2DDDD
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031o: c/
+@MARC-031p: 2.,A4A/2AA/1A2.B4G/2AA'EC/1C/2.C4C2CC
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031o: c/
+@MARC-031p: 2.,F4F/2EE1xF/2.G4B/2'CCC,G/1A2.G4G/2A
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 2
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1,D2.,,A4A/2,DD1G2.F4F/2CC1F/1.C2,,F/2.G4G1,D
+@MARC-031t: Et in terra pax
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C+2
+@MARC-031m: Discantus
+@MARC-031o: c
+@MARC-031p: 1-'E+FDG+A'B2G2.''C4'B2.A4G2F1G
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C+3
+@MARC-031m: Altus
+@MARC-031o: c/
+@MARC-031p: 1,B+'C,A'D+EC2D2.G4FE8{DC}1'F
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 3
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031o: c/
+@MARC-031p: 0-1,E+FDG+AFE2AE2.D4C,,BA2G
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C+3
+@MARC-031m: Discantus (= A)
+@MARC-031o: c/
+@MARC-031p: 1'F2E4DC/2DG1C2DC/1,AA+B1.'C1C2C
+@MARC-031t: Sanctus Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031o: c/
+@MARC-031p: 2.,A4B/1'C2,GB/4'C,BA8{GA}/2bBG/4'DC,B8{AB}/1'C
+@MARC-031t: Sanctus Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 4
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1,D+,,A/G+F2bB,C/1D,,A+G2.F4G/AB,CD/EC1G2,,G
+@MARC-031t: Sanctus Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C+3
+@MARC-031m: Discantus (= A)
+@MARC-031o: c/
+@MARC-031p: 2.'xC4D/2E1,A2.'D4C,bBA/1GAA
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031o: c/
+@MARC-031p: 1.-2'E/2.D4C/,bBAGA/2.bB4'C1DD/-2-,A/
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-031a: 48
+@MARC-031b: 5
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031o: c/
+@MARC-031p: 2.,,A4B1,xCD/9,,G1,D2DD/4DCDE/2FA,,AA/
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Missa paschalis
+@MARC-240m: V (4)
+@MARC-240r: 1t
+@MARC-2400: 3923527
+@MARC-245a: [T, B:] Officium A 4 Voci Paschale
+@MARC-300a: 4 partbooks
+@MARC-300c: 21 cm x 27,5 cm
+@MARC-3008: 01
+@MARC-500a: The copy of the part-B (without Patrem) sign.Mus.I.2d (old sign.Ch.124)
+@MARC-500a: [pl-text: W księgach Discantus i A oboczne wersje tytułu, odpowiednio "Officium A 4 Paschale" i "Officium A 4 Voc | Paschale".]
+@MARC-590a: Discantus, A, T, B
+@MARC-590b: f.72v-78v, 76r-83v, 71r-77r, 72v-79r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-657a: Tempore Paschali
+@MARC-6570: 24412
+@MARC-691a: Głuszcz-ZwolińskaW 1972
+@MARC-6910: lit2816
+@MARC-700a: Copyist Ł
+@MARC-700j: Ascertained
+@MARC-7000: pe30097956
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300258016
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

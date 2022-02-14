@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	190008701
+@MARC-003:	DE-633
+@MARC-005:	20201029152636.0
+@MARC-008:	121121##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031m: V
+@MARC-031t: Ad arma fideles
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Förster, Kaspar
+@MARC-100d: 1616-1673
+@MARC-1000: pe30006147
+@MARC-240a: Ad arma fideles
+@MARC-240m: V (3), bc
+@MARC-240n: PrzF 1
+@MARC-2400: 4182676
+@MARC-245a: a. 3 | Ad Arma fideles. | C. C. è B. | di | Gasparo Förster. | 208.
+@MARC-260c: 1666 (?1666?)
+@MARC-2608: 01
+@MARC-260c: 1690 (1690a)
+@MARC-2608: 02
+@MARC-300a: score (keyboard tablature): f.14v-16
+@MARC-3008: 01
+@MARC-300a: 4 parts
+@MARC-3008: 02
+@MARC-500a: Tabulatur-Partitur, enthalten in Sammelband mit eigener Signatur
+@MARC-500a: Vergleiche die erweiterte Fassung S Uu 84:5
+@MARC-590a: S 1, 2, B, bc
+@MARC-5908: 02
+@MARC-591a: Vok. mus. i hs. 21:7
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 02
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: S (2), B, bc
+@MARC-599b: full
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-690a: PrzF
+@MARC-690n: 1
+@MARC-6900: lit365
+@MARC-700a: Düben, Gustav
+@MARC-700d: 1628c-1690
+@MARC-700j: Ascertained
+@MARC-7000: pe30005373
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: S-Uu
+@MARC-852e: Universitetsbibliotek, Carolina Rediviva
+@MARC-852x: ks30000253
+@MARC-852c: Vok. mus. i hs. 78:14
+@MARC-856u: http://www2.musik.uu.se/duben/presentationWork.php?Select_Dnr=802&amp;Select_Wnr=606
+@MARC-856x: Digitalization
+@MARC-856z: [digitized version]
+@@END:		MARC21
+

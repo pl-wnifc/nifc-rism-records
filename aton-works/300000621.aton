@@ -1,0 +1,168 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000621
+@MARC-003:	DE-633
+@MARC-005:	20201029163349.0
+@MARC-008:	120103##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 4''AFB/4.A8A4A/AGF/4.G8G4G/EFG/4.F8F4C/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: ''CDE/4.C8C4C/C'G''D/4.'G8G4G/''EDC/
+@MARC-031r: F
+@MARC-031t: Mittit ad virginem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Zdrowaś bądź Maria
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4''AAAF/2GG/4GGAA/AG2G/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 4FFAnB/2''CC/4DEFC/'AnB2''C/
+@MARC-031r: F
+@MARC-031t: Zdrowaś bądź Maria
+@MARC-031t: Maria wielebna
+@MARC-031t: Łaski pełna
+@MARC-031t: Błogosławionaś Ty nad wszystko stworzenie
+@MARC-031t: Między niewiastami czystemi
+@MARC-031t: Amen wszyscy rzeczmy
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: ''AGA/4.A8A4A/AbBG/4.A8A4A/G{8GEAG}/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 4''FxC'A/4.A8A4A/A''GE/4.C8C4C/CEE/4.'A8A4A/
+@MARC-031r: F
+@MARC-031t: Super bientium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031m: V
+@MARC-031q: pl-text: Z dopiskiem: "da capo"
+@MARC-031t: Maria wielebna
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031m: V
+@MARC-031o: 3/4
+@MARC-031r: F
+@MARC-031t: Qui nobis tribuat peccati veniam
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031m: V
+@MARC-031q: pl-text: Z dopiskiem: "da capo"
+@MARC-031t: Zdrowaś bądź Maria
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031m: V
+@MARC-031o: 3/4
+@MARC-031r: F
+@MARC-031t: Amen
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-041a: pol
+@MARC-100a: Kottritsch, Franciszek
+@MARC-100d: 1727c-1787
+@MARC-100j: Ascertained
+@MARC-1000: pe30040598
+@MARC-240a: Mittit ad virginem
+@MARC-240m: Coro, orch, org
+@MARC-240r: F
+@MARC-2400: 3921314
+@MARC-245a: [without title]
+@MARC-260c: 1776-1800 (18.4q)
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: S 1 and 2, A, T, B, vl 1, 2, org (= bc)
+@MARC-590b: f. 1v, 1r, 1r, 1r, 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S (2), Coro A, Coro T, Coro B, vl (2), ob (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.727
+@MARC-6910: lit1869
+@MARC-700a: Aispel, Paweł
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30040664
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773w: 300000619
+@MARC-852a: PL-CZ
+@MARC-852d: Nro 5
+@MARC-852d: N|oo 4
+@MARC-852d: N|o 5
+@MARC-852d: N 987/288
+@MARC-852d: 297
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-123
+@@END:		MARC21
+

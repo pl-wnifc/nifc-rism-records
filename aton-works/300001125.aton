@@ -1,0 +1,147 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001125
+@MARC-003:	DE-633
+@MARC-005:	20210520072409.0
+@MARC-008:	141219##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4''Fq8E4Dq8C4'B/q8''C4'B4.A8B/{''C'A}{''EC}{'AF}/q8F4ED
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =13/4''Fq8E4Dq8C4'B/B4.A8B/{''C'A}{''EC}{'AF}/q8F4ED
+@MARC-031r: B|b
+@MARC-031t: Huc ad festum sancti Joannis
+@MARC-031t: Omni die dic Mariae mea laudes anima
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''2F8{FnEDC/{C'BAB}4B-/2''G8{GnEC'B/{BAAA}4A''F/
+@MARC-031r: B
+@MARC-031t: Et amoris sacris flammas
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: ''Cq8'B4Aq8G4F/FnE8-F/{GA}{8.B3AB}8{''C'B/4BA8-B/
+@MARC-031r: B
+@MARC-031t: Huc ad festum sancti Joannis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2B4BB/nB''CC-/2D4DF/FEE-/
+@MARC-031r: B|b
+@MARC-031t: Et amoris sacris flammas
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rygall, Ignacy
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30110281
+@MARC-240a: Huc ad festum sancti Joannis
+@MARC-240m: S, strings
+@MARC-240r: B|b
+@MARC-2400: 3027874
+@MARC-245a: [vl 1:] Aria in B | pro festo S: Joannis Nepomuceni | per il | Violino primo | Violino Secondo | Viola | coll | Basso | Composte [!] par Rygall 1776 16 May | Pro Choro C M: C.
+@MARC-260c: 1776
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 35,5 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Druga karta partii S jest na innym papierze, z innymi słowami]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r vl 1: u góry po prawej, czarnym tuszem: "N: 15.", skreślona i powyżej, czarnym tuszem ręką M. Zabłockiego: "N 107"; skreślona i na środku u góry, czarnym tuszem: "86."; wszystki trzy powyższe skreślone ołówkiem i na środku pod spodem ołówkiem ręką nieznanego Paulina "N|o 388", skreślona czerwonym atramentem, pod spodem, nad tytułem czerwonym atramentem ręką F. Maletza "N 1079/380."]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: Zweite S-Stimme mit anderem Text (Omni die) von anderer Hand.
+@MARC-500a: [pl-text: W Katalogu Maletza zapisana z tytułem: "Omni die dic Mariae"]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: S (2x), vl 1, 2, vla, b
+@MARC-590b: 1, 1, 2, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: BRESLAV / [Mary with child in aureola with flame]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594a: S, vl (2), vla, b
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Joannis Nepomuceni Martyris
+@MARC-6570: 24587
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1234
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 29
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 26
+@MARC-6910: lit1887
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 15
+@MARC-852d: 107
+@MARC-852d: 86
+@MARC-852d: 388
+@MARC-852d: 1079/380
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-583
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,148 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000100
+@MARC-003:	DE-633
+@MARC-005:	20201029163329.0
+@MARC-008:	090119##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: {8'B6''FD}{8'BF}/{GtF}-B/{6AG8F}-''E/{6DC8'B}-''F/{6GE}4C8'nB/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: =16/8'B{6''FD}8'BF/GF-B/{6AG}8F-''E/{6DC}8'B
+@MARC-031r: B|b
+@MARC-031t: O beatam matrem quam Jesu elegit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8{''DDDD}/{ED}{6DxGFG}/4E6{DC'BA}/{BA8G}
+@MARC-031q: [pl-text: Nie wyróżnione w nutach jako osobna część]
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8'G6{''D'B}8G''D/6qF8ED4-/E{6DC}{'BA}/{BA}8G
+@MARC-031r: g
+@MARC-031t: Audite vocantes
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Danik, Ján Ignác
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30000792
+@MARC-240a: O beatam matrem quam Jesu elegit
+@MARC-240m: S, vl (2), org
+@MARC-240r: B|b
+@MARC-2400: 3012089
+@MARC-245a: [title page on org f. 1r:] Aria ex B: dur. | de | Beatiss. Virgo Maria | a | Canto Solo. | Violinis duobus | con Organo. | [aligned to left:] C[omposi]tore Joanne Ign: Daniek | [centered, with later hand:] C M C: | [aligned to right:] 1773.
+@MARC-246a: [caption title on parts:] Aria.
+@MARC-260c: 1773
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 35 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: karta tytułowa na f. 1r głosu org, pełniącego również funkcję okładki; nuty od f. 1v]
+@MARC-5008: 01
+@MARC-500a: [pl-text: głos S na innym papierze niż pozostałe, o wymiarach 32,5 x 19,5 cm, ze znakiem wodnym "[crowned oval cartouche with illegible symbols inside and beneath]"; tekst muzyczny zapisany inną ręką]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r głosu org: na górze po prawej czarnym atramentem "N 14"; numer przekreślony i powyżej "52"; całość przekreślona czarny wyblakłym atramentem; późniejsza po lewej czarnym wyblakłym atramentem ręką M. Zabłockiego "159" przekreślona; późniejsza po prawej ołówkiem ręką nieznanego Paulina "N-|o 385" przekreślona; późniejsza poniżej z prawej czerwonym atramentem ręką F. Maletza "N 1077/378"; późniejsza na górze ołówkiem ręką W. Świerczka "255" w kółku]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na f. 1r i 2v głosu organowego]
+@MARC-500a: [pl-text: Na głosie S f. 1v na dole po prawej czarnym atramentem rozpisany melizmat z tekstem "Maria"; bez klucza i oznaczenia metrycznego]
+@MARC-500a: [pl-text: Na głosie vl 1 f. 1v na dole czarnym atramentem zapisane dwa takty linii melodycznej basu arii w D-dur, metrum 6/8; powyżej napis: "Initium Ariae ex Opera Diterss Basso Solo"]
+@MARC-500a: [pl-text: Karty głosów ponumerowane 1-5; na głosie org f. 2r numer 5, f. 1 bez numeru]
+@MARC-500a: [pl-text: Konkordancje z rękopisami o sygnaturach: SK-BRnm MUS IX 24, RISM ID no. 570000088 (J.I. Danik, "Ave regina") oraz CZ-OSm A 1862, RISM ID no. 550265715 (J.I. Danik, "Ecce ancilla Domini")]
+@MARC-561a: [title page bottom:] C M C:
+@MARC-590a: Solo: S
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-592a: [crowned oval cartouche with illegible symbols inside and beneath]
+@MARC-5928: 01
+@MARC-592a: W (crowned) / [crowned eagle with sword and apple] | TOST
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, vl 1, vl 2, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 202
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 31
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 26
+@MARC-6910: lit1887
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N 14
+@MARC-852d: 52.
+@MARC-852d: 159
+@MARC-852d: N-|o 385
+@MARC-852d: N 1077/378
+@MARC-852d: 255
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-102
+@@END:		MARC21
+

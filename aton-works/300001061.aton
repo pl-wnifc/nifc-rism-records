@@ -1,0 +1,107 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001061
+@MARC-003:	DE-633
+@MARC-005:	20201029163401.0
+@MARC-008:	140918##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4.'D8,A{8.'F6D8.A6F}/{8.D6,A8.'D6F}4D-/2bB4A
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''DDE/2F4G/4EEE/8{EF''GFGE}/4DDE/2F
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Romance andante; Allegretto moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: 8E/{xDECC}/4.C8D/{CD,BB}/4.B8'C/{x,B'C,A'A}/{GAF''F}/{E'AFB}/4A
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Rondo. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''A/{8AAAA}/6{AGFE}{8.D6E}/{8FD'B''G}/4F
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Raszek, Wacław
+@MARC-100d: 1848+
+@MARC-100j: Ascertained
+@MARC-1000: pe30020314
+@MARC-240a: Symphonies
+@MARC-240m: orch
+@MARC-240r: D
+@MARC-2400: 3900027
+@MARC-245a: [caption title, vl 2:] Sinfonia Mayestoso[!]
+@MARC-260c: 1790-1800 (18.ex)
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 34 x 21 cm
+@MARC-3008: 01
+@MARC-500a: vla, cor 2 missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak vla, cor 2]
+@MARC-5008: 01
+@MARC-500a: 3f. of cl 1: 12 x 19,5 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: brak okładki]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dublet: PodejkoK 1992, no.1173., RISM ID: 300001060 (PL-CZ III-562) ]
+@MARC-590a: vl 1, 2, b (incpl/1f. missing), cl or ob 1, 2, cor 1
+@MARC-590b: 4, 4, 3, 3, 2, 2f.
+@MARC-5908: 01
+@MARC-592a: IN [in cartouche] / [without countermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: vl (2), vla, b, cl (2), ob (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1173a
+@MARC-6910: lit1869
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-830
+@@END:		MARC21
+

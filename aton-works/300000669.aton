@@ -1,0 +1,116 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000669
+@MARC-003:	DE-633
+@MARC-005:	20201029163351.0
+@MARC-008:	120820##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 2'E,B/{8'EGBG}4E-/=2/2'E,B/{8'EGBG}4E-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 4B/''FFFF/4.F8G4F-/F{8ED}4EE/4.E8F4D4-/''Cn{8'B''C}4Cb'B/{8b''EDEF}4ED/C'bB''C'A/B''DF8-
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 6/8
+@MARC-031p: 4.E{8FEF}/4.G{8AGA}/4B8G{8''EDC}/4'B8A4G8-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kuci, Mateusz
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30017582
+@MARC-240a: Symphonies
+@MARC-240m: orch
+@MARC-240r: E|b
+@MARC-2400: 3900027
+@MARC-245a: [cover title, b:] Sinfonia Toni Es | Violino Primo | Violino Secundo | Clarinetto, Primo | Clarinetto Secundo | Cornu Primo | Cornu Secundo | Alto Viola | et. | Basso | Del Sige: Kuci.
+@MARC-260c: 1751-1800 (18.2d)
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-300c: 37 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: cl 1, 2 missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: brak cl 1, 2]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce: u góry z prawej strony czarnym tuszem ręką M. Zabłockiego "N|o 125."; skreślona ołówkiem; poniżej ołówkiem ręką nieznanego Paulina "N|o 95"; poniżej czerwonym atramentem ręką F. Maletza "N 85/2"; późniejsza u góry z lewej ołówkiem ręką W. Świerczka "968" w owalnym kółku]
+@MARC-500a: [pl-text: Poniżej środka po prawej stronie okładki okrągła pieczęć: "* ARCHIVUM * C. M. C." ]
+@MARC-590a: vl 1, 2, vla, b, cor 1, 2
+@MARC-590b: 2, 2, 2, 2, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: CZENSTOCHAU| 1798 | [lily] / [crowned eagle with sceptre and sword]
+@MARC-5928: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: vl (2), vla, b, cl (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 25
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 36
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.779
+@MARC-6910: lit1869
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 125
+@MARC-852d: N|o 95
+@MARC-852d: N 85/2
+@MARC-852d: 968
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-457
+@@END:		MARC21
+

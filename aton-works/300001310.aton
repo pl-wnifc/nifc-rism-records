@@ -1,0 +1,89 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300001310
+@MARC-003:	DE-633
+@MARC-005:	20201029163408.0
+@MARC-008:	150703##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Molto adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: {8.''C6'G}{8GGGG}/{8.''D6'G}{8GGGG}/{8.''E6G}{8.E6C8.D6'B}/4''C'C-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: =3/4-8-'GAG/4''E8FE{6ED}{'AB}/4''C8'G''C'B''C
+@MARC-031r: C
+@MARC-031t: Deus tuorum militum, sors et corona praemium
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Ścigalski, Franciszek
+@MARC-100d: 1782-1846
+@MARC-100j: Ascertained
+@MARC-1000: pe30002948
+@MARC-240a: Deus tuorum militum
+@MARC-240m: V, Coro, orch, org
+@MARC-240r: C
+@MARC-2400: 3908590
+@MARC-245a: [without title]
+@MARC-260c: 1851-1900 (19.2d)
+@MARC-2608: 01
+@MARC-300a: 16 parts
+@MARC-3008: 01
+@MARC-590a: S solo and coro, A, T, B, vl 1, 2, vla, fl 1 and 2, cl 1, 2, cor 1, 2, clno 1, 2, timp, org (= bc)
+@MARC-590b: f.1v-2r, 1v, 1v, 1v, 2r, 2r,1v, 1r, 1r, 1r, 1r, 1r, 1r, 1r, 1r, 2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: S coro
+@MARC-594c: 1
+@MARC-594b: A coro
+@MARC-594c: 1
+@MARC-594b: T coro
+@MARC-594c: 1
+@MARC-594b: B coro
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, S coro, A coro, T coro, B coro, vl (2), vla, fl (2), cl (2), cor (2), clno (2), timp, org
+@MARC-599b: full
+@MARC-650a: Graduals
+@MARC-6500: 25239
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1424
+@MARC-6910: lit1869
+@MARC-773w: 300001307
+@MARC-852a: PL-CZ
+@MARC-852d: 24
+@MARC-852d: 508
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-672
+@@END:		MARC21
+
