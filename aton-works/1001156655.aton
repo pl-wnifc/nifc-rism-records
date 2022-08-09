@@ -1,0 +1,83 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001156655
+@MARC-003:	DE-633
+@MARC-005:	20220205133301.0
+@MARC-008:	210519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 9-2-''2C'4GFGABAFG2AA4FGAF1G2F
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-2-'C,4AGAB'2CCD,2.A4B'C,A2BA1G2AF1B
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-3
+@MARC-031m: A 2
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2-'2G4EFGE2F2.C4D2EFD1C2D1D2C
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-3
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,1CCFEDFDbED
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Rorate caeli
+@MARC-240m: V (4)
+@MARC-2400: 3905164
+@MARC-245a: [at beginning of first staff in A:] Aliud | super | idem
+@MARC-260c: [1650-1749]
+@MARC-2608: 01
+@MARC-300a: 4 parts: 4 f.
+@MARC-3008: 01
+@MARC-590a: S, A 1, A 2, T
+@MARC-590b: f. 6r-6v, 9v, 12r-12v, 3v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 2
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594a: S, A (2), T
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773a: - 3 Sacred songs - V (4)
+@MARC-773w: 1001156612
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.34
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

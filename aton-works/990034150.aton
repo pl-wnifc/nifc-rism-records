@@ -1,0 +1,35 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990034150
+@MARC-003:	DE-633
+@MARC-005:	20181216091008.0
+@MARC-008:	161111##################################
+@MARC-035a: K 1348
+@MARC-040a: DE-633
+@MARC-100a: Kościuszko, Tadeusz
+@MARC-100d: 1746-1817
+@MARC-1000: pe30014456
+@MARC-240a: Polonaises
+@MARC-240m: pf
+@MARC-2400: 3900011
+@MARC-245a: Two polonoises and a waltz composed for the patriotic army of Poland [pf] [s.l., "printed for M. Josephls"]
+@MARC-510a: RISM A/I
+@MARC-510c: K 1348
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-710a: Josephls, M.
+@MARC-7100: ks40005571
+@MARC-7104: pbl
+@MARC-852a: GB-Lbl
+@MARC-852e: The British Library
+@MARC-852x: ks30001581
+@MARC-8523: 130821
+@MARC-852c: [no indication]
+@MARC-852a: PL-Wn
+@MARC-852e: Biblioteka Narodowa
+@MARC-852x: ks30000118
+@MARC-8523: 130822
+@MARC-852c: [no indication]
+@@END:		MARC21
+

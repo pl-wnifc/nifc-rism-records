@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300237567
+@MARC-003:	DE-633
+@MARC-005:	20201029163713.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/2
+@MARC-031p: ''4FG2AF/G1E/4FE2F-/'4FG2AF/G1E/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xFC
+@MARC-031o: 3/2
+@MARC-031p: =19/'4EF2GE/F1D/4ED2E-/'4EF2GE/
+@MARC-031r: D
+@MARC-031t: In pace princeps, nasceris bellum resolve miseris
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kobierkowicz, Józef
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30017725
+@MARC-240a: In pace princeps
+@MARC-240m: V (2), vl (2), clno (2), bc
+@MARC-240r: D
+@MARC-2400: 4328162
+@MARC-245a: [without title]
+@MARC-300a: 7 parts
+@MARC-3008: 01
+@MARC-500a: org missing
+@MARC-5008: 01
+@MARC-590a: A, T, vl 1, 2, vlne (= bc), clno in D 1, 2
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: A solo
+@MARC-594c: 1
+@MARC-594b: T solo
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: clno 1, 2
+@MARC-594c: 1
+@MARC-594b: bc: org
+@MARC-594c: 1
+@MARC-594b: bc: vlne
+@MARC-594c: 1
+@MARC-594a: A solo, T solo, vl 1, vl 2, clno 1, 2, bc: org, bc: vlne
+@MARC-599b: full
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-691a: ŹHMP 12
+@MARC-691n: p.70-79
+@MARC-6910: lit2199
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.702
+@MARC-6910: lit1869
+@MARC-773a: - 2 Pastorales
+@MARC-773w: 300237566
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-347
+@@END:		MARC21
+

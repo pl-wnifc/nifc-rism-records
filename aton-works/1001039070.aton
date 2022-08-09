@@ -1,0 +1,284 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001039070
+@MARC-003:	DE-633
+@MARC-005:	20220411065256.0
+@MARC-008:	180519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Sinfonia. All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4''G^'D^B^,G-''F^'A^'D-/i/{6'B''C8D}4D{6'AB8''C}4C/{'8B''G}4Gq8G4F-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4.'B8B4B-/2-4-n''F/2nF4E-/2-4-G/2G4F8'AB/
+@MARC-031q: +
+@MARC-031r: G
+@MARC-031t: Kyrie eleison, Christe eleison, Christe audi nos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4.''G^'D^B^,G8''G^'D^B^,G4''G^'D^B^,G-/2-4-''B/BB'''C-/2-4-xC/xCCD{''8FG}/
+@MARC-031q: +
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: =15/8''CC3{C'B''DC}{EDFE}8G4G8F/E{6FD}{8'AB}4''C-/
+@MARC-031r: C
+@MARC-031t: Pater de caelis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Andan[te]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 8{''CC}+3{C'B''DC}{EDFE}8G4G8F/{6.Et3DE}6{FD}8{'AB}8qB4''C-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 4''GGG/GF-/8CC4CC/8CC4'B-/''DD8DnF/
+@MARC-031r: G
+@MARC-031t: Sancta Maria Dei genitrix
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{''G'GGGG''G}/4Gt8{FDFA}/{'''C''CCCCC}/4Ct6{'BGAB}{''CDEF}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =30/4A6{GF}{ED}/8qD8.C6C4D/{8.,B3'CD}8,AG/GF4-/
+@MARC-031r: D
+@MARC-031t: Mater amabilis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: 4''A{6GFED}/8qD4C8qC4D/{8.'B3''CD}{8'AG}/{GtF}4-/8.{''F6'xA}8qA4B/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8.'B6''C4D8.E6F8GE/qD4.C8C'B''DDD/2D8EEEE/2E4F8CC/
+@MARC-031r: G
+@MARC-031t: Speculum iustitiae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8.{'B6''C}8qC4D8.{E6F}{8GE}/8qD4.C8C{6'B8GB''D6nF+}/{6FEDC}{'BAGF}{E8A''xCE6G}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =31/4''E2E/8FxD2'B/4''EG{8G6FE}/8{(xDC'B)}4B-/
+@MARC-031r: e
+@MARC-031t: Rosa mystica
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{(''EGB)}{EE}4E/8{('B''xDF)}{'BB}4B/8{(''EGB)}{EE}{G6FE}/8{(xDC'B}4B-/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4''DD8GxC4C/2D-/-8EE{DC}/'B''DC'B4BtA/
+@MARC-031r: g
+@MARC-031t: Salus infirmorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 8{''DDDD}{GxCCC}/2D-/-8{EEDC}/{'B''DC'B}4Bt8qB4A/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: =34/4.,G/B/'D/,B/{8GD}C/{6,,BA}8G-/{,DFA}/
+@MARC-031r: G
+@MARC-031t: Regina angelorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 2
+@MARC-031d: All[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/8
+@MARC-031p: 4.'G/B/''D/'B/{8GDC}/{6{,BA8G}8-/{6''DFFAA'''C}/{C''D}4Dt/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 4.''C8'G{A6''FD}8qC4'B/8qB''C-2-/=1/4.C8'G{A6''FD}8qC4'B/
+@MARC-031r: C
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 8{'GGGG}{AABB}/{6''C'EFG}-{''CDE}-{'DEF}-{B''CD}/{C'GGA}{ABB''D}{C'GAF}8{ED}/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Litanies
+@MARC-240r: G
+@MARC-2400: 3900164
+@MARC-245a: [caption title:] Litaniae
+@MARC-260c: 1773-1830
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 37,5 x 23 cm
+@MARC-3008: 01
+@MARC-500a: other parts missing
+@MARC-5008: 01
+@MARC-500a: Only T part written by Copyist A.
+@MARC-5008: 01
+@MARC-500a: Inscription "Laus Deo" at the end of each part apart from S.
+@MARC-590a: S, T, B
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: ob 1
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: cor in G 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: b (= bc)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: no indication
+@MARC-594a: no indication
+@MARC-599b: full
+@MARC-650a: Litanies
+@MARC-6500: 25137
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 265
+@MARC-6910: lit1891
+@MARC-700a: Copyist H from Sandomierz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe50046408
+@MARC-7004: scr
+@MARC-700a: Copyist A from Sandomierz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe41011643
+@MARC-7004: scr
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 231/A VI 35
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

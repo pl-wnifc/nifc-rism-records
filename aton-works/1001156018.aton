@@ -1,0 +1,100 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001156018
+@MARC-003:	DE-633
+@MARC-005:	20220204192345.0
+@MARC-008:	210515##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2'GB''C/1D2C/'2.B4B''2C/'B1A/1.G/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: 2'DD/F/1F2F/D2.G4G/1G2xF/1.G/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: ,2BGA/4B8{AG}4FG2A/4BA2.G4A/B'C2D,A/1.nB/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: 3/2
+@MARC-031p: ,2GGF/,,4B,CDE2F/1G2C/,,G1,D/,,1.G/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (4)
+@MARC-240r: g
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Missa Insignis Mater.
+@MARC-246a: [caption title in Basso Ripieno:] Insignis Mater
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 5 part: 9 f.
+@MARC-300c: 16.5 x 21 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r u góry po prawej stronie ołówkiem sygnatura: "Kk.I.24".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r u góry pomiędzy tytułem a nazwą głosu słabo widocznym ołówkiem: "Ch. 20".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na kartach 1r, 2v, 3r, 4v, 5r, 6v, 7r, 8v, 9v pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W partii Basso na kartach 7r i 8v nad pięciolinią miejscami zapisane cyfrowanie.]
+@MARC-590a: S, A, T, B (2x)
+@MARC-590b: f. 1-2, 3-4, 5-6, 7-8, 9
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.24
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ncc a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">990039269</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20181216091215.0</marc:controlfield>
+  <marc:controlfield tag="008">161111##################################</marc:controlfield>
+  <marc:datafield tag="035" ind1=" " ind2=" ">
+    <marc:subfield code="a">M 526; MM 526</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Marenzio, Luca</marc:subfield>
+    <marc:subfield code="d">1553c-1599</marc:subfield>
+    <marc:subfield code="0">pe30003955</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Madrigals</marc:subfield>
+    <marc:subfield code="m">S, A, T, B, V 5</marc:subfield>
+    <marc:subfield code="0">3911206</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">... novamente ristampati [Venezia, Gerolamo Scotto, erede]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1588</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="510" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM A/I</marc:subfield>
+    <marc:subfield code="c">M 526; MM 526</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1="1" ind2="0">
+    <marc:subfield code="a">Print</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1=" " ind2=" ">
+    <marc:subfield code="a">Scotto, Gerolamo, erede</marc:subfield>
+    <marc:subfield code="0">ks40009964</marc:subfield>
+    <marc:subfield code="4">pbl</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="775" ind1=" " ind2=" ">
+    <marc:subfield code="w">990039268</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">B-Br</marc:subfield>
+    <marc:subfield code="e">Bibliothèque royale de Belgique (KBR)</marc:subfield>
+    <marc:subfield code="x">ks30000440</marc:subfield>
+    <marc:subfield code="3">151046</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">B</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">D-As</marc:subfield>
+    <marc:subfield code="e">Staats- und Stadtbibliothek</marc:subfield>
+    <marc:subfield code="x">ks30000634</marc:subfield>
+    <marc:subfield code="3">151047</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">kpl.: S, A, T, B, 5</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">E-Zac</marc:subfield>
+    <marc:subfield code="e">Archivo de Música de las Catedrales de Zaragoza. Archivos Catedralicios (El Pilar y La Seo)</marc:subfield>
+    <marc:subfield code="x">ks30001405</marc:subfield>
+    <marc:subfield code="3">151048</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">A [2 Ex.], T</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">F-Pn</marc:subfield>
+    <marc:subfield code="e">Bibliothèque nationale de France, Département de la Musique</marc:subfield>
+    <marc:subfield code="x">ks30001488</marc:subfield>
+    <marc:subfield code="3">151049</marc:subfield>
+    <marc:subfield code="c">RES VMB- 58</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">5 parts: S, A, T, B, 5</marc:subfield>
+    <marc:subfield code="u">http://gallica.bnf.fr/ark:/12148/bpt6k4500200p</marc:subfield>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">GB-Lbl</marc:subfield>
+    <marc:subfield code="e">The British Library</marc:subfield>
+    <marc:subfield code="x">ks30001581</marc:subfield>
+    <marc:subfield code="3">151050</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">S</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">GB-Lcm</marc:subfield>
+    <marc:subfield code="e">Royal College of Music</marc:subfield>
+    <marc:subfield code="x">ks30001582</marc:subfield>
+    <marc:subfield code="3">151051</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q"/>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">GB-Ob</marc:subfield>
+    <marc:subfield code="e">Bodleian Library</marc:subfield>
+    <marc:subfield code="x">ks30001627</marc:subfield>
+    <marc:subfield code="3">151052</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">unvollständig</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-GD</marc:subfield>
+    <marc:subfield code="e">Polska Akademia Nauk Biblioteka Gdańska</marc:subfield>
+    <marc:subfield code="x">ks30002071</marc:subfield>
+    <marc:subfield code="3">151053</marc:subfield>
+    <marc:subfield code="c">Ee 1638 8º adl. 5</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">kpl: S, A, T, B, V5</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">PL-Kj</marc:subfield>
+    <marc:subfield code="e">Biblioteka Jagiellońska</marc:subfield>
+    <marc:subfield code="x">ks30002079</marc:subfield>
+    <marc:subfield code="3">151054</marc:subfield>
+    <marc:subfield code="c">Mus.ant.pract. M 185</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">S</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z">CANTO | DI LVCA MARENZIO | IL PRIMO LIBRO | DE' Madrigali Spirituali à Cinque Voci. | Nouamente Ristampati. | IN VENETIA, Appresso l' Herede di Girolamo Scotto. | MDLXXXVIII. At the end of the volume: handwritten Cantus of "O Domine Jesu Christe...".</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">http://gallica.bnf.fr/ark:/12148/bpt6k4500200p</marc:subfield>
+    <marc:subfield code="x">Digitized</marc:subfield>
+    <marc:subfield code="z">[digitized version]</marc:subfield>
+    <marc:subfield code="3">151049</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="973" ind1=" " ind2=" ">
+    <marc:subfield code="u">1001202747</marc:subfield>
+    <marc:subfield code="3">151053</marc:subfield>
+  </marc:datafield>
+</marc:record>

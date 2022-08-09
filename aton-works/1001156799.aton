@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001156799
+@MARC-003:	DE-633
+@MARC-005:	20220205130730.0
+@MARC-008:	210520##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 1'D+/2DD/1C+/2C,B/1A/nB/
+@MARC-031q: [pl-text: W miejscu pierwszych nut w taktach 2 i 4 w źródle zaznaczone kropki, brak łuków.]
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2-,1B2A/G4A2A4G1G2xF/1G/
+@MARC-031q: [pl-text: Przekreślone główki pierwszej nuty w pierwszym takcie oraz trzeciej i piątej w drugim takcie.]
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2-1,G2D/nExF/1GD/,,G/
+@MARC-031q: [pl-text: Główka pierwszej nuty przekreślona.]
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (3)
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Missa a 3.
+@MARC-260c: [1750-1849]
+@MARC-2608: 01
+@MARC-300a: 4 parts: 8 f.
+@MARC-300c: 20 x 24 (24.5) cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r w lewym górnym rogu ołówkiem sygnatura: "Kk.I.59".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach recto wszystkich kart pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W głosie B na karcie 7r w prawym górnym rogu: "Missa Trim' [nieczytelne]".]
+@MARC-505a: [pl-text: Opracowanie części cyklu mszalnego: "Kyrie", "Gloria", "Sanctus", "Agnus Dei".]
+@MARC-590a: T 1, T 2, B (2x)
+@MARC-590b: f. 1-2, 3-4, 5-6, 7-8
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.59
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

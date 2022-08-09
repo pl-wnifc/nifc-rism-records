@@ -1,0 +1,71 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30006748
+@MARC-003:	DE-633
+@MARC-005:	20220427133253.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 167046080
+@MARC-0242: VIAF
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Tymolski, Fabian
+@MARC-100d: 1828-1885
+@MARC-100y: 14.01.1828-1885
+@MARC-375a: male
+@MARC-400a: Timolský
+@MARC-550a: Composer
+@MARC-551a: L'viv
+@MARC-551i: go
+@MARC-5510: 3900094
+@MARC-551a: L'viv
+@MARC-551i: so
+@MARC-5510: 3900094
+@MARC-670a: ČSHS
+@MARC-670b: 0
+@MARC-670w: 1625
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: EM/b
+@MARC-670b: Tymolski, Fabian [14.01.1828-09.1885]
+@MARC-670w: 1793
+@MARC-670a: Frank-AltmannTL|1|5
+@MARC-670b: 0
+@MARC-670w: 1280
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: HofmeisterMLM
+@MARC-670b: Tymolski, F. [(fl. 1846-1860)]
+@MARC-670w: 30022732
+@MARC-670a: MCL
+@MARC-670b: 0
+@MARC-670w: 1635
+@MARC-670a: MGG
+@MARC-670b: Tymolski, Fabian [19.sc]
+@MARC-670w: 1263
+@MARC-670a: MGG
+@MARC-670b: vide 8, 1860
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: 0
+@MARC-670w: 1290
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: PazdírekU 1904
+@MARC-670b: Tymolski [(s.d.)]
+@MARC-670w: 1463
+@MARC-670a: SMP
+@MARC-670b: Tymolski, Fabian [14.01.1828-1885]
+@MARC-670w: 1935
+@MARC-856u: https://archive.org/stream/universalhandboo18pazd#page/386/mode/2up
+@MARC-856y: PazdírekU 1904
+@@END:		MARC21
+

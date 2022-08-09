@@ -1,0 +1,55 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30110390
+@MARC-003:	DE-633
+@MARC-005:	20220115201313.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 88829213
+@MARC-0242: VIAF
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Grabowski, Stanisław
+@MARC-100d: 1791-1852
+@MARC-100w: x
+@MARC-100y: 1791-17.06.1852
+@MARC-375a: male
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Pianist
+@MARC-550i: profession
+@MARC-550a: Piano teacher
+@MARC-550i: profession
+@MARC-550a: Copyist
+@MARC-550i: profession
+@MARC-551a: Kraków
+@MARC-551i: go
+@MARC-5510: 3900053
+@MARC-551a: Żytomierz
+@MARC-551i: so
+@MARC-5510: 50013335
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: EM/b
+@MARC-670b: Grabowski, Stanisław [1791-1852]
+@MARC-670w: 1793
+@MARC-670a: Grove|7
+@MARC-670b: Grabowski, Stanisław [1791-1852]
+@MARC-670w: 3072
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: 0
+@MARC-670w: 1290
+@MARC-670a: SMP
+@MARC-670b: Grabowski, Stanisław [1852+]
+@MARC-670w: 1935
+@@END:		MARC21
+

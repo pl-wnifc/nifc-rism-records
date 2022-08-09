@@ -1,0 +1,199 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000296
+@MARC-003:	DE-633
+@MARC-005:	20201029163335.0
+@MARC-008:	101005##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 4'DDD/,A8-{6'DE}{8.'Ft3ED}/4EEE/,A8-{6'EF}{8.Gt3FE}/{8.F6A}4''D
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: b
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: ,4DDD/A8-6{DE}{8.Ft3ED}/4EEE/A8-{6EF}{8.Gt3FE}/8{DD}
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: fl solo
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =7/4-8-''E/2E/'''C/{6C''xGAG}{AGAxE/{GCDC}{DCDC}/2D/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: b
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =8/884,,A--/A--/A--/,D--/E--/E--/E--/E--/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 1''D/F/A/'''D/{8D''D'''DC}{''B'B''BA}/{G'G''GF}{E'E''ED}/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: b
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: =2/8{,DFAF}{DFAF}/{DFAF}{DFAF}/4D-2-/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Engel, Jan
+@MARC-100d: 1788+
+@MARC-100j: Ascertained
+@MARC-1000: pe30009138
+@MARC-240a: Symphonies
+@MARC-240m: orch
+@MARC-240r: d
+@MARC-2400: 3900027
+@MARC-245a: [cover title:] Symfonia in D mol | a | Violino 1=|m|o et 2=|d|o | Oboe 1=|m|o et 2=|d|o | Fagotto | Corno 1=|m|o et 2=|d|o | Viola | con | Basso | [aligned to left:] Auth: Engel | [aligned to right:] Pro Choro Cla: M: Czenst: 1836 | L. M.
+@MARC-246a: [caption title on b:] Sinfonia
+@MARC-260c: before 1836
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 36 x 22,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: okładka na papierze ze znakiem wodnym: "[illegible] / [sun with illegible symbol]"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: znak wodny "W (crowned) / SCHMARSCHE" na głosach vla, ob 1 na f. 2-3 głosów vl 1, 2 oraz na głosach ob 2, cor 2 (wyłącznie kontrmarka "SCHMARSCHE") i cor 1 (wyłącznie "W (crowned)")]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na f. 1 głosu vl 1 znak wodny z orłem w koronie]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na f. 1 głosu vl 2 znak wodny z kotwicą]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na głosie b znak wodny z nieczytelnym monogramem na linii zgięcia: M, W lub podobny]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na głosie fag znak wodny z mieczem w kartuszu z koroną]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosu b: 37,5 x 22 cm]
+@MARC-5008: 01
+@MARC-500a: [pl-text: karty głosów vl 1, 2 pozszywane razem]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze pośrodku ołówkiem ręką nieznanego Paulina "N-|o 102" skreślona; późniejsza po prawej czerwonym atramentem ręką F. Maletza "N 121"; późniejsza po lewej ołówkiem ręką W. Świerczka "912" w kółku]
+@MARC-500a: [pl-text: Okrągły stempel "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki oraz na głosach: vl 1 f. 1r; vl 2 f. 2r, 2v; vla f. 1v; ob 1 f. 1v, 2r; ob 2 f. 1v, fag f. 1r, cor 1 f. 1v, cor 2 f. 1v]
+@MARC-500a: [pl-text: Pierwsza strona głosu vl 1 i vl 2 wraz z oznaczeniem głosu w nagłówku na f. 3v; dodatkowe oznaczenie głosu vl 1 na f. 3r tego głosu na dole oraz na f. 2v na początku pierwszej pięciolinii]
+@MARC-500a: [pl-text: Na f. 2r głosu vl 1 rozpisana partia fl solo dla części "Andante"; brak partii pierwszych skrzypiec dla tej części]
+@MARC-500a: [pl-text: Pierwsza strona głosu vla wraz z oznaczeniem głosu w nagłówku na f. 2v]
+@MARC-500a: [pl-text: Głos b zapisany inną ręką]
+@MARC-500a: [pl-text: Na f. 1r głosu b notatki na górze karty: po lewej czerwonym atramentem podkreślone: "Ark. N|o 8."; po prawej czarnym atramentem: "par Auth Engel"]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-16]
+@MARC-500a: [pl-text: Symfonia w MaletzC zapisana pod numerem 1503/121]
+@MARC-500a: [pl-text: W głosie b w kilku miejscach drugi głos z dodatkowym określenie instrumentu: "Violoncello"]
+@MARC-561a: [title page bottom right:] Pro Choro Cla: M: Czenst: 1836
+@MARC-563a: [pl-text: głosy przechowywane luzem w białej okładce o wymiarach 38,5 x 23,5 cm; po zewnętrznej stronie na brzegach i wzdłuż grzbietu (z wyjątkiem górnej krawędzi f. 1r) paski pomarańczowego papieru; karta tytułowa na f. 1r; wnętrze okładki białe, z widocznymi śladami odklejonych manuskryptów muzycznych]
+@MARC-5638: 01
+@MARC-590a: fl solo or vl 1, vl 2, vla, b [and vlc]
+@MARC-590b: 3, 3, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2, fag
+@MARC-590b: 2, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in F
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-592a: [illegible] / [sun with illegible symbol]
+@MARC-5928: 01
+@MARC-592a: W (crowned) / SCHMARSCHE
+@MARC-5928: 01
+@MARC-592a: [crowned eagle]
+@MARC-5928: 01
+@MARC-592a: [anchor with initial S]
+@MARC-5928: 01
+@MARC-592a: [sword in crowned cartouche]
+@MARC-5928: 01
+@MARC-592a: [illegible monogram]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: fl solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor in F
+@MARC-594c: 2
+@MARC-594a: fl solo, vl (2), vla, vlc, b, ob (2), fag, cor in F (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 406
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 37
+@MARC-6910: lit1887
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Kottritsch, Franciszek
+@MARC-700d: 1727c-1787
+@MARC-700j: Ascertained
+@MARC-7000: pe30040598
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Mężnicki, Leopold
+@MARC-700d: 1799-1854p
+@MARC-700j: Ascertained
+@MARC-7000: pe30040497
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N-|o 102
+@MARC-852d: N 121
+@MARC-852d: 912
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-214
+@@END:		MARC21
+

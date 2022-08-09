@@ -1,0 +1,88 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000597
+@MARC-003:	DE-633
+@MARC-005:	20201029163349.0
+@MARC-008:	111004##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: Coro S 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =4/ 4''D{6xCDED}8'B-4-/4''C{6'B''CDC}8'A-4-/
+@MARC-031r: G
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4'B{6xAB''C'B}8G-4-/4A{6xGABA}8F-4-/
+@MARC-031r: G
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Koperski, Maksymilian
+@MARC-100d: 1812-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe30060120
+@MARC-240a: Salve regina
+@MARC-240m: Coro, trb
+@MARC-240r: G
+@MARC-2400: 3021988
+@MARC-245a: [without title]
+@MARC-260c: 1836
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-561a: Chorus Gostinensis, Gostyń
+@MARC-590a: Coro: S 1, 2, A 1, 2, T 1, 2, B 1, 2, trb
+@MARC-590b: f. 1r, 1r, 1r, 1r, 1r, 1r, 1r, 1r, 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro A
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 1
+@MARC-594a: Coro S (2), Coro A (2), Coro T (2), Coro B (2), trb
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 28
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.708
+@MARC-6910: lit1869
+@MARC-710a: Chorus Gostinensis
+@MARC-7100: ks30077257
+@MARC-7104: fmo
+@MARC-773a: Koperski, Maksymilian - 2 Antiphons
+@MARC-773w: 300000596
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 430
+@MARC-852d: N 1157/458
+@MARC-852d: 788
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-352
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

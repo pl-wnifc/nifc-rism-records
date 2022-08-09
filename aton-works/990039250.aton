@@ -1,0 +1,144 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990039250
+@MARC-003:	DE-633
+@MARC-005:	20220131145754.0
+@MARC-008:	161111##################################
+@MARC-035a: M 507; MM 507
+@MARC-040a: DE-633
+@MARC-100a: Marenzio, Luca
+@MARC-100d: 1553c-1599
+@MARC-1000: pe30003955
+@MARC-240a: Madrigali, libro 3
+@MARC-240m: V (6)
+@MARC-2400: 5029038
+@MARC-245a: Di Luca Marenzio il terzo libro de' Madrigali a sei voci. Novamente composto et dato in luce. In Vinegia, Appresso l'Herede di Girolamo Scotto
+@MARC-260a: Vinegia
+@MARC-260b: l'Herede di Girolamo Scotto
+@MARC-260c: 1585
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: M 507; MM 507
+@MARC-588a: I-Bc T.40
+@MARC-590a: S, A, T, B, V 5, V 6
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: V 5
+@MARC-594c: 1
+@MARC-594b: V 6
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, V 5, V 6
+@MARC-599b: full
+@MARC-650a: Madrigals
+@MARC-6500: 25257
+@MARC-700a: Knoff, Georg
+@MARC-700d: 1550c-1605
+@MARC-7000: pe50048775
+@MARC-7003: 150894
+@MARC-7004: fmo
+@MARC-710a: Scotto, Gerolamo, erede
+@MARC-7100: ks40009964
+@MARC-7104: pbl
+@MARC-785a: Marenzio, Luca - Madrigals - S, A, T, B, V 5, V 6
+@MARC-785w: 990039251
+@MARC-785a: Marenzio, Luca - Madrigals - S, A, T, B, V 5, V 6
+@MARC-785w: 990039252
+@MARC-852a: B-Br
+@MARC-852e: Bibliothèque royale de Belgique (KBR)
+@MARC-852x: ks30000440
+@MARC-8523: 150884
+@MARC-852c: [no indication]
+@MARC-852q: B
+@MARC-852a: E-Zac
+@MARC-852e: Archivo de Música de las Catedrales de Zaragoza. Archivos Catedralicios (El Pilar y La Seo)
+@MARC-852x: ks30001405
+@MARC-8523: 150885
+@MARC-852c: [no indication]
+@MARC-852q: A, T
+@MARC-852a: F-A
+@MARC-852e: Bibliothèque Ceccano
+@MARC-852x: ks30003001
+@MARC-8523: 150886
+@MARC-852c: [no indication]
+@MARC-852q: 5
+@MARC-852a: GB-Lbl
+@MARC-852e: The British Library
+@MARC-852x: ks30001581
+@MARC-8523: 150887
+@MARC-852c: [no indication]
+@MARC-852q: 5
+@MARC-852a: I-Bc
+@MARC-852e: Museo internazionale e biblioteca della musica di Bologna
+@MARC-852x: ks30001740
+@MARC-8523: 150888
+@MARC-852c: T.40
+@MARC-852q: 1 part: B
+@MARC-852a: I-Fb
+@MARC-852b: Special Collections
+@MARC-852e: Biblioteca Berenson - Morrill Music Library
+@MARC-852x: ks30004727
+@MARC-8523: 51030336
+@MARC-852c: M1582 .M4 1584 M
+@MARC-852q: 2 parts: T, B
+@MARC-852a: I-Fd
+@MARC-852e: Biblioteca e Archivio dell'Opera del Duomo (S. Maria del Fiore)
+@MARC-852x: ks30001779
+@MARC-8523: 150890
+@MARC-852c: [no indication]
+@MARC-852q: B [unvollständig]
+@MARC-852a: I-Fn
+@MARC-852e: Biblioteca nazionale centrale
+@MARC-852x: ks30001783
+@MARC-8523: 150889
+@MARC-852c: [no indication]
+@MARC-852q: kpl.: S, A, T, B, 5, 6
+@MARC-852a: I-Ls
+@MARC-852e: Biblioteca diocesana Mons. Giuliano Agresti
+@MARC-852x: ks30001812
+@MARC-8523: 150891
+@MARC-852c: [no indication]
+@MARC-852a: I-MOe
+@MARC-852e: Biblioteca Estense
+@MARC-852x: ks30001837
+@MARC-8523: 150892
+@MARC-852c: [no indication]
+@MARC-852a: I-Vnm
+@MARC-852e: Biblioteca Nazionale Marciana
+@MARC-852x: ks30000170
+@MARC-8523: 150893
+@MARC-852c: [no indication]
+@MARC-852q: 5
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-8523: 150894
+@MARC-852c: Ee 1638 8° adl. 7
+@MARC-852q: complete: S, A, T, B, V5, V6
+@MARC-852z: Georg Knoff
+@MARC-856u: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_T/T040/
+@MARC-856x: Digitized
+@MARC-856z: Digital copy
+@MARC-8563: 150888
+@MARC-856u: https://pbc.gda.pl/publication/86130
+@MARC-856x: Digitized
+@MARC-856z: [digitized version]
+@MARC-8563: 150894
+@MARC-973u: 1001160970
+@MARC-9733: 51030336
+@MARC-973u: 1001202747
+@MARC-9733: 150894
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

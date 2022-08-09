@@ -1,0 +1,111 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300001380
+@MARC-003:	DE-633
+@MARC-005:	20201029163409.0
+@MARC-008:	151019##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8-{'FFF}/-{BBB}/-{ABG}/F-{GE}/{F6AA}8F-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =48/4'C,8AF/8.E6G8B6-G/{BA}{GA}{'C,B}{AG}/4Ft{6qEqF}8E
+@MARC-031r: F
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Verified
+@MARC-1000: pe30020656
+@MARC-240a: Salve regina
+@MARC-240m: V (2), orch
+@MARC-240r: F
+@MARC-2400: 3021988
+@MARC-245a: [caption title on each part:] Duetto I.|t|e
+@MARC-260c: 1755-1820
+@MARC-2608: 01
+@MARC-300a: 12 parts
+@MARC-3008: 01
+@MARC-500a: Solo sections in fl (indicated as "Flauti"), ob 1, 2, fag (indicated as "Fagotto Duae")
+@MARC-500a: [pl-text: Odcinki solowe w głosie fl (oznaczonym jako "Flauti"), ob 1, 2, fag (oznaczony jako "Fagotto Duae")]
+@MARC-590a: T, B
+@MARC-590b: f. 1v-2r; 2v-1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla obl, b and vlne
+@MARC-590b: f. 1v-2r, 1v-2r, 1v-2r, 1v-2r
+@MARC-5908: 01
+@MARC-590a: fl, ob 1, 2, fag 1 and 2
+@MARC-590b: f. 1r, 1r, 1v, 1r
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in F
+@MARC-590b: 1r, 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 2
+@MARC-594a: T, B, vl (2), vla, b, vlne, fl, ob (2), fag (2), cor in F (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 25
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1497
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Volckmer, Franz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30108893
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773a: Volckmer, Augustin - 2 Salve regina - V (2), orch
+@MARC-773w: 300001379
+@MARC-852a: PL-CZ
+@MARC-852d: N-|o 100
+@MARC-852d: N 1060/361
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-683
+@@END:		MARC21
+

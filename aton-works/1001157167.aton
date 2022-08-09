@@ -1,0 +1,101 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001157167
+@MARC-003:	DE-633
+@MARC-005:	20220205142802.0
+@MARC-008:	210524##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie, Lento
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: ''2EE/4DC'BA/1G/4EG''CE/4.(G)8F4E'(F)//
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie, Lento
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: '2GG/4BAGF/GFED/1G/,4(B)8.-6'B4G,(B)//
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Kyrie, Lento
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: '2CC/,BB/1B/E/'4.(E)8D4C,(G)//
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Kyrie, Lento
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,4CEG'C/2,GG/4EDC,,B/,CEG'C/,(C)8.-6G4C(C)//
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031d: Kyrie, Lento
+@MARC-031g: F-4
+@MARC-031m: bc
+@MARC-031p: ,4CEG'C/1,G/,,G/4,CEG'C/,(C)8.-6G4C(C)/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (4), cb, bc
+@MARC-2400: 3900051
+@MARC-245a: [in S on f. 1r, left upper corner:] In Honorem R[everen]dissim[i] | Primatoris Poniatowsky [right upper corner:] [illegible] | Petrkovy producta die 29 | A[nn]o D: 1788. in Festo Micha:[elis] | Pontificaliter per R[everen]dissimu[m] Boksa
+@MARC-260c: [1750-1799]
+@MARC-2608: 01
+@MARC-300a: 6 parts: 33 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Partia "Basso Accompagnato" bez cyfrowania.]
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 1r-5v, 7r-11v, 13r-17v, 19r-24r
+@MARC-5908: 01
+@MARC-590a: cb, bc
+@MARC-590b: f. 25r-30r, 31r-36r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, cb, bc
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773a: - 2 Sacred songs
+@MARC-773w: 1001157165
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.62
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

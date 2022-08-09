@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30008241
+@MARC-003:	DE-633
+@MARC-005:	20220115200348.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 12572276
+@MARC-0242: VIAF
+@MARC-024a: 134623703
+@MARC-0242: DNB
+@MARC-024a: Q66223
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-DE
+@MARC-100a: Beyer, Ferdinand
+@MARC-100d: 1803-1863
+@MARC-100y: 25.07.1803-14.05.1863
+@MARC-375a: male
+@MARC-400a: Beyer, August Ferdinand
+@MARC-550a: Arranger
+@MARC-550a: Composer
+@MARC-550a: Performer
+@MARC-550a: Pianist
+@MARC-551a: Querfurt
+@MARC-551i: go
+@MARC-5510: 3903144
+@MARC-551a: Mainz
+@MARC-551i: so
+@MARC-5510: 3900239
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: Frank-AltmannTL|1|5
+@MARC-670b: Beyer, Ferd. [1803-1863]
+@MARC-670w: 1280
+@MARC-670a: Grove|6
+@MARC-670b: 0
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Beyer, Ferdinand [1803-1863]
+@MARC-670w: 3072
+@MARC-670a: MCL
+@MARC-670b: Beyer, Ferdinand [1803-1863]
+@MARC-670w: 1635
+@MARC-670a: MGG suppl.
+@MARC-670b: 0
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: Beyer, Ferdinand [1803-1863]
+@MARC-670w: 1263
+@MARC-670a: MGG
+@MARC-670b: vide 10, 1520; 11, 98
+@MARC-670w: 1263
+@MARC-670a: MGG|2 suppl.
+@MARC-670b: 0
+@MARC-670w: 30020107
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: 0
+@MARC-670w: 1290
+@MARC-670a: MMM2 online
+@MARC-670b: Beyer, (August) Ferdinand [25.07.1803-14.05.1863]
+@MARC-670w: 41001754
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: 0
+@MARC-670w: 408
+@MARC-856u: http://mmm2.mugemir.de/doku.php?id=beyerf
+@MARC-856y: Beer, Axel: Art. BEYER, (AUGUST) FERDINAND, in: MMM2 online, Zugriff am 21.08.2019
+@@END:		MARC21
+

@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990039238
+@MARC-003:	DE-633
+@MARC-005:	20200226084218.0
+@MARC-008:	161111##################################
+@MARC-035a: M 495
+@MARC-040a: DE-633
+@MARC-100a: Marenzio, Luca
+@MARC-100d: 1553c-1599
+@MARC-1000: pe30003955
+@MARC-240a: Motets
+@MARC-240m: V (4)
+@MARC-2400: 3007091
+@MARC-245a: Motettorum pro festis totius anni, cum Communi Sanctorum quaternis vocibus: liber primus [Venezia, Gerolamo Scotto, erede]
+@MARC-260a: Venezia
+@MARC-260c: 1588
+@MARC-2608: 01
+@MARC-510a: RISM A/I
+@MARC-510c: M 495
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Motets
+@MARC-6500: 25240
+@MARC-710a: Scotto, Gerolamo, erede
+@MARC-7100: ks40009964
+@MARC-7104: pbl
+@MARC-775w: 990039237
+@MARC-852a: D-Ngm
+@MARC-852e: Germanisches National-Museum, Bibliothek
+@MARC-852x: ks30000934
+@MARC-8523: 150809
+@MARC-852c: [no indication]
+@MARC-852q: A [unvollständig, handschriftlich ergänzt]
+@MARC-852a: D-Rp
+@MARC-852e: Bischöfliche Zentralbibliothek, Proskesche Musikabteilung
+@MARC-852x: ks30000970
+@MARC-8523: 150810
+@MARC-852c: [no indication]
+@MARC-852q: kpl.: S, A, T, B
+@MARC-852a: I-Bc
+@MARC-852e: Museo internazionale e biblioteca della musica di Bologna
+@MARC-852x: ks30001740
+@MARC-8523: 150811
+@MARC-852c: [no indication]
+@MARC-852q: T
+@MARC-852a: I-PCd
+@MARC-852e: Biblioteca e Archivio capitolare del Duomo
+@MARC-852x: ks30001868
+@MARC-8523: 150812
+@MARC-852c: [no indication]
+@MARC-852q: kpl. in 2 Ex.
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-8523: 150813
+@MARC-852c: Ee 1638 8º adl. 2
+@MARC-852q: S, A, T, B
+@MARC-852a: PL-Kj
+@MARC-852e: Biblioteka Jagiellońska
+@MARC-852x: ks30002079
+@MARC-8523: 150814
+@MARC-852c: Mus.ant.pract. M 175
+@MARC-852q: kpl.: S, A, T, B
+@MARC-852z: CANTVS | LVCAE MARENTII | MOTETTORVM | PRO FESTIS TOTIVS ANNI | Cum Communi Sanctorum quaternis vocibus: | LIBER PRIMVS. | DENVO IN LVCEM EDITVS. | VENETIIS, Apud Haeredem Hieronymi Scoti. 1588.
+@MARC-973u: 1001202747
+@MARC-9733: 150813
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

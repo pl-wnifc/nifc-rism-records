@@ -1,0 +1,133 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001069546
+@MARC-003:	DE-633
+@MARC-005:	20210627194253.0
+@MARC-008:	190427##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Sonata. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 4.''A{8'A''CE}/i/{''A'A''CE}{AG}/{AEAB'''C''B}/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Recitativo
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 4-8-6''CE8.'A6A8AA/BB-BB6''CC8D6DD/{DC}8C6-EFE8.xD6C8'B''6DD/
+@MARC-031r: A
+@MARC-031t: Nihil est in mundo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Recitativo
+@MARC-031g: F-4
+@MARC-031m: org
+@MARC-031n: xFCG
+@MARC-031o: c
+@MARC-031p: 1,,A/2AxG/AB/8-{,C,,BA}{,GFG,,B}/4,EDC,,A/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Aria
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c/
+@MARC-031p: 4-/=12/4.''E8C4'AG/2A4E''E/FE4.D8C/2.C4C/
+@MARC-031r: A
+@MARC-031t: Amo te mi Deo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c/
+@MARC-031p: 4''E+/E8{FE}{DC'BA}/2''F4EA/{8FDCD}{FDCD}/{EDC'B}4A''A/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Nihil est in mundo
+@MARC-240m: S, strings, org
+@MARC-240r: A
+@MARC-2400: 5199383
+@MARC-245a: [title page:] L I C | Nichil [!] est in mundo | N. 15 | Concerto de Deo a. 5. | Canto Solo | Violino 1mo | Violino 2do | Alto Viola | et | Organo
+@MARC-260c: 1730-1761
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 20,5 x 16 cm
+@MARC-3008: 01
+@MARC-500a: Inscriptions on the title page: at the bottom: "S: G Szukształowicz"; "darował Kaszinski"; "Ex Scriptis L. Kaszynski | mpmp"; on the right margin, crossed out: "Tomasz Bykoski"; on the left margin: "Umie | Michałek" [Michael can [sing it]].
+@MARC-590a: S solo
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, a-vla
+@MARC-590b: 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S solo, vl (2), vla, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-650a: Cantatas
+@MARC-6500: 25226
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 273
+@MARC-6910: lit1891
+@MARC-691a: PatalasŻ 2016
+@MARC-691n: p. 134
+@MARC-6910: lit41001178
+@MARC-700a: Szukształowicz, Stanisław Gabriel
+@MARC-700d: 1718a-1761p
+@MARC-700j: Ascertained
+@MARC-7000: pe41011474
+@MARC-7004: fmo
+@MARC-700a: Kaszyński, L.
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe50042318
+@MARC-7004: scr
+@MARC-700a: Bykowski, Tomasz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe50047788
+@MARC-7004: oth
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 497/A VIII 137
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258014
+@MARC-003:	DE-633
+@MARC-005:	20220228135250.0
+@MARC-008:	121101##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031p: 1.'F4ED1.C2,BAG1F1.'F2EDC1,B9A0'F
+@MARC-031t: Amen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2.,F4G2AB'C4,BA1G1.'C2,BAGFAB'C1D0C
+@MARC-031t: Amen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031p: 9,FE0F1FF2FF1F9E0F
+@MARC-031t: Amen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031p: 1.,,F2GAB,1C,,F1.,F2EDC,,BA1B0F
+@MARC-031t: Amen
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Responsories
+@MARC-240m: V (5)
+@MARC-2400: 3902381
+@MARC-245a: [without title]
+@MARC-260c: [1552-1600]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks: 4 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: W księdze Cantus nad partią inskrypcja: "Quinq[ue] vocum", w księgach Altus, Tenor, Bassus inskrypcja: "Quinq[ue] voc[um]".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak piątego głosu.]
+@MARC-505a: [pl-text: Cykl responsoriów mszalnych zawierający opracowania: "Amen", "Et cum spiritu tuo", "Gloria tibi Domine"; "Praefationis": "Amen", "Et cum spiritu tuo", "Habemus ad Dominum", "Dignum et iustum est"; "Sed libera nos a malo"; w księdze Cantus także "Deo gratias".]
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 184r-184v, 187r-187v, 168r, 182r-182v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594a: A, T (2), B, V
+@MARC-599b: full
+@MARC-650a: Responsories
+@MARC-6500: 25248
+@MARC-691a: Głuszcz-ZwolińskaW 1969
+@MARC-6910: lit2815
+@MARC-773a: - 61 Sacred songs
+@MARC-773w: 300257954
+@MARC-852a: PL-Kk
+@MARC-852d: D 25
+@MARC-852d: D 26
+@MARC-852d: D 27
+@MARC-852d: Ch.192
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

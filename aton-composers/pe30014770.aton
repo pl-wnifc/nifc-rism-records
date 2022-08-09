@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe30014770
+@MARC-003:	DE-633
+@MARC-005:	20220115200510.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 102398473
+@MARC-0242: VIAF
+@MARC-024a: 103959114
+@MARC-0242: DNB
+@MARC-024a: Q772603
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Wacław z Szamotuł
+@MARC-100d: 1520c-1560c
+@MARC-375a: male
+@MARC-400a: Szamotulski
+@MARC-400j: xx
+@MARC-400a: Wenzel von Samter
+@MARC-400j: xx
+@MARC-400a: S. W.
+@MARC-400j: in
+@MARC-400a: V. S.
+@MARC-400j: in
+@MARC-400a: Samotulinus
+@MARC-400j: xx
+@MARC-400a: Schamotulinus
+@MARC-400j: xx
+@MARC-400a: Shamotulinus
+@MARC-400j: xx
+@MARC-400a: Szamotulczyk
+@MARC-400j: xx
+@MARC-400a: Schamotulinus, Vence.
+@MARC-550a: Author
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Poet
+@MARC-550i: profession
+@MARC-551a: Trakai
+@MARC-551i: wo
+@MARC-5510: 50011782
+@MARC-670a: DEUMM/b
+@MARC-670b: Wacław di Szamotuły (Szamotulczyk; Szamotulski) (Szamotulinus; Shamotulinus, Venceslaus) (Wenzel von Samter) [1524c-1560c]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Szamotulski, Wazlaw (Samotulinus; Schamotulinus) (Wenzeslaus) [1572+ (1573+)]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Szamotuł, Wacław z (Szamotulczyk; Szamotulski) (Samotulinus; Schamotulinus; Shamotulinus, Venceslaus) [1524c-1560c]
+@MARC-670w: 1258
+@MARC-670a: MGG
+@MARC-670b: Szamotuły, Wacław aus (Szamotulczyk; Shamotulinus) (Venceslaus) [1524p (1526a)-1560]
+@MARC-670w: 1263
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: 0
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Szamotuly, Waclaw (Szamotulski)
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: Wacław Szamotulczyk (Wacław z Szamotuł) [1520c-1560c]
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Wacław Szamotułczyk (Wenzel von Samter) (Samotulinus; Schamotulinus; Szamotulski) [1520c-1567c]
+@MARC-670w: 408
+@MARC-670a: SMP
+@MARC-670b: z Szamotuł, Wacław (Szamotulczyk; Szamotulski) (SW, VS) [1520c-1560c]
+@MARC-670w: 1935
+@@END:		MARC21
+

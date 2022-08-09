@@ -1,0 +1,114 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300001370
+@MARC-003:	DE-633
+@MARC-005:	20201029163409.0
+@MARC-008:	151012##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2''Dq6E{8D6CD}{8FD}/2'A+{8AFGA}/4B{6GFGA}{BAB''C}{8D'B}/{AF}4A
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: =53/2''Dq6E{8D6CD}{8FD}/2'A+{8AFGA}/4B{6GFGA}{BAB''C}{8D'B}/{AF}4A
+@MARC-031r: D
+@MARC-031t: Adoro te devote
+@MARC-031t: Veni creator spiritus
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Verified
+@MARC-1000: pe30020656
+@MARC-240a: Adoro te devote
+@MARC-240m: S, orch
+@MARC-240r: D
+@MARC-2400: 3019610
+@MARC-245a: [caption title on each part:] Aria I.|t|e
+@MARC-260c: 1751-1850
+@MARC-2608: 01
+@MARC-300a: 10 parts
+@MARC-3008: 01
+@MARC-500a: Below "Adoro te devote" lyrics second text: "Veni Creator"
+@MARC-500a: [pl-text: pod tekstem "Adoro te devote" wpisane słowa hymnu "Veni Creator"]
+@MARC-500a: clno part indicated as "Clarino. Solo"; contains clno part with solo sections marked above staves
+@MARC-500a: [pl-text: głos clno oznaczony jako "Clarino. Solo"; zawiera partię clno z odcinkami solowymi zaznaczonymi nad pięciolinią]
+@MARC-500a: MaletzC 1898 no. 884/185 refers only to the second aria in collection: "Ad laudes properate"
+@MARC-500a: [pl-text: MaletzC 1898 no. 884/185 wymienia jedynie drugą arię w kolekcji: "Ad laudes properate"]
+@MARC-500a: Concordance: RISM ID no. 300257339 (PL-Kd 216)
+@MARC-500a: [pl-text: Konkordancja: RISM ID no. 300257339 (PL-Kd 216)]
+@MARC-590a: S
+@MARC-590b: 2v-1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla, b
+@MARC-590b: f. 1v-2r, 1v-2r, 1v-2r, 1v-2r
+@MARC-5908: 01
+@MARC-590a: fl 1, 2
+@MARC-590b: f. 1r, 1v
+@MARC-5908: 01
+@MARC-590a: clno in D, cor 1, 2 in D
+@MARC-590b: f. 1r-v, 1r, 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: clno in D
+@MARC-594c: 1
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594a: S, vl (2), vla, b, fl (2), clno in D, cor in D (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1490
+@MARC-6910: lit1869
+@MARC-700a: Gotschalk, Filip
+@MARC-700d: 1760-1809
+@MARC-700j: Ascertained
+@MARC-7000: pe30020320
+@MARC-7004: fmo
+@MARC-700a: Volckmer, Franz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30108893
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-730a: Veni creator spiritus
+@MARC-730g: RISM
+@MARC-7300: 3025141
+@MARC-773a: Volckmer, Augustin - 2 Sacred songs - S, orch
+@MARC-773w: 300001369
+@MARC-852a: PL-CZ
+@MARC-852d: N|o=[?]4
+@MARC-852d: 32.
+@MARC-852d: N|o 66
+@MARC-852d: N 884/185.
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-18
+@@END:		MARC21
+

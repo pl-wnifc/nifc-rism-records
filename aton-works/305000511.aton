@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	305000511
+@MARC-003:	DE-633
+@MARC-005:	20210216083537.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+1
+@MARC-031m: S coro 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-'9F1G2A4FGAB''1C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+3
+@MARC-031m: A coro 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0---9-'CD,2G'G4.F8E2DE
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F+4
+@MARC-031m: B coro 2
+@MARC-031n: bB
+@MARC-031o: c/; c/; c/; c/
+@MARC-031p: 0---9-,FD1C2FGC2-4-G2A
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031t: Et in terra pax, hominibus bonae voluntatis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Marenzio, Luca
+@MARC-100d: 1553c-1599
+@MARC-100j: Conjectural
+@MARC-1000: pe30003955
+@MARC-240a: Masses
+@MARC-240m: V (8)
+@MARC-2400: 3900051
+@MARC-245a: [caption title, A part-book:] Missa super Iniquos odio habui. 8 Vocu. Luc. Marentij: | Altus. 1. Chori.
+@MARC-300a: 6 parts
+@MARC-3008: 01
+@MARC-500a: other part-books missing
+@MARC-5008: 01
+@MARC-590a: S (S coro 1), A (A coro 1), T (T coro 2), B (B coro 1), V 5 (S coro 2), V 8 (B coro 2)
+@MARC-590b: f.78r-80r, 76v-78r, 78r-80r, 76r-78r, 78v-80r, 74r-75v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 8
+@MARC-594a: V (8)
+@MARC-599b: full
+@MARC-650a: Masses (cantus firmus-, paraphrase-, parody masses)
+@MARC-6500: 3000157
+@MARC-730a: Missa Iniquos odio habui
+@MARC-730g: RISM
+@MARC-7300: 3931278
+@MARC-773a: - 97 Sacred songs - V (X)
+@MARC-773w: 305000459
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-852c: Ms 4006
+@@END:		MARC21
+

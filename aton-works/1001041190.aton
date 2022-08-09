@@ -1,0 +1,72 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001041190
+@MARC-003:	DE-633
+@MARC-005:	20210710082736.0
+@MARC-008:	180621##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c
+@MARC-031p: =12/2-8,CCCC/C{6EF}8GCCCCC/C{6FG}8ACGE/
+@MARC-031r: C
+@MARC-031t: Profitentes unitatem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 8{'G''C}4C+{6C'B''CD}8{C'G}/{GB}4B{6BAB''C}{8'B''C/D4C8'BB4A8G/}
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Profitentes unitatem
+@MARC-240m: B, vl (2), org
+@MARC-240r: C
+@MARC-2400: 4049433
+@MARC-245a: [without title]
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-590a: V solo
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2r-2v, 2r-2v
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: B solo, vl (2), org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 267
+@MARC-6910: lit1891
+@MARC-773a: - 10 Sacred songs - V, vl (2), org
+@MARC-773w: 1001041182
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 95/A II 35
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

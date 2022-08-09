@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001154769
+@MARC-003:	DE-633
+@MARC-005:	20220629090743.0
+@MARC-008:	210430##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 0- 9- 2- '2A ''C DDC DFED
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 0- 0- 2- ,1A '2xC DDCD 1F 2ED 1E
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 9.- 2- 0- 9- 2- ,2A 'C DDC DFED
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 0- 0- 2- ,,1A ,2xC D / DCD F / 2ED GA /
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Missa
+@MARC-240m: V (4)
+@MARC-2400: 3921633
+@MARC-245a: [without title]
+@MARC-260a: Cracow
+@MARC-260c: XVI-XVIII
+@MARC-2608: 01
+@MARC-300a: 1 score: 21 f.
+@MARC-300a: 4 parts
+@MARC-300c: 19,5 x 15,9 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: na 1r, 2r, 4r, 5r, 6r, 8r owalna pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-590a: S
+@MARC-590b: f. 1r-4v
+@MARC-5908: 01
+@MARC-590a: A
+@MARC-590b: f. 5r-9r
+@MARC-5908: 01
+@MARC-590a: T
+@MARC-590b: f. 10r-17r
+@MARC-5908: 01
+@MARC-590a: B
+@MARC-590b: f. 18r-21v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.35
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

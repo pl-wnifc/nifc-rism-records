@@ -1,0 +1,107 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990039296
+@MARC-003:	DE-633
+@MARC-005:	20220405073027.0
+@MARC-008:	161111##################################
+@MARC-035a: M 553; MM 553
+@MARC-040a: DE-633
+@MARC-100a: Marenzio, Luca
+@MARC-100d: 1553c-1599
+@MARC-1000: pe30003955
+@MARC-240a: Madrigali, libro 5
+@MARC-240m: V (5)
+@MARC-2400: 5039798
+@MARC-245a: [indication of part] | DI LVCA MARENZIO | IL QVINTO LIBRO | DE MADRIGALI A CINQVE VOCI, | Nouamente composto et dato in Luce. | [printer's mark] | IN VINEGIA Appresso l'Herede di Girolamo Scotto. | MDLXXXV.
+@MARC-260a: Venezia
+@MARC-260b: Gerolamo Scotto, erede
+@MARC-260c: 1585
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-3008: 01
+@MARC-340d: Typography
+@MARC-3408: 01
+@MARC-510a: RISM A/I
+@MARC-510c: M 553; MM 553
+@MARC-588a: PL-GD Ee 1638 8° adl. 6
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: V 5
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, V 5
+@MARC-599b: full
+@MARC-650a: Madrigals
+@MARC-6500: 25257
+@MARC-700a: Palavicino, Nicolo
+@MARC-700d: 16.sc
+@MARC-7000: pe50052992
+@MARC-7004: dte
+@MARC-700a: Knoff, Georg
+@MARC-700d: 1550c-1605
+@MARC-7000: pe50048775
+@MARC-7003: 151231
+@MARC-7004: fmo
+@MARC-710a: Scotto, Gerolamo, erede
+@MARC-7100: ks40009964
+@MARC-7104: pbl
+@MARC-730a: Il quinto libro de madrigali
+@MARC-730g: RISM
+@MARC-7300: 50258040
+@MARC-785a: Marenzio, Luca - Madrigali, libro 5 - V (5)
+@MARC-785w: 990039297
+@MARC-785a: Marenzio, Luca - Il quinto libro de madrigali a cinque voci - V (5)
+@MARC-785w: 990039298
+@MARC-785a: Marenzio, Luca - Il quinto libro de madrigali a cinque voci - V (5)
+@MARC-785w: 990039299
+@MARC-852a: A-Wn
+@MARC-852e: Österreichische Nationalbibliothek, Musiksammlung
+@MARC-852x: ks30000398
+@MARC-8523: 151226
+@MARC-852c: SA.76.E.2/5
+@MARC-852q: kpl.: S, A, T, B, 5
+@MARC-852a: B-Br
+@MARC-852e: Bibliothèque royale de Belgique (KBR)
+@MARC-852x: ks30000440
+@MARC-8523: 151227
+@MARC-852c: [no indication]
+@MARC-852q: B
+@MARC-852a: GB-Lbl
+@MARC-852e: The British Library
+@MARC-852x: ks30001581
+@MARC-8523: 151228
+@MARC-852c: [no indication]
+@MARC-852q: S, T
+@MARC-852a: I-MOe
+@MARC-852e: Biblioteca Estense
+@MARC-852x: ks30001837
+@MARC-8523: 151229
+@MARC-852c: [no indication]
+@MARC-852a: I-Rsc
+@MARC-852e: Biblioteca del Conservatorio di Musica Santa Cecilia
+@MARC-852x: ks30001912
+@MARC-8523: 151230
+@MARC-852c: [no indication]
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-8523: 151231
+@MARC-852c: Ee 1638 8° adl. 6
+@MARC-852q: complete: S, A, T, B, V 5
+@MARC-856u: https://pbc.gda.pl/publication/86129
+@MARC-856x: Digitized
+@MARC-856z: [digitized version]
+@MARC-8563: 151231
+@MARC-973u: 1001202747
+@MARC-9733: 151231
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

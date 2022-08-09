@@ -1,0 +1,92 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000603
+@MARC-003:	DE-633
+@MARC-005:	20201029163349.0
+@MARC-008:	111027##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 6-{''CCC}-C-C-{n'BBB}-{''CCC}/-{DDD}-{DDD}-{EEE}-{EEE}/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: {8.'C3DE}8DCgC8.,nB{3nAB}8'C6-,G/{G'E}4F{6ED}gF{6E3DC}8C-{6EC}/
+@MARC-031r: c
+@MARC-031t: Et incarnatus est
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Koperski, Maksymilian
+@MARC-100d: 1812-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe30060120
+@MARC-240a: Et incarnatus est
+@MARC-240m: Coro, orch, org
+@MARC-240r: c
+@MARC-2400: 33541
+@MARC-245a: [without title]
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Partia vl 2 po drugiej stronie partii vla pierwszego utworu]
+@MARC-5008: 01
+@MARC-590a: Solo and Coro: S, A, T, vl 1, vl 2, cl 1, 2, clno 1, 2
+@MARC-590b: f. 1v, 1v, 1v, 1v, 1v, 1v, 1v, 1r, 1r,
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: A solo
+@MARC-594c: 1
+@MARC-594b: T solo
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594a: S solo, A solo, T solo, Coro S, Coro A, Coro T, vl (2), cl (2), clno (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.713
+@MARC-6910: lit1869
+@MARC-700a: Grządzielski, Łukasz
+@MARC-700d: 1795-1866
+@MARC-700j: Verified
+@MARC-7000: pe30040496
+@MARC-7004: oth
+@MARC-773a: Koperski, Maksymilian - 2 Sacred songs - Coro, orch, org
+@MARC-773w: 300000601
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 37
+@MARC-852d: N 813/114
+@MARC-852d: 779
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-353
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,69 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001090341
+@MARC-003:	DE-633
+@MARC-005:	20211027135209.0
+@MARC-008:	191015##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031o: 6/8
+@MARC-031p: =2//:6{DE}FG8A+4A8-/6{DE}FG8A+A-A/{8''D6C'B}{6AB}4''C6'AA/{8''C'6BA}G-4.B/
+@MARC-031r: a
+@MARC-031t: Płyń łódko w dal
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: G-2
+@MARC-031m: pf
+@MARC-031o: 6/8
+@MARC-031p: {3DEFG}(4A){3GAB''C}(4D)/'{3DEFG}(4A)'{3B''CDE}(4F)//:{6'F,A'F,A'F,A}{3'AB''CD}4E/{6'F,A'F,A'F,A}{3'AB''CD}4E/
+@MARC-031r: a
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-041e: fre
+@MARC-041h: fre
+@MARC-100a: Moniuszko, Stanisław
+@MARC-100d: 1819-1872
+@MARC-100j: Ascertained
+@MARC-1000: pe30008351
+@MARC-240a: Piosnka Rybaka (Fedra)
+@MARC-240m: V, pf
+@MARC-2400: 5217354
+@MARC-245a: [caption title, at left:] N|o1. &lt;&lt;&gt;&gt; Piosnka rybaka. &lt;&lt;&gt;&gt; [at right, underlined] Fedra.
+@MARC-260c: 1865
+@MARC-2608: 01
+@MARC-300a: 1 vocal score: 2 p.
+@MARC-300c: 26 x 34 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na pierwszej stronie zapisu muzycznego znajduje się pieczęć (po lewej): "Towarzystwo Muzyczne | SEKCYA | IMIENIA | S. MONIUSZKI". Na tej samej stronie znajdują się inskrypcje: (niebieską kredką) "100 b)", (niebieską kredką, w prawym dolnym rogu) "82" oraz (czarnym tuszem, bokiem, po prawej) "autograf Moniuszki | [nieczytelne]".]
+@MARC-500a: On the first page of the score there is a stamp (at left): "Towarzystwo Muzyczne | SEKCYA | IMIENIA | S. MONIUSZKI". On the same page there are inscriptions: (in blue pencil) "100 b)", (in blue pencil, right bottom) "82" and (in black ink, sideways, at right) "autograf Moniuszki | [illegible]".
+@MARC-591a: inw. 1018
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: V, pf
+@MARC-599b: full
+@MARC-650a: Incidental music
+@MARC-6500: 25188
+@MARC-700a: Racine, Jean
+@MARC-700d: 1639-1699
+@MARC-700j: Ascertained
+@MARC-7000: pe32452
+@MARC-7004: lbt
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 596/M
+@@END:		MARC21
+

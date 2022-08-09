@@ -1,0 +1,118 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000946
+@MARC-003:	DE-633
+@MARC-005:	20201029163358.0
+@MARC-008:	140527##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 2''F4.C8'A/2F4-A/GFGA/{8GF}4F-
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: ,B--'B/F--F/,B--B/'FF8{FEDC/4,B
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Rondo. Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: FA/4.''C8n'B/8''{C'nB''CD/4.C8'A/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Orłowski, Michał
+@MARC-100d: 18.sc
+@MARC-100j: Verified
+@MARC-1000: pe30020336
+@MARC-240a: Symphonies
+@MARC-240m: orch
+@MARC-240r: F
+@MARC-2400: 3900027
+@MARC-245a: [fag] Sinfonia in F. | Violino Primo | Violino Secondo | Oboe Primo Concertatto [!]| Oboe Secondo | Cornu Primo | Cornu Secondo. | Alto Viola Obl: | Fagotto Concertato | Con | Basso | di Orłowsky [by other hand:] Orlowski
+@MARC-260c: 1776-1800 (18.4q)
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 35 x 24 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Do głosu cor 1 doszyto stronę z nutami, z innego papieru o wymiarach: 14,5 x 20 cm]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry na środku czarnym tuszem ręką M. Zabłockiego "N=|r|o 17", skreślona i później po prawej ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o 157", skreślona czerwonym tuszem; późniejsza na prawo czerwonym atramentem ręką F. Maletza "N 18."; późniejsza u góry z prawej ołówkiem ręką W. Świerczka "34" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: Vermerk auf der b-Stimme: "Ark. No 12. | Auth. Orłowski".
+@MARC-500a: [pl-text: W Catalogus Notarum pod nr 1401/18]
+@MARC-500a: [pl-text: W Catalogus Missarum pod nr 17. Symfonia F-dur Kuciego]
+@MARC-500a: [pl-text: Możliwe, że utwór jest tożsamy z symfonią odnotowaną w spisie 117 symfonii (PL-CZ III-323) pod nr 27.]
+@MARC-563a: [pl-text: Okładka podklejona papierem, w miejscach, gdzie zachodziła na tekst, jego fragmenty zostały napisane na nowym papierze]
+@MARC-5638: 01
+@MARC-590a: vl 1, 2, vla, b, ob 1, 2, fag, cor 1, 2
+@MARC-590b: 4, 4, 4, 4, 2, 2, 2, 2, 2f.
+@MARC-5908: 01
+@MARC-592a: [crowned eagle] / [anchor with initial S]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: vl (2), vla, b, ob (2), fag, cor (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1042
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: s. 34
+@MARC-6910: lit1887
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: s. 21
+@MARC-6910: lit1886
+@MARC-700a: Kuci, Mateusz
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30017582
+@MARC-7004: cmp
+@MARC-700a: Maader, Ludwik
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30020328
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: 17
+@MARC-852d: 18
+@MARC-852d: 34
+@MARC-852d: 157
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-187
+@@END:		MARC21
+

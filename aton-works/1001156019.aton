@@ -1,0 +1,96 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001156019
+@MARC-003:	DE-633
+@MARC-005:	20220210171642.0
+@MARC-008:	210515##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 9-/2.'E4E/,1A/2.B4'C/1D/2ED1E/2C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031o: c/
+@MARC-031p: 0-/2.E4E/,2.A4B/'2CD/,1B/4AB'2C+/4C8{,BA}4GA/2B4E'E+/E8{DC}2D/EC/,1BA/2E
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031o: c/
+@MARC-031p: 0--/,2.A4A/2.E4F/2GA/1nF/2E
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,2.A4A/2.E4F/2nGA1nF/4E4xFnGE/xFDxFxG/AnGxF8{EF}/4xG2A4xG/2A
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (4)
+@MARC-2400: 3900051
+@MARC-245a: [without title]
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 6 part: 11 f.
+@MARC-300c: Different sizes
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart 1-10, karta [11] bez foliacji.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Karty 1-9 o wymiarach 17 x 21 cm, karta 10 w układzie pionowym o wymiarach 20 x 16 cm. Do karty 10 doklejona karta [11] o wymiarach 16 x 18.5 cm.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Nazwy głosów w źródle: "Alto.", "Tenore 1mo.", "Tenore I. Vagante ad Libitum", "Tenore 2do.", "Basso.", "Basso Ripieno."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r w lewym górnym rogu ołówkiem sygnatura: "Kk.I.26".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach recto wszystkich kart pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie [11v] widoczna treść modlitwy do św. Stanisława w języku polskim.]
+@MARC-5008: 01
+@MARC-505a: [pl-text: Opracowanie cyklu mszalnego dla części: "Kyrie", "Gloria", "Sanctus" i "Agnus Dei". W dodatkowym głosie T 1 na karcie 5 jedynie części "Kyrie" i "Gloria".]
+@MARC-590a: A, T 1 (2x), T 2, B (2x)
+@MARC-590b: f. 1-2, 3-4, 5, 6-7, 8-9, 10-[11]
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.26
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

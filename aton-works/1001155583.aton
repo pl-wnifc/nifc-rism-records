@@ -1,0 +1,115 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001155583
+@MARC-003:	DE-633
+@MARC-005:	20220210180421.0
+@MARC-008:	210510##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-/1'F+/2.F4G/1A/2GA+/4AG1F2E/1F/
+@MARC-031q: [pl-text: Tekst w głosie rozpoczyna się od słów "Laudamus te".]
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: '2CC/CC/CD/E4EE/1.C4DE/2.D4C/,2bB4AG/FGAB1'C/
+@MARC-031q: [pl-text: Podpisany tekst od słów "Et in terra pax".]
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,2FF/FF/AAG4GG/2.A4G2FF/2.F4E2D
+@MARC-031q: [pl-text: Podpisany tekst od słów "Et in terra pax".]
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,2AA/AA/A4GF/EFGE/2.F4G1.A2A/GF/
+@MARC-031q: [pl-text: Podpisany tekst od słów "Et in terra pax".]
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,2F4AG/2FF/F,,F/,C4CC/,,2F,F/4FEDC1D,,2G
+@MARC-031q: [pl-text: Podpisany tekst od słów "Et in terra pax".]
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Gloria
+@MARC-240m: V (5)
+@MARC-240r: F
+@MARC-2400: 3019056
+@MARC-245a: [caption title in S, B:] Hymnus Angelicus
+@MARC-260c: [after 1716]
+@MARC-2608: 01
+@MARC-300a: 5 parts: 6 f.
+@MARC-300c: 15 x 20 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r w lewym dolnym rogu ołówkiem sygnatura: "Kk I 76".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach recto wszystkich kart pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach verso wszystkich kart widoczne treści listów. Na karcie 2v data: "B.V.M. Anno 1716.", na karcie 6v: "Mercurii 14ta Februaru 1691".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 6v wzdłuż lewego boku naklejony mniejszy prostokątny fragment innej karty, na nim zapisane dokończenie partii. W prawym dolnym rogu tego fragmentu ołówkiem: "6a".]
+@MARC-5008: 01
+@MARC-590a: S, A, T 1, T 2, B (2x)
+@MARC-590b: f. 1, 2, 3, 4, 5, 6
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.76
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

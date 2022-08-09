@@ -1,0 +1,33 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990072220
+@MARC-003:	DE-633
+@MARC-005:	20190305143300.0
+@MARC-008:	161111##################################
+@MARC-035a: AN 2256
+@MARC-040a: DE-633
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Psalms
+@MARC-2400: 3901018
+@MARC-245a: Psalm Dawidów 85. Inclina Domine ... M. R[ej] [[Krakau], [Mat. Siebeneicher]]
+@MARC-260c: [1558]
+@MARC-2608: 01
+@MARC-300a: part(s)
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: AN 2256
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-710a: Siebeneicher, Matthäus
+@MARC-7100: ks40010069
+@MARC-7104: pbl
+@MARC-852a: PL-Wn
+@MARC-852e: Biblioteka Narodowa
+@MARC-852x: ks30000118
+@MARC-8523: 274234
+@MARC-852c: [no indication]
+@MARC-852q: A, T, B
+@@END:		MARC21
+

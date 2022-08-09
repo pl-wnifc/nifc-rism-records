@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe145919
+@MARC-003:	DE-633
+@MARC-005:	20220115200057.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 102427917
+@MARC-0242: DNB
+@MARC-024a: UBOV023250
+@MARC-0242: ICCU
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Wolff, Edward
+@MARC-100d: 1816-1880
+@MARC-100y: 15.09.1816-16.10.1880
+@MARC-375a: male
+@MARC-400a: Wolff, E.
+@MARC-400a: Wolff, Éduard
+@MARC-400j: xx
+@MARC-550a: Composer
+@MARC-550a: Pianist
+@MARC-551a: Warszawa
+@MARC-551i: go
+@MARC-5510: 3900368
+@MARC-551a: Paris
+@MARC-551i: so
+@MARC-5510: 3900155
+@MARC-551a: Paris
+@MARC-551i: wo
+@MARC-5510: 3900155
+@MARC-551a: Warszawa
+@MARC-551i: wo
+@MARC-5510: 3900368
+@MARC-551a: Wien
+@MARC-551i: wo
+@MARC-5510: 3900059
+@MARC-670a: DEUMM/b
+@MARC-670b: Wolff, Édouard (Edward) [1816-1880]
+@MARC-670w: 1577
+@MARC-670a: FétisB|2
+@MARC-670b: Wolff, Édouard [1816*]
+@MARC-670w: 1574
+@MARC-670a: Grove|6
+@MARC-670b: Wolff, Edward [1816-1880]
+@MARC-670w: 1258
+@MARC-670a: MGG suppl.
+@MARC-670b: 0
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: Wolff, Edouard [1816-1880]
+@MARC-670w: 1263
+@MARC-670a: RISM A/I
+@MARC-670b: 0
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: 0
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Wolff, Edouard [1816-1880]
+@MARC-670w: 408
+@MARC-670a: SMP
+@MARC-670b: Wolff, Edward [1816-1880]
+@MARC-670w: 1935
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0002126E00000000
+@MARC-856y: Schriftprobe Edward Wolff [D-B Mus.ms.autogr. Wolf, E. 2 M]
+@@END:		MARC21
+

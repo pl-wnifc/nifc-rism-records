@@ -1,0 +1,77 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033508
+@MARC-003:	DE-633
+@MARC-005:	20220704201548.0
+@MARC-008:	121210##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: ''{8.F6F}{8.C6C}'{8.A6A}/2F4-/''{8.F6F}{8.C6C}'{8.A6A}/2F4-/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Adagio
+@MARC-240m: orch, org
+@MARC-240r: F
+@MARC-2400: 3901614
+@MARC-245a: [witohut title]
+@MARC-260c: 1748–1765
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na f. vl 1 w prawym górnym rogu widoczne jest zapis "da Martino Giuseppe Zebrowski."
+@MARC-590a: vl 1, 2, b
+@MARC-590b: f. 1v, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: cor 1 (incpl), cor 2
+@MARC-590b: f. 1r, 1r
+@MARC-5908: 01
+@MARC-590a: org (=bc)
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: org (=bc)
+@MARC-594c: 1
+@MARC-594a: vl (2), b, ob (2), cor (2), org (=bc)
+@MARC-599b: full
+@MARC-650a: Instrumental pieces
+@MARC-6500: 25243
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1597
+@MARC-6910: lit1869
+@MARC-730a: Adagio pro processione
+@MARC-730g: RISM
+@MARC-7300: 4040086
+@MARC-773a: Żebrowski, Marcin Józef - 2 Adagio - orch, org
+@MARC-773w: 300033507
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-171
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

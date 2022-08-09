@@ -1,0 +1,111 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001157168
+@MARC-003:	DE-633
+@MARC-005:	20220205160237.0
+@MARC-008:	210524##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Lento dolce
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3
+@MARC-031p: '4BB8B6.-''3C/4'BAG/FGA/2G4(E)//
+@MARC-031t: Ut detur ex Agni throno
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Dolce
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBEA
+@MARC-031o: 3
+@MARC-031p: 4'GG8.G6-3A/4GFE/DEF/2E,4(B)//
+@MARC-031t: Ut detur ex Agni throno
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: Lento Dolce
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: 3
+@MARC-031p: ,4BB8B6.-3F/2A4B/FED/2E4(G)//
+@MARC-031t: Ut detur ex Agni throno
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: Lento Dolce
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: 3
+@MARC-031p: ,4EE8E6.-3E/4D,,B,E/,,2.B/2,C,,4(B)//
+@MARC-031t: Ut detur ex Agni throno
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 5
+@MARC-031g: F-4
+@MARC-031m: bc
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: ,4EE8.E6E/4D,,B,E/,,2.B/,2C4(-)//
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Ut detur ex Agni throno
+@MARC-240m: V (4), bc
+@MARC-2400: 50251864
+@MARC-245a: [without title]
+@MARC-260c: [1750-1799]
+@MARC-2608: 01
+@MARC-300a: 5 parts: 6 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: W głosie A na kartach 11v-12r wpisana drugi raz partia S, po niej wpisana partia A.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W głosie T na karcie 18r drugi fragment partii skreślony, zapisany ponownie na karcie 18v.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W głosie bc partia zapisana ołówkiem.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Partia "Basso Accompagnato" bez cyfrowania.]
+@MARC-505a: [pl-text: Opracowanie fragmentu hymnu na dzień św. Michała.]
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 5v-6r, 12r-12v, 18r-18v, 24r-24v
+@MARC-5908: 01
+@MARC-590a: bc
+@MARC-590b: f. 36v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, bc
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-773a: - 2 Sacred songs
+@MARC-773w: 1001157165
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.62
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

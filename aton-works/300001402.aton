@@ -1,0 +1,140 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001402
+@MARC-003:	DE-633
+@MARC-005:	20201029163410.0
+@MARC-008:	151120##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 2''D+{8.D6C}/{8C'B}4B-/2B4''C/{6DCDE}4D-/
+@MARC-031r: D
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: S
+@MARC-031d: [Tarde]
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/2
+@MARC-031p: 2BBB/4B8BB2''D{8DC'B''C}/2.C4'B2B/
+@MARC-031q: Indication of movement in A part
+@MARC-031q: [pl-text: Tempo na podstawie partii A]
+@MARC-031r: G
+@MARC-031t: Et Jesum benedictum, fructum ventris tui
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: [Adagio]
+@MARC-031e: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 2D4DD/2EE/4F''D'B''C/D-8-6D-E-C-/8DF6G8E{FD}{EC}/2D4C
+@MARC-031q: Indication of tempo in A part
+@MARC-031q: [pl-text: Tempo na podstawie partii A]
+@MARC-031r: D
+@MARC-031t: O clemens o pia, o dulcis virgo Maria
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Ascertained
+@MARC-1000: pe30020656
+@MARC-240a: Salve regina
+@MARC-240m: Coro, orch, org
+@MARC-240r: D
+@MARC-2400: 3021988
+@MARC-245a: [dust cover title:] Salve Regina. D | à | Canto. Alto. | Tenore. Basso. | Violino Primo. | Violino Secondo. | Viola Obligata. | Oboe Primo | Oboe Secondo | Clarino Primo | Clarino Secondo | Tympanis | et | Organo. | Authore Augustino Volckmer. | C.M.C.
+@MARC-260c: 1790-1800 (18.ex)
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 37 x 24 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: brak reszty partii]
+@MARC-5008: 01
+@MARC-500a: other parts missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce f. 1r: u góry z lewej strony tuszem "Nro 5ty"; w prawym górnym rogu tuszem ręką M. Zabłockiego "N 116", skreślone tuszem; poniżej na lewo czerwonym tuszem ręką F. Maletza "N 1129/430." ]
+@MARC-500a: Title on the cover crossed out with red pencil and initialled
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona czerwoną kredką oraz parafowana]
+@MARC-500a: Middle right on the cover there is round stamp: "* ARCHIVUM * C. M. C."
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Okładka oberwana na brzegach, karty okładki sklejone fragmentem nutowym]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: S, A, T, B
+@MARC-590b: 2, 2, 2, 2f.
+@MARC-5908: 01
+@MARC-592a: S, A, T, B: CAMMERPAPIER | [crowned eagle with sceptre and apple] | CZENSTOCHOW
+@MARC-5928: 01
+@MARC-592a: cover: [without watermarks]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), vla, ob (2), clno (2), timp, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 29
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 27
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1519
+@MARC-6910: lit1869
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: Nro 5ty
+@MARC-852d: N 116
+@MARC-852d: N 1129/430
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-684
+@@END:		MARC21
+

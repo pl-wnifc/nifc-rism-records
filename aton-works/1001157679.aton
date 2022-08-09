@@ -1,0 +1,49 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001157679
+@MARC-003:	DE-633
+@MARC-005:	20220213141303.0
+@MARC-008:	210601##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1D/E/E/2.D4E/1F/2EE/
+@MARC-031t: Deo gratias
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Deo gratias
+@MARC-240m: V (3)
+@MARC-2400: 3018603
+@MARC-245a: [caption title, A, left:] 2dum.
+@MARC-260c: 1824
+@MARC-2608: 01
+@MARC-300a: 3 parts, 3f.
+@MARC-3008: 01
+@MARC-590a: A, T1, 2
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594a: A, T (2)
+@MARC-599b: full
+@MARC-650a: Responsory verse
+@MARC-6500: 50001332
+@MARC-773a: - Deo gratias - V (3)
+@MARC-773w: 1001157665
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.111
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,74 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300001494
+@MARC-003:	DE-633
+@MARC-005:	20201029163413.0
+@MARC-008:	160107##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Religioso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 2''A4A/2G4G/2F4xF/{8GABDAG}/4F8{EGFE/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =8/2'A({8GB}E/4FGA/''C{8C'B}{BA}/4AG-/
+@MARC-031r: F
+@MARC-031t: Ave Maria, gratia plena Dominus tecum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kątski, Apolinary
+@MARC-100d: 1825-1879
+@MARC-100j: Ascertained
+@MARC-1000: pe30020040
+@MARC-240a: Ave Maria
+@MARC-240m: S solo, orch
+@MARC-240r: F
+@MARC-2400: 3006253
+@MARC-245a: [without title]
+@MARC-260c: 1851-1900 (19.2d)
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-3008: 01
+@MARC-500a: fl 2 missing
+@MARC-5008: 01
+@MARC-590a: S, vl 1, 2, 3, b, fl 1
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 3
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594a: S solo, vl (3), b, fl (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.685
+@MARC-6910: lit1869
+@MARC-773a: - 2 Sacred songs - V, orch
+@MARC-773w: 300001493
+@MARC-852a: PL-CZ
+@MARC-852d: 587
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-249
+@@END:		MARC21
+

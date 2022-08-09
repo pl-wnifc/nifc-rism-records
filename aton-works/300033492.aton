@@ -1,0 +1,104 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033492
+@MARC-003:	DE-633
+@MARC-005:	20210327225020.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: '8-{DF}/{AD''F}/{6E'A}q8A4G/{8FD''F}/({6EC'A})q8A4G/F8-/
+@MARC-031q: ?
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro assai
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: =28/,8-DF/{AD}'D/{(6C,BA)}q8A4G/8FA'D/({6C,BA})q8A4G/q8G4F
+@MARC-031r: D
+@MARC-031t: Ave maris stella, Dei mater alma
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Ave maris stella
+@MARC-240m: B, clno, strings, bc
+@MARC-240r: D
+@MARC-2400: 3008705
+@MARC-245a: [without title]
+@MARC-300a: 7 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: B
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla, vlne
+@MARC-590b: f. 1v, 1v, 1r, 1r
+@MARC-5908: 01
+@MARC-590a: clno solo
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: clno solo
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594a: B, vl 1, vl 2, vla, clno solo, org (= bc), vlne
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 27
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 18
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1583
+@MARC-6910: lit1869
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-773a: Żebrowski, Marcin Józef - 2 Sacred songs
+@MARC-773w: 300033491
+@MARC-852a: PL-CZ
+@MARC-852d: N=|o 43
+@MARC-852d: N-|o 375
+@MARC-852d: N 740/41.
+@MARC-852d: 287
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-740
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

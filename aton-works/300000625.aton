@@ -1,0 +1,503 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000625
+@MARC-003:	DE-633
+@MARC-005:	20220407135536.0
+@MARC-008:	120106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Requiem
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEADGC
+@MARC-031o: c
+@MARC-031p: 8'E4EEE8E/F-4''BGE/8'F4FFF8F/F-
+@MARC-031r: e|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEADGC
+@MARC-031o: c
+@MARC-031p: =8/2.'G4G/F--F/1A/4G-2-/2B4AG/2B4AG/2AG/
+@MARC-031q: [pl-text: w teskście zamiast "eis" jest "ei"]
+@MARC-031r: c
+@MARC-031t: Requiem, aeternam dona eis Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Dies irae
+@MARC-031d: Allegro Agitato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =7/8{,nB'CCC}{CCCC}/{DEEE}{EEEE}/{xFGGG}{GGGG}/{nB''CCC}{CCCC}/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =10/2''CC/EE/2.G4E/2.E4D/2D(-)/
+@MARC-031r: E|b
+@MARC-031t: Dies irae, dies illa solvet saeclum in favilla
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Tuba Mirum
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: =1/4-8-,B+/B--B+/B-4-/=3/6{(b'AAAAAA;6)}{(AAAAAA;6)}/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: =17/,{8.6E,,B}8B-/=1/,{8.6{GE}4E/=1/8.6BA6.3GGAB/8BA4-/
+@MARC-031r: c
+@MARC-031t: Tuba mirum, spargens sonum per sepulcra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Judex ergo
+@MARC-031d: Larghetto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =1/4-6.3-{'GxFG}{DG,nB'D}/,4G--/'F8E-4-/8-{AA}-4-/8-{GG}-4-/
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =10/2''E4D/D8C-4-/2F4E/E8D-4-/
+@MARC-031r: c
+@MARC-031t: Judex ergo cum sedebit
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Confutatis
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 4''G8.-{3,GA}{8.6BG'D,B/4G4.''D{6ED}{C'BAG}/{8GxF}4F
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =12/4-8.''G6G8G'G4-/-8.''G6G8G'G4-/=2/-8.''D6D8.D6'D8D-/
+@MARC-031r: g
+@MARC-031t: Confutatis maledictis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: [by L. Cherubini] Lacrimosa
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 6-{'CEG}-{EG''C}-{'G''CE}-{CEG}/-{EG'''C}-{''CEG}-{'G''CE}-{'EG''C}/
+@MARC-031q: [pl-text: W głosie Coro S tytuł części w wariancie "Lachrimosa", incipit "Lacrymosa"]
+@MARC-031q: [pl-text: fragment "Requiem c-moll" L. Cherubiniego]
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =1/2.''E4E/2'A4A-/2.''F4F/2F4nE-/2bDC/'BbA/
+@MARC-031r: c
+@MARC-031t: Lacrimosa dies illa, qua resurget ex favilla
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: [by L. Cherubini] Offertorio
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''E{8.D6C}4'B''E/8'E-{EF}{GEAG}/4B{8.A6G}4FB/
+@MARC-031q: [pl-text: fragment "Requiem c-moll" L. Cherubiniego]
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =8/4''E8DC4'B''C/2'B4nA8.-6''F/4.F8'bA4A
+@MARC-031r: E|b
+@MARC-031t: Domine Jesu Christe, rex gloriae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Sanctus
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =21/2-4-8.-6''F/4BFD'B/''2bG-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 1''D/2.E4(-)/1E/2.D4(-)/2GF/4qF4.E8E2D/4CD8qF4.E8D/2D4C4(-)/
+@MARC-031r: B|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski]
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =3/4-8-{'BnAbA}/2.G/B/8''C-{'B--B}/{''CDEFGF}/4FE-/
+@MARC-031q: [pl-text: Nie wyróżnione w nutach jako osobna część]
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S solo
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =4/2'G8.E6B/4B4.G8''E/q8D8.C6'B4B8-B/''CD{EF}{GF}/8.F6E4E
+@MARC-031r: c
+@MARC-031t: O rex intende hostias defuncto dona praemium
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Agnus
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8633{'C,G-G}{'C,G-G}{'EC-C}/8.{D3FE}4G-/8633{D,G-G}{'D,G-G}{'FD-D}/8.{nE3GF}4E-/
+@MARC-031q: [pl-text: w rękopisie zamiast pauz trzydziestodwójkowych pauzy szesnastkowe]
+@MARC-031r: c
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =7/2,G4G/8.6{AG}4G8-G/4.'C6DEg8G8F6{ED}/4C8n,B-4-/
+@MARC-031q: [pl-text: głosy chóralne tutti rozpoczynają od tekstu "dona ei Domine" w 16. takcie]
+@MARC-031r: c
+@MARC-031t: Agnus Dei qui tollis peccata mundi dona eis requiem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Quia pius [es]
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =2/2-4'B''E/2.G4E/1(D)/=2/'2F4FB/'2.''D4F/1(E)/
+@MARC-031q: [pl-text: część opracowana na głosy chóralne]
+@MARC-031r: E|b
+@MARC-031t: Quia pius es
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: Coro B
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2,EE/EE/EE/EE/1(F)/,,2BB/BB/BB/2.4BB/1(,E)/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 1
+@MARC-031d: [by J. Kozłowski] Requiem
+@MARC-031d: Le stesso tempo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEADGC
+@MARC-031o: c
+@MARC-031p: 8'E4EEE8E/E-4''BGE/8'F4FFF8F/F-
+@MARC-031r: e|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEADG
+@MARC-031o: c
+@MARC-031p: 2'E/=7/2.'G4G/F--F/1A/4G-2-/2B4AG/2B4AG/2AG/
+@MARC-031q: [pl-text: w tekście zamiast "eis" jest "ei"]
+@MARC-031q: [pl-text: z poprzednią częścią attacca]
+@MARC-031r: e|b
+@MARC-031t: Requiem, aeternam dona eis Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 13
+@MARC-031c: 1
+@MARC-031d: [by A. Salieri] Salve Regina
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4''F4.D8E/q8D4C4'B-/''B4.F8G/q8F4ED-/
+@MARC-031q: [pl-text: Utwór autorstwa A. Salieriego]
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 13
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: =8/4''F4.D8E/q8D4C'B-/B8''CDED/8.D6C4C-/
+@MARC-031r: B|b
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Compilations
+@MARC-100j: Ascertained
+@MARC-1000: pe30009236
+@MARC-240a: Requiems
+@MARC-240m: V (4), Coro, orch, pf
+@MARC-2400: 3900193
+@MARC-245a: [cover title:] Messe Funèbre | pour le Service de feu Sa Majesté | ALEXANDRE I=|e|r | Empereur de toutes les Russies Roi de Pologne etc etc etc | Exécutée dans l'Eglise Cathédrale de Varsovie | le 7. April 1826. | Par. M.M. les Amateurs Artiste et Éléves du Conservatoire. - Arrangée et dediée aá | S. A. I.] | Monseigneur le Grand | Duc Constantin Cesarewitsch | P. Lucas Grządzielski Custos Eccl. | 1843.
+@MARC-260c: 1843
+@MARC-2608: 01
+@MARC-300a: 30 parts
+@MARC-300c: 39 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: karty w części głosów zszyte razem nitką, na niektórych wzdłuż grzbietu pasek zielonego ozdobnego papieru w białe i pomarańczowe kwiaty]
+@MARC-5008: 01
+@MARC-500a: [pl-text: f. 7 głosu vl 2 oddzielone od reszty, z paskiem ozdobnego papieru wzdłuż jednej z bocznych krawędzi; zawiera część "Requiem" i "Salve Regina"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na naklejce na górze z lewej ołówkiem "3."; z prawej strony tytułu ołówkiem ręką nieznanego Paulina "N-|o 2"; późniejsza po lewej czerwonym atramentem ręką F. Maletza "N 627/27."; późniejsza na górze pośrodku ołówkiem ręką W. Świerczka "166" w kółku]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na f. 1v i 2r okładki oraz na głosach: Coro S 1, Solo B f. 6v; Coro A, T f. 6r; Coro B f. 1r; vl 1, b and vlc f. 7v; vl 2, f. 6v, 7v; vla 1 f. 7r; fl 1, 2 f. 3v; ob 1, 2, cl 1, 2, cor 2 f. 4v; fag 1, 2 f. 5v; cor 1 f. 5r, tr 1, 2 f. 3r; a-trb, t-trb, b-trb f. 2v, timp and tamb f. 1v; pf f. 19r]
+@MARC-500a: [pl-text: Na naklejce na f. 1r okładki czerwonym ołówkiem parafa i ślady przekreślenia tytułu]
+@MARC-500a: [pl-text: Na f. 1r okładki na górze naklejki ołówkiem nazwisko kompozytora: "Kozłowski"]
+@MARC-500a: Die Einlagen von Cherubini und Salieri siehe unter PodejkoK 1992, no.174, no.175 und no.1247. Dazugehörige RISM-IDs: 300000080, 300000081 sowie 300001492.
+@MARC-500a: Siehe die Dublette unter PodejkoK 1992, no.730a-731a (PL-CZ II-129, RISM ID no. 300000626)
+@MARC-500a: [pl-text: Głos Solo S oznaczony jako "Canto II=|d|o Solo" (karta włożona do głosu Coro S z numerem folio ołówkiem 3); ponadto fragmenty solowe w głosach Coro S, A, T, B; głos Coro B posiada dodatkową, oddzielną kartę dla części "Confutatis maledictis", oznaczoną jako "Basso Coro"]
+@MARC-500a: [pl-text: Fragmenty solowe w głosach vl 1, fl 1, 2, ob 1, cl 1, 2, fag 1, cor 1, 2, tamb]
+@MARC-500a: [pl-text: W głosie vl 1 określone autorstwo poszczególnych części "Requiem": na początku utworu adnotacja "Requiem v: Kozłowski"; adnotacja "Idem" przy częściach "Dies Irae", "Tuba Mirum", "Iudex ergo", "Confutatis" ; przy części "Lachrimosa" adnotacja "v Cherubini"; przy "Offertorio" adnotacja "Cherubini"; przy "Sanctus" adnotacja "v. Kozłowski" oraz " v Cherubini" (najprawdopodobniej błędna); przy "Agnus", "Quia Pius", drugim "Requiem" brak adnotacji; przy "Salve Regina" adnotacja "v. Salieri"]
+@MARC-500a: [pl-text: W głosie pf określone autorstwo poszczególnych części "Requiem": na początku utworu adnotacja "par Kozłowski"; przy części "Dies Irae" adnotacja "v. Kozłowski"; przy "Tuba mirum" - "Idem"; przy "Iudex ergo" - "v Kozłowski"; przy "Confutatis" - "Idem"; przy "Lachrimosa" - "v Cherubini"; przy "Offertorio" - "v. Cherubini"; przy "Sanctus" - v: Kozłowsky"; brak wyszczególnienia części "Agnus Dei"; przy "Quia pius es" oznaczenie głosu "Organo" i adnotacja "Idem"; przy drugim "Requiem" adnotacja "v. Salieri (najprawdopodobniej błędna); przy "Salve Regina" brak oznaczenia kompozytora]
+@MARC-500a: [pl-text: Głos vla 2 tylko dla części "Lachrimosa"; partia włożona do środka vla 1, z numerem folio ołówkiem 43]
+@MARC-500a: [pl-text: Głosy vlc 1, 2 solo tylko dla części "Iudex ergo"]
+@MARC-500a: [pl-text: Osobny arkusz dla głosu tr 1 and 2 in E|b, oznaczony jako "Trombe in Es 1=|m|o et 2=|d|o" dla części "Agnus" i "Salve Regina"; włożony do głosui tr 1 z numerem folio ołówkiem 100; na głosach tr 1, 2 dla "Agnus" zanotowany głos cor in C]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-130 (numer 38 powtórzony: 38a)]
+@MARC-500a: [pl-text: Utwór wydany drukiem; por. TomaszewskiB 1992, no. 774]
+@MARC-563a: [pl-text: głosy przechowywane w twardej okładce (teczce introligatorskiej) o wymiarach 40,5 x 23,5 cm, powlekanej na zewnątrz czerwonym papierem w czarno-biały kwiatowy wzór; środek biały; grzbiet z czarnego płótna; na brzegach okładki sznurki; na f. 1r papierowa naklejka z tytułem, w kształcie kartusza z dwoma ptakami, z gałązkami w dziobach w górnej części; na grzbiecie biała prostokątna naklejka ze ściętymi rogami i sygnaturą czerwonym atramentem: "N 627/27 | T."]
+@MARC-5638: 01
+@MARC-590a: S
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: Solo and Coro: S, A, T, B, Coro B
+@MARC-590b: 6, 6, 6, 6, 1 f.
+@MARC-5908: 01
+@MARC-590a: vlc 1, 2 solo
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla 1, 2, b and vlc
+@MARC-590b: 7, 7, 7, 1, 7 f.
+@MARC-5908: 01
+@MARC-590a: fl 1, 2, ob 1, 2, cl 1, 2 in B|b, fag 1, 2
+@MARC-590b: 3, 3, 4, 4, 4, 4, 5, 5 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in E|b or B|b or F, tr 1, 2 in E|b or B|b or cor in E|b or C, tr 1 and 2 in E|b, a-trb, t-trb, b-trb
+@MARC-590b: 5, 4, 3, 3, 1, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: timp and tamb in E|b or B|b or C
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: pf
+@MARC-590b: 19 f.
+@MARC-5908: 01
+@MARC-592a: W (crowned)
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in E|b
+@MARC-594c: 4
+@MARC-594b: cor in B|b
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 2
+@MARC-594b: cor in C
+@MARC-594c: 2
+@MARC-594b: tr in E|b
+@MARC-594c: 2
+@MARC-594b: tr in B|b
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 3
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: tamb
+@MARC-594c: 1
+@MARC-594b: pf
+@MARC-594c: 1
+@MARC-594a: S (2), A, T, B, Coro S, Coro A, Coro T, Coro B, vl (2), vla, vlc, b, fl (2), ob (2), cl in B|b (2), fag (2), cor in E|b (4), cor in B|b (2), cor in F (2), cor in C (2), tr in E|b (2), tr in B|b (2), trb (3), timp, tamb, pf
+@MARC-599b: full
+@MARC-650a: Compilations
+@MARC-6500: 25484
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 730-731
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 15
+@MARC-6910: lit1887
+@MARC-700a: Kozłowski, Józef
+@MARC-700d: 1757-1831
+@MARC-700j: Ascertained
+@MARC-7000: pe30003850
+@MARC-7004: cmp
+@MARC-700a: Cherubini, Luigi
+@MARC-700d: 1760-1842
+@MARC-700j: Ascertained
+@MARC-7000: pe50253
+@MARC-7004: cmp
+@MARC-700a: Salieri, Antonio
+@MARC-700d: 1750-1825
+@MARC-7000: pe76967
+@MARC-7004: cmp
+@MARC-700a: Aleksandr I., Imperator Rossii
+@MARC-700d: 1777-1825
+@MARC-700j: Verified
+@MARC-7000: pe177213
+@MARC-7004: dte
+@MARC-700a: Konstantin, Großfürst von Russland
+@MARC-700d: 1779-1831
+@MARC-700j: Verified
+@MARC-7000: pe30101399
+@MARC-7004: oth
+@MARC-700a: Grządzielski, Łukasz
+@MARC-700d: 1795-1866
+@MARC-7000: pe30040496
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Klose, Karol
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30040495
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773a: - Church music - V, Coro, orch, pf
+@MARC-773w: 1001174126
+@MARC-852a: PL-CZ
+@MARC-852d: N|o. 2
+@MARC-852d: N 627/27
+@MARC-852d: 166
+@MARC-852d: 3
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-357
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,76 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033514
+@MARC-003:	DE-633
+@MARC-005:	20201211132644.0
+@MARC-008:	140226##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: '{6GxFGA}q8A4.G8A/{6BAB''C}q8C'4.B''8C/{6DCDE}q8E4.D8E/'4xFG-/
+@MARC-031r: g
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Andante
+@MARC-240m: orch, bc
+@MARC-240r: g
+@MARC-2400: 3900879
+@MARC-245a: [without title]
+@MARC-260c: 1748–1765
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-3008: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: f. 2r, 3r
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: f. 4r, 5r
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: f. 6r, 7r
+@MARC-5908: 01
+@MARC-590a: bc (2x)
+@MARC-590b: f. 1v, 8r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: vl (2), ob (2), clno (2), bc
+@MARC-599b: full
+@MARC-650a: Instrumental pieces
+@MARC-6500: 25243
+@MARC-691a: ŹHMP 32
+@MARC-691n: p.42-55
+@MARC-6910: lit30000097
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1601
+@MARC-6910: lit1869
+@MARC-730a: Andante pro processione
+@MARC-730g: RISM
+@MARC-7300: 3998668
+@MARC-773a: - 4 Pieces - orch, bc
+@MARC-773w: 300033513
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-739
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

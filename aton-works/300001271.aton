@@ -1,0 +1,109 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001271
+@MARC-003:	DE-633
+@MARC-005:	20201029163407.0
+@MARC-008:	150611##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: fl 1
+@MARC-031g: G-2
+@MARC-031m: Andantino
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: F''' =/6-n'''{FDC}{''GnFD'B}4G-/=/6-{G''CE}{G'''CEC}4G-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Andantino
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: =24/2-4-'D/ED4.C8D/4..E6G4DD/DC
+@MARC-031r: G
+@MARC-031t: O salutaris hostia, quae caeli pandis ostium
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Conjectural
+@MARC-1000: pe30024097
+@MARC-240a: O salutaris hostia
+@MARC-240m: Coro, orch
+@MARC-240r: G
+@MARC-2400: 3900683
+@MARC-245a: [caption title, score:] O salutaris Hostia p. J. Stefani
+@MARC-260c: 1851-1900 (19.2d)
+@MARC-2608: 01
+@MARC-300a: score: 6f.
+@MARC-300c: 27 x 34 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f. 1r partytury: U góry na środku ołówkiem ręką nieznanego Paulina "N|o 17", skreślone czerwonym tuszem; poniżej czerwonym tuszem ręką F. Maletza "N 719/20."; w prawym górnym rogu ołówkiem ręką W. Świerczka "225" w owalnym kółku]
+@MARC-500a: [pl-text: Na dole po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona czerwoną kredką napisem "Nie Kościelne [!]" ]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-592a: [without watermarks]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 2
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: Coro S (2), Coro T (2), Coro B, vl (2), vla (2), vlne, b, cb, fl, cl (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 17
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1381
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 17
+@MARC-852d: N 719/20
+@MARC-852d: 225
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-656
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

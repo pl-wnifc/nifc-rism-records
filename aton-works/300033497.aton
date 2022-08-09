@@ -1,0 +1,273 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033497
+@MARC-003:	DE-633
+@MARC-005:	20220209113629.0
+@MARC-008:	160106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: '''{8.D6D}{8D''A}{(6GAB)8A}-D/{(6GAB)8A}-'''D{C''BAG}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Kyrie. Andante
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''8.D6D8D'ABA-A/''8qC'8BB4--8-''C/'AA4-
+@MARC-031q: [pl-text: pod tekstem Kyrie wpisany został tekst Agnus]
+@MARC-031r: D
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Christe.
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: =8/4''D{6EDEF/2D/4''D{6EDEF/4D'A/
+@MARC-031r: D
+@MARC-031t: Christe eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: [Gloria.] Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 2.''D/'A/F/2D4-/''2F4F/4.F8F4F/
+@MARC-031r: D
+@MARC-031t: Et in terra pax, hominibus bonae voluntatis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Quoniam. Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: 8-/=21/4-8-6''ED/8qD8.C6D{(EDC)}{('BAG)}/{(ABG)}8GA4-/
+@MARC-031r: A
+@MARC-031t: Quoniam tu solus sanctus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Cum Sancto. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =9/1A/4BAB''C/2.D4D/2.C{8'BA/2.Bt4B/A
+@MARC-031r: D
+@MARC-031t: Cum Sancto Spiritu in gloria Dei
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: [Credo.] Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2DF/A4-A/''D'A''D'A/FD-
+@MARC-031r: D
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Et incarnatus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: ''D4.E8D/qEDC4C-/C4.D8C/qDC'B4B-/
+@MARC-031r: G
+@MARC-031t: Et incarnatus es de spiritu sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Et resurrexit. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 2''D8'AF/4DD-/2''D8'AF/4DD-/2A4A/B2''Ct/4DD-/
+@MARC-031r: D
+@MARC-031t: Et resurrexit tertia die
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Sanctus. Adagio
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: ''D'AFD/8G''EC6'AA{8''DF}4A/8{'B''G}EC8.D6D4D/
+@MARC-031r: D
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Benedictus. Andantino
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 8-/=5/2-4-8-6.,G3E/8qA{6(GFG)}8D-{3B'D}6C8qC{(6,BAG)}8G-
+@MARC-031r: G
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: Osanna. Allegro
+@MARC-031g: C-1
+@MARC-031m: S coro
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =7/AB2''C+/4C'B2''D+/4DC2E+/4EFD'B
+@MARC-031q: [pl-text: Po tej części uwaga: "Agnus Dei ut Kyrie | Dona nobis ut Christe"]
+@MARC-031r: D
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Masses
+@MARC-240m: Coro, vl (2), clno (2), bc
+@MARC-240r: D
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] [at right:] N. 18. | Missa Pastoralis | â | Canto | [crossed out:] Alto | [crossed out:] Tenore Basso. | Violinis 2|b|u|s | Clarinis 2|b|u|s | Con | Organo | [at left:] Auth: Żebro | Pro Choro | C:M:C:
+@MARC-260c: 1775-1799 (18.4q)
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 34,5 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry z prawej czarnym tuszem ręką kopisty: "N. 18."; skreślona i później na środku czarnym tuszem ręką M. Zabłockiego "13."; skreślona i później po prawej czerwonym ołówkiem "10."; skreślona i później po lewej ołówkiem, wertykalnie ręką nieznanego Paulina "N-|o | 27"; późniejsza na prawo od tytułu czerwonym atramentem ręką F. Maletza "N 515./15."; późniejsza u góry z prawej ołówkiem ręką W. Świerczka "267" w owalnym kółku]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-19)]
+@MARC-500a: [pl-text: Kopista rozpoznany przez P. Podejkę]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-500a: Auf p.3 des Umschlags die Titelseite einer anderen Komposition: "Nro 115 / Missa in C / a / Canto Alto / Tenore Basso / Violino Imo &amp; IIdo / Clarinetto Imo &amp; IIdo / Cornu Imo &amp; IIdo / Viola I &amp; IIda / Tympano / &amp; / Organo / Del Sigl Vanchal / Pro C:M:Cz." Siehe hierzu PodejkoK 1992, no.1452.
+@MARC-561a: [pl-text: Na f. 1r okładki oraz na ostatniej stronie każdego głosu okrągła pieczęć: "* ARCHIVUM * C. M. C."]
+@MARC-561a: [pl-text: Na f. 1r okładki u dołu: “Pro Choro C: M: C:”]
+@MARC-563a: [pl-text: Na f. 2r okładki strona tytułowa innej kompozycji: "Missa in C | a | Canto Alto | Tenore Basso | Violino I-|m|a &amp; II-|d|a | Clarinetto I &amp; II|d|o | Cornu I &amp; II|d|o | Viola I &amp; II|d|o | Tympano | &amp; | Organo [at left:] Sigre Vanchal | [at right:] Pro C. M. Cz"; u góry na środku czerwonym tuszem ręką M. Zabłockiego sygnatura "N=|r|o 115."
+@MARC-5638: 01
+@MARC-563a: [pl-text: Okładka na grzbiecie wzmocniona pasem ozdobnego papieru, w środku widoczne fragmenty rękopisów niezidentyfikowanej mszy]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, B
+@MARC-590b: 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: S, B, Coro S, Coro A, Coro T, Coro B, vl (2), clno (2), org (= bc)
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 33
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 13
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1588
+@MARC-6910: lit1869
+@MARC-691a: PośpiechM 2005
+@MARC-6910: lit50006857
+@MARC-700a: Vanhal, Johann Baptist
+@MARC-700d: 1739-1813
+@MARC-700j: Ascertained
+@MARC-7000: pe114557
+@MARC-7004: oth
+@MARC-700a: Aispel, Paweł
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30040664
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N. 18.
+@MARC-852d: 13.
+@MARC-852d: 10.
+@MARC-852d: N-|o 27
+@MARC-852d: N 515./15.
+@MARC-852d: 267
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-745
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

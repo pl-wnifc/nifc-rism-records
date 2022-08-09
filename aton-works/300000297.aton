@@ -1,0 +1,112 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000297
+@MARC-003:	DE-633
+@MARC-005:	20201029163335.0
+@MARC-008:	101011##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: 8''F4FFF8F/F-8'''D-C-''B-/A4FFF8F/F-''B-A-G/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 8'B4B8B{6''DCC'B/8A4AA8A/8''C4C8C{6EDDC/8'B4BB8B/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8''{F^'A''F^'A}4''F^'A/4.''G^C8''B/qB8{A6GF}8qB4G/F-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Engel, Jan
+@MARC-100d: 1788+
+@MARC-100j: Ascertained
+@MARC-1000: pe30009138
+@MARC-240a: Symphonies
+@MARC-240m: orch
+@MARC-240r: F
+@MARC-2400: 3900027
+@MARC-245a: [title page, b:] Sinfonia Ex F | a | Vocibus 9|vem | Violinis Duobus. | Obois Duobus | Cornis Duobus. | Alto Viola | Fagoto | [at right, after brace which hold cor, vla, fag] obligato | et. | Fundamento | Auth: Engel | Pro Choro | Brdoviensi. | 1787.
+@MARC-260c: 1787
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 34,5 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: b-Stimme fungiert als Umschlag
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry na środku czarnym tuszem ręką kopisty: ""N=|r|o 419.", skreślona ołówkiem; później po prawej ołówkiem ręką nieznanego Paulina "N=|o 130", skreślona późniejsza poniżej na prawo czerwonym atramentem ręką F. Maletza "N 124"; późniejsza poniżej ołówkiem ręką W. Świerczka "355" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: W katalogu F. Maletza symfnia pod numerem "1506/124']
+@MARC-561a: Choro Brdoviensi
+@MARC-590a: vl 1, 2, vla, b, ob 1, 2, fag, cor 1, 2
+@MARC-590b: 2, 2, 1, 2, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [anchor] / MWM
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: vl (2), vla, b, ob (2), fag, cor (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.407
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Choro Brdoviensi
+@MARC-710g: Ascertained
+@MARC-7100: ks30080950
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 124
+@MARC-852d: 355
+@MARC-852d: 130
+@MARC-852d: 119
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-206
+@@END:		MARC21
+

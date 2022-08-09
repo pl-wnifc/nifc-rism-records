@@ -1,0 +1,34 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990004245
+@MARC-003:	DE-633
+@MARC-005:	20201129114412.0
+@MARC-008:	161111##################################
+@MARC-035a: B 1441
+@MARC-040a: DE-633
+@MARC-100a: Bazylik, Cyprian
+@MARC-100d: 1535c-1600
+@MARC-1000: pe40000234
+@MARC-240a: Psalms
+@MARC-240m: 4 V
+@MARC-2400: 3901018
+@MARC-245a: Psalm LXXIX. Deus venerunt gentes in haereditatem tuam ... (Panie Boże wszechmogący toć sroga moc [a 4 v]) [Krakau, M. Siebeneicher]
+@MARC-260c: [15]58
+@MARC-2608: 01
+@MARC-300a: part(s)
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: B 1441
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-710a: Siebeneicher, Matthäus
+@MARC-7100: ks40010069
+@MARC-7104: pbl
+@MARC-852a: PL-Wn
+@MARC-852e: Biblioteka Narodowa
+@MARC-852x: ks30000118
+@MARC-8523: 18133
+@MARC-852c: [no indication]
+@@END:		MARC21
+

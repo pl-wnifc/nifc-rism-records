@@ -1,0 +1,294 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000544
+@MARC-003:	DE-633
+@MARC-005:	20201029163341.0
+@MARC-008:	110908##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4.''G8G2G/=3/2-4.''xF8F/2F8'{DDDD}/{DDDD}{DDDD}/
+@MARC-031q: Bars 2-5 in both violin parts contain music written in bass clef beneath the range of the instrument (in the great octave) - most probably the fragment of missing tb pastoralis part written down for reference purposes; size of notes regular, no indication of instrument or breaks for vl part
+@MARC-031q: [pl-text: Takty 2-5 w głosach obu skrzypiec zawierają linię melodyczną w kluczu basowym poza skalą instrumentu (w oktawie wielkiej) - najprawdopodobniej jest to fragment linii innego instrumentu zapisany w celach pomocnicznych]
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: 4.'B8B2B/8''GD4E8D'B4''C/8GD4E{8D6D'B}{8''C6C'A}/4B''E{8D6D'B}{8''C6C'A}/8B
+@MARC-031q: There is no "Christe eleison" in lyrics
+@MARC-031q: [pl-text: w słowach brak tekstu "Christe eleison"]
+@MARC-031r: G
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 12/8
+@MARC-031p: 8{'GDA}{BD''C}4.D4D8G/{D'B''C}4D8G{D'B''C}4D8G/{D'B''C}{D'B''E}{D'B''C}{D'B''G}/
+@MARC-031q: Tempo indication "Andante" in vl 1; no graphically indicated as a separate movement
+@MARC-031q: [pl-text: W głosie vl 1 oznaczenie tempa "Andante"; brak graficznego wyróżnienia jako osobnej części]
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: 12/8
+@MARC-031p: 8{'GD}A{BD}''C4.D8DG/{D'B''C}4D8G{D'B''C}4D8G/{D'B''C}{D'B''E}{D'B''C}{D'B''G}/
+@MARC-031q: There is no "Christe eleison" in lyrics
+@MARC-031q: In the first bar copyist's mistake - instead of last two eighth notest, there should be a quarter and an eighth note (based on the rhytmic pattern in vl 1)
+@MARC-031q: [pl-text: w słowach brak tekstu "Christe eleison"]
+@MARC-031q: [pl-text: błąd kopisty w pierwszym takcie - zamiast ostatnich dwóch ósemek, powinna być ćwierćnuta oraz ósemka (zgodnie z rytmem zapisanym w głosie vl 1)]
+@MARC-031r: G
+@MARC-031t: Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =25/4'GA/8{BAGA}/{BAGA}/4B''C/{8DC'B''C}/{8DC'B''C}/8.6{DEDE}/{6DEDE}
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =12/4'B''C/{8'BAGA}/{BAGA}/4B''C/{8DC'B''C}/{8DC'B''C}/8.6{DEDE}/{6DEDE}
+@MARC-031r: G
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 8{'GB}{''DGBG}/{FADACA}/'{B''F'G''DGD}/{EGCEAE}/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =6/''4DDD/2F4F/GGG/2E4E/2F4F/GGF/G
+@MARC-031r: G
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: {8'GB''DG}{6GFAG}{FEDC}/4'B''D{6DCED}{C'BAG}/4F''F{6FEGF}{EDC'B}/8{A''A}{'A''A}
+@MARC-031r: G
+@MARC-031t: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: c
+@MARC-031p: {8'GB''DG}{6GFAG}{FEDC}/4'B''D{6DCED}{C'BAG}/4F''F{6FEGF}{EDC'B}/'4A''A
+@MARC-031r: G
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Osanna
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: =15/4''CCD/GGA/BBD/EEF/2G
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 4'GB''C/2D4E/4.D{8C'B''C}/2.D/
+@MARC-031r: G
+@MARC-031t: Hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031q: Note in Coro S: "Agnus ut Kyrie Primum Adagio"; in vl 1: " Agnus et Dona nobis ut Kyrie"
+@MARC-031q: [pl-text: Notatka w głosie Coro S: "Agnus ut Kyrie Primum Adagio"; w głosie vl 1: " Agnus et Dona nobis ut Kyrie"]
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031q: Note in Coro S: "Dona nobis ut Kyrie Secundum 12/8"; in vl 1: "Agnus et Dona nobis ut Kyrie"; tempo indication in cor 1: "Agnus ut Kyrie Dona Allegro"
+@MARC-031q: [pl-text: Notatka w głosie Coro S: "Dona nobis ut Kyrie Secundum 12/8"; w głosie vl 1: "Agnus et Dona nobis ut Kyrie"; oznaczenie tempa w cor 1: "Agnus ut Kyrie Dona Allegro"]
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Just, Franciszek Kasper
+@MARC-100d: 1717-1760
+@MARC-100j: Ascertained
+@MARC-1000: pe30098311
+@MARC-240a: Masses
+@MARC-240m: V (X), Coro, orch, org
+@MARC-240r: G
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] L: I: C|h: | MISSA | PASTORICIA [with later hand:] in G. | A | Vocibus. | Canto. - Alto. | Tenore - Basso. | Violino Primo. | Violino Secondo. | Clarino Primo | Clarino Secondo. | Tuba Pastorali. | Viola [space and with later hand:] C.M.C. | &amp; | Fundamento | [aligned to left:] Auth: Del Sign: P: Justo | S: P:
+@MARC-260c: 1755
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 33,5 x 23 cm
+@MARC-3008: 01
+@MARC-500a: tb pastoralis missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosu vla: 17,5 x 22,5 cm]
+@MARC-5008: 01
+@MARC-500a: [pl-text: tylko drugi egzemplarz głosu org (liczba kart: 4) na innym papierze, ze znakiem wodnym: "[crowned ascending lion] | IFP[?] / [without countermark]"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze po prawej czarnym atramentem "N. 25" skreślona; późniejsza niżej wyblakłym czarnym atramentem ręką M. Zabłockiego "N=|r|o 15." skreślona; późniejsza wyżej z lewej jasnoczerwonym ołówkiem "16." skreślona; późniejsza niżej ołówkiem ręką nieznanego Paulina "N-|o 26"; późniejsza niżej czerwonym atramentem ręką F. Maletza "N 524/24.; późniejsza na górze pośrodku ołówkiem ręką W. Świerczka "952" w kółku]
+@MARC-500a: [pl-text: Okrągły stempel "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki, f. 1r i 3v głosu Coro B oraz na ostatniej stronie pozostałych głosów, z wyjątkiem cor 1]
+@MARC-500a: [pl-text: Skrót "S: P:" na karcie tytułowej odnosi się do "Scholarum Piarum"]
+@MARC-500a: [pl-text: Skrót "L[audetur] I[esus] Ch[ristus]" na karcie tytułowej przekreślony jasnoczerwonym ołówkiem; nazwisko kompozytora podkreślone na ciemnoczerwono]
+@MARC-500a: [pl-text: Odcinki solowe w głosach: Coro A, vl 1, 2, org]
+@MARC-500a: [pl-text: Notatka na głosie org, f. 3v: "Descripsit Fr Sÿmphorianus | Runge Ord: Scti: Pauli pri: Erem. | Professus Clericus | Anno 1755 die 6: Septemb: [manu propria]"]
+@MARC-500a: [pl-text: Folio 1r drugiego egzemplarza głosu organowego puste; utwór zaczyna się na f. 1v]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-29]
+@MARC-500a: [pl-text: W MaletzC msza zapisana pod numerem 524]
+@MARC-561a: [on title page with later hand:] C.M.C.
+@MARC-563a: [pl-text: karty poszczególnych głosów instrumentów o liczbie folio 3 i więcej (z wyjątkiem drugiego egzemplarza org) zszyte razem; wszystkie głosy przechowywane w białej papierowej obwolucie z grzbietem usztywnionym dodatkowym paskiem papieru]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 3, 3, 2, 3 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla
+@MARC-590b: 3, 3, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc/2x)
+@MARC-590b: 3, 4 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in G
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-592a: [banner with illegible text] | [Silesian eagle] | [across the fold line:] CAMMERPAPPIER / [in mirror image:] G
+@MARC-5928: 01
+@MARC-592a: [crowned ascending lion] | IFP[?] / [without countermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: cor in G
+@MARC-594c: 2
+@MARC-594b: tb pastoralis
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: A, Coro S, Coro A, Coro T, Coro B, vl (2), vla, cor in G (2), tb pastoralis, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 649
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 33
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 14
+@MARC-6910: lit1887
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Runge, Symforian
+@MARC-700d: 1729-1786
+@MARC-700j: Ascertained
+@MARC-7000: pe30093032
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-730a: Missa pastoritia
+@MARC-730g: RISM
+@MARC-7300: 3909084
+@MARC-852a: PL-CZ
+@MARC-852d: N. 25
+@MARC-852d: N=|r|o 15
+@MARC-852d: 16
+@MARC-852d: N-|o 26
+@MARC-852d: N 524/24
+@MARC-852d: 952
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-319
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

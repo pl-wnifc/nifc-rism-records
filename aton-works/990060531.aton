@@ -1,0 +1,47 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990060531
+@MARC-003:	DE-633
+@MARC-005:	20181217153806.0
+@MARC-008:	161111##################################
+@MARC-035a: S 4203
+@MARC-040a: DE-633
+@MARC-100a: Stabile, Annibale
+@MARC-100d: 1545c-1595
+@MARC-1000: pe30009662
+@MARC-240a: Madrigals
+@MARC-240m: V (5)
+@MARC-2400: 3911206
+@MARC-245a: Il primo libro de madrigali a cinque voci, novamente ristampati [1. Auflage 1572 nicht mehr nachweisbar].
+@MARC-260a: Venezia
+@MARC-260b: Gerolamo Scotto, erede
+@MARC-260c: 1586
+@MARC-2608: 01
+@MARC-300a: part(s)
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: S 4203
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-650a: Madrigals
+@MARC-6500: 25257
+@MARC-710a: Scotto, Gerolamo, erede
+@MARC-7100: ks40009964
+@MARC-7104: pbl
+@MARC-852a: I-Vnm
+@MARC-852e: Biblioteca Nazionale Marciana
+@MARC-852x: ks30000170
+@MARC-8523: 237785
+@MARC-852c: [no indication]
+@MARC-852q: 5
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-8523: 237786
+@MARC-852c: Ee 2628 8º adl. 4
+@MARC-852q: kpl: S, A, T, B, 5
+@MARC-973u: 1001203361
+@MARC-9733: 237786
+@@END:		MARC21
+

@@ -1,0 +1,121 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001086605
+@MARC-003:	DE-633
+@MARC-005:	20211105120904.0
+@MARC-008:	190919##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Introdukcja
+@MARC-031g: G-2
+@MARC-031m: fl.picc
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: =6/6-{''F'B''C}8D8-4-/=1/4-8-6{''F'B''C}4D+/8D8-6-{''F'B''C}4D+/8D8-
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Polonez
+@MARC-031g: G-2
+@MARC-031m: fl.picc
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: ''//:8.{A6E}4.F8C/4.E8G{BA}/8.'''{C6''G}4.''B8A/''4G8F8-8.-6F/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Introdukcja
+@MARC-031g: F-4
+@MARC-031m: vlc, basso
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 2,E+8{E6AG}/2,E+8{E6AG}/8E8-E8-4E+/8E8-E8-44E+/8{E6-,,E}4.,E8,,B/,2.E/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Polonez
+@MARC-031g: F-4
+@MARC-031m: vlc
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: //:{8,,A6,C}"4.,,F8A/4,C8-,,B{GA}/4A4-,C/
+@MARC-031q: In the manuscript there are corrections in pencil. The incipit has been transcribed in the post correcturam version.
+@MARC-031q: [pl-text: Rękopis zawiera poprawki ołówkiem. Incipit został przetranskrybowany w wersji post correcturam.]
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Hertz, Michał
+@MARC-100d: 1844-1918
+@MARC-100j: Ascertained
+@MARC-1000: pe41023359
+@MARC-240a: Polonaises
+@MARC-240m: Strings, woodwinds, brass, percussion
+@MARC-240r: A
+@MARC-2400: 3900011
+@MARC-245a: [caption title:] Wielki Polonez | jubileuszowy.
+@MARC-260c: 1850-1918
+@MARC-2608: 01
+@MARC-300a: 1 score: 30 p.
+@MARC-300c: 30,5 x 25,0 cm
+@MARC-3008: 01
+@MARC-591a: inw. 2512
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: fl.picc
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in D
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 4
+@MARC-594b: tr in F
+@MARC-594c: 3
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: tr basso
+@MARC-594c: 1
+@MARC-594b: tuba
+@MARC-594c: 1
+@MARC-594b: timp in A and E
+@MARC-594c: 4
+@MARC-594b: tamb.picc
+@MARC-594c: 1
+@MARC-594b: triangolo
+@MARC-594c: 1
+@MARC-594b: gran cassa
+@MARC-594c: 1
+@MARC-594b: piatti
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: basso
+@MARC-594c: 1
+@MARC-594a: fl.picc, fl (2), ob (2), cl in D (2), fag (2), cor in F (4), tr in F (3), tr (2), tr basso, tuba, timp in A and E (4), tamb.picc, triangolo, gran cassa, piatti, vl (2), vla, vlc, basso
+@MARC-599b: full
+@MARC-650a: Polonaises
+@MARC-6500: 25203
+@MARC-852a: PL-Wtm
+@MARC-852e: Biblioteka, Muzeum i Archiwum Warszawskiego Towarzystwa Muzycznego im. Stanisława Moniuszki
+@MARC-852x: ks30000150
+@MARC-852c: R 2498
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

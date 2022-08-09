@@ -1,0 +1,236 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000599
+@MARC-003:	DE-633
+@MARC-005:	20201029163349.0
+@MARC-008:	111004##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 6''B/2(B)4-/=3/4-8-8.-6'''F4(F)/=2/6-{FEC}{''AFEC}{'AFEC}/4,B--/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 6-/2(-)4-/4''DCD/2E4D/4.C8G{6FEDC}/4'B2(A)/4''DCD/
+@MARC-031r: B|b
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro assai
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''D8DDDDDD/4DD2-/4C8CCCCCC/4CC2-/
+@MARC-031r: B|b
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: BA8-''C/4''ED-/{8.'B6''C}4bDnE/FF-/
+@MARC-031r: B|b
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 2,B/4'F6{EFGF/8bD6nDD8-,B/
+@MARC-031r: B
+@MARC-031t: Et incarnatus est de Spiritu Sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: ''D8DD4DD/C8CC4CC/2D4DD/2D4DD/
+@MARC-031r: B
+@MARC-031t: Et resurrexit tertia die
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: ''DCD/E-(-)/CFE/D-(-)/FbA'nB/
+@MARC-031r: B|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 2''D4DD/DD2-/E4EE/EE2-/
+@MARC-031r: B
+@MARC-031t: Pleni sunt caeli et terra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 6-/=6/2-4-8FF/4.''D6{ED}{8C'B}{AB/4nB''C/
+@MARC-031r: B|b
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: F-4
+@MARC-031m: B solo
+@MARC-031n: bBEAD
+@MARC-031o: 3/4
+@MARC-031p: ,F{6.F3,C6.nD3nE}{6.F3G6.A3F/{8.nE6G}4C4.-
+@MARC-031r: f
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Koperski, Maksymilian
+@MARC-100d: 1812-1886
+@MARC-100j: Verified
+@MARC-1000: pe30060120
+@MARC-240a: Masses
+@MARC-240m: Coro, orch, org
+@MARC-240r: B|b
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] Msza | Do B | z trzynastu Głosów zkłada [!] | się. Ułożona w kongregacy [!] | Xięży Filippinów pod Gostyniem | Aut. Maxymilian Koperski 3./3. 1834. | [at left:] Comparatum pro | Choro Claromontano | [at right:] per P. Lucam | Grządzielski Custodem | Eccl. A. D. 1837.
+@MARC-260a: Gostyń [verified]
+@MARC-260c: 1834
+@MARC-2608: 01
+@MARC-300a: 15 parts
+@MARC-300c: 35,5 x 23 cm
+@MARC-3008: 01
+@MARC-500a: fag 2 missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: vla na innym papierze, o wymiarach: 37 x 21,5 cm]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: na środku na prawo od tytułu czerwonym atramentem ręką F. Maletza "N 14"; późniejsza u góry z prawej ołówkiem ręką W. Świerczka "790" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona niebieską kredką oraz parafowana]
+@MARC-500a: [pl-tekst: Karta tytułowa bogato zdobiona, słowo "Msza" rozpisane graficznie, z gwiazdą czteroramienną u góry oraz gdwiema ilustracjami po bokach, na których widnieją pochodnie, dwie skrzyżowane strzały, całość opleciona wieńcem z kwiatów. Dalsza część treści otoczona wieńcem z liści. Całość ujęta w ozdobną ramkę]
+@MARC-500a: Vermerk auf der vl 1-Stimme: "W Gostyniu Koperski"
+@MARC-500a: Vermerk auf der vla-Stimme: "w prętkości dobrany w Gloria trzeba pamiętać"
+@MARC-500a: Vermerk auf clno 1, timp, org: "w Gostyniu 5/6 1834"
+@MARC-563a: [pl-text: okładka zrobiona z niebieskiego papieru, bez znaków wodnych]
+@MARC-5638: 01
+@MARC-590a: Coro: S, A, T, B, vl 1, 2, vla, fl, cl 1, 2, fag 1, clno 1, 2, timp, org (= bc)
+@MARC-590b: 3, 3, 3, 3, 4, 3, 2, 2, 2, 2, 3, 1, 1, 1, 3f.
+@MARC-5908: 01
+@MARC-592a: parts: SOMMER
+@MARC-5928: 01
+@MARC-592a: vla: [pine tree] / [illegile]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), vla, fl, cl (2), fag (2), clno (2), timp, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.710
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 1
+@MARC-6910: lit1887
+@MARC-700a: Grządzielski, Łukasz
+@MARC-700d: 1795-1866
+@MARC-700j: Ascertained
+@MARC-7000: pe30040496
+@MARC-7004: oth
+@MARC-700a: Białaszewski, Franciszek
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30040674
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: oth
+@MARC-852a: PL-CZ
+@MARC-852d: 14
+@MARC-852d: 790
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-349
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

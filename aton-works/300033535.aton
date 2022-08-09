@@ -1,0 +1,99 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033535
+@MARC-003:	DE-633
+@MARC-005:	20210328210433.0
+@MARC-008:	110516##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: ''{6D'8.A}{''6F8.D}{6A8.F}/q8G4FE-/{6E'8.A}{''6G8.E}{6B8.G}/q8A4GF-/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Sonatas
+@MARC-240m: org, orch, bc
+@MARC-240r: D
+@MARC-2400: 3900185
+@MARC-245a: [caption title, org:] Sonata [later by other hand:] in D | Pro processione | Organo Solo | Violinis duobus. | Hautbois duobus. | Clarinis duobus. | Basso Continuo. | Authore Martino Żebro. | E S[criptis] AP [?] | pro. | [illegible] Ian. He[illegible]pczeński | 1804./ | mpp
+@MARC-260c: 1750-1799 (18.2d)
+@MARC-2608: 01
+@MARC-300a: 5 parts
+@MARC-300c: 33 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: clno 1, 2 and bc missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry z prawej czarnym tuszem "N-|r|o 15."; skreślona i później poniżej ołówkiem, wertykalnie ręką nieznanego Paulina "N-|o | 189"; skreślona i później na prawo od tytułu czerwonym atramentem ręką F. Maletza "N 54"; późniejsza u góry z prawej ołówkiem ręką W. Świerczka "289" w owalnym kółku]
+@MARC-500a: [pl-text: Foliacja ołówkiem (f. 1-6)]
+@MARC-500a: [pl-text: W katalogu F. Maletza kompozycja znajduje się pod sygnaturą 1437/54]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-500a: Comment on scoring: bc: org
+@MARC-561a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org solo
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: iSol: org
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: iSol: org, vl (2), ob (2), clno (2), bc
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 35
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1614
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-730a: Sonata pro processione
+@MARC-730g: RISM
+@MARC-7300: 3919784
+@MARC-852a: PL-CZ
+@MARC-852d: N-|r|o 15.
+@MARC-852d: N|o 189
+@MARC-852d: N 54
+@MARC-852d: 289
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-750
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

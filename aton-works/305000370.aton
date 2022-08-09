@@ -1,0 +1,51 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	305000370
+@MARC-003:	DE-633
+@MARC-005:	20210216083529.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie.
+@MARC-031g: C+3
+@MARC-031m: org
+@MARC-031o: c/
+@MARC-031p: '1D2D,A'FDDF,1A2AD%F+4 2A,,A2.bB4A2G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Et in terra pax.
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Sokół, Andrzej
+@MARC-100d: 1589-1654
+@MARC-1000: pe30023394
+@MARC-240a: Masses
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Missa sicut caervus. a. 8. Andrae Sokolo
+@MARC-300a: 1 parts
+@MARC-3008: 01
+@MARC-590a: bassus pro organo
+@MARC-590b: f.150v-151r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: org
+@MARC-599b: full
+@MARC-650a: Masses (cantus firmus-, paraphrase-, parody masses)
+@MARC-6500: 3000157
+@MARC-730a: Missa Sicut servus
+@MARC-730g: RISM
+@MARC-7300: 4295822
+@MARC-773a: - 273 Sacred songs
+@MARC-773w: 305000112
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-852c: Ms 4012
+@@END:		MARC21
+

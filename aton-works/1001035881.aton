@@ -1,0 +1,177 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035881
+@MARC-003:	DE-633
+@MARC-005:	20220120144201.0
+@MARC-008:	180329##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Grave
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''EDE8-'B/{6GAB''C}{8'B6AG}4F8-B/{6GBAB}8FB{6GBAB}8F-/
+@MARC-031r: E|b
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Grave
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''GF{8EE}{8E6BF}/{8GF}{G6FE}{8D'B}-,B/{BBBB}{BBB''F}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8''EEEEED/4E8-{6DC}{'BA}{GF}/4E8-{6FG}{AB}{''CD}/8EEEEED/
+@MARC-031r: E|b
+@MARC-031t: Et in terra pax, hominibus bonae voluntatis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 8{''F6BA}{8GGGF}/{GE}-{6DC}{'BAGF}/4E8-{6FG}{AB''CD}/{8E6BA}{8GGGF}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 6/8
+@MARC-031p: 4''E8EEEE/4D8DD6DDDF/8D'B-''DDD/4D8DC4C/'B8-6BB8B6BB/
+@MARC-031r: E|b
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 6/8
+@MARC-031p: {8''EGB}4G8F/{6FEDEFG}{8FF}-/{6FEDEFG}{FEDEFG}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =2/8'BBBBBB/4.B8B4B/8BBBBBB/4B8BB''EE/4D4.C8C/
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =2/8-{''EGBGE}/{FFFFFF}/{GEGBGE}/4.F8B4nA/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''EEE8DD/4C8FE4DE/EDE'B/''CD2E/4D8-'B2B/
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8{'EG}{B''E}4ED/{8CF}{6AGFE}{8D'B''EG}/{A6GF}{8BF}{GEG'B}/{''FCFB}2Et/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Rathgeber, Johann Valentin
+@MARC-100d: 1682-1750
+@MARC-100j: Ascertained
+@MARC-1000: pe30002639
+@MARC-240a: Masses
+@MARC-240m: V (4), orch, org
+@MARC-240n: op. 7
+@MARC-240r: E|b
+@MARC-2400: 3900051
+@MARC-245a: [without title]
+@MARC-260c: 1730-1760
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: 33 x 20 cm
+@MARC-3008: 01
+@MARC-383b: op. 7
+@MARC-500a: Inscription "A M D G B M V H S O I D V" at the end of each part.
+@MARC-500a: Composer identified on the basis of RISM ID 408000042.
+@MARC-590a: S, A, T, B
+@MARC-590b: 2, 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: lituo 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc.fig)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: lituo
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, vl (2), lituo (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 263
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 176/A V 6
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

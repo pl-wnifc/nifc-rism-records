@@ -1,0 +1,115 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001399
+@MARC-003:	DE-633
+@MARC-005:	20201029163410.0
+@MARC-008:	151119##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 2''E{8EDFD}/4.E8C{C'BAG}/4.G8B{BAGF}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =51/4''EE{8ED}{FD}/4.E8C{C'BAG}/4.G8B{BA}{GF}/
+@MARC-031r: E|b
+@MARC-031t: Omni die dic Mariae, mea laudes anima
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Ascertained
+@MARC-1000: pe30020656
+@MARC-240a: Omni die dic Mariae
+@MARC-240m: V (2), orch, bc
+@MARC-240r: E|b
+@MARC-2400: 3918151
+@MARC-245a: [dust cover title:] Duetto [by other hand: de B. V. M. in Dis] | a. | Vocibus. 15. | Canto Alto | Violino Primo Violino Secundo | Flauto traverso | Hoboe Primo Hoboe Secundo | Clarinetto Primo Clarinetto Secundo | Corno Primo Corno Secundo | Fagotto Primo Fagotto Secundo | Alto Viola Obl. | Con | Fundamento | [by other hand: Del Sigle: Wolkmer | De Scrip: K:[azimierz] N:[owakiewicz]]
+@MARC-260c: 1790-1800 (18.ex)
+@MARC-2608: 01
+@MARC-300a: 15 parts
+@MARC-300c: 37 x 23,5 cm
+@MARC-3008: 01
+@MARC-500a: fag 2: 22,5 x 23 cm
+@MARC-5008: 01
+@MARC-500a: The number in watermark can be also 1796
+@MARC-5008: 01
+@MARC-500a: ppl-text: rok podany w znaku wodnym może być także 1796]
+@MARC-5008: 01
+@MARC-500a: [pl-text: " Wcześniejsze sygnatury na okładce f. 1r: u góry z prawej strony tuszem ręką M. Zabłockiego "N 123", skreślone tą samą ręką; u góry z lewej strony tuszem ręką M. Zabłockiego "N|ro 30.", skreślone ołówkiem; poniżej z prawej części strony ołówkiem ręką nieznanego Paulina "N|o 411", skreślone czerwonym tuszem; poniżej czerwonym tuszem ręką F. Maletza "N 1175/476."]
+@MARC-500a: Below middle right on the cover there is round stamp: "* ARCHIVUM * C. M. C."
+@MARC-500a: [pl-text: Poniżej środka z prawej strony okładki okrągła pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Notatka na końcu partii S: "De Scrip: K. No.[wakiewicz]"]
+@MARC-500a: [pl-text: Konkordancja: ID RISM 300511542 (PL-Wu RM 5400) ]
+@MARC-590a: S, A, vl 1, 2, vla, f, ob 1, 2, cl 1, 2, fag 1, 2, cor 1, 2, bc
+@MARC-590b: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: cover title: CZENSTOCHAW | 1795 / [crowned eagle with sceptre and sward]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: bc
+@MARC-594c: 1
+@MARC-594a: S, A, vl (2), vla, fl, ob (2), cl (2), fag (2), cor (2), bc
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 30
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 28
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1516
+@MARC-6910: lit1869
+@MARC-700a: Nowakiewicz, Kazimierz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30020309
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N 123
+@MARC-852d: N|ro 30
+@MARC-852d: N 411
+@MARC-852d: N 1175/476
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-697
+@@END:		MARC21
+

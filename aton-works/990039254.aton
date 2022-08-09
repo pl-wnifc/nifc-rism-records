@@ -1,0 +1,125 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990039254
+@MARC-003:	DE-633
+@MARC-005:	20220131145811.0
+@MARC-008:	161111##################################
+@MARC-035a: M 511
+@MARC-040a: DE-633
+@MARC-100a: Marenzio, Luca
+@MARC-100d: 1553c-1599
+@MARC-1000: pe30003955
+@MARC-240a: Madrigali, libro 4
+@MARC-240m: V (6)
+@MARC-2400: 5036095
+@MARC-245a: Di Luca Marenzio il Quarto Libro de Madrigali a Sei Voci Nouamente ristampato, &amp; da molti errori diligentissimamente emendato. In Venetia Appresso Ricciardo Amadino
+@MARC-260a: Venetia
+@MARC-260b: Ricciardo Amadino
+@MARC-260c: 1587
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: M 511
+@MARC-588a: I-Bc T.44
+@MARC-590a: S, A, T, B, V 5, V 6
+@MARC-5908: 01
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: V 5
+@MARC-594c: 1
+@MARC-594b: V 6
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, V 5, V 6
+@MARC-599b: full
+@MARC-650a: Madrigals
+@MARC-6500: 25257
+@MARC-710a: Amadino, Ricciardo
+@MARC-7100: ks40000302
+@MARC-7104: pbl
+@MARC-775w: 990039253
+@MARC-852a: B-Bc
+@MARC-852e: Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek
+@MARC-852x: ks30000438
+@MARC-8523: 150922
+@MARC-852c: [no indication]
+@MARC-852q: S, B, 6
+@MARC-852a: D-Rp
+@MARC-852e: Bischöfliche Zentralbibliothek, Proskesche Musikabteilung
+@MARC-852x: ks30000970
+@MARC-8523: 150923
+@MARC-852c: [no indication]
+@MARC-852q: S, A, T, 5
+@MARC-852a: GB-Ob
+@MARC-852e: Bodleian Library
+@MARC-852x: ks30001627
+@MARC-8523: 150924
+@MARC-852c: [no indication]
+@MARC-852q: unvollständig
+@MARC-852a: GB-Och
+@MARC-852e: Christ Church Library &amp; Archives
+@MARC-852x: ks30001631
+@MARC-8523: 150925
+@MARC-852c: [no indication]
+@MARC-852q: kpl.: S, A, T, B, 5, 6
+@MARC-852a: I-Bc
+@MARC-852e: Museo internazionale e biblioteca della musica di Bologna
+@MARC-852x: ks30001740
+@MARC-8523: 150926
+@MARC-852c: T.44
+@MARC-852q: 1 part: T
+@MARC-852a: I-Bsp
+@MARC-852e: Archivio musicale della Basilica di San Petronio
+@MARC-852x: ks30000256
+@MARC-8523: 150927
+@MARC-852c: [no indication]
+@MARC-852a: I-Fb
+@MARC-852b: Special Collections
+@MARC-852e: Biblioteca Berenson - Morrill Music Library
+@MARC-852x: ks30004727
+@MARC-8523: 51030326
+@MARC-852c: M1582 .M4 1584 M
+@MARC-852q: 2 parts: T, B
+@MARC-852a: I-Fn
+@MARC-852e: Biblioteca nazionale centrale
+@MARC-852x: ks30001783
+@MARC-8523: 150928
+@MARC-852c: [no indication]
+@MARC-852a: I-Vnm
+@MARC-852e: Biblioteca Nazionale Marciana
+@MARC-852x: ks30000170
+@MARC-8523: 150929
+@MARC-852c: [no indication]
+@MARC-852q: A
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-8523: 150930
+@MARC-852c: Ee 1638 8º adl. 8
+@MARC-852q: kpl: S, A, T, B, V5, V6
+@MARC-852a: US-BEm
+@MARC-852e: Jean Gray Hargrove Music Library - University of California
+@MARC-852x: ks30002210
+@MARC-8523: 150931
+@MARC-852c: [no indication]
+@MARC-852q: A, T, B, 5, 6
+@MARC-856u: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_T/T044/
+@MARC-856x: Digitized
+@MARC-856z: Digital copy
+@MARC-8563: 150926
+@MARC-973u: 1001160970
+@MARC-9733: 51030326
+@MARC-973u: 1001202747
+@MARC-9733: 150930
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

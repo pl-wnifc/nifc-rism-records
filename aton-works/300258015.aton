@@ -1,0 +1,81 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258015
+@MARC-003:	DE-633
+@MARC-005:	20220228135410.0
+@MARC-008:	121101##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031p: 1'CD9C2,A1B2'C9D0C
+@MARC-031t: Amen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031p: 1,A2.B4A2GA2.G4F2D1'D2C9,B0A
+@MARC-031t: Amen
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031p: 2.,F4E2D,,B,C,,A1,C2D1,,B2A9B0F
+@MARC-031t: Amen
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Responsories
+@MARC-240m: V (4)
+@MARC-2400: 3902381
+@MARC-245a: [without title]
+@MARC-260c: [1552-1600]
+@MARC-2608: 01
+@MARC-300a: 3 partbooks: 3 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: W księgach Cantus i Altus nad partią inskrypcja: "Quatuor voc[um].", w księdze Bassus inskrypcja: "Quatuor vocu[m]."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak czwartego głosu.]
+@MARC-505a: [pl-text: Cykl responsoriów mszalnych zawierający opracowania: "Amen", "Et cum spiritu tuo", "Gloria tibi Domine"; "Praefatio": "Amen", "Et cum spiritu tuo", "Habemus ad Dominum", "Dignum et iustum est"; "Sed libera nos a malo", "Deo gratias".]
+@MARC-590a: S, A, B
+@MARC-590b: f. 185r-185v, 188r-188v, 183r-183v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594a: A, T, B, V
+@MARC-599b: full
+@MARC-650a: Responsories
+@MARC-6500: 25248
+@MARC-691a: Głuszcz-ZwolińskaW 1969
+@MARC-6910: lit2815
+@MARC-773a: - 61 Sacred songs
+@MARC-773w: 300257954
+@MARC-852a: PL-Kk
+@MARC-852d: D 25
+@MARC-852d: D 26
+@MARC-852d: D 27
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>00000ncc a2200000 u 4500</marc:leader>
+  <marc:controlfield tag="001">990060529</marc:controlfield>
+  <marc:controlfield tag="003">DE-633</marc:controlfield>
+  <marc:controlfield tag="005">20210523095500.0</marc:controlfield>
+  <marc:controlfield tag="008">161111##################################</marc:controlfield>
+  <marc:datafield tag="035" ind1=" " ind2=" ">
+    <marc:subfield code="a">S 4201; SS 4201</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">DE-633</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">Stabile, Annibale</marc:subfield>
+    <marc:subfield code="d">1545c-1595</marc:subfield>
+    <marc:subfield code="0">pe30009662</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1="1" ind2="0">
+    <marc:subfield code="a">Sacrarum modulationum, liber 2</marc:subfield>
+    <marc:subfield code="m">V (5)</marc:subfield>
+    <marc:subfield code="m">V (6)</marc:subfield>
+    <marc:subfield code="m">V (8)</marc:subfield>
+    <marc:subfield code="0">5040252</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">CANTVS | ANNIBALIS STABILI | IN ALMA VRBE COLLEGII | GERMANICI MUSICAE | MAGISTRI | SACRARVM MODVLATIONVM | Quae Quinis, Senis, &amp; Octonis voci- | bus concinuntur. | LIBER SECVNDVS. | Venetijs Apud Angelum Gardanum | M. D. LXXXV.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">Venetijs</marc:subfield>
+    <marc:subfield code="b">Angelo Gardano</marc:subfield>
+    <marc:subfield code="c">1585</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">parts</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="510" ind1="2" ind2=" ">
+    <marc:subfield code="a">RISM A/I</marc:subfield>
+    <marc:subfield code="c">S 4201; SS 4201</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="588" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kj Mus.ant.pract. S 1280</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Print</marc:subfield>
+    <marc:subfield code="8">01</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="b">full</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">Sacred songs</marc:subfield>
+    <marc:subfield code="0">25250</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="710" ind1="2" ind2=" ">
+    <marc:subfield code="a">Gardano, Angelo</marc:subfield>
+    <marc:subfield code="0">ks40003845</marc:subfield>
+    <marc:subfield code="4">pbl</marc:subfield>
+    <marc:subfield code="3"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">D-Rp</marc:subfield>
+    <marc:subfield code="e">Bischöfliche Zentralbibliothek, Proskesche Musikabteilung</marc:subfield>
+    <marc:subfield code="x">ks30000970</marc:subfield>
+    <marc:subfield code="3">237772</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">S, B, 5, 6</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">GB-Lbl</marc:subfield>
+    <marc:subfield code="e">The British Library</marc:subfield>
+    <marc:subfield code="x">ks30001581</marc:subfield>
+    <marc:subfield code="3">237773</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">S, 6</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">I-Nf</marc:subfield>
+    <marc:subfield code="e">Biblioteca statale Oratoriana dei Girolamini di Napoli</marc:subfield>
+    <marc:subfield code="x">ks30001844</marc:subfield>
+    <marc:subfield code="3">237774</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">kpl.: S, A, T, B, 5, 6</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">I-Rc</marc:subfield>
+    <marc:subfield code="e">Biblioteca Casanatense</marc:subfield>
+    <marc:subfield code="x">ks30000230</marc:subfield>
+    <marc:subfield code="3">237775</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">5, 6</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">I-Rsc</marc:subfield>
+    <marc:subfield code="e">Biblioteca del Conservatorio di Musica Santa Cecilia</marc:subfield>
+    <marc:subfield code="x">ks30001912</marc:subfield>
+    <marc:subfield code="3">237776</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">B</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">P-La</marc:subfield>
+    <marc:subfield code="e">Biblioteca do Palácio Nacional da Ajuda</marc:subfield>
+    <marc:subfield code="x">ks30002057</marc:subfield>
+    <marc:subfield code="3">237778</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">S, A, T, B, 5</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-GD</marc:subfield>
+    <marc:subfield code="e">Polska Akademia Nauk Biblioteka Gdańska</marc:subfield>
+    <marc:subfield code="x">ks30002071</marc:subfield>
+    <marc:subfield code="3">237779</marc:subfield>
+    <marc:subfield code="c">Ee 2628 8º adl. 7</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">S, A, T, B, 5, 6</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1=" " ind2=" ">
+    <marc:subfield code="a">PL-Kj</marc:subfield>
+    <marc:subfield code="e">Biblioteka Jagiellońska</marc:subfield>
+    <marc:subfield code="x">ks30002079</marc:subfield>
+    <marc:subfield code="3">237781</marc:subfield>
+    <marc:subfield code="c">Mus.ant.pract. S 1280</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">5 parts: S, A, T, B, V 5</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">S-Sk</marc:subfield>
+    <marc:subfield code="e">Kungliga biblioteket</marc:subfield>
+    <marc:subfield code="x">ks30002152</marc:subfield>
+    <marc:subfield code="3">237780</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">A</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="852" ind1="1" ind2="0">
+    <marc:subfield code="a">V-CVbav</marc:subfield>
+    <marc:subfield code="e">Biblioteca Apostolica Vaticana</marc:subfield>
+    <marc:subfield code="x">ks30077306</marc:subfield>
+    <marc:subfield code="3">237777</marc:subfield>
+    <marc:subfield code="c">[no indication]</marc:subfield>
+    <marc:subfield code="p"/>
+    <marc:subfield code="q">fehlt 1 St.</marc:subfield>
+    <marc:subfield code="u"/>
+    <marc:subfield code="z"/>
+  </marc:datafield>
+  <marc:datafield tag="973" ind1=" " ind2=" ">
+    <marc:subfield code="u">1001203361</marc:subfield>
+    <marc:subfield code="3">237779</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">RISM</marc:subfield>
+    <marc:subfield code="c">examined</marc:subfield>
+  </marc:datafield>
+</marc:record>

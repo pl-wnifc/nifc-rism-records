@@ -1,0 +1,146 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258008
+@MARC-003:	DE-633
+@MARC-005:	20220622104931.0
+@MARC-008:	121101##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 1'GGFE9D1F2EC1D2E1G2F1G
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1'D9C2,B'C1,A2.B4'C1D2,GAG
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 1,GGAGFGA'C,B'C,AG
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1,GGD2EC1D,,G,D2C,,AB,GEC1D,,G
+@MARC-031t: Alleluia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-2
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 2.'G4F1E9D2EC,B'DE1G2F2.G
+@MARC-031t: Felix es sacra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1'C2,GA-G1G2-A'D,B1'ED2.D4C,BA2B'C
+@MARC-031t: Felix es sacra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: ,1G'C,BB'CDC,AGG
+@MARC-031t: Felix es sacra
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1.,C2,,AB2.G4A2B1A2GB1,CD,,G2G
+@MARC-031t: Felix es sacra
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Sebastian z Felsztyna
+@MARC-100d: 1490a-1543p
+@MARC-1000: pe30096436
+@MARC-240a: Alleluia felix es sacra
+@MARC-240m: V (4)
+@MARC-2400: 3924476
+@MARC-245a: [caption title in Cantus and Tenor:] De Conceptione | Visitatione | Nativitate.
+@MARC-260c: [1552-1600]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks: 8 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: W księgach Cantus i Tenor nad partią: "Sebastiani Felstin".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wpisy w księgach Cantus i Tenor dokonane inną ręką niż te w księgach Altus i Bassus.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: W księdze Cantus na karcie 165v u dołu na ostatniej pięciolinii zapisany inną ręką początkowy fragment "Kyrie".]
+@MARC-5008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 164v-165v, 161v-162r, 141v-142r, 150v-151v
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Versus alleluiatici
+@MARC-6500: 3005779
+@MARC-657a: Mariae (B.V.) Conceptio Immaculata
+@MARC-6570: 24303
+@MARC-657a: Mariae (B.V.) Visitatio
+@MARC-6570: 24397
+@MARC-657a: Mariae (B.V.) Nativitas
+@MARC-6570: 24304
+@MARC-691a: Głuszcz-ZwolińskaW 1969
+@MARC-6910: lit2815
+@MARC-691a: FeichtS 1966
+@MARC-691n: p. 36
+@MARC-6910: lit370
+@MARC-773a: - 61 Sacred songs
+@MARC-773w: 300257954
+@MARC-787n: Concordance: PL-Kk Kk.I.6
+@MARC-787w: 1001136614
+@MARC-7874: rdau:P60191
+@MARC-787n: Concordance: Pl-Kk Mus.I.6/1-3 [Nr.36]
+@MARC-787w: 300257953
+@MARC-7874: rdau:P60191
+@MARC-787n: Concordance: PL-Kk Kk.I.161
+@MARC-787w: 1001150824
+@MARC-7874: rdau:P60191
+@MARC-852a: PL-Kk
+@MARC-852d: D 25
+@MARC-852d: D 26
+@MARC-852d: D 27
+@MARC-852d: Ch.192
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

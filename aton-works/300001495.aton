@@ -1,0 +1,78 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300001495
+@MARC-003:	DE-633
+@MARC-005:	20220225093833.0
+@MARC-008:	160107##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2'E4.G8E/2.B4B/2B4AF/E-2-/2C4.E8C/2A
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Maestoso
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =12/()1-/2,E4.G8E/2B4B-/2B4.A8G/2E4-E/2A4B'C/2,B4E-/
+@MARC-031r: E|b
+@MARC-031t: O salutaris hostia, quae caeli pandis ostium
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Miné, Jacques-Claude-Adolphe
+@MARC-100d: 1796-1854
+@MARC-100j: Ascertained
+@MARC-1000: pe30008345
+@MARC-240a: O salutaris hostia
+@MARC-240m: B solo, orch
+@MARC-240r: E|b
+@MARC-2400: 3900683
+@MARC-245a: [without title]
+@MARC-260c: 1851-1900 (19.2d)
+@MARC-2608: 01
+@MARC-300a: 6 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Partytura utworu zachowana w PL-CZ pod sygnaturą I-48]
+@MARC-590a: B solo, vl 1, 2, vla, fl, org
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: B solo, vl (2), vla, fl, org
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.936a
+@MARC-6910: lit1869
+@MARC-773a: - 2 Sacred songs - V, orch
+@MARC-773w: 300001493
+@MARC-852a: PL-CZ
+@MARC-852d: 587
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-249
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

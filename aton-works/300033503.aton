@@ -1,0 +1,108 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033503
+@MARC-003:	DE-633
+@MARC-005:	20210222145004.0
+@MARC-008:	121210##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: ''4D'{8.A6G}/{8.Ft6E8DA}/''{8.D6E}q8F{8.Et3DE}/{qq6EG}r4F8-
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =16/'4D,8.A6G/q8G{8.Ft6E}4D/8E6FG8FE/8.Ft6G4A/
+@MARC-031r: d
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Salve regina
+@MARC-240m: B, vl (2), org
+@MARC-240r: d
+@MARC-2400: 3021988
+@MARC-245a: [title page, org and b (= bc):] Aria ex D 3 [natural?] | a | Basso Solo | Violino primo | Violino secondo | col | Organo ê Basso. | [at the left bottom:] Authore Martino Giuseppe Żebro. | pro Choro cmc. 38
+@MARC-260c: 1748–1765
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 34,5 x 21 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na karcie tytułowej dawne sygnatury: "172" sporządzona przez M. Zabłockiego czarnym tuszem, przekreślona czerwonym tuszem; "N 1008/309." zapisana przez F. Maletza czerwonym tuszem; "277" w kółku zapisana ołówkiem, sporządzona przez ks. W. Świerczka]
+@MARC-500a: [pl-text: Na karcie tytułowej na środku granatowa, okrągła pieczęć "* ARCHIVUM * C.M.C."]
+@MARC-500a: [pl-text: Paginacja w prawym górnym rogu, ołówkiem na każdym folio]
+@MARC-500a: [pl-text: Uszkodzenia folio (przerwania) widoczne na org and b (= bc)]
+@MARC-590a: Solo: B
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org and b (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Possible autograph manuscript
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b (= bc)
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: B, vl (2), b (= bc), org (= bc)
+@MARC-599b: full
+@MARC-650a: Antiphons
+@MARC-6500: 25235
+@MARC-691a: WDMP 68
+@MARC-6910: lit30000095
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1594
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 31
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 24
+@MARC-6910: lit1887
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-852a: PL-CZ
+@MARC-852d: 172
+@MARC-852d: N 1008/309.
+@MARC-852d: 277
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-746
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

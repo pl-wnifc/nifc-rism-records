@@ -1,0 +1,89 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990039269
+@MARC-003:	DE-633
+@MARC-005:	20181216091215.0
+@MARC-008:	161111##################################
+@MARC-035a: M 526; MM 526
+@MARC-040a: DE-633
+@MARC-100a: Marenzio, Luca
+@MARC-100d: 1553c-1599
+@MARC-1000: pe30003955
+@MARC-240a: Madrigals
+@MARC-240m: S, A, T, B, V 5
+@MARC-2400: 3911206
+@MARC-245a: ... novamente ristampati [Venezia, Gerolamo Scotto, erede]
+@MARC-260c: 1588
+@MARC-2608: 01
+@MARC-510a: RISM A/I
+@MARC-510c: M 526; MM 526
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-710a: Scotto, Gerolamo, erede
+@MARC-7100: ks40009964
+@MARC-7104: pbl
+@MARC-775w: 990039268
+@MARC-852a: B-Br
+@MARC-852e: Bibliothèque royale de Belgique (KBR)
+@MARC-852x: ks30000440
+@MARC-8523: 151046
+@MARC-852c: [no indication]
+@MARC-852q: B
+@MARC-852a: D-As
+@MARC-852e: Staats- und Stadtbibliothek
+@MARC-852x: ks30000634
+@MARC-8523: 151047
+@MARC-852c: [no indication]
+@MARC-852q: kpl.: S, A, T, B, 5
+@MARC-852a: E-Zac
+@MARC-852e: Archivo de Música de las Catedrales de Zaragoza. Archivos Catedralicios (El Pilar y La Seo)
+@MARC-852x: ks30001405
+@MARC-8523: 151048
+@MARC-852c: [no indication]
+@MARC-852q: A [2 Ex.], T
+@MARC-852a: F-Pn
+@MARC-852e: Bibliothèque nationale de France, Département de la Musique
+@MARC-852x: ks30001488
+@MARC-8523: 151049
+@MARC-852c: RES VMB- 58
+@MARC-852q: 5 parts: S, A, T, B, 5
+@MARC-852u: http://gallica.bnf.fr/ark:/12148/bpt6k4500200p
+@MARC-852a: GB-Lbl
+@MARC-852e: The British Library
+@MARC-852x: ks30001581
+@MARC-8523: 151050
+@MARC-852c: [no indication]
+@MARC-852q: S
+@MARC-852a: GB-Lcm
+@MARC-852e: Royal College of Music
+@MARC-852x: ks30001582
+@MARC-8523: 151051
+@MARC-852c: [no indication]
+@MARC-852a: GB-Ob
+@MARC-852e: Bodleian Library
+@MARC-852x: ks30001627
+@MARC-8523: 151052
+@MARC-852c: [no indication]
+@MARC-852q: unvollständig
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-8523: 151053
+@MARC-852c: Ee 1638 8º adl. 5
+@MARC-852q: kpl: S, A, T, B, V5
+@MARC-852a: PL-Kj
+@MARC-852e: Biblioteka Jagiellońska
+@MARC-852x: ks30002079
+@MARC-8523: 151054
+@MARC-852c: Mus.ant.pract. M 185
+@MARC-852q: S
+@MARC-852z: CANTO | DI LVCA MARENZIO | IL PRIMO LIBRO | DE' Madrigali Spirituali à Cinque Voci. | Nouamente Ristampati. | IN VENETIA, Appresso l' Herede di Girolamo Scotto. | MDLXXXVIII. At the end of the volume: handwritten Cantus of "O Domine Jesu Christe...".
+@MARC-856u: http://gallica.bnf.fr/ark:/12148/bpt6k4500200p
+@MARC-856x: Digitized
+@MARC-856z: [digitized version]
+@MARC-8563: 151049
+@MARC-973u: 1001202747
+@MARC-9733: 151053
+@@END:		MARC21
+

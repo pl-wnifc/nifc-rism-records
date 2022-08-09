@@ -1,0 +1,95 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001155824
+@MARC-003:	DE-633
+@MARC-005:	20220204000056.0
+@MARC-008:	210512##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: All[egr]o
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 2.''C4C/CEDC/2.D4D/DFED/'2.G4G/G-2-/4-GFD/2E-/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: '2.E4E/E-2-/2.G4G/G-2-/2.E4E/EGFE/2D-/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031d: All[egr]o
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: ,2.G4G/GGFE/2.B4B/B'DC,B/2.'C4C/CEDC/,2B-/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031d: all[egr]o
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 4,C'C,GE/C-2-/,,4G,GD,,B/G-2-/,4CDED/C-2-/4-,,GAB/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (4)
+@MARC-240r: C
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] O: A: M: D: Glo: | MISSA [at right:] in C. | pastoralis | [center:] a' 4. Voci. | Canto | Alto | Tenore | Bassò | e | E ripieno Bassò | S: C: R: D: [embellishment] M: Ż:
+@MARC-260c: [1650-1749]
+@MARC-2608: 01
+@MARC-300a: 5 parts: 10 f.
+@MARC-300c: 23.5 x 18.5 (18) cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Przednia i tylna okładka.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart. Tylna okładka oznaczona jako "12."]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na drugiej stronie okładki pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” z wpisaną ołówkiem sygnaturą: "Kk.I | 81".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 10v u góry pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-590a: S, A, T, B (2x)
+@MARC-590b: f. 1-2, 3-4, 5-6, 7-8, 9-10
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-730a: Missa pastoralis
+@MARC-730g: RISM
+@MARC-7300: 3902003
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.81
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

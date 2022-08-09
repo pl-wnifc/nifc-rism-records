@@ -1,0 +1,118 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001270
+@MARC-003:	DE-633
+@MARC-005:	20201112183530.0
+@MARC-008:	150611##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro maestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 4''D4.D{6DE}g8G{8F6ED}/4A4.A{8FA'''D}/g8D4C''A-
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: =29/2-4-8'AA/2.''D4F/2A{8GFED}/{CE}4D-
+@MARC-031r: D
+@MARC-031t: In te Domine speravi
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Ascertained
+@MARC-1000: pe30024097
+@MARC-240a: In te Domine speravi
+@MARC-240m: S, orch
+@MARC-240r: D
+@MARC-2400: 3008896
+@MARC-245a: [cover title:] Aria. | per | Stefani.
+@MARC-246a: [caption title on S, vl 2, vla, b, fl 2, cl 1, cor 1, 2:] Aria
+@MARC-246a: [caption title on vl 1, fl 1:] Arya
+@MARC-260c: 1844-1845
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-300c: Different sizes
+@MARC-3008: 01
+@MARC-500a: cl 2 missing
+@MARC-5008: 01
+@MARC-500a: [pl-text: głosy przechowywane w papierowej okładce o wymiarach 40 x 23,5 cm, ze znakiem wodnym "W (crowned)"; karta tytułowa na f. 1r okładki]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosów S, vl 1, 2, vla, b: 39 x 22,5 cm, znak wodny: "W (crowned)"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosów fl, cl 1: 33,5 x 20 cm, znak wodny: "[Maltese cross]"
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosów cor 1, 2: 33,5 x 20 cm, znak wodny: "[cursive:] D G | Biala"
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze pośrodku ołówkiem ręką nieznanego Paulina N-|o 182 skreślona; późniejsza poniżej czerwonym atramentem ręką F. Maletza "N 747/48."; w prawym górnym rogu ołówkiem nieznaną ręką sygnatura "223"]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki oraz 1v każdego głosu]
+@MARC-500a: [pl-text: Na f. 1r okładki na dole z lewej ołówkiem wpisana data "1845"; niżej z prawej liczba "1/45"]
+@MARC-500a: [pl-text: Na f. 2r okładki próba pisma: szkic tytułu]
+@MARC-500a: [pl-text: Strój instrumentu na głosach cor 1, 2 dopisany ołówkiem]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-9]
+@MARC-590a: S solo
+@MARC-590b: 1
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla, b
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: fl, cl 1
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in D
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-592a: W (crowned)
+@MARC-5928: 01
+@MARC-592a: [Maltese cross]
+@MARC-5928: 01
+@MARC-592a: [cursive:] D G | Biala
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: cor in D
+@MARC-594c: 2
+@MARC-594a: S solo, vl (2), vla, b, fl, cl (2), cor in D (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1380
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 18
+@MARC-6910: lit1887
+@MARC-852a: PL-CZ
+@MARC-852d: N=|o 182
+@MARC-852d: N 747/48.
+@MARC-852d: 223
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-655
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

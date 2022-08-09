@@ -1,0 +1,29 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe50044977
+@MARC-003:	DE-633
+@MARC-005:	20210927135638.0
+@MARC-008:	201106n|||||||a||| a
+@MARC-024a: 161768462
+@MARC-0242: VIAF
+@MARC-040a: DE-633
+@MARC-040b: ger
+@MARC-040c: DE-633
+@MARC-042a: individualized
+@MARC-100a: Unicki
+@MARC-100d: 18/19
+@MARC-100y: fl. 1800
+@MARC-375a: unknown
+@MARC-550a: Composer
+@MARC-670a: EitnerQ
+@MARC-670b: Unicki [18/19]
+@MARC-670w: 1272
+@MARC-670a: EM/b
+@MARC-670b: 0
+@MARC-670w: 1793
+@MARC-670a: SMP
+@MARC-670b: Unicki [(fl. 1800)]
+@MARC-670w: 1935
+@MARC-856u: https://gallica.bnf.fr/ark:/12148/bpt6k697516/f16
+@MARC-856y: EitnerQ
+@@END:		MARC21
+

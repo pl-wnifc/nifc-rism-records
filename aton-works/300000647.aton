@@ -1,0 +1,104 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000647
+@MARC-003:	DE-633
+@MARC-005:	20201029163350.0
+@MARC-008:	120210##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante ma non troppo
+@MARC-031g: G-2
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 2'G4-/8{,GB'DGBG}/{D,B'DGBG}/{,B'GCACF}/{,B'DGBGD/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: Coro S 1
+@MARC-031n: xF
+@MARC-031o: 3/4
+@MARC-031p: 4--''D/2D4D/2G4D/'B''C'A/B-G/2E4G/2''C4C/
+@MARC-031r: G
+@MARC-031t: Samemu Bogu złóżmy cześć
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Krogulski, Józef Władysław
+@MARC-100d: 1815-1842
+@MARC-100j: Ascertained
+@MARC-1000: pe30001797
+@MARC-240a: Samemu Bogu złóżmy cześć
+@MARC-240m: Coro, org
+@MARC-240r: G
+@MARC-2400: 4295379
+@MARC-245a: [title page on org f. 1r:] Graduale | na 6 głosów | 2 Soprany | Alt | 2 Tenory | Bas | z akompaniamentem Organu | kompozycyi J. Krogulskiego | [bottom right:] Własność Karola Bocheńskiego.
+@MARC-246a: [caption title on org f. 1v:] Graduale. [space] p. J. Krogulskiego
+@MARC-260c: 1851-1900
+@MARC-2608: 01
+@MARC-300a: 7 parts
+@MARC-300c: 25,5 (21) x 17,5 (28) cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: do f. 2 głosu org doklejony pasek papieru o wymiarach 7,5 x 20,5 cm z ostatnim systemem utworu]
+@MARC-5008: 01
+@MARC-500a: [pl-text: wymiary głosu org: 25, 5 x 17,5 cm; wymiary głosów wokalnych 21 x 28 cm]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawna sygnatura na f. 1r głosu org (karta tytułowa): ołówkiem ręką W. Świerczka "809" w kółku]
+@MARC-500a: [pl-text: Podłużna pieczęć "Własność Bazyliki Jasnogórskiej:" na głosie org f. 1r (karta tytułowa), Coro B f. 1v oraz po stronie verso paska doklejonego do głosu org]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C. na głosie org f. 2v oraz f. 1v głosów Coro: S1, 2, A, T 1, 2]
+@MARC-500a: [pl-text: Karty rękopisu ponumerowane ołówkiem 1-8]
+@MARC-561a: [on stamp:] Własność Bazyliki Jasnogórskiej:
+@MARC-590a: Coro: S 1, 2, A, T 1, 2, B
+@MARC-590b: 1, 1, 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-592a: [without watermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 2
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S (2), Coro A, Coro T (2), Coro B, org
+@MARC-599b: full
+@MARC-650a: Graduals
+@MARC-6500: 25239
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 758
+@MARC-6910: lit1869
+@MARC-700a: Bocheński, Karol
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30099731
+@MARC-7004: fmo
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: 809
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-132
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,112 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000295
+@MARC-003:	DE-633
+@MARC-005:	20201029163335.0
+@MARC-008:	101005##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: '2D4FA/''D+{6DEFE}4D-/'2E4GB/''E+{6EFGF}4E-/2G8E-D-/C-
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: '6-{AnB''xC}/{8D'A}{FD}/gF4.E''8D/{8xCE}-'G/{FE}6-{AnB''xC}/{8D'A}{FD}/gD2B/
+@MARC-031r: d
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/8
+@MARC-031p: {8DFA}/''{6DCDEFG}/4A8-/4F8-/4G8-/4E8-/'{DFA}/
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Engel, Jan
+@MARC-100d: 1788+
+@MARC-100j: Ascertained
+@MARC-1000: pe30009138
+@MARC-240a: Symphonies
+@MARC-240m: strings, ob (2), cor (2)
+@MARC-240r: D
+@MARC-2400: 3900027
+@MARC-245a: [vl 2, r:] Sinfonia in D Dur | Vocibus 8. | Violini Due | Oboe Due | Corni Due | Alto Viola | et Basso | [by other hand:] Ignorabilis
+@MARC-260c: 1790-1800
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-300c: 35 x 21,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: pozostałe partie zaginęły]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej ręką M. Zabłockiego "51", skreślona ołówkiem; później poniżej ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o | 180"; późniejsza na prawo czerwonym atramentem ręką F. Maletza "N 35."]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Kompozytor zidentyfikowany na podstawie RISM ID no.: 300234169]
+@MARC-500a: [pl-text: W katalogu F. Maletza znajduje się Symfonia in D, nieznanego autora, ma sygnaturę: "1418/35."]
+@MARC-590a: vl 1, 2, vla, b
+@MARC-590b: 2, 2, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [Hollandia in palisade benive] A F / C H
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: vl (2), vla, b, ob (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.405
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 35
+@MARC-6910: lit1887
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 24
+@MARC-6910: lit1886
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: 51
+@MARC-852d: 180
+@MARC-852d: 35
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-325
+@@END:		MARC21
+

@@ -1,0 +1,93 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300257965
+@MARC-003:	DE-633
+@MARC-005:	20220622091456.0
+@MARC-008:	121031##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 9-1-1'D,A'D2C,A1BA2-'E2DEEC1D2C1D
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1'D2,A1'D2C,A2.B4A1A2G1A-9-2-A1B2'C
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c/
+@MARC-031p: 0-1-'D,A'D2C2,A1B2A1A2GA
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: 1-,D,,A,D2C,,A1BA
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Patrem omnipotentem
+@MARC-240m: V (4)
+@MARC-2400: 3008858
+@MARC-245a: [without title]
+@MARC-260c: [1552-1600]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks: 12 f.
+@MARC-3008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 62r-64v, 63r-65v, 62r-64r, 61r-63r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: Głuszcz-ZwolińskaW 1969
+@MARC-6910: lit2815
+@MARC-700a: Copyist B
+@MARC-700j: Ascertained
+@MARC-7000: pe30097108
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773a: - 61 Sacred songs
+@MARC-773w: 300257954
+@MARC-787n: Concordance: CZ-Pu 59 R 6023
+@MARC-787w: 1001040206
+@MARC-7874: rdau:P60191
+@MARC-852a: PL-Kk
+@MARC-852d: D 25
+@MARC-852d: D 26
+@MARC-852d: D 27
+@MARC-852d: Ch.192
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

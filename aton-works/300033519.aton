@@ -1,0 +1,75 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033519
+@MARC-003:	DE-633
+@MARC-005:	20220628125603.0
+@MARC-008:	110516##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: {8.'E^B^''E6B}{(6GEG})({FxDF})/{8.'E^B^''E'6B}{(6GEG})({FxDF})/{8.'E^B^''E6'''D}{(''6GEG})({FxDF})/
+@MARC-031r: e
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Sonatas
+@MARC-240m: orch, org
+@MARC-240r: e
+@MARC-2400: 3900185
+@MARC-245a: [without title]
+@MARC-260c: 1748–1765
+@MARC-2608: 01
+@MARC-300a: 4 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak partii głosów: vl 2, ob 1 oraz clno 2]
+@MARC-5008: 01
+@MARC-590a: vl 1
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: ob 2
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: cor 1
+@MARC-590b: f. 1r
+@MARC-5908: 01
+@MARC-590a: org (=bc)
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor 2
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: vl (2), ob (2), cor 2 (2), org
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1603
+@MARC-6910: lit1869
+@MARC-730a: Sonata pro processione
+@MARC-730g: RISM
+@MARC-7300: 3919784
+@MARC-773a: Żebrowski, Marcin Józef - 2 Sonatas - orch, org
+@MARC-773w: 300033518
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: I-167
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

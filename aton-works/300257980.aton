@@ -1,0 +1,90 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300257980
+@MARC-003:	DE-633
+@MARC-005:	20220228140647.0
+@MARC-008:	121101##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031p: 2.'D4CDE1F4EDCDECDE2F1E2-
+@MARC-031t: Diffusa est gratia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: A
+@MARC-031o: c
+@MARC-031p: 1-2-2.,A4GAB1'C2,A'D,B2.'C4D2E,1A2-
+@MARC-031t: Diffusa est gratia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c
+@MARC-031p: ,1DFFGAGAFGFF
+@MARC-031t: Diffusa est gratia
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c
+@MARC-031p: 1-2.,D4CDE1F2E1DE,,A2-
+@MARC-031t: Diffusa est gratia
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Diffusa est gratia
+@MARC-240m: V (4)
+@MARC-2400: 3903255
+@MARC-245a: [caption title:] Off[ertoriu]m
+@MARC-260c: [1552-1600]
+@MARC-2608: 01
+@MARC-300a: 4 partbooks: 8 f.
+@MARC-3008: 01
+@MARC-590a: S, A, T, B
+@MARC-590b: f. 113r-114r, 108r-109r, 100v-101r, 103r-104r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-691a: Głuszcz-ZwolińskaW 1969
+@MARC-6910: lit2815
+@MARC-700a: Copyist A
+@MARC-700j: Ascertained
+@MARC-7000: pe30097067
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773a: - 61 Sacred songs
+@MARC-773w: 300257954
+@MARC-852a: PL-Kk
+@MARC-852d: D 25
+@MARC-852d: D 26
+@MARC-852d: D 27
+@MARC-852d: Ch.192
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

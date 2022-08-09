@@ -1,0 +1,82 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	1001156614
+@MARC-003:	DE-633
+@MARC-005:	20220205132746.0
+@MARC-008:	210519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: 3/1
+@MARC-031p: 1.G2G1G1.G2GGG9G1xFG1.G2G9F2EE9E1C1.C,2B
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031o: 3/1
+@MARC-031p: 1.'E2EEE1DD+D1.E2D1D9D2EE
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031o: 3/1
+@MARC-031p: '1.C2CCC/,1BBB/'1.C,2B1A/G2
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: 3/1
+@MARC-031p: ,1.C2C1C1.G2GGG1.C,,2G,1DG2GG1C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (4)
+@MARC-2400: 3900051
+@MARC-245a: [without title]
+@MARC-260c: [1650-1749]
+@MARC-2608: 01
+@MARC-300a: 5 parts: 12 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Na górne części kart 1r, 4r, 7r, 10r naklejone fragmenty innych kart z zapisaną na nich częścią "Kyrie".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Partia "Basso" na kartach 13-14 ręką innego kopisty. Atrament w tym miejscu lepiej zachowany i widoczny wyraźniej niż na pozostałych kartach.]
+@MARC-590a: A, T 1, T 2, B (2x)
+@MARC-590b: f. 1r-3r, 4r-5v, 7r-9r, 10r-11v, 13-14
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-773a: - 3 Sacred songs - V (4)
+@MARC-773w: 1001156612
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.34
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

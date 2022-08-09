@@ -1,0 +1,47 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990071908
+@MARC-003:	DE-633
+@MARC-005:	20190615150255.0
+@MARC-008:	161111##################################
+@MARC-035a: AN 1890
+@MARC-040a: DE-633
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Funeral music
+@MARC-240m: V (3)
+@MARC-2400: 3931251
+@MARC-245a: Napis nad grobem zacnej królowej Barbary Radziwiłowny niegdy bedącej krolowy polskiey (Co chcesz minać postoj mało [S, T, B]) [Krakau, Matthäus Siebeneicher]
+@MARC-260c: 1558
+@MARC-2608: 01
+@MARC-300a: part(s)
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: AN 1890
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, T, B
+@MARC-599b: full
+@MARC-650a: Funeral music
+@MARC-6500: 25159
+@MARC-710a: Siebeneicher, Matthäus
+@MARC-7100: ks40010069
+@MARC-7104: pbl
+@MARC-852a: PL-KÓ
+@MARC-852e: Biblioteka Kórnicka Polskiej Akademii Nauk
+@MARC-852x: ks30002084
+@MARC-8523: 273797
+@MARC-852c: [no indication]
+@MARC-852a: PL-Wn
+@MARC-852e: Biblioteka Narodowa
+@MARC-852x: ks30000118
+@MARC-8523: 273798
+@MARC-852c: [no indication]
+@@END:		MARC21
+

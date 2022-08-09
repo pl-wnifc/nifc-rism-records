@@ -1,0 +1,154 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001406
+@MARC-003:	DE-633
+@MARC-005:	20201029163410.0
+@MARC-008:	151124##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: 2'F-/G-/4.A8''C4EE/2E4D'B/-''C-'A/{8B''D'B''D}4'B-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: c/
+@MARC-031p: =63/4''F2F{8GF}/4D2D{8ED}/4'BB{8''C'B''CD}/2'B-/
+@MARC-031r: B|b
+@MARC-031t: Salve regina, mater misericordiae vita dulcedo
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Ascertained
+@MARC-1000: pe30020656
+@MARC-240a: Salve regina
+@MARC-240m: V (2), orch
+@MARC-240r: B|b
+@MARC-2400: 3021988
+@MARC-245a: [cover title:] DUETTO ex B. | Canto et Alto. | Violino I=|m|o et II=|d|o | Oboe I=|m|o et II=|d|o | Clarinetto I=|m|o et II=|d|o | Cornu I=|m|o et II=|d|o | Fagotto I=|m|o et II=|d|o | Viola, Flauto | Basso | Auth: Aug: Volckmer | [aligned to right:] pro Ch: Cl: M Cz | Anno 1834
+@MARC-246a: [title page on vla f. 1r:] Alto Viola | Duetto in B. [with later hand: de B. V. M.] | Canto,, Alto. | Due Violini. | Viola obl: | Flauto. | Due Oboi. | Due Clarinetti. | Due Corni. in B. | Due Fagotti. | con | Basso. | [aligned to left:] Autho: Aug: Volckmer [aligned to right:] Pro C M Cz
+@MARC-260c: 1795-1834
+@MARC-2608: 01
+@MARC-300a: 15 parts
+@MARC-300c: 34 x 22 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: brzegi stron w manuskrypcie zreperowane fragmentami innych rękopisów]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na f. 2 okładki znak wodny "tree"]
+@MARC-5008: 01
+@MARC-500a: [pl-text: znak wodny na S: eagle with sceptre and sword]
+@MARC-5008: 01
+@MARC-500a: [pl-text: przednia okładka, vla, ob 2 bez znaku wodnego]
+@MARC-5008: 01
+@MARC-500a: [pl-text: na pozostałych głosach znak wodny papierni w Częstochowie]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na partii vla f. 1r: góra po prawej czarnym atramentem ręką M. Zabłockiego "N=|o 42" przekreślona; późniejsza z lewej czarnym atramentem nieznaną ręką "Nro 11"]
+@MARC-500a: [pl-text: Dawna sygnatura na okładce f. 1r: u góry na środku ołówkiem ręką W. Świerczka "712" w kółku]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki oraz na głosie vla f. 1r pośrodku z prawej]
+@MARC-500a: [pl-text: Tytuł na przedniej okładce przekreślony niebieskim ołówkiem i opatrzony parafą]
+@MARC-500a: [pl-text: Partie vl 1, 2 mają dodatkowe oznaczenie głosu na f. 1r; tekst muzyczny rozpoczyna się od f. 1v]
+@MARC-500a: [pl-text: Oznaczenie stroju klarnetu dopisane ołówkiem na cl 1]
+@MARC-500a: [pl-text: W manuskrypcie pojawiają się późniejsze sporadyczne oznaczenia wykonawcze]
+@MARC-500a: Soloabschnitte in ob 1, 2, cl 1, 2 und cor 1
+@MARC-500a: Format der S-Stimme: 22 x 36,5 cm
+@MARC-500a: Weiterer Titel auf der vla-Stimme von Maaders Hand.
+@MARC-500a: [pl-text: Głos S zapisany poziomo]
+@MARC-500a: [pl-text: Oryginalna karta tytułowa: vla f. 1r]
+@MARC-500a: [pl-text: Manuskrypt posiada numery folio 1-18 ołówkiem]
+@MARC-561a: [front cover bottom right:] pro Ch: Cl: M Cz | Anno 1834
+@MARC-561a: [vla f. 1r bottom right:] pro C M Cz
+@MARC-563a: [pl-text: każdy głos na osobnym arkuszu, wszystkie trzymane w białej papierowej okładce z paskami ozdobnego papieru w niebieski kwiatowy wzór wzdłuż brzegów przedniej okładki oraz grzbietu; środek biały, usztywniony wzdłuż grzbietu fragmentami innych rękopisów (w tym muzycznych)]
+@MARC-5638: 01
+@MARC-590a: S, A
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla, b
+@MARC-590b: 2, 2, 2, 1 f.
+@MARC-5908: 01
+@MARC-590a: fl, ob 1, 2, cl 1, 2 in B|b, fag 1, 2
+@MARC-590b: 1, 1, 1, 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in B|b
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-592a: [tree]
+@MARC-5928: 01
+@MARC-592a: [eagle with sceptre and sword]
+@MARC-5928: 01
+@MARC-592a: CZENSTOHAU | 1795 | CFI / [crowned eagle with sceptre and sword]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor in B|b
+@MARC-594c: 2
+@MARC-594a: S, A, vl (2), vla, b, fl, ob (2), cl in B|b (2), fag (2), cor in B|b (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1523
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 27
+@MARC-6910: lit1886
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Maader, Ludwik
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30020328
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N=|o 42
+@MARC-852d: Nro 11
+@MARC-852d: 712
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-690
+@@END:		MARC21
+

@@ -1,0 +1,102 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258067
+@MARC-003:	DE-633
+@MARC-005:	20210923120901.0
+@MARC-008:	130723##################################
+@MARC-031a: 51
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+3
+@MARC-031m: Discantus (= A)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2'F4FF2.E4E2DG4CC1F4EE2FG
+@MARC-031r: 6t
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 51
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+4
+@MARC-031m: Altus (= T)
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-2C4CC2.,B4B2AnB'C,G8{B'CDbE}{CD,B'C}4,AA
+@MARC-031r: 6t
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 51
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2,F4FF2GABGFF2.G4G2D4EE1FF
+@MARC-031r: 6t
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 51
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/2,C4CC/2DE/FD1C/4,,BBAG/F8,{FE}2D8,,AA/2BF
+@MARC-031r: 6t
+@MARC-031t: Patrem omnipotentem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Pękiel, Bartłomiej
+@MARC-100d: 1670c+
+@MARC-100j: Ascertained
+@MARC-1000: pe30105642
+@MARC-240a: Patrem na Rotuły Wikaryjskie
+@MARC-240m: V (4)
+@MARC-240r: 6t
+@MARC-2400: 50245772
+@MARC-245a: [A:] Patrem na Rotuły Stare Wikariów Kathedralnych | Je-o Mci P. B. Pekela Kapellae Magistra JKM. y Zamku Krak. | 1661 uczynione. | Tenor 1mus
+@MARC-300a: 4 partbooks
+@MARC-300c: 21 cm x 27,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: W księdze Discantus, T i B alternatywne wersje tytułu, odpowiednio "Patrem na Rotuły Wikaryjskie | Kathedralne.", "Patrem na Rotuły Wikaryiow kathedralnych krak." i "Patrem na Rotuły Wikaryiskie".]
+@MARC-500a: [pl-text: Na pierwszej stronie wszystkich partii rysunek krzyża i inicjały B.P.C.M.]
+@MARC-500a: [pl-text: Na pierwszej stronie partii T na lewym marginesie inskrypcja "Choralny"; w tym samym miejscu w księdze B inskrypcja "iak napowoley".]
+@MARC-500a: [pl-text: W lewym górnym rogu pierwszej strony partii T inskrypcja "A.D 1661".]
+@MARC-500a: [pl-text: Na końcu partii A inskrypcja "Oretur Deus pro eo | qui fecit et scribens | si placet n' negligatur. MMP.R. | mpp".
+@MARC-500a: The copyist marked by the letter M was identified as Maciej Arnulf Miskiewicz (he directed the Rorantists' Chapel in the years 1660-1682).
+@MARC-590a: Discantus, A, T, B
+@MARC-590b: f.81v-83r, 86v-88r, 80v-81v, 82v-84r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: Głuszcz-ZwolińskaW 1972
+@MARC-6910: lit2816
+@MARC-700a: Copyist M
+@MARC-700j: Ascertained
+@MARC-7000: pe30097949
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773a: - 55 Sacred songs - V (4)
+@MARC-773w: 300258016
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

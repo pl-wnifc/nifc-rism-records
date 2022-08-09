@@ -1,0 +1,95 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001156562
+@MARC-003:	DE-633
+@MARC-005:	20220204221931.0
+@MARC-008:	210519##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1'D/2D1D2F/EDC1F2E+/E1C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: ,1AbB2BA/'C,G'C,A/B
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T 2
+@MARC-031o: c/
+@MARC-031p: ,1D/9F1GA/GE/FED/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031o: c/
+@MARC-031p: ,1D,,bB/2B,D/C,,bB/A,F/G,,G/1,C,,2F
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (4)
+@MARC-2400: 3900051
+@MARC-245a: [caption title in B:] Missa Sabbativa
+@MARC-246a: [caption title in A, T 1, T 2:] Sabbativa
+@MARC-260c: [1700-1799]
+@MARC-2608: 01
+@MARC-300a: 4 parts: 8 f.
+@MARC-300c: 20 x 16.5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie 1r u góry z prawej strony ołówkiem sygnatura: "Kk.I.32".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach 1r, 2r, 3r, 4v, 5r, 6v, 7r, 8v pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Nazwa głosu na karcie 3r: "Tenore 1mo.", na karcie 5r: "Tenore in Chorali."]
+@MARC-500a: [pl-text: W partii B nad początkiem części "Sanctus" na karcie 8r u góry: "Contra Basso". Części "Sanctus" i "Agnus Dei" zapisane w kluczu F-3.]
+@MARC-500a: [pl-text: Na końcu każdej partii: "O. ad M. D. Gm."]
+@MARC-505a: [pl-text: Opracowanie części cyklu mszalnego: "Kyrie", "Gloria", "Sanctus", "Agnus Dei".]
+@MARC-590a: A, T 1, T 2, B
+@MARC-590b: f. 1-2, 3-4, 5-6, 7-8
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: A, T (2), B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.32
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

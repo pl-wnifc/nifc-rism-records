@@ -1,0 +1,173 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300033502
+@MARC-003:	DE-633
+@MARC-005:	20210222144710.0
+@MARC-008:	130308##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Intonatio
+@MARC-031d: Allegro poco
+@MARC-031g: C-4
+@MARC-031m: Coro T
+@MARC-031p: ,9CDDA'C,(A)//
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Benedixisti Domine terram tuam
+@MARC-031d: Allegro poco
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: ''8F'{3AGFE}''8F'{3FEDC}/''8F'{3AGFE}''8F'{3FEDC}
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Benedixisti Domine terram tuam
+@MARC-031d: Allegro poco
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: 2/4
+@MARC-031p: ''4F8FF/4FF/8.F6F4G/FG/
+@MARC-031r: D
+@MARC-031t: Benedixisti Domine, terram tuam
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Rorate coeli
+@MARC-031d: Allabreve. Allegro assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 1''D+/2DC/4'BE2''E+/4E'A2''D+/4D{8C'B}2''C/2.D{8C'B}/4''C'A''C'A/B'E2''E/+2E
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031d: Rorate coeli
+@MARC-031d: Allabreve. Allegro assai
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 1''D/2DC/4'BG2''E+/4E'A2''D/4D{8C'B}2''C/
+@MARC-031r: D
+@MARC-031t: Rorate caeli, desuper et nubes pluant
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Rorate caeli
+@MARC-240m: Coro, orch, org
+@MARC-240r: D
+@MARC-2400: 3905164
+@MARC-245a: [cover title, org (= bc):] Rorate Coeli. | â | 4. Vocib: &amp; Inst: 9. | Canto Alto. | Tenore Basso. | Violino Primo. | Violino Secondo. | Oboe Primo. Oboe Secondo | Clarino Primo | Clarino Secondo. | Tympa: | Basso pro Organo. [between Tympa and Basso pro Organo at the left side:] C.M.C. | &amp; | Basso Ripieno. | Del: Sigl: Martino | Żebrowski | A 1752 M: 21 8br:
+@MARC-260c: 1752
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 35,5 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak w manuskrypcie: b rip i timp]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na karcie tytułowej dawne sygnatury: "N|r|o 4." sporządzona przez kopistę czarnym tuszem przekreślona ołówkiem; "N. 5." sporządzona przez M. Zabłockiego czarnym tuszem; "N-11" ręką nieznanego Paulina, ołówkiem; "N840/141." zapisana przez F. Maletza czerwonym tuszem; "274" w kółku zapisana ołówkiem, sporządzona przez ks. W. Świerczka]
+@MARC-500a: [pl-text: Na karcie tytułowej na środku po prawej granatowa, okrągła pieczęć "* ARCHIVUM * C.M.C."]
+@MARC-500a: [pl-text: Paginacja w prawym górnym rogu, ołówkiem na każdym folio]
+@MARC-500a: [pl-text: Grzbiet manuskryptu został sklejony (fragmenty nieznanej kompozycji)]
+@MARC-500a: [pl-text: Uszkodzenia widoczne na: org (= bc) i ob 2]
+@MARC-500a: [pl-text: Paweł Podejko wspomina o kopiście: Kottritsch, Franciszek - brak informacji o nim w manuskrypcie]
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: clno 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), b, ob (2), clno (2), timp, org (= bc)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1593
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: deest
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 20
+@MARC-6910: lit1887
+@MARC-700a: Kottritsch, Franciszek
+@MARC-700d: 1727c-1787
+@MARC-700j: Ascertained
+@MARC-7000: pe30040598
+@MARC-7004: scr
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-852a: PL-CZ
+@MARC-852d: N|r|o 4.
+@MARC-852d: N. 5.
+@MARC-852d: N-11
+@MARC-852d: N840/141.
+@MARC-852d: 274
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-749
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe76967
+@MARC-003:	DE-633
+@MARC-005:	20220115200018.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 17408816
+@MARC-0242: VIAF
+@MARC-024a: 118750909
+@MARC-0242: DNB
+@MARC-024a: CFIV005387
+@MARC-0242: ICCU
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-IT
+@MARC-100a: Salieri, Antonio
+@MARC-100d: 1750-1825
+@MARC-100y: 18.08.1750-07.05.1825
+@MARC-375a: male
+@MARC-400a: Salieri, ...
+@MARC-400j: xx
+@MARC-400a: Salieri, Anton
+@MARC-400j: xx
+@MARC-400a: Saliori, Antonio
+@MARC-400j: xx
+@MARC-500a: Salieri, Francesco
+@MARC-500i: brother of
+@MARC-5000: 30002790
+@MARC-550a: Arranger
+@MARC-550a: Composer
+@MARC-550a: Dedicatee
+@MARC-551a: Legnago
+@MARC-551i: go
+@MARC-5510: 3016777
+@MARC-551a: Wien
+@MARC-551i: so
+@MARC-5510: 3900059
+@MARC-551a: Wien
+@MARC-551i: wo
+@MARC-5510: 3900059
+@MARC-670a: EitnerQ
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 1272
+@MARC-670a: Grove|5
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 407
+@MARC-670a: Grove|6
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 3072
+@MARC-670a: MGG suppl.
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 2495
+@MARC-670a: MGG
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Salieri, Antonio
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: Salieri, Antonio
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p suppl.
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 2496
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 408
+@MARC-670a: RiemannL|1|3
+@MARC-670b: Salieri, Antonio [1750-1825]
+@MARC-670w: 30026906
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0001895F00000000
+@MARC-856y: Schriftprobe 1769 [D-B Mus.ms.autogr. Salieri, A. 1 / f. 1r, 13r, 14r, 22v]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0001895A00000000
+@MARC-856y: Schriftprobe 1817 [D-B Mus.ms.autogr. Salieri, A. 7]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0001891F00000000
+@MARC-856y: Schriftprobe ca. 1785 [D-B Mus.ms.autogr. Paër, F. 1]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0001895C00000000
+@MARC-856y: Schriftprobe, Konzeptschrift [D-B Mus.ms.autogr. Salieri, A. 11]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0001895900000000
+@MARC-856y: Schriftprobe 1813 [D-B Mus.ms.autogr. Salieri, A. 15]
+@@END:		MARC21
+

@@ -1,0 +1,115 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001070179
+@MARC-003:	DE-633
+@MARC-005:	20210711233630.0
+@MARC-008:	190504##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4.'G8G4GB/{8B6AG}4A8{A6GF}8GF/4FF2-/-4.B8B/4B''E8CCDD/
+@MARC-031r: E|b
+@MARC-031t: Requiem, aeternam dona eis Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4'B''CD'B/2''EE+/ED/1E/2DD/4C'nAB''C/
+@MARC-031r: E|b
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Allegro
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8BAGBA{6GA}8FF/=1/8GBnA{6B''C}8D{6C'B}8BB/=1/8'B''DED2-/
+@MARC-031r: E|b
+@MARC-031t: Dies irae, dies illa solvet saeclum in favilla
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Domine
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =24/8''E6EE8E6DD4EE/8E6EE8E6DD4E8E'B/4''C8'B''EDD'BB/
+@MARC-031r: E|b
+@MARC-031t: Libera eas de ore leonis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4-'BA/GAB/BB-/=1/-BB/4.B8''C4'nA/B--/
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''EDEE/2-8-CC6DE/8FF{FE}DE4C/8D{'B''CD}{EC}{D6ED}/
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei, qui tollis peccata mundi dona eis requiem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Requiem
+@MARC-240r: E|b
+@MARC-2400: 3022363
+@MARC-245a: [without title]
+@MARC-260c: 1700-1749
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-300c: 34 x 20,5 cm
+@MARC-3008: 01
+@MARC-500a: other parts missing
+@MARC-5008: 01
+@MARC-500a: A part written by another copyist
+@MARC-5008: 01
+@MARC-500a: Inscription "T N W G P O S W P" at the end of A.
+@MARC-590a: S, A, B
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: no indication
+@MARC-594a: no indication
+@MARC-599b: full
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 263
+@MARC-6910: lit1891
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 197/A VI 1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,86 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	305000452
+@MARC-003:	DE-633
+@MARC-005:	20220316101112.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031o: 3/2
+@MARC-031p: '2FGA/2.A4A2A/b2.B4B2A/1A2G/2A
+@MARC-031t: Dixit Dominus, Domino meo sede a dextris meis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G+2
+@MARC-031m: vl 1
+@MARC-031o: 3/2
+@MARC-031p: =10/2-'4AGAB/''C'B''CDED/2.C4EFG/
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Różycki, Jacek
+@MARC-100d: 1625p-1704c
+@MARC-1000: pe30020620
+@MARC-240a: Dixit Dominus
+@MARC-240m: V (4), Coro, orch, org
+@MARC-2400: 3008320
+@MARC-245a: [cover title, vol.3:] Num. 6. | Dixit Dominus Dno meo. | a 9. vel 13. 4. Voc. 5. Instrm: | extract: Cornetti. cum 4. Ripien. | del: Sign: Hyacinth. Rositzky. | cum | Basso Continuo pro Organo | Reparat. per modern. Cantor | Gottfr. Nauwerck Anno | 1688 mens: | Sept.
+@MARC-260c: 1668 (1668)
+@MARC-2608: 01
+@MARC-300a: 18 parts
+@MARC-3008: 01
+@MARC-500a: cornettino 1, 2-parts: "ad placitum"
+@MARC-590a: S, A, T, B, Ripieno: S, S or cnto, A, T, B and fag, vl 1, 2, violetta 1, 2, org (= bc), cornettino 1, 2, directorium (2x)
+@MARC-590b: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: violetta 1, 2
+@MARC-594c: 1
+@MARC-594b: cornettino 1, 2
+@MARC-594c: 1
+@MARC-594b: cnto
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594b: bc: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl 1, vl 2, fag, violetta 1, 2, cornettino 1, 2, cnto, org, bc: org
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-773a: - 11 Sacred songs - V (X), orch, org
+@MARC-773w: 305000447
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-852c: Ms Joh.406
+@@END:		MARC21
+

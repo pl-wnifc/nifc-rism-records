@@ -1,0 +1,100 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990060529
+@MARC-003:	DE-633
+@MARC-005:	20210523095500.0
+@MARC-008:	161111##################################
+@MARC-035a: S 4201; SS 4201
+@MARC-040a: DE-633
+@MARC-100a: Stabile, Annibale
+@MARC-100d: 1545c-1595
+@MARC-1000: pe30009662
+@MARC-240a: Sacrarum modulationum, liber 2
+@MARC-240m: V (5)
+@MARC-240m: V (6)
+@MARC-240m: V (8)
+@MARC-2400: 5040252
+@MARC-245a: CANTVS | ANNIBALIS STABILI | IN ALMA VRBE COLLEGII | GERMANICI MUSICAE | MAGISTRI | SACRARVM MODVLATIONVM | Quae Quinis, Senis, &amp; Octonis voci- | bus concinuntur. | LIBER SECVNDVS. | Venetijs Apud Angelum Gardanum | M. D. LXXXV.
+@MARC-260a: Venetijs
+@MARC-260b: Angelo Gardano
+@MARC-260c: 1585
+@MARC-2608: 01
+@MARC-300a: parts
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: S 4201; SS 4201
+@MARC-588a: PL-Kj Mus.ant.pract. S 1280
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-710a: Gardano, Angelo
+@MARC-7100: ks40003845
+@MARC-7104: pbl
+@MARC-852a: D-Rp
+@MARC-852e: Bischöfliche Zentralbibliothek, Proskesche Musikabteilung
+@MARC-852x: ks30000970
+@MARC-8523: 237772
+@MARC-852c: [no indication]
+@MARC-852q: S, B, 5, 6
+@MARC-852a: GB-Lbl
+@MARC-852e: The British Library
+@MARC-852x: ks30001581
+@MARC-8523: 237773
+@MARC-852c: [no indication]
+@MARC-852q: S, 6
+@MARC-852a: I-Nf
+@MARC-852e: Biblioteca statale Oratoriana dei Girolamini di Napoli
+@MARC-852x: ks30001844
+@MARC-8523: 237774
+@MARC-852c: [no indication]
+@MARC-852q: kpl.: S, A, T, B, 5, 6
+@MARC-852a: I-Rc
+@MARC-852e: Biblioteca Casanatense
+@MARC-852x: ks30000230
+@MARC-8523: 237775
+@MARC-852c: [no indication]
+@MARC-852q: 5, 6
+@MARC-852a: I-Rsc
+@MARC-852e: Biblioteca del Conservatorio di Musica Santa Cecilia
+@MARC-852x: ks30001912
+@MARC-8523: 237776
+@MARC-852c: [no indication]
+@MARC-852q: B
+@MARC-852a: P-La
+@MARC-852e: Biblioteca do Palácio Nacional da Ajuda
+@MARC-852x: ks30002057
+@MARC-8523: 237778
+@MARC-852c: [no indication]
+@MARC-852q: S, A, T, B, 5
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-8523: 237779
+@MARC-852c: Ee 2628 8º adl. 7
+@MARC-852q: S, A, T, B, 5, 6
+@MARC-852a: PL-Kj
+@MARC-852e: Biblioteka Jagiellońska
+@MARC-852x: ks30002079
+@MARC-8523: 237781
+@MARC-852c: Mus.ant.pract. S 1280
+@MARC-852q: 5 parts: S, A, T, B, V 5
+@MARC-852a: S-Sk
+@MARC-852e: Kungliga biblioteket
+@MARC-852x: ks30002152
+@MARC-8523: 237780
+@MARC-852c: [no indication]
+@MARC-852q: A
+@MARC-852a: V-CVbav
+@MARC-852e: Biblioteca Apostolica Vaticana
+@MARC-852x: ks30077306
+@MARC-8523: 237777
+@MARC-852c: [no indication]
+@MARC-852q: fehlt 1 St.
+@MARC-973u: 1001203361
+@MARC-9733: 237779
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

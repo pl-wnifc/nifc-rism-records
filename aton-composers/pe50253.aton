@@ -1,0 +1,115 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe50253
+@MARC-003:	DE-633
+@MARC-005:	20220609140246.0
+@MARC-008:	161109n|||||||a||| a
+@MARC-024a: 88663809
+@MARC-0242: VIAF
+@MARC-024a: CFIV005233
+@MARC-0242: ICCU
+@MARC-024a: 118520377
+@MARC-0242: DNB
+@MARC-024a: Q20721
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-IT
+@MARC-100a: Cherubini, Luigi
+@MARC-100d: 1760-1842
+@MARC-100y: 14.09.1760-15.03.1842
+@MARC-375a: male
+@MARC-400a: Cherubini, C.
+@MARC-400a: Cherubini, Maria Luigi
+@MARC-400a: Cherubini, Maria Luigi Carlo Zenovia Salvatore
+@MARC-400a: Kerubini, Luidzhi
+@MARC-400a: Cherubini, Louis
+@MARC-400a: Cherubini, Luigi Maria
+@MARC-400a: Cherubini, L.
+@MARC-400a: Cherubini, Ludovico
+@MARC-400a: Cherubini, Maria L.
+@MARC-400a: Cherubini, M. L.
+@MARC-400a: Cherubini
+@MARC-400a: Cherubini, Luigi Carlo Zanobi Salvadore Maria
+@MARC-400a: Cherubini, Luigi Maria Zenobio Salvatore
+@MARC-400a: Cherubini, Marie Louis Charles Zenobi Salvador
+@MARC-500a: Rosellini, Zenobia
+@MARC-500i: father of
+@MARC-5000: 30027681
+@MARC-500a: Cherubini, Salvador
+@MARC-500i: father of
+@MARC-5000: 50038621
+@MARC-500a: Turcas, Victorine
+@MARC-500i: father of
+@MARC-5000: 50038614
+@MARC-550a: Composer
+@MARC-550a: Conductor
+@MARC-550a: Freemason
+@MARC-550a: Music publisher
+@MARC-550a: Music teacher
+@MARC-550a: Music theorist
+@MARC-551a: Firenze
+@MARC-551i: go
+@MARC-5510: 3900188
+@MARC-551a: Paris
+@MARC-551i: so
+@MARC-5510: 3900155
+@MARC-551a: Bologna
+@MARC-551i: wo
+@MARC-5510: 3900002
+@MARC-551a: London
+@MARC-551i: wo
+@MARC-5510: 3900003
+@MARC-551a: Paris
+@MARC-551i: wo
+@MARC-5510: 3900155
+@MARC-551a: Wien
+@MARC-551i: wo
+@MARC-5510: 3900059
+@MARC-670a: DEUMM/b
+@MARC-670b: Cherubini, Luigi [1760-1842]
+@MARC-670w: 1577
+@MARC-670a: EitnerQ
+@MARC-670b: Cherubini, Maria Luigi Carlo Zanobio Salvatore [1760-1842]
+@MARC-670w: 1272
+@MARC-670a: Grove|6
+@MARC-670b: Cherubini, Luigi (Carlo Zanobi Salvadore Maria) [1760-1842]
+@MARC-670w: 1258
+@MARC-670a: Grove|7
+@MARC-670b: Cherubini, Luigi (Carlo Zanobi Salvadore Maria) [1760-1842]
+@MARC-670w: 3072
+@MARC-670a: MGG
+@MARC-670b: Cherubini, Luigi [1760-1842]
+@MARC-670w: 1263
+@MARC-670a: MGG|2/p
+@MARC-670b: Cherubini, (Maria) Luigi (Carlo Zanobio Salvatore) [1760-1842]
+@MARC-670w: 3828
+@MARC-670a: RISM A/I suppl.
+@MARC-670b: Cherubini, Luigi
+@MARC-670w: 3808
+@MARC-670a: RISM A/I
+@MARC-670b: 0
+@MARC-670w: 3806
+@MARC-670a: RiemannL|1|2/p
+@MARC-670b: Cherubini, Luigi [1760-1842]
+@MARC-670w: 408
+@MARC-670a: RiemannL|1|3
+@MARC-670b: Cherubini, Luigi (Maria Luigi Carlo Zenobio Salvatore) [1760-1842]
+@MARC-670w: 30026906
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0001600E00000000
+@MARC-856y: Schriftprobe ca. 1797, Gebrauchsschrift [D-B Mus.ms.autogr. Cherubini, L. 323 / p. 42, 44, 52, 56, 71]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00015FB200000000
+@MARC-856y: Schriftprobe 1811, Kalligraphie [D-B Mus.ms.autogr. Cherubini, L. 156 / p. 2, 4, 14]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00015FAB00000000
+@MARC-856y: Schriftprobe ca. 1814, Gebrauchsschrift [D-B Mus.ms.autogr. Cherubini, L. 165 / p. 1, 13, 14, 22]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00015FB000000000
+@MARC-856y: Schriftprobe 1822, Gebrauchsschrift [D-B Mus.ms.autogr. Cherubini, L. 214-214a / p. 1, 6, 10, 17]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00015FAF00000000
+@MARC-856y: Schriftprobe 1825, Kalligraphie [D-B Mus.ms.autogr. Cherubini, L. 221a (1) / p. 5-7]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00015FA800000000
+@MARC-856y: Schriftprobe 1830, Kalligraphie [D-B Mus.ms.autogr. Cherubini, L. 333 / p. 1, 2, 6]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB0001600C00000000
+@MARC-856y: Schriftprobe 1836, Kalligraphie [D-B Mus.ms.autogr. Cherubini, L. 239 / p. 1, 14, 16, 88]
+@MARC-856u: http://resolver.staatsbibliothek-berlin.de/SBB00015FB100000000
+@MARC-856y: Schriftprobe 1840, Kalligraphie [D-B Mus.ms.autogr. Cherubini, L. 246]
+@@END:		MARC21
+

@@ -1,0 +1,85 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300257978
+@MARC-003:	DE-633
+@MARC-005:	20220630122920.0
+@MARC-008:	121031##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-3
+@MARC-031m: S
+@MARC-031o: c/
+@MARC-031p: 1'GE2CD1E2F1D2CD2.D4EFG1A
+@MARC-031t: Congaudent angelorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: A
+@MARC-031o: c/
+@MARC-031p: 1'DC2,A1'D2CD,D-G2.A4G2F4ED2EFGBAG
+@MARC-031t: Congaudent angelorum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031o: c
+@MARC-031p: 1,GGAGAGFA'C,B'C,AG
+@MARC-031t: Congaudent angelorum
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Congaudent angelorum
+@MARC-240m: V (3)
+@MARC-2400: 3018633
+@MARC-245a: [without title]
+@MARC-260c: [1552-1600]
+@MARC-2608: 01
+@MARC-300a: 3 partbooks: 9 f.
+@MARC-3008: 01
+@MARC-500a: [pl-text: Być może brak głosu basowego.]
+@MARC-590a: S, A, T
+@MARC-590b: f. 110r-112r, 105r-107r, 98v-100r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 2
+@MARC-594a: A, T (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: Głuszcz-ZwolińskaW 1969
+@MARC-6910: lit2815
+@MARC-700a: Copyist A
+@MARC-700j: Ascertained
+@MARC-7000: pe30097067
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773a: - 61 Sacred songs
+@MARC-773w: 300257954
+@MARC-787n: Concordance: PL-Kk Kk.I.162
+@MARC-787w: 1001150747
+@MARC-7874: rdau:P60191
+@MARC-787n: Concordance: PL-Kk Kk.I.3
+@MARC-787w: 1001145499
+@MARC-7874: rdau:P60191
+@MARC-852a: PL-Kk
+@MARC-852d: D 25
+@MARC-852d: D 26
+@MARC-852d: Ch.192
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.1
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

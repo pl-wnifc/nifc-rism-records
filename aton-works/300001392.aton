@@ -1,0 +1,392 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001392
+@MARC-003:	DE-633
+@MARC-005:	20220203175838.0
+@MARC-008:	151110##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Miserere
+@MARC-031d: Adagio Majestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: {8.'E6E8EE}q6E4D{6DEFG}/{8.A6A8AA}q6A{8G''E'BG}/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =4/4''EEq8bD4CC/'B{8GB}4BA/AG2-/
+@MARC-031r: E|b
+@MARC-031t: Miserere, mei Deus secundum magnam misericordiam tuam
+@MARC-031t: Ecce quomodo moritur justus, et nemo percipit corde
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Recitativo
+@MARC-031m: B
+@MARC-031o: c
+@MARC-031r: E|b
+@MARC-031t: Amplius lava me, ab iniquitate mea
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Aria
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 6q''D8{C6n'B''C}4'G8-A/4AG8-C/8.6{DA}{8GFED}/8.6{EF}8{GCCC/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =8/'6qC8C{6,nB'C}4,G-/--,C/4.D8AGF/8.{E6F}4G
+@MARC-031r: E|b
+@MARC-031t: Quoniam iniquitatem meam, ego cognosco
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: [Duetto]
+@MARC-031d: Asperges.
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: 8'F//{BB}{6BA''C'A/4A8B6-''C/8{DD}{6DCEC/4C8D
+@MARC-031q: Duet of S and A; on vl 1, 2, vla, org indicated as "Aria"
+@MARC-031q: [pl-text: Duet S i A; na głosach vl 1, 2, vla, org oznaczony jako "Aria"]
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: =22/ 4-8-F/BB3{BA}{''C'A}/4A6q''C8'B6-''C/8DD{6DC}{EC}/C6qE8D-
+@MARC-031r: B|b
+@MARC-031t: Asperges me hysopo et mundabor
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/2
+@MARC-031p: 2'B4AG''8qF4E8{DC}/8qD4C8{'B''C}8qC2'B4B8{GE}/488-{BG}-{AG}-{GF}/8{EDFD}2DE/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/2
+@MARC-031p: 2'B4AG''8qF4E8{DC}/8qD4C8{'B''C}8qC2'B2-/488-{BG}-{AG}-{GF}/8{EDFD}2DE/
+@MARC-031r: E|b
+@MARC-031t: Averte faciem tuam, a peccatis meis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Cor mundum
+@MARC-031d: allegro moderato.
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4'E{8.E6F8GE}/{FD8.F6G8AF/{(GFE)}4''ED/8qD4C'B-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: =8//:''4EE8{GE}/2F4'A/G''EC/CB-/
+@MARC-031r: E|b
+@MARC-031t: Cor mundum crea in me, Deus
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: [Duetto]
+@MARC-031d: Docebo.
+@MARC-031d: Poco Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: 6''{DE}/8.6{F'B}6{''DC'BA}{8BFD,B}/8.6{''GA}8q'''C''866{BAG}8qA8{GF}-6{CE}/{EDF'B}{''DC'BA}4A
+@MARC-031q: Duet of A and T. On S, vl 1, 2, vla, ob 1, 2 and cor indicated as "Aria"
+@MARC-031r: B
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBE
+@MARC-031o: c
+@MARC-031p: =11/4-8-6.3'{DE}8F6,BB{'DC,BA}6qA8G-4-2-/4-8-6{'CE}{ED}F,B{'DC}{,BA}/4A8B
+@MARC-031r: a|x
+@MARC-031t: Docebo iniquos vias tuas, et impii
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: Arietta
+@MARC-031d: Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/8
+@MARC-031p: 8'{B''D6FG}/{FE}{8.E6D}/{DCEC'BA}/{B''D}{8'BF}/
+@MARC-031q: On vl 1 alternative indication of tempo: "Allegretto"
+@MARC-031q: [na głosie vl 1 alternatywne oznaczenie tempa: "Allegro"]
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031d: Vivace
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bBEA
+@MARC-031o: 3/8
+@MARC-031p: =7/8--,F/{B'D}6FG/{FE}8.E6D/{DCEC},BA/
+@MARC-031r: E|b
+@MARC-031t: Domine labia mea aperies, et os meum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 9
+@MARC-031c: 1
+@MARC-031d: Recitat[ivo]
+@MARC-031d: Adagio molto
+@MARC-031m: S
+@MARC-031o: c
+@MARC-031r: E|b
+@MARC-031t: Quoniam si voluisses sacrificium, dedissem utique
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 1
+@MARC-031d: Aria
+@MARC-031d: adagi[osi]ssimo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 8{,GA}/4.B6{GA}4BB/4.'C8D8qF4E8{DC/4C,B
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 10
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 4-/=32/2-4-8'{GA}/4.B6{GA}4BB/4.''C8D8qF4E8{DC}/4C'B2-/
+@MARC-031r: E|b
+@MARC-031t: Sacrificium Deo, spiritus contribulatus
+@MARC-031t: In te Domine speravi, non confundar in aeternum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 1
+@MARC-031d: Gloria Patri
+@MARC-031d: Lento Molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/2
+@MARC-031p: 2'B''C'A/AG-/B''C'A/AG-/
+@MARC-031q: Indication of tempo in Coro S: "Adagio"
+@MARC-031q: [pl-text: Oznaczenie tempa w głosie Coro S: "Adagio"]
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 11
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 2'B''C'A/AG-/B''C'A/AG-/
+@MARC-031r: E|b
+@MARC-031t: Gloria patri gloria filio et spiritui sancto
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 1
+@MARC-031d: Sicut erat:
+@MARC-031d: Poco Allegretto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 2'EE/2.A4A/AGFE/''2.C4C/'BEDE/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 12
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =9/2'EE/2.A4A/AGFE/''2.C4C/'2B4''C'A/
+@MARC-031r: E|b
+@MARC-031t: Sicut erat, in principio et nunc et semper
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Ascertained
+@MARC-1000: pe30020656
+@MARC-240a: Miserere
+@MARC-240m: V (4), Coro, orch, org
+@MARC-240r: E|b
+@MARC-2400: 3017562
+@MARC-245a: [cover title:] MISERERE. | seu. | Opera, pro Sacro Sepulchro. | à | Canto, Alto, Tenore, Basso | Violino Primo, et Secondo. | Oboe Prima, et Seconda | Cornu Primo, et Secondo. | Viola oblig: Con Organo. | Authore Augustino Volckmer. | CMC.
+@MARC-260c: 1755-1820
+@MARC-2608: 01
+@MARC-300a: 12 parts
+@MARC-300c: 36,5 x 23 cm
+@MARC-3008: 01
+@MARC-500a: Former shelfmarks on the sticker, f. 1r of the cover: top centre with pencil by unknown Pauline monk's hand "N-|o 6"; later on right with red ink by F. Maletz's hand "N=|o 529."
+@MARC-500a: [pl-text: Dawne sygnatury na naklejce, f. 1r okładki: na górze pośrodku ołówkiem ręką nieznanego Paulina "N-|o 6"; późniejsza po prawej czerwonym atramentem ręką F. Maletza "N=|o 529."
+@MARC-500a: Round stamp "* ARCHIVUM * C.M.C" on the cover f. 2v and the last verso f. of each part
+@MARC-500a: [pl-text: Okrągły stempel "* ARCHIVUM * C.M.C" na f. 2v okładki oraz ostatniej stronie każdego głosu]
+@MARC-500a: In vocal parts below "Miserere mei Deus" movement lyrics with black ink by other hand: "Ecce quomodo moritur justus"; below the movement "Sacrificium Deo" with black ink by copyst's hand: "In te Domine speravi"
+@MARC-500a: [pl-text: W głosach wokalnych pod tekstem części "Miserere mei Deus" słowa czarnym atramentem inną ręką: "Ecce quomodo moritur justus"; pod częścią "Sacrificium Deo" czarnym atramentem ręką kopisty tekst "In te Domine speravi"]
+@MARC-500a: Notes with pencil on vl 2: f. 2v bottom centre: "Zelmanski"; f. 3r bottom centre illegible
+@MARC-500a: [pl-text: Notatki ołówkiem na głosie vl 2: f. 2v na dole pośrodku: "Zelmanski"; f. 3r na dole pośrodku tekst nieczytelny]
+@MARC-500a: Notes with pencil on vla: f. 1r bottom right "F [?] Zelmański"; f. 2r bottom left "G Müller" [?]; f. 3v bottom left illegible; f. 4r bottom, partially erased and crossed-out: "[illegible] dnia 18 [illegible] | [on left:] [illegible] | 9[?] 11 1881 roku"; f. 4v bottom centre: "Grał 5/4 49 Müller"
+@MARC-500a: [pl-text: Notatki ołówkiem na głosie vla: f. 1r na dole po prawej "F [?] Zelmański"; f. 2r na dole po lewej "G Müller" [?]; f. 3v na dole po lewej tekst nieczytelny; f. 4r na dole, częściowo wymazane i skreślone: "[illegible] dnia 18 [illegible] | [on left:] [illegible] | 9[?] 11 1881 roku"; f. 4v na dole pośrodku: "Grał 5/4 49 Müller"]
+@MARC-500a: The manuscript contains reference numbers, movement titles and some performance notes with black and red pencil above staves
+@MARC-500a: [pl-text: Rękopis zawiera numery rewizyjne, tytuły części i nieliczne wskazówki wykonawcze czarnym i czerwonym ołówkiem nad pięcioliniami]
+@MARC-500a: Solo sections in Coro S, A, T, B
+@MARC-500a: [pl-text: Odcinki solowe w glosach Coro S, A, T, B]
+@MARC-500a: The manuscript contains folio numbers 1-37 in pencil
+@MARC-500a: [pl-text: Rękopis zawiera numery folio ołówkiem 1-37]
+@MARC-561a: [front cover on a sticker bottom under the library stamp, underlined:] C.M.C.
+@MARC-563a: each part stiffened on a spin with a strap of paste paper (navy blue and yellow floral pattern); parts of more than 1 f. sewn-bound; all parts kept together in a paste-paper hardcover with red-lined pattern and the framing of floral-patterned paste paper on the cover f. 1r and on a spin; back cover torn on side and bottom edges, repaired with fragments of other music manuscripts; inside of the cover white, with blue and white stripes of other manuscripts used to repair and stiffen the cover on edges and the spine; on the f. 1r white cartouche-shaped sticker with title of the piece
+@MARC-5638: 01
+@MARC-563a: [pl-text: każdy głos usztywniony na grzbiecie paskiem ozdobnego papieru w żółto-granatowy roślinny wzór; karty głosów o liczbie kart więcej niż 1 f. zszyte razem; wszystkie głosy trzymane razem w usztywnianej okładce z ozdobnego papieru we wzór z czerwonych linii, z paskami ozdobnego papieru w roślinny wzór wzdłuż grzbietu i brzegów f. 1r okładki; tylna okładka rozdarta na brzegach, zreperowana fragmentami rękopisów muzycznych; wnętrze okładki białe, na brzegach i wzdłuż grzbietu przyklejone fragmenty innych manuskryptów w kolorze białym i niebieskim; na f. 1r biała naklejka w kształcie kartusza z tytułem dzieła]
+@MARC-5638: 01
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 3, 3, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla obl,
+@MARC-590b: 6, 5, 4 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in D|x
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-592a: [ascending lion in crowned cartouche] / IL
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor in D|x
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, A, T, B, Coro S, Coro A, Coro T, Coro B, vl (2), vla, ob (2), cor in D|x (2), org
+@MARC-599b: full
+@MARC-650a: Psalms
+@MARC-6500: 3000057
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 30, no. 1228/529
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1507
+@MARC-6910: lit1869
+@MARC-700a: Zelmański, Feliks
+@MARC-700d: 19.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30096369
+@MARC-7004: asn
+@MARC-700a: Müller, G.
+@MARC-700j: Ascertained
+@MARC-7000: pe329614
+@MARC-7004: prf
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Volckmer, Franz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30108893
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-852a: PL-CZ
+@MARC-852d: N-|o 6
+@MARC-852d: N=|o 529.
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-692
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

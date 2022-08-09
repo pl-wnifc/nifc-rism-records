@@ -1,0 +1,103 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035510
+@MARC-003:	DE-633
+@MARC-005:	20220704182918.0
+@MARC-008:	180321##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1''C/2'A''C/2.D4C/1'B/2AF/1B/A/
+@MARC-031r: F
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1''C/2.'A4A/2.''C8{'BA}/2BG/2.A8{GF}/2GE/
+@MARC-031r: F
+@MARC-031t: Laudamus te
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1''C/'A/2BG/AB/2.A8{GF}/2GG/
+@MARC-031r: F
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1''C/2.'A4B/2.''C4'B/2.A4B/2.''C4'B/2.A4G/1F/
+@MARC-031r: F
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1''C/2'AG/1F/2BA/1G/2''C'B/A4B''C/
+@MARC-031r: F
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Mass
+@MARC-240r: F
+@MARC-2400: 50274941
+@MARC-245a: [caption title:] Msza Dominikanska
+@MARC-300a: 3 parts
+@MARC-300c: 33,5 (19) x 22,5 (30,5) cm
+@MARC-3008: 01
+@MARC-500a: other parts presumably missing
+@MARC-5008: 01
+@MARC-500a: Caption title "Msza Dominikanska" in each part.
+@MARC-500a: Concordances to RISM ID 1001091622 (PL-SA A X 35), 1001094803 (PL-SA L 1668; D Major) and 1001100047 (PL-SA L 1669).
+@MARC-590a: S 1 (2x), 2
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: no indication
+@MARC-594a: no indication
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Copyist A from Sandomierz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe41011643
+@MARC-7004: scr
+@MARC-730a: Missa dominicanea
+@MARC-730g: RISM
+@MARC-7300: 50222931
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 144/A III 44
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,53 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	305000382
+@MARC-003:	DE-633
+@MARC-005:	20210216083007.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie eleyson.
+@MARC-031g: C+4
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c
+@MARC-031p: '9F1DC,9F%F+4 1G9F1D1.C,,2G/2.A4B,1C9,,F9-/
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Et in terra pax.
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-100a: Marenzio, Luca
+@MARC-100d: 1553c-1599
+@MARC-100j: Ascertained
+@MARC-1000: pe30003955
+@MARC-240a: Masses
+@MARC-2400: 3900051
+@MARC-245a: [caption title:] Missa super Iniquos odio | habui. Marentij | 8. Vocum.
+@MARC-300a: 1 parts
+@MARC-3008: 01
+@MARC-590a: org
+@MARC-590b: f.157v-158r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: org
+@MARC-599b: full
+@MARC-650a: Masses (cantus firmus-, paraphrase-, parody masses)
+@MARC-6500: 3000157
+@MARC-730a: Missa super Iniquos odio habui
+@MARC-730g: RISM
+@MARC-7300: 5038635
+@MARC-773a: - 273 Sacred songs
+@MARC-773w: 305000112
+@MARC-852a: PL-GD
+@MARC-852e: Polska Akademia Nauk Biblioteka Gdańska
+@MARC-852x: ks30002071
+@MARC-852c: Ms 4012
+@@END:		MARC21
+

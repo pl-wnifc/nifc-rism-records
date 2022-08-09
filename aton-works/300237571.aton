@@ -1,0 +1,87 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300237571
+@MARC-003:	DE-633
+@MARC-005:	20201029163713.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 6/4
+@MARC-031p: ''4E{8DC'BA}4GA-/1-/8-6{''CD}4E-8-6{'B''C}4D-/{8C6DE}{8E6DC}{8E6DC}{8DCDC}4'B/'{8C6DE}{8E6DC}{8E6DC}{8DCDC},4B/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xFCG
+@MARC-031o: 6/4
+@MARC-031p: =17/'4E{8DC}{,BA}4GA-/8-6{,AB}4'C-8-6{,GA}4B-/4.'E4C8,A2'F4-/
+@MARC-031r: A
+@MARC-031t: Salve puelle centis, puelle salve millies
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: xFCG
+@MARC-031o: 6/4
+@MARC-031p: '2.(-)4FAG/{8F''C'BA}{GF}4.F8xE4E/
+@MARC-031r: A
+@MARC-031t: O digne lauro parvule, rosisque digne lectule
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Kobierkowicz, Józef
+@MARC-100d: 18.sc
+@MARC-100j: Ascertained
+@MARC-1000: pe30017725
+@MARC-240a: Salve puelle centis
+@MARC-240m: V (2), vl (2), bc
+@MARC-240r: A
+@MARC-2400: 4137339
+@MARC-245a: [without title]
+@MARC-300a: 6 parts
+@MARC-3008: 01
+@MARC-590a: A, T, vl 1, 2, vlne, org (= bc)
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: vl 1
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: bc: vlne
+@MARC-594c: 1
+@MARC-594b: bc: org
+@MARC-594c: 1
+@MARC-594a: A, T, vl 1, vl 2, bc: vlne, bc: org
+@MARC-599b: full
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-691a: ŹHMP 12
+@MARC-691n: p.112-119
+@MARC-6910: lit2199
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.705
+@MARC-6910: lit1869
+@MARC-773a: - 2 Pastorales - V (2), vl (2), bc
+@MARC-773w: 300237569
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-348
+@@END:		MARC21
+

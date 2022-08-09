@@ -1,0 +1,231 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001389
+@MARC-003:	DE-633
+@MARC-005:	20201029163410.0
+@MARC-008:	151026##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Largo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: {8.''A6A}{8BG}/{Eq6G8F}8-q6G({6FED})/{8Cq6G(6FED)}{8Cq6G(6FED)}/{8.C6D}{C'BAB}/4B8A
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8.''C6C8D'B/GA4-/1-/8.''C6D{C'B}{AB}/4B8A
+@MARC-031r: F
+@MARC-031t: Kyrie eleison Christe eleison Kyrie eleison Christe audi nos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Sancta Maria
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: 8.6{''C'A}{8FA}/8.6{''C'B}{8G6''C'B}/{A''C'BG}{FAEG}/4G8F''C/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: Coro T
+@MARC-031n: bB
+@MARC-031o: 2/4
+@MARC-031p: =23/'8.6{C,A}8F'C/8.6{C,B}8GB/6{A'C}{,BG}{FAEG}/qG8F-4-/
+@MARC-031r: F
+@MARC-031t: Sancta Maria
+@MARC-031t: Jesu fili Dei vivi
+@MARC-031t: Sancte Joannes Nepomucene, ora pro nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Speculum
+@MARC-031d: Moderato.
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c/
+@MARC-031p: 2''CC/'6qbB2A4''DE/2FE/D-/GF/E8{GFED}/2C'B/''C-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031o: c/
+@MARC-031p: 2''CC/'4qbB2A4''DE/2FE/D-/GF/E8{GF}{ED}/2C'B/''C-/
+@MARC-031r: C
+@MARC-031t: Speculum iustitiae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Agnus.
+@MARC-031d: Andante amoroso.
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: 8-{'FAFAF}/-{GBGBG}/{A6GA}{8BGFE}/4''C'B8{A''C}
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-4
+@MARC-031m: Coro T
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =5/8.{C3,B'C}4D,B/8,{AG}4G{8AB}/'{C,A}BG{6GFFE}/4F--/
+@MARC-031r: F
+@MARC-031t: Agnus Dei qui tollis peccata mundi parce nobis Domine
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Verified
+@MARC-1000: pe30020656
+@MARC-240a: Litanies
+@MARC-240m: Coro, orch, org
+@MARC-240r: F
+@MARC-2400: 3900164
+@MARC-245a: [cover title:] LYTANIAE in F | â | Canto, Alto, Tenore, Basso. | Violino Primo et Secondo | Oboa Prima et Seconda | Cornu Primo et Secondo | Viola Obl: et Organo. | Authore et Posessore Augustino: | Volckmer.
+@MARC-246a: [caption title on ob 1, 2:] Lytania in F:
+@MARC-260c: 1755-1820
+@MARC-2608: 01
+@MARC-300a: 14 parts
+@MARC-300c: 35 x 22 cm
+@MARC-3008: 01
+@MARC-500a: fl 1, 2 later added
+@MARC-5008: 01
+@MARC-500a: [pl-text: głosy fl 1, 2 dodane później]
+@MARC-5008: 01
+@MARC-500a: Coro S on paper with "W (crowned)" watermark; Coro A on paper with countermark "BRESLAV"
+@MARC-5008: 01
+@MARC-500a: [pl-text: głos Coro S na papierze ze znakiem wodnym "W (crowned)"; Coro A na papierze z kontrmarką "BRESLAV"]
+@MARC-5008: 01
+@MARC-500a: Former shelfmarks on the front cover sticker: top right with black ink by M. Zabłocki's hand "N|o 3." crossed-out; later top left with red pencil "N 9" overwritten with later by unknown Pauline monk's hand with pencil "N|o 7"
+@MARC-500a: [pl-text: Dawne sygnatury na naklejce z okładki: na górze po prawej czarnym atramentem ręką M. Zabłockiego "N|o 3." przekreślona; późniejsza na górze po lewej czerwonym ołówkiem "N 9"; na niej nadpisana późniejsza ołówkiem ręka nieznanego Paulina "N|o 7"]
+@MARC-500a: Round stamp "* ARCHIVUM * C.M.C." on the cover f. 1r, 2 v and last verso folio of each part except for ob 2
+@MARC-500a: [pl-text: Okrągły stempel "* ARCHIVUM * C.M.C." na okładce f. 1r, 2v i ostatniej stronie każdego głosu z wyjątkiem ob 2]
+@MARC-500a: Solo sections in fl, ob and cor parts
+@MARC-500a: [pl-text: Odcinki solowe w głosach fl, ob i cor]
+@MARC-500a: Name of the instrument in the caption of ob 1, 2 parts in form "Hubo"
+@MARC-500a: [pl-text: W głosach ob 1, 2 nazwa instrumentu zapisana jako "Hubo"]
+@MARC-500a: In "Sancta Maria" movement in vocal parts below original lyrics with orange ink by other hand Latin text of the Litany of the Holy Name of Jesus; above with red ink by other hand Latin text of the Litany of St. John Nepomucene
+@MARC-500a: [pl-text: W części "Sancta Maria" w głosach wokalnych pod oryginalnym tekstem pomarańczowym atramentem inną ręką łacińskie słowa litanii do Najświętszego Imienia Jezus; powyżej czerwonym atramentem inną ręką łaciński tekst litanii do św. Jana Nepomucena]
+@MARC-500a: In "Speculum" movement in Coro S below original lyrics with orange ink by other hand Latin text of the Litany of the Holy Name of Jesus; above with red ink by other hand Latin text of the Litany of St. John Nepomucene; in Coro A, T, B only Litany of St. John Nepomucene below original lyrics
+@MARC-500a: [pl-text: W części "Speculum" w głosie Coro S pod oryginalnym tekstem pomarańczowym atramentem inną ręką łacińskie słowa litanii do Najświętszego Imienia Jezus; powyżej czerwonym atramentem inną ręką łaciński tekst litanii do św. Jana Nepomucena; w Coro A, T, B wyłącznie tekst litanii do św. Jana Nepomucena pod oryginalnymi słowami]
+@MARC-500a: Instrumental parts contain dynamics and other performance markings with red ink
+@MARC-500a: [pl-text: Głosy instrumentalne zawierają oznaczenia dynamiczne i inne oznaczenia wykonawcze czerwonym atramentem]
+@MARC-500a: Title on the cover f. 1r crossed-out and initialled with red pencil
+@MARC-500a: [pl-text: tytuł na f. 1r okładki przekreślony czerwonym ołówkiem i opatrzony parafą]
+@MARC-500a: Note with pencil on org part f. 2v top centre: "dnia 12. Maja 1895. roku - | wywieźli Ks. Piusa Przezdzieckiego"
+@MARC-500a: [pl-text: Notatka ołówkiem na głosie org f. 2v na górze pośrodku: "dnia 12. Maja 1895. roku - | wywieźli Ks. Piusa Przezdzieckiego"]
+@MARC-500a: Note with pencil on the cover f. 1v by P. Podejko's hand: "Okł. usztywniona była partią | Vlno II Missa in D komp. ? | oraz fragm. Basso mszy Cdur"
+@MARC-500a: [pl-text: Notatka ołówkiem na f. 1v okładki ręką P. Podejki: "Okł. usztywniona była partią | Vlno II Missa in D komp. ? | oraz fragm. Basso mszy Cdur"]
+@MARC-500a: The manuscript contains folio numbers 1-19 with pencil
+@MARC-500a: [pl-text: Okładka zawiera numery folio ołówkiem 1-19]
+@MARC-563a: parts separate, kept together in a paste-paper cover with red and green floral pattern and straps of orange paper along the spin and the edges; inside white; on the f. 1r white cartouche-shaped sticker with red outline and title of the piece
+@MARC-5638: 01
+@MARC-563a: [pl-text: głosy na oddzielnych arkuszach, trzymane razem w okładce z ozdobnego papieru z czerwono-zielonym roślinnym wzorem i paskami pomarańczowego papieru wzdłuż grzbietu i na brzegach; wewnętrzna strona okładki biała; na f. 1r biała okładka w kształcie kartusza z czerwonym obramowaniem i tytułem dzieła]
+@MARC-5638: 01
+@MARC-590a: Coro: S, A, T, B
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla obl
+@MARC-590b: 2, 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: org (=bc)
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: fl 1, 2, ob 1, 2
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in F
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-592a: W (crowned) / BRESLAV
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 2
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor in F
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), vla, fl (2), ob (2), cor in F (2), org
+@MARC-599b: full
+@MARC-650a: Litanies
+@MARC-6500: 25137
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. [35]; no. 3
+@MARC-6910: lit1886
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1504
+@MARC-6910: lit1869
+@MARC-700a: Volckmer, Augustin
+@MARC-700d: 1755-1820c
+@MARC-700j: Verified
+@MARC-7000: pe30020656
+@MARC-7004: fmo
+@MARC-700a: Przezdziecki, Pius
+@MARC-700j: Verified
+@MARC-7000: pe30040576
+@MARC-7004: oth
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Volckmer, Franz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30108893
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-730a: Litaniae Lauretanae
+@MARC-730g: RISM
+@MARC-7300: 3900952
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 3
+@MARC-852d: N 9
+@MARC-852d: N|o 7
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-681
+@@END:		MARC21
+

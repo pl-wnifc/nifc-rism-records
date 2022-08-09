@@ -1,0 +1,139 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001403
+@MARC-003:	DE-633
+@MARC-005:	20201029163410.0
+@MARC-008:	151120##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante grazioso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: {8'CD}/{8.E6F}{8EE}/4E{8AG}/{FE}-''E/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 2/4
+@MARC-031p: 4-/=42/4-8'CD/{8.E6F}8EE/4E8AG/FE4-/
+@MARC-031r: A
+@MARC-031t: Salve Regina vita dulcedo et spes nostra
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Ascertained
+@MARC-1000: pe30020656
+@MARC-240a: Salve regina
+@MARC-240m: S, orch, org
+@MARC-240r: A
+@MARC-2400: 3021988
+@MARC-245a: [cover title:] Aria in A. [by later hand: de B. V. M.] | â | Canto Solo. | Violino Primo | Violino Secondo | Viola Obl. | Flauto Traverso | Hubo Primo | Hubo Secondo | Cornu Primo | Cornu Secondo | Fagotti. II. | et | Basso. | [aligned to right:] Auth: Augustino Volckmer.
+@MARC-246a: [caption title on each part:] Aria
+@MARC-260c: 1755-1820
+@MARC-2608: 01
+@MARC-300a: 11 parts
+@MARC-300c: 32,5 x 20 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: znak wodny z lwem tylko na partii fag; na pozostałych znak IHS z kontrmarką]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze pośrodku czarnym atramentem ręką M. Zabłockiego "N=|o 35" przekreślona ołówkiem i czarnym atramentem; późniejsza powyżej z lewej czarnym atramentem nieznaną ręką "Nro 22" przekreślona ołówkiem; późniejsza poniżej z prawej ołówkiem ręką nieznanego Paulina "N-|o 111" przekreślona; późniejsza poniżej z prawej czerwonym atramentem ręką F. Maletza "N 1153/453" rozmazana; późniejsza powyżej ołówkiem ręką W. Świerczka "360" w kółku]
+@MARC-500a: [pl-text: Okrągła pieczęć "* ARCHIVUM * C.M.C." na f. 1r i 2v okładki, głosie S f. 2r oraz ostatniej stronie każdego z pozostałych głosów]
+@MARC-500a: [pl-text: Głosy S, vl 1, 2 posiadają dodatkowe oznaczenia głosów na środku f. 1r; tekst muzyczny zaczyna się od 1v]
+@MARC-500a: [pl-text: Na głosie S f. 1r na środku pod nazwą głosu ołówkiem niepoprawnie odrysowany znak wodny]
+@MARC-500a: [pl-text: Tytuł na przedniej okładce przekreślony czerwonym ołówkiem i opatrzony parafą]
+@MARC-500a: [pl-text: Nazwa oboju na karcie tytułowej i w głosach podana w formie "Hubo"]
+@MARC-500a: [pl-text: Manuskrypt zawiera oznaczenia dynamiczne i inne określenia wykonawcze zapisane czerwonym atramentem]
+@MARC-500a: [pl-text: Manuskrypt zawiera numery folio 1-14 zapisane ołówkiem]
+@MARC-563a: [pl-text: każdy głos na osobnym arkuszu, wszystkie umieszczone luzem w białej papierowej okładce z paskiem ozdobnego papieru w żółto-czarną kratę wzdłuż grzbietu; na okładce widoczne ślady usztywnienia i reperacji przy pomocy innych rękopisów muzycznych]
+@MARC-5638: 01
+@MARC-590a: S
+@MARC-590b: 2 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla obl, b
+@MARC-590b: 2, 2, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: fl, ob 1, 2, fag 1 and 2
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-592a: [ascending lion in crowned cartouche]
+@MARC-5928: 01
+@MARC-592a: IHS [with cross above] / [monogram "IH"]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: S, vl (2), vla, b, fl, ob (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-657a: Mariae (B.V.)
+@MARC-6570: 24267
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1520
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 27
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 28
+@MARC-6910: lit1887
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Volckmer, Franz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30108893
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N=|o 35
+@MARC-852d: Nro 22
+@MARC-852d: N-|o 111
+@MARC-852d: N 1153/453
+@MARC-852d: 360
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-20
+@@END:		MARC21
+

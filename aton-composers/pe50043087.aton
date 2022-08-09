@@ -1,0 +1,44 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe50043087
+@MARC-003:	DE-633
+@MARC-005:	20220115201849.0
+@MARC-008:	200614n|||||||a||| a
+@MARC-024a: 162554198
+@MARC-0242: VIAF
+@MARC-024a: 116970545
+@MARC-0242: DNB
+@MARC-024a: Q8862782
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-040b: ger
+@MARC-040c: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Lewandowski, Leopold Leon
+@MARC-100d: 1831-1896
+@MARC-100y: 14.03.1831-04.12.1896
+@MARC-375a: male
+@MARC-550a: Composer
+@MARC-550a: Violinist
+@MARC-551a: Kalisz
+@MARC-551i: go
+@MARC-5510: 4000069
+@MARC-551a: Warszawa
+@MARC-551i: so
+@MARC-5510: 3900368
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: Frank-AltmannTL|1|5
+@MARC-670b: Lewandowski, Leopold [1823-22.11.1896]
+@MARC-670w: 1280
+@MARC-670a: GroveMO
+@MARC-670b: Lewandowski, Leon Leopold [14.03.1831-22.11.1896]
+@MARC-670w: 41000731
+@MARC-856u: https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000016529
+@MARC-856y: Morawski, J. (2001). Lewandowski, Leon Leopold. Grove Music Online. Retrieved 18 Jun. 2020
+@@END:		MARC21
+

@@ -1,0 +1,118 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000922
+@MARC-003:	DE-633
+@MARC-005:	20201029163358.0
+@MARC-008:	140131##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Pastorale
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8''D4D8D/{xCDED}/{CD'A''D}/8'B4G8G/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =12/8'D4D8D/xCDED/xCD,A'D/,B4G8-/
+@MARC-031q: [pl-text: w partii B oryginalny tekst "Ey bracia czy spicie"]
+@MARC-031r: G
+@MARC-031t: Hej bracia czy spicie
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Nowakiewicz, Kazimierz
+@MARC-100d: 18/19
+@MARC-100j: Ascertained
+@MARC-1000: pe30020309
+@MARC-240a: Hej bracia czy spicie
+@MARC-240m: B, orch, org
+@MARC-240r: G
+@MARC-2400: 4026577
+@MARC-245a: [excerpt of cover title:] Offertorium | Pastoralne. [by other hand with pencil: Hej bracia przez Nowakiewicza]
+@MARC-260c: 1838-1909 (1838; 1909)
+@MARC-2608: 01
+@MARC-300a: 16 parts
+@MARC-300c: different sizes
+@MARC-3008: 01
+@MARC-500a: [pl-text: Fragment oryginalnej karty tytułowej naklejony na obwolutę]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Różne wymiary partii: dust cover title: 28,5 x 21,5 cm; S (1): 34,5 x 24 cm; S (2-4): 18,5 x 26,5 cm; B: 36,5 x 24 cm; vl 1,2, org: 39 x 24 cm; cb: 35,5 x27,5 cm; cl 1, 2, clno princ, cor 1 and 2, timp: 20 x 23,5 cm, trb: 33 x 25,5 cm; b: 35,5 x 27 cm]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Brak partii clno 1, 2]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsza sygnatura na okładce f. 1r: w górnej części po prawej ołówkiem ręką W. Świerczka "761" w owalnym kółku]
+@MARC-500a: [pl-text: U góry po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: Komponistenvermerk auf S (1), B, vl 1, 2, trb and cb: "Nowakiewicz"
+@MARC-500a: Schreibervermerk und Datierung auf cl 1,2, clno princ und cor: "Finis 1838 L:[eopold] M:[ężnicki]"
+@MARC-500a: Datierung auf der trb-Stimme: "23. Grudzień 1909 r."
+@MARC-500a: [pl-text: Konkordancja ID RISM: 301050703 (PL-STAb 24b)]
+@MARC-563a: [pl-text: obwoluta wykonana z dwóch tekturowych kart połączonych paskiem materiału wzdłuż brzegu]
+@MARC-5638: 01
+@MARC-590a: B Solo, S (4x), vl 1, 2, b, cb, cl 1, 2, clno princ, cor 1 and 2, trb, timp, org
+@MARC-590b: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [vl 1, org:] [watermarks illegible]
+@MARC-5928: 01
+@MARC-592a: [without watermarks]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: cb
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: clno princ
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: trb
+@MARC-594c: 1
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: B, S, vl (2), b, cb, cl (2), clno princ, cor (2), trb, timp, org
+@MARC-599b: full
+@MARC-650a: Offertories
+@MARC-6500: 25242
+@MARC-650a: Pastorales (voc.)
+@MARC-6500: 25472
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1019
+@MARC-6910: lit1869
+@MARC-700a: Mężnicki, Leopold
+@MARC-700d: 1799-1854p
+@MARC-700j: Ascertained
+@MARC-7000: pe30040497
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: 761
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-298
+@@END:		MARC21
+

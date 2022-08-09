@@ -1,0 +1,168 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001035509
+@MARC-003:	DE-633
+@MARC-005:	20220120144206.0
+@MARC-008:	180321##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C'A/4B''CDC/C'B2B/BG/4AB''C'B/BA2A/
+@MARC-031r: F
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C'A/4'B^G''C^'A''D^'B''C^'A/''C'B2B/B'G/4A^FB^G''C^'AB^G/BA2A/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4'FGAB/1''C/4C'ABG/1A/4GGGA/2BG/
+@MARC-031r: F
+@MARC-031t: Et in terra pax, hominibus bonae voluntatis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4'FGAB/1''C/4C'ABG/1A/4G^EG^EG^EA^F/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C'A/4-AB''C/2DC/'B4BB/BAA''C/2'BA/
+@MARC-031r: F
+@MARC-031t: Patrem omnipotentem, factorem caeli et terrae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C'A/4-AB''C/2D^'B''C^'A/B^G4B^GB^G/B^GA^FA^F''C^'A/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4''C'AB''C/2DC/4'BGAB/2''C'B/4''CC{8C'B}4A/2BB/
+@MARC-031r: F
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 4''C^'AA^FB^G''C^'A/2''D^'B''C^'A/4BGAB/2''C^'AB^G/4''CC{8C'B}4A/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C'A/4-''CCC/CD2D/4-EEE/GF2F/FC/
+@MARC-031r: F
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: org
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 2''C'A/4-''CCC/CD2D/4-EEE/GF2F/FC/
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: S (2), org
+@MARC-240r: F
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] Missa Gregoriano Canto | a vocibus 3 | Canto Primo | Canto Secundo | Con | Organo
+@MARC-260c: 1815-01-04
+@MARC-2608: 01
+@MARC-300a: 3 parts
+@MARC-300c: 33 (31) x 22 (19) cm
+@MARC-3008: 01
+@MARC-500a: Inscription "Msza Sandomirska, zrobiona dla [illegible] Panien | Benedctinek [!] Sandomirskich | w R[oku] 1815 - die 4. Januari" at the bottom of the title page.
+@MARC-500a: Caption title "Msza Sandomirska" in each part.
+@MARC-590a: S 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: org
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S (2), org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: ŚwierczekK 1965
+@MARC-691n: p. 263
+@MARC-6910: lit1891
+@MARC-700a: Copyist A from Sandomierz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe41011643
+@MARC-7004: scr
+@MARC-710a: Klasztor Benedyktynek w Sandomierzu
+@MARC-710g: Ascertained
+@MARC-7100: ks51000713
+@MARC-7104: fmo
+@MARC-730a: Msza Sandomierska
+@MARC-730g: RISM
+@MARC-7300: 50250944
+@MARC-852a: PL-SA
+@MARC-852e: Biblioteka Diecezjalna w Sandomierzu
+@MARC-852x: ks30003584
+@MARC-852c: 143/A III 43
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

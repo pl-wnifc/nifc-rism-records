@@ -1,0 +1,94 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300033493
+@MARC-003:	DE-633
+@MARC-005:	20210327225837.0
+@MARC-008:	060823##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: '4GB/''D8-({6DEF})/{8GD'B''D}/4G-/
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro assai
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: =20/,4GB/'D8-D/GD,B'D/,4G-/
+@MARC-031r: G
+@MARC-031t: Eia consonate
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Żebrowski, Marcin Józef
+@MARC-100d: 1702-1770
+@MARC-100j: Ascertained
+@MARC-1000: pe30020322
+@MARC-240a: Eia consonate
+@MARC-240m: B, orch, org
+@MARC-240r: G
+@MARC-2400: 3001513
+@MARC-245a: [without title]
+@MARC-300a: 7 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: Solo B
+@MARC-590b: f. 1v
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vlne
+@MARC-590b: f. 1r, 1r, 1v
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: f. 1r, 1v
+@MARC-5908: 01
+@MARC-590a: org
+@MARC-590b: f. 2r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594b: org (= bc)
+@MARC-594c: 1
+@MARC-594a: B, vl (2), clno (2), org (= bc)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. 27
+@MARC-6910: lit1886
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1584
+@MARC-6910: lit1869
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-773a: Żebrowski, Marcin Józef - 2 Sacred songs
+@MARC-773w: 300033491
+@MARC-852a: PL-CZ
+@MARC-852d: N=|o 43
+@MARC-852d: N-|o 375
+@MARC-852d: N 740/41.
+@MARC-852d: 287
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-740
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

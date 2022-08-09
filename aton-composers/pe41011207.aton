@@ -1,0 +1,67 @@
+@@BEGIN:	MARC21
+@MARC-001:	pe41011207
+@MARC-003:	DE-633
+@MARC-005:	20220115201616.0
+@MARC-008:	180308n|||||||a||| a
+@MARC-024a: 27167228
+@MARC-0242: VIAF
+@MARC-024a: 124381723
+@MARC-0242: DNB
+@MARC-024a: Q941622
+@MARC-0242: WKP
+@MARC-040a: DE-633
+@MARC-040b: ger
+@MARC-040c: DE-633
+@MARC-042a: individualized
+@MARC-043c: XA-PL
+@MARC-100a: Orda, Napoleon
+@MARC-100d: 1807-1883
+@MARC-100y: 11.02.1807-26.04.1883
+@MARC-375a: male
+@MARC-400a: Orda, N.
+@MARC-400a: Orda, Napoleonas
+@MARC-550a: Artist
+@MARC-550i: profession
+@MARC-550a: Composer
+@MARC-550i: profession
+@MARC-550a: Illustrator
+@MARC-550i: profession
+@MARC-550a: Pianist
+@MARC-550i: profession
+@MARC-550a: Writer
+@MARC-550i: profession
+@MARC-551a: Warazewitschy
+@MARC-551i: go
+@MARC-5510: 50016475
+@MARC-551a: Warszawa
+@MARC-551i: so
+@MARC-5510: 3900368
+@MARC-551a: Paris
+@MARC-551i: wo
+@MARC-5510: 3900155
+@MARC-670a: DEUMM/b
+@MARC-670b: 0
+@MARC-670w: 1577
+@MARC-670a: DEUMM/b suppl.
+@MARC-670b: 0
+@MARC-670w: 2957
+@MARC-670a: EM/b
+@MARC-670b: Orda, Napoleon [11.02.1807-26.04.1883]
+@MARC-670w: 1793
+@MARC-670a: Grove|7
+@MARC-670b: 0
+@MARC-670w: 3072
+@MARC-670a: MGG|2/p
+@MARC-670b: 0
+@MARC-670w: 3828
+@MARC-670a: MGG|2/s
+@MARC-670b: Orda, Napoleon [1807-1883]
+@MARC-670w: 1290
+@MARC-670a: MGG|2/s
+@MARC-670b: vide: 9, 1941
+@MARC-670w: 1290
+@MARC-670a: SMP
+@MARC-670b: Orda, Napoleon [1807-26.04.1883]
+@MARC-670w: 1935
+@@END:		MARC21
+

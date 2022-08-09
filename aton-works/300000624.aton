@@ -1,0 +1,79 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300000624
+@MARC-003:	DE-633
+@MARC-005:	20201029163350.0
+@MARC-008:	120103##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: {8.''B6'B}{8.B6B}/4B6-{''DC'B}/{8.''F6'F}{8.F6F}/4F
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: b
+@MARC-031n: bBE
+@MARC-031o: 2/4
+@MARC-031p: {8.,B6,,B}{8.B6B}/4B-/{8.,F6,,F}{8.F6F}/4F-/{6BB,GG}{EEFF}{BBGG}{EEFF}/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Kottritsch, Franciszek
+@MARC-100d: 1727c-1787
+@MARC-100j: Ascertained
+@MARC-1000: pe30040598
+@MARC-240a: Sonatas
+@MARC-240m: orch
+@MARC-240r: B|b
+@MARC-2400: 3900185
+@MARC-245a: [without title]
+@MARC-260c: 1740-1760 (18.me)
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: vl 1, 2, b, ob 1, 2, cl 1, 2, clno 1, 2
+@MARC-590b: f. 1v, 1v, 2r, 1v, 1v, 1v, 1v, 1v, 1v
+@MARC-5908: 01
+@MARC-593a: Autograph manuscript
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: clno
+@MARC-594c: 2
+@MARC-594a: vl (2), b, ob (2), cl (2), clno (2)
+@MARC-599b: full
+@MARC-650a: Sonatas
+@MARC-6500: 25213
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.729
+@MARC-6910: lit1869
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 1923
+@MARC-6910: lit1869
+@MARC-773a: Kottritsch, Franciszek - 2 Sonatas - orch
+@MARC-773w: 300000622
+@MARC-852a: PL-CZ
+@MARC-852d: N|ro 1
+@MARC-852d: 758
+@MARC-852d: I-175
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-257
+@@END:		MARC21
+

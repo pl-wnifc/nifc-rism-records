@@ -1,0 +1,121 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001273
+@MARC-003:	DE-633
+@MARC-005:	20201029163407.0
+@MARC-008:	150612##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl solo
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: {8.''A6A}4FG/4.Ct{6DE}4F/4G+({8GxFG})gB({8AxGA})/{8.'''C6''B}4G
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: G-2
+@MARC-031m: V
+@MARC-031n: bB
+@MARC-031o: 3/4
+@MARC-031p: =9/8.'A6A4FG/4.''C{6'BG}4F/G({8GxFG})gB({8AxGA})/{8.''C6'B}4G
+@MARC-031r: F
+@MARC-031t: Zdrowaś Panno Maria
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: pol
+@MARC-100a: Stefani, Józef
+@MARC-100d: 1800-1876
+@MARC-100j: Conjectural
+@MARC-1000: pe30024097
+@MARC-240a: Zdrowaś Panno Maria
+@MARC-240m: V (3), Coro, orch
+@MARC-240r: F
+@MARC-2400: 4330564
+@MARC-245a: [cover title, cb and vlc:] Własność P: Stefaniego | Zdrowaś Marya | C: Basso et Violoncello.
+@MARC-260c: 1851-1900 (19.2d)
+@MARC-2608: 01
+@MARC-300a: 16 parts
+@MARC-300c: 34 x 26 cm
+@MARC-3008: 01
+@MARC-500a: cover title: 32 x 25 cm; S Solo: 29 x 25 cm; Coro T: 24 x 33,5 cm; fag: 31,5 x 23,5 cm
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na okładce: u góry na środku ołówkiem ręką nieznanego Paulina "N|o 35", skreślono czerwonym tuszem; poniżej z prawej strony czerwonym tuszem ręką F. Maletza "N 872/173."; w prawym górnym rogu ołówkiem ręką W. Świerczka "228" w owalnym kółku]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki okrągła pieczęć "* ARCHIVUM * C. M. C." ]
+@MARC-500a: [pl-text: Karta tytułowa okładki przekreślona niebieską kredką oraz parafowana]
+@MARC-500a: [pl-text: Brak konkordancji]
+@MARC-590a: V solo, S, T, Coro: S 1, 2, T, B, vl solo and rip 1, vl 2, vla, b and vlc, fl, ob, cl 1 and 2, fag 1 and 2, cor 1 and 2
+@MARC-590b: 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 2, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: [without watermarks]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: V
+@MARC-594c: 1
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 2
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl solo
+@MARC-594c: 1
+@MARC-594b: vl rip
+@MARC-594c: 1
+@MARC-594b: vl 2
+@MARC-594c: 1
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 1
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: V, S, T, Coro S (2), Coro T, Coro B, vl solo, vl rip, vl 2, vla, vlc, b, fl, ob, cl (2), fag (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 21
+@MARC-6910: lit1887
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1383
+@MARC-6910: lit1869
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: N|o 35
+@MARC-852d: N 872/173
+@MARC-852d: 228
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-301
+@@END:		MARC21
+

@@ -1,0 +1,48 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990029343
+@MARC-003:	DE-633
+@MARC-005:	20210809203708.0
+@MARC-008:	161111##################################
+@MARC-035a: H 5231
+@MARC-040a: DE-633
+@MARC-100a: Hey-Stawicki, Michał
+@MARC-100d: 16.sc
+@MARC-1000: pe30013356
+@MARC-240a: Wedding music
+@MARC-240m: V (4)
+@MARC-2400: 3946969
+@MARC-245a: Pieśń nowo uczyniona na wesele Jana Kostki z Stymbarku, Podskarbiego ziem Pruskich ... O małzeństwie świętym [Krakau, M. Siebeneicher]
+@MARC-260c: 1558
+@MARC-2608: 01
+@MARC-300a: part(s)
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: H 5231
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Wedding music
+@MARC-6500: 25497
+@MARC-710a: Siebeneicher, Matthäus
+@MARC-7100: ks40010069
+@MARC-7104: pbl
+@MARC-852a: PL-Wn
+@MARC-852e: Biblioteka Narodowa
+@MARC-852x: ks30000118
+@MARC-8523: 115358
+@MARC-852c: [no indication]
+@MARC-852q: kpl.: S, A, T, B
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

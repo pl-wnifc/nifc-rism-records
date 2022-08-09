@@ -1,0 +1,124 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000361
+@MARC-003:	DE-633
+@MARC-005:	20201206225404.0
+@MARC-008:	110106##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro molto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: c
+@MARC-031p: 4''C--8-'B/4''C--8-'B/{6C,B'CD}{EDEF}{GFGA}{BABG}/{''C'B''CD}{EDEF}4G-/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 8''{CC/4C8'{AF}{FE}{GB}/2B4A8{FF/4D8{BG}{FE}{''D'B/4B
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Prestissimo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 6/8
+@MARC-031p: 8,G/'{CCC}{CDE/4D8,G4G8G/8{'DDD}{DEF/
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-100a: Gołąbek, Jakub
+@MARC-100d: 1739c-1789
+@MARC-100j: Ascertained
+@MARC-1000: pe30008748
+@MARC-240a: Symphonies
+@MARC-240m: strings, ob (2), cor (2)
+@MARC-240r: C
+@MARC-2400: 3900027
+@MARC-245a: [cover title:] [top right:] N=|r|o 133. | [incipit vl 1 and b] | SYMPHONIA in C | Violino. Primo. | Violino. Secondo. | Oboe Primo. | Oboe Secondo | Clarino Primo | Clarino Secondo | Viola. | et | Basso. [by other hand with ink: Boso est dobri [?]] | Del Sig|re Jacobo. Gołąbek. | [below at right:] Hori [!] C.M.Cz. [illegible]
+@MARC-246a: [vla:] [incipit vl 1 and b] | [at right:] N: 133. | [crossed out] Allto Violla [!] | Sinfonia | Violino Primo | Violino Secundo | Oboe Primo | Oboe Secundo | Cornu Primo | Cornu Secundo | Alto Viola | Com [!] Basso | [below:] Del Sige: Jacobo Gołąbek | [below centre:] Pro Choro C: M: C:
+@MARC-260c: 1776-1800 (18.4q)
+@MARC-2608: 01
+@MARC-300a: 8 parts
+@MARC-300c: 36 x 23 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Oryginalna obwoluta na partii vla, spisana w: variant title on source]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wcześniejsze sygnatury na f.1r okładki: u góry po prawej oryginalna sygnatura skreślona czarnym atramentem, powyżej czarnym tuszem ręką M. Zabłockiego "N|o 20."; skreślona i później po lewej u góry czarnym atramentem: "Nro 34"; skreślona i później na środku ołówkiem, wertykalnie ręką nieznanego Paulina "N=|o 99", skreślona czerwonym tuszem, późniejsza powyżej incypitu na środku czerwonym atramentem ręką F. Maletza "N 73."]
+@MARC-500a: [pl-text: Na środku po prawej stronie okładki pieczęć "* ARCHIVUM * C. M. C."]
+@MARC-500a: [pl-text: Poniżej tytułu pieczęć okrągła: "CLARI MONTIS"]
+@MARC-500a: [pl-text: W Calatogus Notarum symfonia pod numerem "1456/73"]
+@MARC-500a: [pl-text: Kopista rozpoznany przez P. Podejkę]
+@MARC-590a: vl 1, 2, vla, b, ob 1, 2, cor 1, 2
+@MARC-590b: 2, 2, 2, 2, 1, 1, 1, 1f.
+@MARC-5908: 01
+@MARC-592a: cover: CAMMERPAPIER | [crowned eagle with sceptre and apple] | CZENSTOCHOW
+@MARC-5928: 01
+@MARC-592a: parts: [crowned coat of arms with sword]/ [without countermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594a: vl (2), vla, b, ob (2), cor (2)
+@MARC-599b: full
+@MARC-650a: Symphonies
+@MARC-6500: 25215
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.469
+@MARC-6910: lit1869
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: s. 21
+@MARC-6910: lit1886
+@MARC-691a: MaletzC 1898
+@MARC-691n: s. 36
+@MARC-6910: lit1887
+@MARC-700a: Aispel, Paweł
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30040664
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852d: Nro 133
+@MARC-852d: 20
+@MARC-852d: 73
+@MARC-852d: 99
+@MARC-852d: 34
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-277
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

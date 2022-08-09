@@ -1,0 +1,328 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300000600
+@MARC-003:	DE-633
+@MARC-005:	20201029163349.0
+@MARC-008:	111007##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Kyrie
+@MARC-031d: Andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4'F''DC/'B--/-''DF/E--/'G''C'nB/2''C4-/
+@MARC-031r: B|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBE
+@MARC-031o: 3/4
+@MARC-031p: 4'F''DC/'BAB/2nB4''D/C--/'G''C'nB/g''C2G{6FEDC}/
+@MARC-031r: B|b
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Gloria
+@MARC-031d: Allegro Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''E-F-/G-2-/4F-G-/A-2-/4G-2-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''E8EE4FF/2GE/4FFGG/2AF/
+@MARC-031r: E|b
+@MARC-031t: Gloria, in excelsis Deo et in terra pax
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Credo
+@MARC-031d: Allegro
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4''E-'G/2B4E/DBA/bGFE/D''bC'B/
+@MARC-031q: [pl-text: w pierwszym egzemplarzu pauzy zamiast ostatniej ćwierćnuty w takcie 1 i półnuty w takcie 2; w nutach widoczna poprawka, część przepisana na czysto na osobnej karcie]
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4''E'BG/2b''C'4E/DBA/bGFE/
+@MARC-031r: E|b
+@MARC-031t: Credo, in unum Deum patrem omnipotentem
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Sanctus
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4''EDC/8{Cn'B}2(B)/''4FED/8{DC}(2C)/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031n: bBEA
+@MARC-031o: 3/4
+@MARC-031p: 4''EDC/8{Cn'B}2(B)/''4FED/8{DC}(2C)/
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Benedictus
+@MARC-031d: Andante Cantabile
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''E-F-/B-2'D/8C-F-G-F-/2ED/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =16/8-''{CE}G4AD/E-2-/8-{'B''D}F{AFDF}/'4A-2-/
+@MARC-031r: E|b
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031d: Adagio Majestoso
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 8{'EEEE}{EEEE}/2E-/{8FFFF}{FFFF}/2F-/
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: =/4-2''E4C/2G'G/4-2''F4D/2EC/
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Allegro Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4''E'B-''E/-ED-/-C-F/
+@MARC-031q: [pl-text: nie wyróżnione w rękopisie jako osobna część]
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 4-'B''GE/2ED/4-CAD/2FE/
+@MARC-031r: E|b
+@MARC-031t: Dona nobis pacem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Koperski, Maksymilian
+@MARC-100d: 1812-1886
+@MARC-100j: Ascertained
+@MARC-1000: pe30060120
+@MARC-240a: Masses
+@MARC-240m: T, Coro, orch, org
+@MARC-240r: E|b
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] Missa Solemnis ex B.[!] | a | Canto, Alto, Tenore, Basso, | Violino I=|m|o et II=|d|o | Clarinetto I=|m|o et II=|d|o | Corno I=|m|o et II=|d|o | Clarino I=|m|o et II=|d|o | Flauto, Fagotto | Viola Tympano | con | Organo et Violone Violonczello | [aligned to left:] Auth: Koperski. | [bottom right:] Comparavi ad Chorum C.M.C. | Anno Dni 1840. | Fr Lucas Grządzielski Custos Eccl. | Procurante Dno Leopoldo Mężnicki | Directore Musicae
+@MARC-260a: Gostyń [verified]
+@MARC-260c: 1840
+@MARC-2608: 01
+@MARC-300a: 19 parts
+@MARC-300c: 34 x 21 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: drugi egzemplarz głosu vl 1 zawiera wyłącznie przepisaną na czysto część "Credo" z uwzględnionymi poprawkami naniesionymi w głosie oryginalnym; brak nazwy instrumentu w nagłówku karty]
+@MARC-5008: 01
+@MARC-500a: [pl-text: głosy przechowywane w białej papierowej okładce (obwolucie) o wymiarach 36 x 23 cm, ze znakiem wodnym "W (crowned)"; karta tytułowa na f. 1r okładki]
+@MARC-5008: 01
+@MARC-500a: [pl-text: papier w głosach jednorodny; znak wodny z łabędziem; na poszczególnych kartach występują różne warianty kontrmarki: z umieszczoną w prawym dolnym rogu cyfrą 1, 2, 3 lub bez cyfry; na głosie Coro S f. 1 kontrmarka nieczytelna; głosy timp i cor 1 bez znaku wodnego]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze po prawej ołówkiem ręką nieznanego Paulina "N=|o 179" skreślona; późniejsza niżej czerwonym atramentem ręką F. Maletza "N 11"; późniejsza wyżej ołówkiem ręką W. Świerczka "789" w kółku]
+@MARC-500a: [pl-text: Okrągły stempel "* ARCHIVUM * C.M.C." na f. 2v okładki, f. 1r głosu cl 2, f. 4v głosu vl 1 oraz ostatniej stronie głosów: Coro S, A, T, B, vl 2, fl, cl 1, fag, cor 1, 2, clno 2, timp, org]
+@MARC-500a: [pl-text: Tytuł na f. 1r okładki przekreślony niebieskim ołówkiem i opatrzony parafą]
+@MARC-500a: [pl-text: Miejsce i data pod ostatnią linią nut na poszczególnych głosach: Coro T "Gostyn 27./5. 1840"; Coro B "w Gostyn 25/4 1840; drugi egzemplarz "Credo" głosu vl 1: "Gostyń 28/5 1840"; vl 2 "Gostyń 25/4 1840"; vlne and vlc "Gostyń 29/5 1840"; fl, cl 1, fag, org "Gostyń 28/4 1840"; cor 2, cl 1 "Gostyń 18/4 1840"; timp "Gostyn 20/4 | 1840"; poniżej podpis kopisty "Białaszewski"]
+@MARC-500a: [pl-text na f. 1r głosów: Coro B, vl 1 (pierwszy egzemplarz), vl 2, vla, vlne and vlc, cl 1, org w prawym górnym rogu czarnym atramentem ręką kopisty wpisane nazwisko kompozytora: "Koperski"]
+@MARC-500a: [pl-text: na f. 1r głosu org w prawym górnym rogu czerwonym atramentem adnotacja "Ark. 24. 1/2."]
+@MARC-500a: Nur das Titelblatt von Mężnickis Hand.
+@MARC-500a: [pl-text: Odcinki solowe w głosach: Coro T, fl, cl 1, 2, clno 1, 2]
+@MARC-500a: [pl-text: Karty głosów ponumerowane ołówkiem 1-49]
+@MARC-561a: [cover f. 1r bottom right:] Comparavi ad Chorum C.M.C. | Anno Dni 1840. | Fr Lucas Grządzielski Custos Eccl. | Procurante Dno Leopoldo Mężnicki | Directore Musicae
+@MARC-590a: Solo and Coro T
+@MARC-590b: 4 f.
+@MARC-5908: 01
+@MARC-590a: Coro: S, A, B
+@MARC-590b: 3, 4, 4 f.
+@MARC-5908: 01
+@MARC-590a: vl 1 (2x), vl 2, vla, vlne and vlc
+@MARC-590b: 4, 1, 4, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: org (= bc)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: fl, cl 1, 2 in B|b, fag,
+@MARC-590b: 3, 3, 2, 3 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in B|b or E|b, clno 1, 2 in B|b or E|b
+@MARC-590b: 1, 1, 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: timp
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-592a: W (crowned)
+@MARC-5928: 01
+@MARC-592a: [swan on a pond] / [illegible]
+@MARC-5928: 01
+@MARC-592a: [swan on a pond] / B G
+@MARC-5928: 01
+@MARC-592a: [swan on a pond] / B G | 1
+@MARC-5928: 01
+@MARC-592a: [swan on a pond] / B G | 2
+@MARC-5928: 01
+@MARC-592a: [swan on a pond] / B G | 3
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: vlc
+@MARC-594c: 1
+@MARC-594b: vlne
+@MARC-594c: 1
+@MARC-594b: fl
+@MARC-594c: 1
+@MARC-594b: cl in B|b
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor in B|b
+@MARC-594c: 2
+@MARC-594b: cor in E|b
+@MARC-594c: 2
+@MARC-594b: clno in B|b
+@MARC-594c: 2
+@MARC-594b: clno in E|b
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: T, Coro S, Coro A, Coro T, Coro B, vl (2), vla, vlc, vlne, fl, cl in B|b (2), fag, cor in B|b (2), cor in E|b (2), clno in B|b (2), clno in E|b (2), timp, org
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no. 711
+@MARC-6910: lit1869
+@MARC-691a: MaletzC 1898
+@MARC-691n: p. 1
+@MARC-6910: lit1887
+@MARC-700a: Grządzielski, Łukasz
+@MARC-700d: 1795-1866
+@MARC-700j: Verified
+@MARC-7000: pe30040496
+@MARC-7004: oth
+@MARC-700a: Maletz, Franciszek
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30040567
+@MARC-7004: oth
+@MARC-700a: Świerczek, Wendelin
+@MARC-700d: 1888-1974
+@MARC-700j: Ascertained
+@MARC-7000: pe30075900
+@MARC-7004: oth
+@MARC-700a: Białaszewski, Franciszek
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30040674
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-700a: Mężnicki, Leopold
+@MARC-700d: 1799-1854p
+@MARC-700j: Ascertained
+@MARC-7000: pe30040497
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-710a: Capella Claromontana
+@MARC-710g: Ascertained
+@MARC-7100: ks51003322
+@MARC-7104: fmo
+@MARC-730a: Missa solemnis
+@MARC-730g: RISM
+@MARC-7300: 3900743
+@MARC-852a: PL-CZ
+@MARC-852d: N=|o 179
+@MARC-852d: N 11
+@MARC-852d: 789
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-351
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

@@ -1,0 +1,142 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300258066
+@MARC-003:	DE-633
+@MARC-005:	20210923120900.0
+@MARC-008:	121101##################################
+@MARC-031a: 50
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C+1
+@MARC-031m: Discantus
+@MARC-031n: bB
+@MARC-031o: o3/1
+@MARC-031p: 9'B1A/2BAB''C1D9C1'B/9.A9''D1D/
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 50
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C+3
+@MARC-031m: Altus
+@MARC-031n: bB
+@MARC-031o: o3/1
+@MARC-031p: 0--/9F1F9.F9bE1D9.D/0---/1FFF9F1F/FFG/
+@MARC-031r: 2tt
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 50
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031n: bB
+@MARC-031o: o3/1
+@MARC-031p: 9,G1xF/2GFGA1B/9A1G9.xF/9B1B
+@MARC-031r: 2tt
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 50
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031n: bB
+@MARC-031o: o3/1
+@MARC-031p: 9,G1D/9G2DE/9xF1G9.D/9B1,,B/1.,F2bE1D/
+@MARC-031r: 2tt
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 50
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031g: C+1
+@MARC-031m: Discantus
+@MARC-031n: bB
+@MARC-031o: o3/1
+@MARC-031p: 9'G1xF/9G1.nF2G1AG/9F1B/1.B2B1B
+@MARC-031r: 2tt
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-031a: 50
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: C+3
+@MARC-031m: Altus
+@MARC-031n: bB
+@MARC-031o: o3/1
+@MARC-031p: 0-9-/1--F/1.F2F1F/9F1F/9.E/9.D/1D2FFGG/
+@MARC-031r: 2tt
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-031a: 50
+@MARC-031b: 2
+@MARC-031c: 3
+@MARC-031g: C+4
+@MARC-031m: Tenor
+@MARC-031n: bB
+@MARC-031o: o3/1
+@MARC-031p: 91,BA/1.21B'CD91C,B/A'D/1.21DDD/1CCD/
+@MARC-031r: 2tt
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-031a: 50
+@MARC-031b: 2
+@MARC-031c: 4
+@MARC-031g: F+4
+@MARC-031m: Bassus
+@MARC-031n: bB
+@MARC-031o: o3/1
+@MARC-031p: 9,,G1,D/1.,,G2A1B/9F1G9,D1,,B/1.B2B1B/,FF
+@MARC-031r: 2tt
+@MARC-031t: Agnus Dei qui tollis peccata mundi
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Sanctus and Agnus Dei
+@MARC-240m: V (4)
+@MARC-240r: 2tt
+@MARC-2400: 3916492
+@MARC-245a: [parts:] Ad Missam In Natali Domini
+@MARC-300a: 4 partbooks
+@MARC-300c: 21 cm x 27,5 cm
+@MARC-3008: 01
+@MARC-500a: [pl-text: Powiązania materiału muzycznego i tytuł wskazują, że części te mogły być uzupełnieniem do zamieszczonego wcześniej Credo (Kk.I.2/49).]
+@MARC-590a: Discantus, A, T, B
+@MARC-590b: f.80v-81v, 85v-86v, 79r-80r, 81r-83r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-657a: Nativitas Domini
+@MARC-6570: 24268
+@MARC-691a: Głuszcz-ZwolińskaW 1972
+@MARC-6910: lit2816
+@MARC-700a: Copyist L
+@MARC-700j: Ascertained
+@MARC-7000: pe30096999
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773a: - 55 Sacred songs - V (4)
+@MARC-773w: 300258016
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.2
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

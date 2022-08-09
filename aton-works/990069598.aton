@@ -1,0 +1,50 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ncc a2200000 u 4500
+@MARC-001:	990069598
+@MARC-003:	DE-633
+@MARC-005:	20181216092631.0
+@MARC-008:	161111##################################
+@MARC-028a: 57
+@MARC-0288: 01
+@MARC-035a: Y 14; YY 14
+@MARC-040a: DE-633
+@MARC-100a: Janiewicz, Feliks
+@MARC-100d: 1762-1848
+@MARC-1000: pe30011012
+@MARC-240a: Trios (inst.)
+@MARC-240m: 2 vl, b
+@MARC-2400: 4337234
+@MARC-245a: Six trios pour deux violons &amp; basse. [Paris, Imbault]
+@MARC-300a: part(s)
+@MARC-3008: 01
+@MARC-510a: RISM A/I
+@MARC-510c: Y 14; YY 14
+@MARC-593a: Print
+@MARC-5938: 01
+@MARC-599b: full
+@MARC-710a: Imbault
+@MARC-7100: ks40005335
+@MARC-7104: pbl
+@MARC-852a: B-Bc
+@MARC-852e: Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek
+@MARC-852x: ks30000438
+@MARC-8523: 268110
+@MARC-852c: [no indication]
+@MARC-852q: kpl.: vl I, vl II, b
+@MARC-852a: F-Pn
+@MARC-852e: Bibliothèque nationale de France, Département de la Musique
+@MARC-852x: ks30001488
+@MARC-8523: 268111
+@MARC-852c: [no indication]
+@MARC-852a: PL-Wn
+@MARC-852e: Biblioteka Narodowa
+@MARC-852x: ks30000118
+@MARC-8523: 268112
+@MARC-852c: [no indication]
+@MARC-852a: PL-WRu
+@MARC-852e: Biblioteka Uniwersytecka
+@MARC-852x: ks30002111
+@MARC-8523: 268113
+@MARC-852c: [no indication]
+@@END:		MARC21
+

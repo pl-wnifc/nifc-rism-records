@@ -1,0 +1,346 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001388
+@MARC-003:	DE-633
+@MARC-005:	20201029163410.0
+@MARC-008:	151023##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: [Kyrie]
+@MARC-031d: andante
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 6/4
+@MARC-031p: 4'E/2A{8BG}4A''EC/'B''CD2'A4G/''D-
+@MARC-031q: Indication of tempo in Coro S: "andante molto"
+@MARC-031q: Kyrie
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: 6/4
+@MARC-031p: 4-/=4/4''A{8ECFD}2'B{8''CD}/{EC}4'AGq8B4A--/
+@MARC-031r: A
+@MARC-031t: Kyrie eleison Christe eleison Kyrie eleison Christe audi nos
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Mater Xsti
+@MARC-031d: allegro assai
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2.''D4'A/BA{6D3EF}{GAB''C}/2.''D4'A/GF2-/
+@MARC-031q: Offertorium
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: xFC
+@MARC-031o: c/
+@MARC-031p: 2.'D,4A/BA2-/2.'D,4A/GF-8{AF}/4D
+@MARC-031r: D
+@MARC-031t: Mater Christi
+@MARC-031t: Sancte Joannes Nepomocene
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Virgo
+@MARC-031d: Moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8''{D'B}{''G6FE}/{EDDC}8qC4'B/8{BGFG}/38.{''DCC'B}{8BA}/{''D'B}
+@MARC-031q: Credo
+@MARC-031r: G
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xF
+@MARC-031o: 2/4
+@MARC-031p: 8''D'B''G6{FE}/{ED}{DC}8qC'4B/=2/8''D'B''G6{FE}/{EDDC}8qC'4B/
+@MARC-031q: Credo
+@MARC-031r: G
+@MARC-031t: Virgo prudentissima
+@MARC-031t: Decus Cleri
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Rosa
+@MARC-031d: Adagiosissimo
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031o: 3/4
+@MARC-031p: =3/8''{CEFDC'B}/4''C--/=2/8''{C3C'B''CD}{8CCCC}/
+@MARC-031q: Benedictus
+@MARC-031r: C
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031o: 3/4
+@MARC-031p: =47/''2E4F/8qxF4GEC/8gE4DC'B/8q''D4C--/
+@MARC-031r: C
+@MARC-031t: Rosa mystica
+@MARC-031t: Pietatis contemptor mundi
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031d: Salus
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 8{''C'AAA}{''FDDD}/{C'ABG}4FE/8-''{CFC}-{CFC}/-{DFD}-{DFD}/
+@MARC-031q: Sanctus
+@MARC-031r: F
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: =2/4''CCCC/8qxC4DD2-/D4D8DD/2FD/8{DC}4C2-/
+@MARC-031r: F
+@MARC-031t: Salus infirmorum
+@MARC-031t: Exemplar virtutum
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Regina
+@MARC-031d: Presto
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''DDD{6'AB''3CDEF}/4'A^''G'A^''G'A^''G8-G/4FEDC/DDD
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: c
+@MARC-031p: 4''DDD-/GGG8-G/4FEDC/DDD-/
+@MARC-031q: Gloria
+@MARC-031r: D
+@MARC-031t: Regina angelorum
+@MARC-031t: Patrone Singularis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 1
+@MARC-031d: Agnus
+@MARC-031d: adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: 3/4
+@MARC-031p: 2'E/1A4BG/2A''ED/1D2C/4C'B2AG/A
+@MARC-031q: Variant indication of tempo in the source: "Adagio molto"
+@MARC-031q: Agnus Dei
+@MARC-031q: [pl-text: Alternatywne oznaczenie tempa w źródle: "Adagio molto"]
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 7
+@MARC-031c: 2
+@MARC-031d: Adagio molto
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: xFCG
+@MARC-031o: 3/2
+@MARC-031p: 2-/=2/2-4-,EA'C/1E2D/8EDCD8qD2C4EC/C,BBAAG/A8{B'C}2,B
+@MARC-031r: A
+@MARC-031t: Agnus Dei, qui tollis peccata mundi miserere nobis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 1
+@MARC-031d: [Miserere nobis]
+@MARC-031d: all[egr]o
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''D'6{DDDD}{FFFF}/{AAAA}{''DDDD}{FFFF}/{GGGGGGGG}{GGGG}/
+@MARC-031q: Dona nobis
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 8
+@MARC-031c: 2
+@MARC-031g: C-1
+@MARC-031m: Coro S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4-'DF/A''DF/2.G/+G/4F'DF/A''DF/2.G/+G/4F
+@MARC-031r: D
+@MARC-031t: Miserere nobis
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Ascertained
+@MARC-1000: pe30020656
+@MARC-240a: Litanies
+@MARC-240m: V (X), Coro, orch, org
+@MARC-240r: A
+@MARC-2400: 3900164
+@MARC-245a: [cover title:] Lÿtaniae ex A: | Canto. Alto. | Tenore. Basso. | Violino Primo. | Violino Secondo. | Corno Primo. | Corno Secondo. | Hobo Primo. | Hobo Secondo. | Con: | Organo. | Alto Viola | Tÿmpano. | [aligned to left:] Authore: Volckmer.
+@MARC-246a: [caption title on parts:] Lytania
+@MARC-260c: 1776-1899
+@MARC-2608: 01
+@MARC-300a: 15 parts
+@MARC-300c: 38 x 23,5 cm; 36,5 x 23,5 (vla solo)
+@MARC-3008: 01
+@MARC-500a: ob and vla solo later added; ob solo with the same hand; vla part by other hand
+@MARC-5008: 01
+@MARC-500a: [pl-text: głosy ob i vla solo dodane później; głos ob solo napisany tą samą ręką, vla solo inną]
+@MARC-5008: 01
+@MARC-500a: only vla solo on other paper with watermark from Częstochowa
+@MARC-5008: 01
+@MARC-500a: [pl-text: tylko głos vla solo na papierze ze znakiem wodnym papierni w Częstochowie]
+@MARC-5008: 01
+@MARC-500a: parts of more than 1 f. sewn-bound
+@MARC-5008: 01
+@MARC-500a: [pl-text: karty głosów składające się z więcej niż 1 f. zszyte razem]
+@MARC-5008: 01
+@MARC-500a: Former shelfmarks on the cover f. 1r: top right with black ink by M. Zabłocki's hand "N|r|o 36." crossed out; later with red pencil top centre "N 8"; later below with pencil by unknown Pauline monk's hand "N-|o 13"
+@MARC-500a: [pl-text: Dawne sygnatury na f. 1r okładki: na górze po prawej czarnym atramentem ręką M. Zabłockiego "N|r|o 36." przekreślona; późniejsza czerwonym ołówkiem na górze pośrodku "N 8"; późniejsza poniżej ołówkiem ręką nieznanego Paulina "N-|o 13"]
+@MARC-500a: Round stamp "* ARCHIVUM * C.M.C." on the cover f. 1r
+@MARC-500a: [pl-text: Okrągły stempel "* ARCHIVUM * C.M.C." na f. 1r okładki]
+@MARC-500a: Title on the cover f. 1r crossed out and initialled with red pencil
+@MARC-500a: [pl-text: Tytuł na f. 1r okładki przekreślony czerwonym ołówkiem i opatrzony parafą]
+@MARC-500a: On the f. 1v of the cover centered with pencil by P. Podejko's hand: "Okładkę usztywniał gł. Vlno II - cyklu | 1. O Maria | 2. Gaudens gaudebo | 8. In Gloria | i fragmenty 4) Leto letatus [?] sum ex G | 6) Recitativo (taut.)[?] - Venerationes"
+@MARC-500a: [pl-text: na f. 1v okladki pośrodku ołówkiem ręką P. Podejki notatka: "Okładkę usztywniał gł. Vlno II - cyklu | 1. O Maria | 2. Gaudens gaudebo | 8. In Gloria | i fragmenty 4) Leto letatus [?] sum ex G | 6) Recitativo (taut.)[?] - Venerationes"]
+@MARC-500a: Solo sections in Coro S, T, B, ob 1, cor 1, 2
+@MARC-500a: [pl-text: Odcinki solowe w głosach Coro S, T, B, ob 1, cor 1, 2]
+@MARC-500a: On vla solo part caption title of the movement "Benedictus"
+@MARC-500a: [pl-text: W głosie vla solo tytuł w nagłówku części "Benedictus"
+@MARC-500a: In vocal parts from "Mater Christi" movement below original lyrics with black ink by other hand: Latin text of the Litany of St. John Nepomucene
+@MARC-500a: [pl-text: W głosach wokalnych od części "Mater Christi" pod oryginalnym tekstem czarnym atramentem inną ręką łaciński tekst litanii do św. Jana Nepomucena]
+@MARC-500a: In instrumental parts between staves with black and red ink by two different hands names of parts of the Mass in the following order: Kyrie, Offertorium, Credo, Benedictus, Sanctus, Gloria, Agnus Dei, Dona nobis
+@MARC-500a: [pl-text: W głosach instrumentalnych pomiędzy pięcioliniami czarnym i czerwonym atramentem dwoma różnymi duktami pisma nazwy części mszy w następującym porządku: Kyrie, Offertorium, Credo, Benedictus, Sanctus, Gloria, Agnus Dei, Dona nobis]
+@MARC-500a: The manuscript contains folio numbers 1-28 with pencil
+@MARC-500a: [pl-text: Rękopis zawiera numery folio ołówkiem 1-28]
+@MARC-500a: Concordance: RISM ID No. 303005246 (PL-OPsm RN 498)
+@MARC-500a: [pl-text: Konkordancja: RISM ID No. 303005246 (PL-OPsm RN 498)]
+@MARC-590a: Solo and Coro: S, A, T, B
+@MARC-590b: 2, 1, 2, 2
+@MARC-5908: 01
+@MARC-590a: vla solo (for Rosa mystica only), ob solo
+@MARC-590b: 1, 1 f.
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla obl
+@MARC-590b: 3, 3, 3 f.
+@MARC-5908: 01
+@MARC-590a: org (=bc)
+@MARC-590b: 3 f.
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: 2, 2 f.
+@MARC-5908: 01
+@MARC-590a: cor 1, 2
+@MARC-590b: 1, 1
+@MARC-5908: 01
+@MARC-590a: timp
+@MARC-590b: 1 f.
+@MARC-5908: 01
+@MARC-592a: [crowned eagle with sceptre and sword] | KNEIA / [without countermark]
+@MARC-5928: 01
+@MARC-592a: [partial:] CAMMERPAPIER | [crowned eagle with sceptre and apple] | CZENSTOCHOW
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vla solo
+@MARC-594c: 1
+@MARC-594b: ob solo
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: timp
+@MARC-594c: 1
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: S, T, B, Coro S, Coro A, Coro T, Coro B, vla solo, ob solo, vl (2), vla, ob (2), cor (2), timp, org
+@MARC-599b: full
+@MARC-650a: Litanies
+@MARC-6500: 25137
+@MARC-691a: ZabłockiC 1819
+@MARC-691n: p. [36]
+@MARC-6910: lit1886
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1503
+@MARC-6910: lit1869
+@MARC-700a: Zabłocki, Michał
+@MARC-700d: 1833+
+@MARC-700j: Ascertained
+@MARC-7000: pe30085912
+@MARC-7004: oth
+@MARC-700a: Maader, Ludwik
+@MARC-700d: 18.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30020328
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-730a: Litaniae Lauretanae
+@MARC-730g: RISM
+@MARC-7300: 3900952
+@MARC-852a: PL-CZ
+@MARC-852d: N|r|o 36.
+@MARC-852d: N 8
+@MARC-852d: N-|o 13
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-693
+@@END:		MARC21
+

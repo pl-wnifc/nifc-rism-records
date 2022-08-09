@@ -1,0 +1,108 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	1001156098
+@MARC-003:	DE-633
+@MARC-005:	20220204210736.0
+@MARC-008:	210516##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: '1F2DC/FGAF/G4''C'BAGFE/2F4G8{FG}2AbB''1C/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 1-/2-'C/,AG/'CD/EC/4FEDC/2D4E8{DE}/2F4ED/2AE/F-/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 3
+@MARC-031g: C-4
+@MARC-031m: T
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0--/'1C,2AG/'CD/2.nE8{DE}/2F4ED/2C2.C4C1C,2nB/'2.C
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 4
+@MARC-031g: F-4
+@MARC-031m: B
+@MARC-031n: bB
+@MARC-031o: c/
+@MARC-031p: 0-9-/,1F2DC/FG/2.A4G/2FE/FD/1C/2DE/FD/AF/1G/2C-/
+@MARC-031t: Kyrie, eleison Christe eleison Kyrie eleison
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-041a: lat
+@MARC-100a: Anonymus
+@MARC-1000: pe30004985
+@MARC-240a: Masses
+@MARC-240m: V (4)
+@MARC-2400: 3900051
+@MARC-245a: [cover title:] Missa | De Adventu Domini.
+@MARC-246a: [caption title in B on f. 11r:] Missa Feriata
+@MARC-260c: [1650-1799]
+@MARC-2608: 01
+@MARC-300a: 5 parts: 14 f.
+@MARC-300c: Different sizes
+@MARC-3008: 01
+@MARC-500a: [pl-text: Okładka z papieru czerpanego, wymiary: 21.5 x 18 cm.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na pierwszej stronie okładki w lewym górnym rogu ołówkiem: "B[I?]", w prawym górnym rogu ołówkiem: "92".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na drugiej stronie okładki pieczęć: „ARCHIWUM I BIBLIOTEKA”, „Krakowskiej Kapituły Katedralnej” z wpisaną ołówkiem sygnaturą: "Kk.I | 28".]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Foliacja ołówkiem w prawym górnym rogu kart.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Wymiary kart 1-2, 3-4, 6-7, 9-10: 16 (16.5) x 21 cm; kart 11-12: 20.5 x 16.5 cm; karty 13: 20.5x 15 cm.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na końcu głosów S, A, T dodawane mniejsze karty: w S karta ta oznaczona jako 2a, wymiary: 7.5 x 18 cm; w A karta 5, wymiary: 7.5 x 18 cm; w T karta 8, wymiary: 16 x 18.5 cm.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na kartach 2a v, 5v, 8v widoczne fragmenty zapisu innych utworów.]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na stronach recto wszystkich kart pieczęć: „CATH. CRAC. * ARCH. CAPIT.”]
+@MARC-5008: 01
+@MARC-500a: [pl-text: Na początku partii Basso na karcie 9r nad pięciolinią: "à Capella".]
+@MARC-500a: [pl-text: Kopistą prawdopodobnie Józef Pękalski. Partia Basso na kartach 11-13 ręką innego kopisty, prawdopodobnie spisana wcześniej.]
+@MARC-590a: S, A, T, B (2x)
+@MARC-590b: f. 1-2a, 3-5, 6-8, 9-10, 11-13
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: A
+@MARC-594c: 1
+@MARC-594b: T
+@MARC-594c: 1
+@MARC-594b: B
+@MARC-594c: 1
+@MARC-594a: S, A, T, B
+@MARC-599b: full
+@MARC-650a: Masses
+@MARC-6500: 25133
+@MARC-700a: Pękalski, Józef Tadeusz Benedykt
+@MARC-700d: 18.sc
+@MARC-700j: Conjectural
+@MARC-7000: pe30104332
+@MARC-7004: scr
+@MARC-852a: PL-Kk
+@MARC-852e: Archiwum i Biblioteka Krakowskiej Kapituły Katedralnej
+@MARC-852x: ks30002080
+@MARC-852c: Kk.I.28
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

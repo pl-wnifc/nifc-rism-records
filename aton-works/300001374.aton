@@ -1,0 +1,124 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndd a2200000 u 4500
+@MARC-001:	300001374
+@MARC-003:	DE-633
+@MARC-005:	20211109094504.0
+@MARC-008:	151012##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Allegro Poco moderato
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFCG
+@MARC-031o: c/
+@MARC-031p: 2'E4CD/2E{8FEDC}/4.F8G{AGAF}/4FE2-/
+@MARC-031r: A
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFCG
+@MARC-031o: c/
+@MARC-031p: =41/(2-)4--/=23//2'E4CD/2E{8FE}{DC}/4.F8G{AG}{AF}/4FE2-/
+@MARC-031r: A
+@MARC-031t: Generosa et formosa
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro Vivace
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''DCD/8.6{EF}8G--G/{GFGEDC}/{D'BAGFE}/
+@MARC-031q: Note at the end: "Del Segno Da Capo"
+@MARC-031r: D
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 2
+@MARC-031d: Allegro vivace
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: xFC
+@MARC-031o: 3/4
+@MARC-031p: 4''DCD/8.6{EF}8G--G/{GF}{GE}{DC}/4D--/
+@MARC-031r: D
+@MARC-031t: Pulchra tota sine nota
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Verified
+@MARC-1000: pe30020656
+@MARC-240a: Generosa et formosa
+@MARC-240m: S, orch
+@MARC-240r: A
+@MARC-2400: 35460
+@MARC-245a: [caption title on each part:] Aria II.|t|e
+@MARC-260c: 1755-1820
+@MARC-2608: 01
+@MARC-300a: 9 parts
+@MARC-3008: 01
+@MARC-500a: Solo sections in ob 1, 2, cor 1, 2
+@MARC-500a: [pl-text: Odcinki solowe w głosach ob 1, 2, cor 1, 2]
+@MARC-590a: S
+@MARC-590b: f. 2r-3v
+@MARC-5908: 01
+@MARC-590a: vl 1, 2, vla, b
+@MARC-590b: f. 2v-3v, 2v-3v, 2r-v, 2r-v
+@MARC-5908: 01
+@MARC-590a: ob 1, 2
+@MARC-590b: f. 2r-v, 2r-v
+@MARC-5908: 01
+@MARC-590a: cor 1, 2 in A
+@MARC-590b: f. 1v, 1r
+@MARC-5908: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: S
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: vla
+@MARC-594c: 1
+@MARC-594b: b
+@MARC-594c: 1
+@MARC-594b: ob
+@MARC-594c: 2
+@MARC-594b: cor in A
+@MARC-594c: 2
+@MARC-594a: S, vl (2), vla, b, ob (2), cor in A (2)
+@MARC-599b: full
+@MARC-650a: Sacred songs
+@MARC-6500: 25250
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1493
+@MARC-6910: lit1869
+@MARC-700a: Volckmer, Franz
+@MARC-700d: 18/19
+@MARC-700j: Ascertained
+@MARC-7000: pe30108893
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-773a: Volckmer, Augustin - 2 Sacred songs - S, orch
+@MARC-773w: 300001372
+@MARC-852a: PL-CZ
+@MARC-852d: N=|o4
+@MARC-852d: Nro 20
+@MARC-852d: N|o. 98
+@MARC-852d: N 930/231
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: II-19
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+

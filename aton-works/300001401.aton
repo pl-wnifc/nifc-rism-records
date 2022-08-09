@@ -1,0 +1,181 @@
+@@BEGIN:	MARC21
+@LEADER:	00000ndm a2200000 u 4500
+@MARC-001:	300001401
+@MARC-003:	DE-633
+@MARC-005:	20220407135535.0
+@MARC-008:	151119##################################
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: G-2
+@MARC-031m: vl 1
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 4'GGGG/GGGG/G''EDC/2'BnA/4B''E
+@MARC-031r: E|b
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 1
+@MARC-031c: 2
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: 4'GGGG/2GG/4G''EDC/2'BnA/4B-
+@MARC-031r: E|b
+@MARC-031t: Requiem, aeternam dona eis Domine
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 2
+@MARC-031c: 1
+@MARC-031d: Allegro moderato
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c
+@MARC-031p: 2-4-8''EE/4DD2-/2-4-8''CC/n4'BB-8BB/4.B8B4BB/''E'B
+@MARC-031r: E|b
+@MARC-031t: Dies irae, dies illa solvet saeclum in favilla
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 3
+@MARC-031c: 1
+@MARC-031d: Offertorium. Adagio
+@MARC-031g: C-3
+@MARC-031m: A
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 4E{G6FE}/8E-4-/F8A{6GF}/8F-4-/8-{{''C'BA}/GxFGF/4G
+@MARC-031r: E|b
+@MARC-031t: Domine Jesu Christe, rex gloriae
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 4
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: 2-/4EF/8E4-8-/4GA/8G4-8-/4B''D/{6FE}{DE}{EC}{'AF}/4E{8GF}/E
+@MARC-031r: E|b
+@MARC-031t: Sanctus, Dominus Deus Sabaoth
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 5
+@MARC-031c: 1
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: 2/4
+@MARC-031p: =/4
+@MARC-031r: E|b
+@MARC-031t: Benedictus, qui venit in nomine Domini hosanna in excelsis
+@MARC-0312: pe
+@MARC-031a: 1
+@MARC-031b: 6
+@MARC-031c: 1
+@MARC-031d: Adagio
+@MARC-031g: C-1
+@MARC-031m: S
+@MARC-031n: bBEA
+@MARC-031o: c/
+@MARC-031p: =/2B{8BA}{GF}/EE4-2-/2B{8BA}{GF}/EE4--E/G{8GG}4.''E8C/n4'AA
+@MARC-031r: E|b
+@MARC-031t: Agnus Dei qui tollis peccata mundi dona eis requiem
+@MARC-0312: pe
+@MARC-040a: DE-633
+@MARC-040b: eng
+@MARC-041a: lat
+@MARC-100a: Volckmer, Augustin
+@MARC-100d: 1755-1820c
+@MARC-100j: Ascertained
+@MARC-1000: pe30020656
+@MARC-240a: Requiems
+@MARC-240m: Coro, orch, org
+@MARC-240r: E|b
+@MARC-2400: 3900193
+@MARC-245a: [without title]
+@MARC-260c: 1836
+@MARC-2608: 01
+@MARC-300a: 14 parts
+@MARC-300c: 38 x 22cm
+@MARC-3008: 01
+@MARC-500a: Soloabschnitte in S, A, T, B und cor 1.
+@MARC-500a: Interpretenvermerk auf der T-Stimme: "Walenty Anglis[zewski] Roku 1836"
+@MARC-500a: Initialen auf der B-Stimme: "F. H."
+@MARC-500a: Initialen und Schreibername auf vl 1: "F. B [?] Wyrzałowski scripsit"
+@MARC-500a: Interpretenvermerk auf der vl 2-Stimme: "K. Majewski"
+@MARC-500a: Datierung auf der org-Stimme: "dnia 22 Jully 1836 F S [?]" sowie Vermerke: "Hudzik [illegible] to wziont [!] i wyszedł do wojny", "Korepetycja 1907 r."
+@MARC-500a: Komponistenvermerk auf der org-Stimme: "Authore Volk[mer]"
+@MARC-590a: S, A, T, B, vl 1, 2, cl 1, 2, fag, cor 1, 2, tr 1, 2, org (= bc)
+@MARC-590b: 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2f.
+@MARC-5908: 01
+@MARC-592a: [without watermark]
+@MARC-5928: 01
+@MARC-593a: Manuscript copy
+@MARC-5938: 01
+@MARC-594b: Coro S
+@MARC-594c: 1
+@MARC-594b: Coro A
+@MARC-594c: 1
+@MARC-594b: Coro T
+@MARC-594c: 1
+@MARC-594b: Coro B
+@MARC-594c: 1
+@MARC-594b: vl
+@MARC-594c: 2
+@MARC-594b: cl
+@MARC-594c: 2
+@MARC-594b: fag
+@MARC-594c: 1
+@MARC-594b: cor
+@MARC-594c: 2
+@MARC-594b: tr
+@MARC-594c: 2
+@MARC-594b: org
+@MARC-594c: 1
+@MARC-594a: Coro S, Coro A, Coro T, Coro B, vl (2), cl (2), fag, cor (2), tr (2), org
+@MARC-599b: full
+@MARC-650a: Requiems
+@MARC-6500: 25134
+@MARC-691a: PodejkoK 1992
+@MARC-691n: no.1518
+@MARC-6910: lit1869
+@MARC-700a: Angliszewski, Walenty
+@MARC-700d: 1811c*
+@MARC-700j: Ascertained
+@MARC-7000: pe30088551
+@MARC-7004: prf
+@MARC-700a: Majewski, Karol
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30096379
+@MARC-7004: prf
+@MARC-700a: Hudzik, Antoni
+@MARC-700d: 19/20
+@MARC-700j: Ascertained
+@MARC-7000: pe30086553
+@MARC-7004: prf
+@MARC-700a: F. H.
+@MARC-7000: pe30087745
+@MARC-7004: oth
+@MARC-700a: F. B.
+@MARC-7000: pe30000996
+@MARC-7004: oth
+@MARC-700a: Wyrzałowski, T.
+@MARC-700d: 19.sc
+@MARC-700j: Ascertained
+@MARC-7000: pe30112279
+@MARC-7004: scr
+@MARC-7008: 01
+@MARC-852a: PL-CZ
+@MARC-852e: Klasztor OO. Paulinów Jasna Góra - Biblioteka
+@MARC-852x: ks30002070
+@MARC-852c: III-686
+@MARC-980a: RISM
+@MARC-980c: examined
+@@END:		MARC21
+
